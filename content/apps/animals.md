@@ -32,4 +32,3 @@ Free Desktop version for Linux, Mac, and Windows:
 Requires JAVA to be installed on your computer!  
 Linux, Mac, and Windows:
 
-{{ utterances() }}
