@@ -11,6 +11,16 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+theme = "zulma"
+
+taxonomies = [
+    {name = "categories", paginate_by = 5, rss = true},
+    {name = "tags", paginate_by = 5, rss = true},
+    {name = "authors", paginate_by = 5, rss = true}
+]
+
+build_search_index = true
+
 [slugify]
 paths = "safe"
 taxonomies = "safe"
@@ -18,3 +28,7 @@ anchors = "safe"
 
 [extra]
 # Put all your custom variables here
+
+zulma_brand = {text="Home"}
+zulma_theme = "slate"
+zulma_allow_theme_section = true
