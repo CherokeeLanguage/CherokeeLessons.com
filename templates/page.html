@@ -1,5 +1,6 @@
-
-
+{% extends "Zulma/templates/page.html" %}
+{% block page_footer %}
+{{ super() }}
 <script src="https://utteranc.es/client.js"
         repo="CherokeeLanguage/CherokeeLessons.com"
         issue-term="pathname"
@@ -8,4 +9,5 @@
         crossorigin="anonymous"
         async>
 </script>
+{% endblock page_footer %}
 

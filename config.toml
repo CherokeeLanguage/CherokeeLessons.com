@@ -1,17 +1,11 @@
-# The URL the site will be built for
-base_url = "https://www.cherokeelessons.com"
-
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
-
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
-
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
-
+base_url = "www.cherokeelessons.com"
+title = "Cherokee Lessons"
+description = "Various resources for learning the Cherokee Language."
+default_language = "en"
 theme = "Zulma"
+highlight_code = true
+generate_rss = true
+build_search_index = true
 
 taxonomies = [
     {name = "categories", paginate_by = 5, rss = true},
@@ -19,14 +13,19 @@ taxonomies = [
     {name = "authors", paginate_by = 5, rss = true}
 ]
 
+compile_sass = true
+
 [slugify]
 paths = "safe"
 taxonomies = "safe"
 anchors = "safe"
 
 [extra]
-# Put all your custom variables here
 
 zulma_brand = {text="Home"}
 zulma_theme = "slate"
 zulma_allow_theme_section = true
+zulma_menu = [
+  {url = "/apps", name = "Apps"},
+  {url = "/books", name = "Books and eBooks"}
+]
