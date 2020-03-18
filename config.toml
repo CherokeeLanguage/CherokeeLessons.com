@@ -19,8 +19,6 @@ taxonomies = [
     {name = "authors", paginate_by = 5, rss = true}
 ]
 
-build_search_index = true
-
 [slugify]
 paths = "safe"
 taxonomies = "safe"
