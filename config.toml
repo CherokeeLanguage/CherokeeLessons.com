@@ -23,8 +23,8 @@ anchors = "safe"
 [extra]
 
 zulma_brand = {text="Home"}
-zulma_theme = "slate"
-zulma_allow_theme_section = true
+zulma_theme = "flatly"
+zulma_allow_theme_selection = true
 zulma_menu = [
   {url = "/apps", name = "Apps"},
   {url = "/books", name = "Books and eBooks"}
