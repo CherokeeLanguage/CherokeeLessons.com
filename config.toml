@@ -8,12 +8,14 @@ generate_rss = true
 build_search_index = true
 
 taxonomies = [
-    {name = "categories", paginate_by = 5, rss = true},
-    {name = "tags", paginate_by = 5, rss = true},
-    {name = "authors", paginate_by = 5, rss = true}
+    {name = "categories", paginate_by = 8, rss = true},
+    {name = "tags", paginate_by = 8, rss = true},
+    {name = "authors", paginate_by = 8, rss = true}
 ]
 
 compile_sass = true
+
+hard_link_static = true
 
 [slugify]
 paths = "safe"
@@ -22,8 +24,8 @@ anchors = "safe"
 
 [extra]
 
-zulma_brand = {text="Home"}
-zulma_theme = "flatly"
+zulma_brand = {text="Cherokee Lessons"}
+zulma_theme = "superhero"
 zulma_allow_theme_selection = true
 zulma_menu = [
   {url = "/apps", name = "Apps"},

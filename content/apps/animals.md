@@ -1,17 +1,19 @@
 +++
 weight = 1000
 title = "Animals"
-authors = ["Michael Conrad"]
 date = 2020-03-16T21:13:43Z
-description = "Teaches you to recognize the Cherokee names for more than 40 animals"
+summary = "Teaches you to recognize the Cherokee names for more than 40 animals"
 feature_image = "/images/CherokeeAnimals-promo.jpg"
 
 [taxonomies]
-tags = ["Animals", "Android", "iOS", "Linux", "MacOS", "Windows"]
+authors = ["Michael Conrad"]
 categories = ["Apps", "Games"]
+tags = ["Animals", "Android", "iOS", "Linux", "MacOS", "Windows"]
 
 +++
-Cherokee Language Vocabulary – Animals teaches you to recognize the Cherokee names for more than 40 animals including Deer, Skunk, Leech, Beaver, Terrapin (Turtle), Snail, Mink, Camel, Dog, Crow, Bobcat, Raccoon, Turkey, Snake, Badger, Butterfly, and many more. Help preserve this valuable Native American language by teaching your children or learning it yourself.  
+Animals teaches you to recognize the Cherokee names for more than 40 animals.
+<!-- more -->
+Animals including Deer, Skunk, Leech, Beaver, Terrapin (Turtle), Snail, Mink, Camel, Dog, Crow, Bobcat, Raccoon, Turkey, Snake, Badger, Butterfly, and many more.
   
 Release notes:  
   

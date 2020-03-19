@@ -1,6 +1,5 @@
 +++
-#sort_by = "weight"
-template = "section.html" 
-paginate_by = 5
+paginate_by = 8
 insert_anchorLinks = "right"
+transparent = true
 +++
