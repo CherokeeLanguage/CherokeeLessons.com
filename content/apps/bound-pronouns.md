@@ -3,12 +3,15 @@ weight = 2000
 title = "Bound Pronouns"
 date = 2020-03-16T21:20:41Z
 summary = "This is a custom \"flash card\" style program to assist with learning the bound pronouns."
-feature_image = "/images/CherokeeAnimals-promo.jpg"
 
 [taxonomies]
 authors = ["Michael Conrad"]
 categories = ["Apps", "Grammar"]
 tags = ["Bound Pronouns", "Flash Cards", "Android", "iOS", "Linux", "MacOS", "Windows"]
+
+[extra]
+featured_image = "../static/images/bound-pronouns.png"
+
 +++
 This is a custom "flash card" style program to assist with learning the bound pronouns. It has options to display using either Latin or Syllabary. The software keeps track of your progress and schedules cards based on how well you do. Cards you have problems with are repeated often. Cards you do well with are not.   
 

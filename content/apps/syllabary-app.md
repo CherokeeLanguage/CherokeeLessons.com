@@ -2,13 +2,15 @@
 author = "Michael Conrad"
 date = 2020-03-16T20:58:56Z
 description = "Learn the Cherokee Syllabary"
-feature_image = "/images/feature-graphic.jpg"
 title = "Syllabary"
 
 [taxonomies]
 authors = ["Michael Conrad"]
 categories = ["Apps", "Games"]
 tags = ["Syllabary", "Android", "iOS", "Linux", "MacOS", "Windows"]
+
+[extra]
+featured_image = "../static/images/feature-graphic.jpg"
 
 +++
 Learn to recognize each of the Cherokee Syllabary letters.  

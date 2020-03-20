@@ -2,12 +2,14 @@
 title = "Cherokee Language Lessons 1"
 date = 2020-03-16T21:24:36Z
 summary = "This app is designed to help you acquire the Cherokee language though the use of pictures representing actions, states of being, and so forth."
-feature_image = ""
 
 [taxonomies]
 authors = ["Michael Conrad"]
 categories = ["Apps", "Grammar"]
 tags = ["Grammar", "Android", "iOS", "Linux", "MacOS", "Windows"]
+
+[extra]
+featured_image = "../static/images/cll1-gdx.png"
 
 +++
 This app is designed to help you acquire the Cherokee language though the use of pictures representing actions, states of being, and so forth. The app closely follows the material in the book "Cherokee Language Lessons 1". The book is recommended to get the most use out of this app.  

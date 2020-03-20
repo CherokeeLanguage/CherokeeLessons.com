@@ -3,12 +3,14 @@ weight = 1000
 title = "Animals"
 date = 2020-03-16T21:13:43Z
 summary = "Teaches you to recognize the Cherokee names for more than 40 animals"
-feature_image = "/images/CherokeeAnimals-promo.jpg"
 
 [taxonomies]
 authors = ["Michael Conrad"]
 categories = ["Apps", "Games"]
 tags = ["Animals", "Android", "iOS", "Linux", "MacOS", "Windows"]
+
+[extra]
+featured_image = "../static/images/CherokeeAnimals-promo.jpg"
 
 +++
 Animals teaches you to recognize the Cherokee names for more than 40 animals.
