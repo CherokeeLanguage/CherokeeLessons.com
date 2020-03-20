@@ -64,6 +64,17 @@
                         </a>
                     </nav>
                 </div>
+                {% else %}
+                {% if page.extra.featured_image -%}
+                <div itemprop="summary" class="content article-body" style="min-height: 150px;">
+                    <a itemprop="url" href="{{ page.permalink | safe }}">
+                        <div style='display: inline-block; float: left; max-width: 25%; margin-right: 2rem;'>
+                            <img style='width: 100%; height: 100%' alt="{{page.title}}" title="{{page.title}}"
+                                src="{{ resize_image(path=page.extra.featured_image, width=150, height=150, op="fill") }}" />
+                        </div>
+                    </a>
+                </div>
+                {% endif %}
                 {% endif %}
             </div>
         </div>
