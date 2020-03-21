@@ -19,3 +19,8 @@ This app assumes you know the Syllabary. If you don't know the Syllabary it is s
 The theory, based on TPR materials, is that you acquire a language by listening and association, not by translations or reciting. Listen to and correctly associate enough material and you will begin speaking the language automatically.  
   
 The app uses some of the concepts for "interval learning", in particular, Pimsleur for same training sessions timings and Leitner Boxing for selecting which challenge should be displayed during which session.
+
+* [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.cll2ev1)
+* [iPhone/iPad App](https://apps.apple.com/us/app/cherokee-lessons-1/id1498995127?ls=1)
+* [Android App via Amazon](https://www.amazon.com/gp/product/B073GD4LL9)
+* [Desktop App via Direct Download](/downloads/CLL1-1.72.jar)

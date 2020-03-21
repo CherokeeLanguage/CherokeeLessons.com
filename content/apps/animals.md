@@ -37,3 +37,7 @@ Free Desktop version for Linux, Mac, and Windows:
 Requires JAVA to be installed on your computer!  
 Linux, Mac, and Windows:
 
+* [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.vocab.animals.one)
+* iPhone/iPad App not available via Apple iTunes
+* [Android App via Amazon](https://www.amazon.com/gp/product/B006RMX16U)
+* [Desktop App via Direct Download](/downloads/CherokeeAnimals-desktop-320.jar)

@@ -1,4 +1,4 @@
-base_url = "www.cherokeelessons.com"
+base_url = "https://www.cherokeelessons.com/"
 title = "Cherokee Lessons"
 description = "Various resources for learning the Cherokee Language."
 default_language = "en"

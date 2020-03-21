@@ -19,7 +19,10 @@ Each exercise teaches you to recognize the Cherokee Language Syllabary using mul
   
 Available as an App for Kindle Fire, Google Play, and Apple iOS.  
   
-Desktop version for Linux, Mac, and Windows:  
-  
- Requires JAVA to be installed on your computer!  
- Linux, Mac, and Windows:
+Desktop version for Linux, Mac, and Windows requires JAVA to be installed on your computer!  
+ 
+
+ * [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.syllabary.one)
+* [iPhone/iPad App](https://apps.apple.com/us/app/cherokee-language-syllabary/id995556856?ls=1)
+* [Android App via Amazon](https://www.amazon.com/gp/product/B006WQDSPA)
+* [Desktop App via Direct Download](/downloads/Syllabary-3.24.jar)

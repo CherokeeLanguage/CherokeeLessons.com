@@ -22,3 +22,8 @@ All of the "flash cards" use CED style pronunciation marks so that you can see h
 Unlike many other flashcard programs, it isn't designed to be dogmatic about timings. It has a "jump a day forwards" option, where you can jump forwards in the scheduling as if a day had already passed, and, the timings are setup to have a max "jump" of one day if you miss a day so that the software doesn't try and feed you the entire deck in a single session ...  
   
 Additionally, it only feeds you new cards if you successfully complete all current pending cards within the minimum session time so that you only get new stuff after you perform decently with existing stuff (from day to day).
+
+* [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.bp.android)
+* [iPhone/iPad App](https://apps.apple.com/us/app/cherokee-bound-pronouns/id966667496?ls=1)
+* [Android App via Amazon](https://www.amazon.com/gp/product/B00TCP955U)
+* [Desktop App via Direct Download](/downloads/BoundPronouns-2.31.jar)
