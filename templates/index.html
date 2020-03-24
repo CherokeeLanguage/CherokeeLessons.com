@@ -14,6 +14,10 @@
 {% endif -%}
 {% endblock title -%}
 
+{% block extra_head %}
+<link id="css-overide-with-cherokee-enabled-fonts" class="stylesheet" rel="stylesheet" href="{{ get_url(path="fonts.css") -}}" />
+{% endblock extra_head %}
+
 {% block content %}
 <!-- START NAV -->
 {% block header %}
