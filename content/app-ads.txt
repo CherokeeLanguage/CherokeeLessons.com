@@ -1,0 +1,9 @@
+play.google.com, Cherokee Language Lessons, reseller, 0
+google.com, Cherokee Language Lessons, reseller, 0
+apps.apple.com, 966667495, reseller, 0
+apple.com, 966667495, reseller, 0
+www.amazon.com, Michael Conrad, reseller, 0
+smile.amazon.com, Michael Conrad, reseller, 0
+amazon.com, Michael Conrad, reseller, 0
+www.smashwords.com, Michael Conrad, reseller, 0
+smashwords.com, Michael Conrad, reseller, 0
