@@ -40,14 +40,6 @@ teeth.
 
 {{ video(video="Dictation 03-01 Lecture Ꭾ-Ꮄ.mp4") }}
 
----
-
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 03-02 - Ꭾ-Ꮄ.mp4") }}
-
----
-
 #### Recognition Practice.
 
 Estimated time: 10 minutes.
@@ -78,6 +70,14 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | hu | gv | ha | gu | ha | hv | gi | go | gv | ha | la | le | ha | gu | 
 | gv | ka | ge | ha | gi | go | he | gu | hi | gv | ho | hu | ha | hv | 
 | la | le | ka | ge | gi | go | gu | gv | ha | he | hi | ho | hu | hv | 
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 03-02 - Ꭾ-Ꮄ.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 

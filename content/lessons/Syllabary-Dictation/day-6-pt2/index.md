@@ -38,14 +38,6 @@ teeth.
 across the middle bump. If you don’t include the cap, it might be
 mistaken for either of the letters “Ꮗ (gwe)” or “Ꮚ (gwu)”.*
 
----
-
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 12-02.mp4") }}
-
----
-
 #### Recognition Practice.
 
 Estimated time: 10 minutes.
@@ -75,6 +67,14 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | ye | wi | wo | we | wo | yi | jv | wa | wi | wo | yo | yu | wo | we |
 | wi | jo | ju | wo | jv | wa | wu | we | wv | wi | ya | ye | wo | yi |
 | yo | yu | jo | ju | jv | wa | we | wi | wo | wu | wv | ya | ye | yi |
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 12-02.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 

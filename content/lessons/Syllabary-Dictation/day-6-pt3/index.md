@@ -25,14 +25,6 @@ Refer to the following figure as needed.
 
 ![image](handone%20-%20sample%2013.jpg)
 
----
-
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 13-02.mp4") }}
-
----
-
 #### Recognition Practice.
 
 Estimated time: 10 minutes.
@@ -62,6 +54,15 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | yo | yu | yi  | yu  | ga | ya  | ye | yo  | yu  | de  | du  | yu | yi | yo  |
 | wu | wv | yu  | ya  | ye | yv  | yi | gwe | yo  | gwu | ya  | yu | ga | de  |
 | du | wu | wv  | ya  | ye | yi  | yo | yu  | yv  | gwe | gwu | ya | ga | ya  |
+
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 13-02.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 

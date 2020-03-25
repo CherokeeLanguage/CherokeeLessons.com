@@ -34,14 +34,6 @@ teeth.
 
 ![image](handone%20-%20sample%2006.jpg)
 
----
-
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 06-02.mp4") }}
-
----
-
 ☞ *It is very important when writing the letter “Ꮗ” to draw the top
 curve pointed downwards stopping very close the middle bump. If you
 don’t write the letter this way, it might be mistaken for either of the
@@ -76,6 +68,14 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | gwa | ne  | ni  | nah | ni  | gwe | na  | hna | ne  | ni  | gwi | gwo | ni  | nah | 
 | ne  | mo  | mu  | ni  | na  | hna | no  | nah | nu  | ne  | nv  | gwa | ni  | gwe | 
 | gwi | gwo | mo  | mu  | na  | hna | nah | ne  | ni  | no  | nu  | nv  | gwa | gwe | 
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 06-02.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 

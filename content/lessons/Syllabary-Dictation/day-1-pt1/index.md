@@ -33,26 +33,6 @@ Each writing exercise will consist of two parts:
 
 <!-- more -->
 
----
-
-#### Video: Introduction
-
-{{ video(video="Dictation 01-00 Introduction.mp4") }}
-
----
-
-#### Video: How to do a Dictation Exercise
-
-{{ video(video="Dictation 01-00 Introduction.mp4") }}
-
----
-
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 01-02 - Ꭰ-Ꭶ - Cherokee Syllabary - Cherokee Language - ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ.mp4") }}
-
----
-
 #### Learning the shapes.
 
 This exercise covers “Ꭰ (a)”, “Ꭱ (e)”, “Ꭲ (i)”, “Ꭳ (o)”, “Ꭴ (u)”, “Ꭵ
@@ -69,6 +49,12 @@ keeping the tip of your tongue against the backside of your lower front
 teeth.
 
 ![image](handone%20-%20sample%2001.jpg)
+
+---
+
+#### Video: Introduction
+
+{{ video(video="Dictation 01-00 Introduction.mp4") }}
 
 #### Recognition Practice.
 
@@ -103,7 +89,19 @@ pronunciations:
 | e | i  | o | u | v  | ga | a | e  | i  | o | u  | v  | ga | a  | 
 | e | i  | o | u | v  | ga | a | v  | a  | e | i  | u  | v  | ga | 
 
+---
 
+#### Video: How to do a Dictation Exercise
+
+{{ video(video="Dictation 01-00 Introduction.mp4") }}
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 01-02 - Ꭰ-Ꭶ - Cherokee Syllabary - Cherokee Language - ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 

@@ -34,14 +34,6 @@ teeth.
 
 ![image](handone%20-%20sample%2009.jpg)
 
----
-
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 09-02.mp4") }}
-
----
-
 #### Recognition Practice.
 
 Estimated time: 10 minutes.
@@ -71,6 +63,14 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | dv  | te  | di  | de | di  | dla | da  | ta  | te  | di  | tla | tle | di  | de  |
 | te  | su  | sv  | di | da  | ta  | ti  | de  | do  | te  | du  | dv  | di  | dla |
 | tla | tle | su  | sv | da  | ta  | de  | te  | di  | ti  | do  | du  | dv  | dla |
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 09-02.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 

@@ -72,18 +72,6 @@ Estimated time: 10 minutes.
 
 __Handwrite__ the Cherokee letter for each of the following English pronunciations.
 
----
-
-#### Videos: Dictation Practice
-
-{{ video(video="Dictation 14-02.mp4") }}
-
----
-
-{{ video(video="Dictation 15-02.mp4") }}
-
----
-
 | a  | e  | a  | e  | i  | o  | a  | e  | i  | o  | u  | v  |
 |----|----|----|----|----|----|----|----|----|----|----|----|
 | i  | o  | u  | v  | ga | ka | u  | v  | ga | ka | ge | gi |
@@ -124,3 +112,14 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 
 ☞ *Your answers should match the Syllabary in the previous practice.*
 
+---
+
+#### Videos: Dictation Practice
+
+{{ video(video="Dictation 14-02.mp4") }}
+
+---
+
+{{ video(video="Dictation 15-02.mp4") }}
+
+---

@@ -40,14 +40,6 @@ close to the left where the letter starts. If you don’t write the letter
 this way, it might be mistaken for either of the letters “Ꮗ (gwe)” or “Ꮿ
 (ya)”.*
 
----
-
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 07-02.mp4") }}
-
----
-
 #### Recognition Practice.
 
 ☞ *Be careful not to confuse “Ꮗ (gwe)” and “Ꮚ (gwu)” with each other in
@@ -82,6 +74,14 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | gwi | no  | nu  | gwo | nv  | gwa | gwu | gwe | gwv | gwi | s   | sa  | gwo | se  | 
 | si  | so  | no  | nu  | nv  | gwa | gwe | gwi | gwo | gwu | gwv | s   | sa  | se  | 
 
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 07-02.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 

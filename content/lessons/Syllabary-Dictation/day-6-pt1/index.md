@@ -34,14 +34,6 @@ teeth.
 
 ![image](handone%20-%20sample%2011.jpg)
 
----
-
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 11-02.mp4") }}
-
----
-
 #### Recognition Practice.
 
 Estimated time: 10 minutes.
@@ -71,6 +63,14 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | wa  | je  | ji  | ja  | ji  | we  | tlu | tlv | je  | ji  | wi | wo  | ji  | ja  |
 | je  | tli | tlo | ji  | tlu | tlv | jo  | ja  | ju  | je  | jv | wa  | ji  | we  |
 | wi  | wo  | tli | tlo | tlu | tlv | ja  | je  | ji  | jo  | ju | jv  | wa  | we  |
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 11-02.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 

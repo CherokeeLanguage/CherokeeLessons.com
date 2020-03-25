@@ -39,12 +39,6 @@ teeth.
 
 {{ video(video="Dictation 02-01 Lecture Ꭷ-Ꭽ.mp4") }}
 
----
-#### Video: Dictation Practice
-
-{{ video(video="Dictation 02-02 - Ꭷ-Ꭽ - Cherokee Syllabary - ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ.mp4") }}
-
----
 #### Recognition Practice.
 
 Estimated time: 10 minutes.
@@ -74,6 +68,14 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | go | v  | ga | u  | ga | gu | i  | o  | v  | ga | gv | ha | ga | u  | 
 | v  | a  | e  | ga | i  | o  | ka | u  | ge | v  | gi | go | ga | gu | 
 | gv | ha | a  | e  | i  | o  | u  | v  | ga | ka | ge | gi | go | gu | 
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 02-02 - Ꭷ-Ꭽ - Cherokee Syllabary - ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ.mp4") }}
+
+---
 
 #### Audio Dictation Practice
 
