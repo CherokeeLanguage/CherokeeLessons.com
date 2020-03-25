@@ -11,13 +11,21 @@ tags = ["Syllabary", "Dictation"]
 
 [extra]
 
-featured_image = "lessons/Syllabary-Dictation/day-7/Dictation 14-02.jpg"
+featured_image = "lessons/Syllabary-Dictation/day-7/Dictation 15-02.jpg"
 
 +++
 
 This is the final set of practices and will test your skill with all of the Syllabary.
 
 <!-- more -->
+
+---
+
+#### Video: Dictation Practice
+
+{{ video(video="Dictation 15-02.mp4") }}
+
+---
 
 #### Final Practice Part One.
 
@@ -111,15 +119,3 @@ __Handwrite__ the Cherokee letter for each of the following English pronunciatio
 | e   | sv | u  | nv  | gu  | ju | u  | nv  | gu  | ju | gu | ju  |
 
 ☞ *Your answers should match the Syllabary in the previous practice.*
-
----
-
-#### Videos: Dictation Practice
-
-{{ video(video="Dictation 14-02.mp4") }}
-
----
-
-{{ video(video="Dictation 15-02.mp4") }}
-
----
