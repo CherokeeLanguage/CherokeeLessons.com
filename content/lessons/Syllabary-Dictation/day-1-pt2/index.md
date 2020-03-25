@@ -49,7 +49,7 @@ teeth.
 
 Estimated time: 10 minutes.
 
-Write out the English pronunciation for each of the following Cherokee letters:
+__Handwrite__ the English pronunciation for each of the following Cherokee letters:
 
 | Ꭷ | Ꭸ | Ꭷ | Ꭸ | Ꭹ | Ꭺ | Ꭷ | Ꭸ | Ꭹ | Ꭺ | Ꭻ | Ꭼ | Ꭹ | Ꭺ | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
@@ -64,7 +64,7 @@ Write out the English pronunciation for each of the following Cherokee letters:
 
 Estimated time: 10 minutes.
 
-Write out the Cherokee letter for each of the following English pronunciations.
+__Handwrite__ the Cherokee letter for each of the following English pronunciations.
 
 | go | gu | gv | gi | gv | gu | gv | ha | go | ha | ka | gv | ha | ge | 
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----| 

@@ -55,7 +55,7 @@ the following exercise.*
 
 Estimated time: 10 minutes.
 
-the English pronunciation for each of the following Cherokee letters:
+__Handwrite__ the English pronunciation for each of the following Cherokee letters:
 
 | Ꮚ | Ꮛ | Ꮚ | Ꮛ | Ꮝ | Ꮜ | Ꮚ | Ꮛ | Ꮝ | Ꮜ | Ꮞ | Ꮟ | Ꮝ | Ꮜ | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
@@ -71,7 +71,7 @@ the English pronunciation for each of the following Cherokee letters:
 
 Estimated time: 10 minutes.
 
-the Cherokee letter for each of the following English pronunciations.
+__Handwrite__ the Cherokee letter for each of the following English pronunciations.
 
 | sa  | se  | si  | s   | si  | se  | si  | so  | sa  | so  | gwu | si  | so  | gwv | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----| 

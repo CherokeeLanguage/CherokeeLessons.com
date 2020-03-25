@@ -74,7 +74,7 @@ teeth.
 
 Estimated time: 10 minutes.
 
-Write out the English pronunciation for each of the following Cherokee
+__Handwrite__ the English pronunciation for each of the following Cherokee
 letters:
 
 | Ꭰ | Ꭱ | Ꭰ | Ꭱ | Ꭲ | Ꭱ | Ꭰ | Ꭲ | Ꭳ | Ꭱ | Ꭲ | Ꭳ | Ꭴ | Ꭳ | 
@@ -91,7 +91,7 @@ letters:
 
 Estimated time: 10 minutes.
 
-Write out the Cherokee letter for each of the following English
+__Handwrite__ the Cherokee letter for each of the following English
 pronunciations:
 
 | a | e  | a | e | i  | e  | a | i  | o  | e | i  | o  | u  | o  | 

@@ -51,7 +51,7 @@ letters “Ꮚ (gwu)” or “Ꮿ (ya)”.*
 
 Estimated time: 10 minutes.
 
-the English pronunciation for each of the following Cherokee letters:
+__Handwrite__ the English pronunciation for each of the following Cherokee letters:
 
 | Ꮓ | Ꮔ | Ꮓ | Ꮔ | Ꮕ | Ꮖ | Ꮓ | Ꮔ | Ꮕ | Ꮖ | Ꮗ | Ꮘ | Ꮕ | Ꮖ | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
@@ -66,7 +66,7 @@ the English pronunciation for each of the following Cherokee letters:
 
 Estimated time: 10 minutes.
 
-the Cherokee letter for each of the following English pronunciations.
+__Handwrite__ the Cherokee letter for each of the following English pronunciations.
 
 | gwa | gwe | gwi | nv  | gwi | gwe | gwi | gwo | gwa | gwo | no  | gwi | gwo | nu  | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----| 

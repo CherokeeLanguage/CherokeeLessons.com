@@ -52,7 +52,7 @@ teeth.
 
 Estimated time: 10 minutes.
 
-the English pronunciation for each of the following Cherokee letters:
+__Handwrite__ the English pronunciation for each of the following Cherokee letters:
 
 | Ꭾ | Ꭿ | Ꭾ | Ꭿ | Ꮀ | Ꮁ | Ꭾ | Ꭿ | Ꮀ | Ꮁ | Ꮂ | Ꮃ | Ꮀ | Ꮁ | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
@@ -68,7 +68,7 @@ the English pronunciation for each of the following Cherokee letters:
 
 Estimated time: 10 minutes.
 
-the Cherokee letter for each of the following English pronunciations.
+__Handwrite__ the Cherokee letter for each of the following English pronunciations.
 
 | hu | hv | la | ho | la | hv | la | le | hu | le | he | la | le | hi | 
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----| 
