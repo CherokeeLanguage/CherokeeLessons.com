@@ -34,21 +34,25 @@ Each writing exercise will consist of two parts:
 <!-- more -->
 
 ---
+
 #### Video: Introduction
 
 {{ video(video="Dictation 01-00 Introduction.mp4") }}
 
 ---
+
 #### Video: How to do a Dictation Exercise
 
 {{ video(video="Dictation 01-00 Introduction.mp4") }}
 
 ---
+
 #### Video: Dictation Practice
 
 {{ video(video="Dictation 01-02 - Ꭰ-Ꭶ - Cherokee Syllabary - Cherokee Language - ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ.mp4") }}
 
 ---
+
 #### Learning the shapes.
 
 This exercise covers “Ꭰ (a)”, “Ꭱ (e)”, “Ꭲ (i)”, “Ꭳ (o)”, “Ꭴ (u)”, “Ꭵ
@@ -73,9 +77,8 @@ Estimated time: 10 minutes.
 Write out the English pronunciation for each of the following Cherokee
 letters:
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭰ | Ꭱ | Ꭰ | Ꭱ | Ꭲ | Ꭱ | Ꭰ | Ꭲ | Ꭳ | Ꭱ | Ꭲ | Ꭳ | Ꭴ | Ꭳ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭰ | Ꭲ | Ꭴ | Ꭱ | Ꭳ | Ꭴ | Ꭵ | Ꭶ | Ꭲ | Ꭴ | Ꭵ | Ꭳ | Ꭶ | Ꭵ | 
 | Ꭰ | Ꭶ | Ꭴ | Ꭱ | Ꭶ | Ꭵ | Ꭲ | Ꭳ | Ꭶ | Ꭴ | Ꭵ | Ꭶ | Ꭰ | Ꭱ | 
 | Ꭲ | Ꭳ | Ꭴ | Ꭵ | Ꭶ | Ꭰ | Ꭱ | Ꭰ | Ꭱ | Ꭲ | Ꭳ | Ꭰ | Ꭲ | Ꭳ | 
@@ -91,9 +94,8 @@ Estimated time: 10 minutes.
 Write out the Cherokee letter for each of the following English
 pronunciations:
 
-|   |    |   |   |    |    |   |    |    |   |    |    |    |    | 
-|---|----|---|---|----|----|---|----|----|---|----|----|----|----| 
 | a | e  | a | e | i  | e  | a | i  | o  | e | i  | o  | u  | o  | 
+|---|----|---|---|----|----|---|----|----|---|----|----|----|----| 
 | a | i  | u | e | o  | u  | v | ga | i  | u | v  | o  | ga | v  | 
 | a | ga | u | e | ga | v  | i | o  | ga | u | v  | ga | a  | e  | 
 | i | o  | u | v | ga | a  | e | a  | e  | i | o  | a  | i  | o  | 
@@ -118,9 +120,8 @@ Estimated time: 20 minutes.
 
 Switch places with your partner and repeat the exercise.
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭰ | Ꭱ | Ꭰ | Ꭱ | Ꭲ | Ꭳ | Ꭰ | Ꭱ | Ꭲ | Ꭳ | Ꭴ | Ꭵ | Ꭲ | Ꭳ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭰ | Ꭱ | Ꭴ | Ꭵ | Ꭶ | Ꭰ | Ꭲ | Ꭳ | Ꭴ | Ꭵ | Ꭶ | Ꭰ | Ꭱ | Ꭲ | 
 | Ꭶ | Ꭰ | Ꭱ | Ꭴ | Ꭵ | Ꭱ | Ꭲ | Ꭳ | Ꭶ | Ꭰ | Ꭱ | Ꭲ | Ꭳ | Ꭴ | 
 | Ꭳ | Ꭴ | Ꭵ | Ꭶ | Ꭴ | Ꭵ | Ꭱ | Ꭲ | Ꭳ | Ꭴ | Ꭶ | Ꭰ | Ꭵ | Ꭶ | 
@@ -130,14 +131,11 @@ Switch places with your partner and repeat the exercise.
 
 *** NEXT PAGE ***
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭵ | Ꭴ | Ꭵ | Ꭶ | Ꭳ | Ꭶ | Ꭰ | Ꭵ | Ꭶ | Ꭱ | Ꭴ | Ꭰ | Ꭶ | Ꭰ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭱ | Ꭲ | Ꭵ | Ꭰ | Ꭱ | Ꭲ | Ꭳ | Ꭶ | Ꭰ | Ꭱ | Ꭲ | Ꭳ | Ꭴ | Ꭱ | 
 | Ꭲ | Ꭳ | Ꭰ | Ꭳ | Ꭵ | Ꭲ | Ꭴ | Ꭱ | Ꭳ | Ꭶ | Ꭰ | Ꭴ | Ꭵ | Ꭱ | 
 | Ꭲ | Ꭴ | Ꭳ | Ꭵ | Ꭰ | Ꭲ | Ꭴ | Ꭵ | Ꭶ | Ꭱ | Ꭳ | Ꭵ | Ꭶ | Ꭴ | 
 | Ꭶ | Ꭴ | Ꭲ | Ꭳ | Ꭵ | Ꭶ | Ꭵ | Ꭶ | Ꭴ | Ꭵ | Ꭰ | Ꭱ | Ꭶ | Ꭲ | 
 | Ꭳ | Ꭰ | Ꭴ | Ꭱ | Ꭵ | Ꭲ | Ꭳ | Ꭶ | Ꭴ | Ꭵ | Ꭶ | Ꭰ | Ꭱ | Ꭲ | 
 | Ꭳ | Ꭴ | Ꭵ | Ꭶ | Ꭰ | Ꭲ | Ꭴ | Ꭰ | Ꭱ | Ꭲ | Ꭳ | Ꭴ | Ꭶ | Ꭲ | 
-
-

@@ -15,6 +15,8 @@ featured_image = "lessons/Syllabary-Dictation/day-3-pt1/Dictation 05-01 Lecture 
 
 +++
 
+Morning Practice
+
 #### Learning the shapes.
 
 This exercise covers “Ꮌ (mo)”, “Ꮍ (mu)”, “Ꮎ (na)”, “Ꮏ (hna)”, “Ꮐ (nah)”,
@@ -33,11 +35,13 @@ teeth.
 ![image](handone%20-%20sample%2005.jpg)
 
 ---
+
 #### Video: Introduction
 
 {{ video(video=Dictation 05-01 Lecture Ꮌ-Ꮒ.mp4") }}
 
 ---
+
 #### Video: Dictation Practice
 
 {{ video(video="Dictation 05-02 - Ꮌ-Ꮒ.mp4") }}
@@ -50,9 +54,8 @@ Estimated time: 10 minutes.
 
 the English pronunciation for each of the following Cherokee letters:
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮌ | Ꮍ | Ꮌ | Ꮍ | Ꮎ | Ꮏ | Ꮌ | Ꮍ | Ꮎ | Ꮏ | Ꮐ | Ꮑ | Ꮎ | Ꮏ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮌ | Ꮍ | Ꮐ | Ꮑ | Ꮒ | Ꮅ | Ꮎ | Ꮏ | Ꮐ | Ꮑ | Ꮒ | Ꮅ | Ꮆ | Ꮇ | 
 | Ꮒ | Ꮅ | Ꮌ | Ꮍ | Ꮐ | Ꮑ | Ꮆ | Ꮇ | Ꮎ | Ꮏ | Ꮒ | Ꮅ | Ꮆ | Ꮇ | 
 | Ꮈ | Ꮉ | Ꮈ | Ꮉ | Ꮊ | Ꮋ | Ꮐ | Ꮑ | Ꮆ | Ꮇ | Ꮈ | Ꮉ | Ꮒ | Ꮅ | 
@@ -67,9 +70,8 @@ Estimated time: 10 minutes.
 
 the Cherokee letter for each of the following English pronunciations.
 
-|     |     |     |    |    |     |    |    |     |    |     |     |     |     | 
-|-----|-----|-----|----|----|-----|----|----|-----|----|-----|-----|-----|-----| 
 | hna | nah | ne  | na | ne | nah | ne | ni | hna | ni | mo  | ne  | ni  | mu  | 
+|-----|-----|-----|----|----|-----|----|----|-----|----|-----|-----|-----|-----| 
 | nah | li  | ni  | li | lo | na  | ne | li | lo  | lu | hna | ni  | li  | lo  | 
 | lu  | lv  | nah | lo | lu | lv  | li | lv | ne  | lu | ma  | lo  | lv  | ni  | 
 | mo  | ma  | me  | mu | lu | ma  | lv | me | li  | na | ma  | me  | mi  | lo  | 
@@ -91,9 +93,8 @@ Estimated time: 20 minutes.
 
 Switch places with your partner and repeat the exercise.
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮌ | Ꮍ | Ꮌ | Ꮍ | Ꮎ | Ꮏ | Ꮌ | Ꮍ | Ꮎ | Ꮏ | Ꮐ | Ꮑ | Ꮎ | Ꮏ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮌ | Ꮍ | Ꮐ | Ꮑ | Ꮒ | Ꮅ | Ꮎ | Ꮏ | Ꮐ | Ꮑ | Ꮒ | Ꮅ | Ꮆ | Ꮇ | 
 | Ꮒ | Ꮅ | Ꮌ | Ꮍ | Ꮐ | Ꮑ | Ꮆ | Ꮇ | Ꮎ | Ꮏ | Ꮒ | Ꮅ | Ꮆ | Ꮇ | 
 | Ꮈ | Ꮉ | Ꮈ | Ꮉ | Ꮊ | Ꮋ | Ꮐ | Ꮑ | Ꮆ | Ꮇ | Ꮈ | Ꮉ | Ꮒ | Ꮅ | 
@@ -103,9 +104,8 @@ Switch places with your partner and repeat the exercise.
 
 *** NEXT PAGE ***
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮏ | Ꮐ | Ꮑ | Ꮎ | Ꮑ | Ꮐ | Ꮑ | Ꮒ | Ꮏ | Ꮒ | Ꮌ | Ꮑ | Ꮒ | Ꮍ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮐ | Ꮅ | Ꮒ | Ꮅ | Ꮆ | Ꮎ | Ꮑ | Ꮅ | Ꮆ | Ꮇ | Ꮏ | Ꮒ | Ꮅ | Ꮆ | 
 | Ꮇ | Ꮈ | Ꮐ | Ꮆ | Ꮇ | Ꮈ | Ꮅ | Ꮈ | Ꮑ | Ꮇ | Ꮉ | Ꮆ | Ꮈ | Ꮒ | 
 | Ꮌ | Ꮉ | Ꮊ | Ꮍ | Ꮇ | Ꮉ | Ꮈ | Ꮊ | Ꮅ | Ꮎ | Ꮉ | Ꮊ | Ꮋ | Ꮆ | 

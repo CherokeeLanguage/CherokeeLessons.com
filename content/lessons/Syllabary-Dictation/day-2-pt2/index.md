@@ -35,25 +35,27 @@ teeth.
 ![image](handone%20-%20sample%2004.jpg)
 
 ---
+
 #### Video: Introduction
 
 {{ video(video="Dictation 04-01 Lecture Ꮅ-Ꮋ.mp4") }}
 
 ---
+
 #### Video: Dictation Practice
 
 {{ video(video="Dictation 04-02 - Ꮅ-Ꮋ.mp4") }}
 
 ---
+
 ##### Recognition Practice.
 
 Estimated time: 10 minutes.
 
 the English pronunciation for each of the following Cherokee letters:
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮅ | Ꮆ | Ꮅ | Ꮆ | Ꮇ | Ꮈ | Ꮅ | Ꮆ | Ꮇ | Ꮈ | Ꮉ | Ꮊ | Ꮇ | Ꮈ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮅ | Ꮆ | Ꮉ | Ꮊ | Ꮋ | Ꭾ | Ꮇ | Ꮈ | Ꮉ | Ꮊ | Ꮋ | Ꭾ | Ꭿ | Ꮀ | 
 | Ꮋ | Ꭾ | Ꮅ | Ꮆ | Ꮉ | Ꮊ | Ꭿ | Ꮀ | Ꮇ | Ꮈ | Ꮋ | Ꭾ | Ꭿ | Ꮀ | 
 | Ꮁ | Ꮂ | Ꮁ | Ꮂ | Ꮃ | Ꮄ | Ꮉ | Ꮊ | Ꭿ | Ꮀ | Ꮁ | Ꮂ | Ꮋ | Ꭾ | 
@@ -68,9 +70,8 @@ Estimated time: 10 minutes.
 
 the Cherokee letter for each of the following English pronunciations.
 
-|    |    |    |    |    |    |    |    |    |    |    |    |    |    | 
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----| 
 | lv | ma | me | lu | me | ma | me | mi | lv | mi | li | me | mi | lo | 
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----| 
 | ma | he | mi | he | hi | lu | me | he | hi | ho | lv | mi | he | hi | 
 | ho | hu | ma | hi | ho | hu | he | hu | me | ho | hv | hi | hu | mi | 
 | li | hv | la | lo | ho | hv | hu | la | he | lu | hv | la | le | hi | 
@@ -91,9 +92,8 @@ Estimated time: 20 minutes.
 
 Switch places with your partner and repeat the exercise.
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮅ | Ꮆ | Ꮅ | Ꮆ | Ꮇ | Ꮈ | Ꮅ | Ꮆ | Ꮇ | Ꮈ | Ꮉ | Ꮊ | Ꮇ | Ꮈ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮅ | Ꮆ | Ꮉ | Ꮊ | Ꮋ | Ꭾ | Ꮇ | Ꮈ | Ꮉ | Ꮊ | Ꮋ | Ꭾ | Ꭿ | Ꮀ | 
 | Ꮋ | Ꭾ | Ꮅ | Ꮆ | Ꮉ | Ꮊ | Ꭿ | Ꮀ | Ꮇ | Ꮈ | Ꮋ | Ꭾ | Ꭿ | Ꮀ | 
 | Ꮁ | Ꮂ | Ꮁ | Ꮂ | Ꮃ | Ꮄ | Ꮉ | Ꮊ | Ꭿ | Ꮀ | Ꮁ | Ꮂ | Ꮋ | Ꭾ | 
@@ -103,9 +103,8 @@ Switch places with your partner and repeat the exercise.
 
 *** NEXT PAGE ***
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮈ | Ꮉ | Ꮊ | Ꮇ | Ꮊ | Ꮉ | Ꮊ | Ꮋ | Ꮈ | Ꮋ | Ꮅ | Ꮊ | Ꮋ | Ꮆ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮉ | Ꭾ | Ꮋ | Ꭾ | Ꭿ | Ꮇ | Ꮊ | Ꭾ | Ꭿ | Ꮀ | Ꮈ | Ꮋ | Ꭾ | Ꭿ | 
 | Ꮀ | Ꮁ | Ꮉ | Ꭿ | Ꮀ | Ꮁ | Ꭾ | Ꮁ | Ꮊ | Ꮀ | Ꮂ | Ꭿ | Ꮁ | Ꮋ | 
 | Ꮅ | Ꮂ | Ꮃ | Ꮆ | Ꮀ | Ꮂ | Ꮁ | Ꮃ | Ꭾ | Ꮇ | Ꮂ | Ꮃ | Ꮄ | Ꭿ | 

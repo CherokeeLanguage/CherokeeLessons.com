@@ -35,25 +35,27 @@ teeth.
 ![image](handone%20-%20sample%2003.jpg)
 
 ---
+
 #### Video: Introduction
 
 {{ video(video="Dictation 03-01 Lecture Ꭾ-Ꮄ.mp4") }}
 
 ---
+
 #### Video: Dictation Practice
 
 {{ video(video="Dictation 03-02 - Ꭾ-Ꮄ.mp4") }}
 
 ---
+
 #### Recognition Practice.
 
 Estimated time: 10 minutes.
 
 the English pronunciation for each of the following Cherokee letters:
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭾ | Ꭿ | Ꭾ | Ꭿ | Ꮀ | Ꮁ | Ꭾ | Ꭿ | Ꮀ | Ꮁ | Ꮂ | Ꮃ | Ꮀ | Ꮁ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭾ | Ꭿ | Ꮂ | Ꮃ | Ꮄ | Ꭷ | Ꮀ | Ꮁ | Ꮂ | Ꮃ | Ꮄ | Ꭷ | Ꭸ | Ꭹ | 
 | Ꮄ | Ꭷ | Ꭾ | Ꭿ | Ꮂ | Ꮃ | Ꭸ | Ꭹ | Ꮀ | Ꮁ | Ꮄ | Ꭷ | Ꭸ | Ꭹ | 
 | Ꭺ | Ꭻ | Ꭺ | Ꭻ | Ꭼ | Ꭽ | Ꮂ | Ꮃ | Ꭸ | Ꭹ | Ꭺ | Ꭻ | Ꮄ | Ꭷ | 
@@ -68,9 +70,8 @@ Estimated time: 10 minutes.
 
 the Cherokee letter for each of the following English pronunciations.
 
-|    |    |    |    |    |    |    |    |    |    |    |    |    |    | 
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----| 
 | hu | hv | la | ho | la | hv | la | le | hu | le | he | la | le | hi | 
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----| 
 | hv | ka | le | ka | ge | ho | la | ka | ge | gi | hu | le | ka | ge | 
 | gi | go | hv | ge | gi | go | ka | go | la | gi | gu | ge | go | le | 
 | he | gu | gv | hi | gi | gu | go | gv | ka | ho | gu | gv | ha | ge | 
@@ -91,9 +92,8 @@ Estimated time: 20 minutes.
 
 Switch places with your partner and repeat the exercise.
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭾ | Ꭿ | Ꭾ | Ꭿ | Ꮀ | Ꮁ | Ꭾ | Ꭿ | Ꮀ | Ꮁ | Ꮂ | Ꮃ | Ꮀ | Ꮁ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꭾ | Ꭿ | Ꮂ | Ꮃ | Ꮄ | Ꭷ | Ꮀ | Ꮁ | Ꮂ | Ꮃ | Ꮄ | Ꭷ | Ꭸ | Ꭹ | 
 | Ꮄ | Ꭷ | Ꭾ | Ꭿ | Ꮂ | Ꮃ | Ꭸ | Ꭹ | Ꮀ | Ꮁ | Ꮄ | Ꭷ | Ꭸ | Ꭹ | 
 | Ꭺ | Ꭻ | Ꭺ | Ꭻ | Ꭼ | Ꭽ | Ꮂ | Ꮃ | Ꭸ | Ꭹ | Ꭺ | Ꭻ | Ꮄ | Ꭷ | 
@@ -103,9 +103,8 @@ Switch places with your partner and repeat the exercise.
 
 *** NEXT PAGE ***
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮁ | Ꮂ | Ꮃ | Ꮀ | Ꮃ | Ꮂ | Ꮃ | Ꮄ | Ꮁ | Ꮄ | Ꭾ | Ꮃ | Ꮄ | Ꭿ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮂ | Ꭷ | Ꮄ | Ꭷ | Ꭸ | Ꮀ | Ꮃ | Ꭷ | Ꭸ | Ꭹ | Ꮁ | Ꮄ | Ꭷ | Ꭸ | 
 | Ꭹ | Ꭺ | Ꮂ | Ꭸ | Ꭹ | Ꭺ | Ꭷ | Ꭺ | Ꮃ | Ꭹ | Ꭻ | Ꭸ | Ꭺ | Ꮄ | 
 | Ꭾ | Ꭻ | Ꭼ | Ꭿ | Ꭹ | Ꭻ | Ꭺ | Ꭼ | Ꭷ | Ꮀ | Ꭻ | Ꭼ | Ꭽ | Ꭸ | 

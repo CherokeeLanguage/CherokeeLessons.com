@@ -15,6 +15,8 @@ featured_image = "lessons/Syllabary-Dictation/day-3-pt2/Dictation 06-02.jpg"
 
 +++
 
+Evening Practice
+
 #### Learning the shapes.
 
 This exercise covers “Ꮓ (no)”, “Ꮔ (nu)”, “Ꮕ (nv)”, “Ꮖ (gwa)”, “Ꮗ (gwe)”,
@@ -33,6 +35,7 @@ teeth.
 ![image](handone%20-%20sample%2006.jpg)
 
 ---
+
 #### Video: Dictation Practice
 
 {{ video(video="Dictation 06-02.mp4") }}
@@ -50,9 +53,8 @@ Estimated time: 10 minutes.
 
 the English pronunciation for each of the following Cherokee letters:
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮓ | Ꮔ | Ꮓ | Ꮔ | Ꮕ | Ꮖ | Ꮓ | Ꮔ | Ꮕ | Ꮖ | Ꮗ | Ꮘ | Ꮕ | Ꮖ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮓ | Ꮔ | Ꮗ | Ꮘ | Ꮙ | Ꮌ | Ꮕ | Ꮖ | Ꮗ | Ꮘ | Ꮙ | Ꮌ | Ꮍ | Ꮎ | 
 | Ꮙ | Ꮌ | Ꮓ | Ꮔ | Ꮗ | Ꮘ | Ꮍ | Ꮎ | Ꮕ | Ꮖ | Ꮙ | Ꮌ | Ꮍ | Ꮎ | 
 | Ꮏ | Ꮐ | Ꮏ | Ꮐ | Ꮑ | Ꮒ | Ꮗ | Ꮘ | Ꮍ | Ꮎ | Ꮏ | Ꮐ | Ꮙ | Ꮌ | 
@@ -66,9 +68,8 @@ Estimated time: 10 minutes.
 
 the Cherokee letter for each of the following English pronunciations.
 
-|     |     |     |     |     |     |     |     |     |     |     |     |     |     | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----| 
 | gwa | gwe | gwi | nv  | gwi | gwe | gwi | gwo | gwa | gwo | no  | gwi | gwo | nu  | 
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----| 
 | gwe | mo  | gwo | mo  | mu  | nv  | gwi | mo  | mu  | na  | gwa | gwo | mo  | mu  | 
 | na  | hna | gwe | mu  | na  | hna | mo  | hna | gwi | na  | nah | mu  | hna | gwo | 
 | no  | nah | ne  | nu  | na  | nah | hna | ne  | mo  | nv  | nah | ne  | ni  | mu  | 
@@ -89,9 +90,8 @@ Estimated time: 20 minutes.
 
 Switch places with your partner and repeat the exercise.
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮓ | Ꮔ | Ꮓ | Ꮔ | Ꮕ | Ꮖ | Ꮓ | Ꮔ | Ꮕ | Ꮖ | Ꮗ | Ꮘ | Ꮕ | Ꮖ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮓ | Ꮔ | Ꮗ | Ꮘ | Ꮙ | Ꮌ | Ꮕ | Ꮖ | Ꮗ | Ꮘ | Ꮙ | Ꮌ | Ꮍ | Ꮎ | 
 | Ꮙ | Ꮌ | Ꮓ | Ꮔ | Ꮗ | Ꮘ | Ꮍ | Ꮎ | Ꮕ | Ꮖ | Ꮙ | Ꮌ | Ꮍ | Ꮎ | 
 | Ꮏ | Ꮐ | Ꮏ | Ꮐ | Ꮑ | Ꮒ | Ꮗ | Ꮘ | Ꮍ | Ꮎ | Ꮏ | Ꮐ | Ꮙ | Ꮌ | 
@@ -101,9 +101,8 @@ Switch places with your partner and repeat the exercise.
 
 *** NEXT PAGE ***
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮖ | Ꮗ | Ꮘ | Ꮕ | Ꮘ | Ꮗ | Ꮘ | Ꮙ | Ꮖ | Ꮙ | Ꮓ | Ꮘ | Ꮙ | Ꮔ | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 | Ꮗ | Ꮌ | Ꮙ | Ꮌ | Ꮍ | Ꮕ | Ꮘ | Ꮌ | Ꮍ | Ꮎ | Ꮖ | Ꮙ | Ꮌ | Ꮍ | 
 | Ꮎ | Ꮏ | Ꮗ | Ꮍ | Ꮎ | Ꮏ | Ꮌ | Ꮏ | Ꮘ | Ꮎ | Ꮐ | Ꮍ | Ꮏ | Ꮙ | 
 | Ꮓ | Ꮐ | Ꮑ | Ꮔ | Ꮎ | Ꮐ | Ꮏ | Ꮑ | Ꮌ | Ꮕ | Ꮐ | Ꮑ | Ꮒ | Ꮍ | 
