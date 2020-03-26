@@ -14,12 +14,11 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Intend-to…--Imperfect-Future-Tense-/"
 
 +++
-
 To indicate “did will to…” or “did intend to…” use the ending “-ᎡᏐᎢ”
 on the <span style="font-variant:small-caps;">past tense</span> stem.
-<!-- more -->
-*Use “Set A” or “Set B” pronouns as the parent verb.*
 
+*Use “Set A” or “Set B” pronouns as the parent verb.*
+<!-- more -->
   - \-ᎢᏐᎢ  
     \[-i²³so³ɂi\] “Intends to… when… ”. *Conditional Future.*
 
@@ -41,4 +40,3 @@ on the <span style="font-variant:small-caps;">past tense</span> stem.
     \[-i²³sv²³ɂi\] “The intention to…” *Verbal Noun.*
 
 *Cherokee Messenger* pg 32 “Imperfect of the Future Tense”.
-

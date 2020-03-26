@@ -14,7 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes", "Nouns"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Doer…/"
 
 +++
-
 Much the same way “-er” is added at the end of words in English to
 indicate “one who does”, a Cherokee speaker can do similar word creation
 by replacing the “-ᎣᎢ” sound at the end of the habitual verb form with
@@ -122,4 +121,3 @@ Instead it is a requirement that you say:
 
 As in English, there are forms which will not make sense when creating
 new words.
-

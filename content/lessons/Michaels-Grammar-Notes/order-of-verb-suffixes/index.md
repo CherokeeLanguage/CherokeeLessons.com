@@ -19,26 +19,26 @@ From Verb Stem to Final Position.
 
 <!-- more -->
 
-1. Again
+1.  Again
 
-2. Over and Over
+2.  Over and Over
 
-3. Causative OR Accidentally
+3.  Causative OR Accidentally
 
-4. Completely
+4.  Completely
 
-5. ToFor
+5.  ToFor
 
-6. Around
+6.  Around
 
-7. CameFor OR WentTo
+7.  CameFor OR WentTo
 
-8. AboutTo OR IntentTo
+8.  AboutTo OR IntentTo
 
-9. -Ꮚ
+9.  \-Ꮚ
 
-10. -ᏍᎪ
+10. \-ᏍᎪ
 
-11. -Ꮷ, -Ꭸ, -Ꮎ, -Ꮂ, -ᎢᏏ, -ᏗᎾ, -Ꮫ
+11. \-Ꮷ, -Ꭸ, -Ꮎ, -Ꮂ, -ᎢᏏ, -ᏗᎾ, -Ꮫ
 
 - This information needs verifying.

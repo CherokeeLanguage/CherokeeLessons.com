@@ -14,7 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/If-it…/"
 
 +++
-
 Add the prefix “Ᏹ-”.
 <!-- more -->
 Examples:
@@ -24,4 +23,3 @@ Examples:
   - ᏱᏁᎦ. “If you speak.”
 
   - ᏱᎧᏁᎦ. “If he/she speaks.”
-

@@ -14,33 +14,32 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Going-somewhere-to…--Andative---Departing-/"
 
 +++
-
 To indicate that someone went *departing* from the point of view in
 order to do something.
 
 This ending can also be used to indicate doing it at intervals
-<!-- more -->
+
 *These endings are only used for “going” to indicate change of location.
 Do not use these suffixes for the English idiom “going to” which means
 “will be”.*
-
+<!-- more -->
   - \-ᎡᎦ  
-    \[-e³ga\] “is going somewhere to …”
+    \[-e³ga\] “is going somewhere to…”
     
       - \-ᎥᏒᎢ  
-        \[-v³sv³ɂi\] “went somewhere to …” - *Uses “Set B”.*
+        \[-v³sv³ɂi\] “went somewhere to…” - *Uses “Set B”.*
     
       - \-ᎡᎪᎢ  
-        \[-e³go³ɂi\] “habitually goes somewhere to …”
+        \[-e³go³ɂi\] “habitually goes somewhere to…”
     
       - \-ᎤᎦ  
-        \[-u³ga\] “let go somewhere to …”
+        \[-u³ga\] “let go somewhere to…”
         
           - \-ᎡᎾ  
-            \[-e³na\] “just went somewhere to …”
+            \[-e³na\] “just went somewhere to…”
     
       - \-ᎥᏍᏗ  
-        \[-v³sdi\] “to go somewhere to …” - *Uses “Set B”.*
+        \[-v³sdi\] “to go somewhere to…” - *Uses “Set B”.*
 
 Examples:
 
@@ -92,4 +91,3 @@ Examples:
         to climb a tree periodically.”
         
           - *ᎤᎸᏒᎢ + ᎥᏍᏗ.*
-

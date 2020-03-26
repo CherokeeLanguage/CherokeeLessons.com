@@ -14,8 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Already-will-have…/"
 
 +++
-
-
   - Ꮒ- + Ꮥ- becomes ᏂᏗ-
 
 ☞ The Ꮒ- prefix can indicate “*will have already begun”* or *“will have
@@ -44,4 +42,3 @@ Examples:
         
           - *The concept of “when” is implied because we are talking
             about a first event in relation to a second event.*
-

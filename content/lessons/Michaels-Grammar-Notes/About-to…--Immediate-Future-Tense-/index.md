@@ -17,35 +17,34 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 
 To indicate that something is about to take place. Add the “-ᎢᏗ” suffix
 to the <span style="font-variant:small-caps;">Past Tense</span> form.
-<!-- more -->
+
 *Use “Set B” pronouns.*
 
   - \-ᎢᏗ  
-    \[-Ꭲ⁴Ꮧ\] “is just about to …”
+    \[-Ꭲ⁴Ꮧ\] “is just about to…”
     
       - \-ᎢᏗᏒᎢ  
-        \[-i²di²³sv²³ɂi\] “Was about to … a while ago.”
+        \[-i²di²³sv²³ɂi\] “Was about to… a while ago.”
     
       - \-ᎢᏗᏍᎪᎢ  
-        \[-i²di²³sgo³ɂi\] “Habitually is about …”
+        \[-i²di²³sgo³ɂi\] “Habitually is about…”
     
       - \-ᎢᏕᎾ  
-        \[-i²de⁴na\] “Let now be about to … ”
+        \[-i²de⁴na\] “Let now be about to… ”
 
 Additionally, the *Cherokee Messenger pg 95 “Immediate Future Tense”*,
 indicates that the suffix “-ᎢᏗ” may be used in combination with the
 “with intent” suffix (-ᎢᏐᎢ):
 
   - \-ᎢᏗᏐᎢ  
-    \[-i²di²³so³ɂi\] “Is just about to … (with intent) when … ”.
+    \[-i²di²³so³ɂi\] “Is just about to… (with intent) when… ”.
     
       - \-ᎢᏗᏒ  
-        \[-i²di²³sv\] “Was just about to … (with intent)”
+        \[-i²di²³sv\] “Was just about to… (with intent)”
     
       - \-ᎢᏗᏎᏍᏗ  
-        \[-i²di²³sẹ³sdi\] “Will be about to … (with intent)”
+        \[-i²di²³sẹ³sdi\] “Will be about to… (with intent)”
     
       - \-ᎢᏗᏒᎢ  
-        \[-i²di²³sv²³ɂi\] “(His) being about to … (with intent)” *Verbal
+        \[-i²di²³sv²³ɂi\] “(His) being about to… (with intent)” *Verbal
         Noun.*
-

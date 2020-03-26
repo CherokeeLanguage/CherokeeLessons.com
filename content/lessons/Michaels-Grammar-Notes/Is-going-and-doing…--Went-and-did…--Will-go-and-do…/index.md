@@ -14,14 +14,11 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Is-going-and-doing…--Went-and-did…--Will-go-and-do…/"
 
 +++
-
 Related to the previous discussion for “Going To” is the related idea of
 doing something when doing another thing. There are three main forms
 which cover “when he goes he does”, “when he went he did”, and “when he
 goes he will” which will be shown by example.
-
 <!-- more -->
-
 #### “go and do”
 
 This form is created replacing “-ᎥᎢ” with “-ᎡᎾ” \[-e³na\] on the
@@ -68,4 +65,3 @@ Example:
 
 *More details can be found in the second half of the paper “Cherokee
 Grammar Go Suffix ega” published by Dr. Wyman Kirk.*
-

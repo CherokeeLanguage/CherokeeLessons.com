@@ -14,7 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Causing…--Instrumental-Causative-/"
 
 +++
-
 To indicate that something is being caused to happen add one of the
 following special endings to the matching tense stem.
 <span style="font-variant:small-caps;">There is a special pronunciation
@@ -37,19 +36,19 @@ Use one of the following suffixes if the stem ends with a “a”, “e”, “i
 “sonorant” sounds.*
 
   - \-ᏍᏗᎭ  
-    \[-sdi²ha\] “is causing it to …”
+    \[-sdi²ha\] “is causing it to…”
 
   - \-ᏍᏓᏅᎢ  
-    \[-sdạ²nv²³ɂi\] “did cause it to …”
+    \[-sdạ²nv²³ɂi\] “did cause it to…”
 
   - \-ᏍᏗᏍᎪᎢ  
-    \[-sdi²sgo³ɂi\] “habitually causes it to be …”
+    \[-sdi²sgo³ɂi\] “habitually causes it to be…”
 
   - \-ᏍᏓ  
-    \[-sda\] “let cause it to …”
+    \[-sda\] “let cause it to…”
 
   - \-ᏍᏙᏗ  
-    \[-sdọ²di\] “to cause it to …”
+    \[-sdọ²di\] “to cause it to…”
 
 ### H-Form
 
@@ -58,20 +57,19 @@ use one of the following suffixes. *These are the harder “obstruent”
 sounds.*
 
   - \-ᏗᎭ  
-    \[-hdi²ha\] “is causing it to …”
+    \[-hdi²ha\] “is causing it to…”
 
   - \-ᏓᏅᎢ  
-    \[-hdạ²nv²³ɂi\] “did cause it to …”
+    \[-hdạ²nv²³ɂi\] “did cause it to…”
 
   - \-ᏗᏍᎪᎢ  
-    \[-hdi²sgo³ɂi\] “habitually causes it to be …”
+    \[-hdi²sgo³ɂi\] “habitually causes it to be…”
 
   - \-Ꮣ  
-    \[-hda\] “let cause it to …”
+    \[-hda\] “let cause it to…”
 
   - \-ᏙᏗ  
-    \[-hdọ²di\] “to cause it to …”
+    \[-hdọ²di\] “to cause it to…”
 
 *When this set is used, an ending “d” becomes “t”, an ending “g” becomes
 “k”, , and an ending “j” becomes “ch”.*
-

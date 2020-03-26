@@ -14,7 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/If-it-should--in-the-future-…/"
 
 +++
-
 Add “Ᏼ-” to the <span style="font-variant:small-caps;">Ꮯompletive
 Future</span> form.
 <!-- more -->
@@ -25,4 +24,3 @@ Examples:
   - ᏴᏘᏁᏥ. “If you should speak…”
 
   - ᏴᏓᎧᏁᏥ. “If he/she should speak…”
-

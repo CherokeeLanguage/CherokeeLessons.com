@@ -14,8 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes", "Adjectives", "Adverbs"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Creating-descriptive-words-----Ꭵ-Ꭲ-/"
 
 +++
-
-
 If you want to be able to describe something based on a state of being,
 like “jumpy” for “jumping” or “hungry” for “is hungry”, you can often
 take the *Past Tense* form and use the suffix “-Ꭵ⁴Ꭲ”. These new word
@@ -49,4 +47,3 @@ Examples:
 
 *While not all verbs can be turned into descriptive words this way, many
 can.*
-

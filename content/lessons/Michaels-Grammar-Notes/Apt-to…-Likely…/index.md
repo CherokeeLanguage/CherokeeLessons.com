@@ -14,28 +14,26 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Apt-to…-Likely…/"
 
 +++
-
 Take the <span style="font-variant:small-caps;">past tense</span> form
 and add one of the following suffixes.. *Uses “Set B” pronouns.*
 <!-- more -->
   - \-ᎠᏔ  
-    “is apt to …”
+    “is apt to…”
 
   - \-ᎠᏛ  
-    “was apt to …”
+    “was apt to…”
     
       - \-ᎠᏛᎩ  
-        “was (consciously) apt to …”
+        “was (consciously) apt to…”
     
       - \-ᎠᏕᎢ  
-        “was (unconsciously) apt to …”
+        “was (unconsciously) apt to…”
 
   - \-ᎠᏙᎢ  
-    “habitually is apt to …”
+    “habitually is apt to…”
     
       - \-ᎠᏖᏍᏗ  
-        “will be apt to …”
+        “will be apt to…”
 
   - \-ᎠᏛᎢ  
-    “aptness to …”
-
+    “aptness to…”

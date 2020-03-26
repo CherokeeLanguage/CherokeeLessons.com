@@ -14,26 +14,23 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Come-in-order-to…--Venitive---Approaching-/"
 
 +++
-
-
 To indicate that someone came *approaching* the point of view in order
 to do something.
 <!-- more -->
   - \-ᎢᎦ  
-    \[-i³ga\] “is coming in order to …”
+    \[-i³ga\] “is coming in order to…”
     
       - \-ᎢᎸᎢ  
-        \[-i²³ḥlv²³ɂi\] “came in order to …” *This is a soft “h” and
+        \[-i²³ḥlv²³ɂi\] “came in order to…” *This is a soft “h” and
         does not cause lv (Ꮈ) to become hlv (Ꮲ).*
     
       - \-ᎢᎯᎰᎢ  
-        \[-i²³hị³ho³ɂi\] “habitually comes in order to …”
+        \[-i²³hị³ho³ɂi\] “habitually comes in order to…”
     
       - \-ᎢᎦ  
-        \[-i²ga\] “let come in order to …”
+        \[-i²ga\] “let come in order to…”
     
       - \-ᎢᏍᏗ  
-        \[-ị²sdi\] “to come in order to …”
+        \[-ị²sdi\] “to come in order to…”
 
 *May be attached to causative.*
-

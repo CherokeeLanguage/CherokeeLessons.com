@@ -14,7 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Done-unto…-That-which-is-done…/"
 
 +++
-
 If you want to refer to the act of doing something as a generic concept,
 like how “speech” is the result of “speaking” and “talk” is the result
 of “talking”, you take the bound pronoun prefix from the present tense
@@ -84,4 +83,3 @@ when to do so is best learned by listening to long time speakers.*
 
 As in English, there are some forms which will not make sense when
 creating new words.
-

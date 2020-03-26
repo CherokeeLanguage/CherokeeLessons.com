@@ -14,13 +14,11 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/If-have…/"
 
 +++
-
 Add the prefix “Ᏹ-” to any of the
 <span style="font-variant:small-caps;">Completive Past</span> forms.
-
+<!-- more -->
   - ᏯᎩᏁᏨ. “If I have spoken.”
 
-  - ᏯᏣᏁᏨ. “If you have spoken.”
+  - ᏯᏣᏁᏨ. ��If you have spoken.”
 
   - ᏳᏁᏨ. “If he/she has spoken.”
-

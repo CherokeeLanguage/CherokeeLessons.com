@@ -14,7 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Again--Duplicative-/"
 
 +++
-
 To indicate that something is being done “again” you take the
 <span style="font-variant:small-caps;">past tense</span> form and add
 one of the following special “again” endings. *These endings are only
@@ -22,22 +21,22 @@ for “again”, not “repeatably”. Uses “Set A” or “Set B” prefixes 
 parent verb.*
 <!-- more -->
   - \-ᎢᏏᎭ  
-    \[-i²³sị³ha\] “is … again”
+    \[-i²³sị³ha\] “is… again”
 
   - \-ᎢᏌᏅᎢ  
-    \[-i²²sa³hnv³ɂi\] “did … again”
+    \[-i²²sa³hnv³ɂi\] “did… again”
     
       - \-ᎢᏏᎸᎢ  
-        \[-i²si²lv³ɂi\] “did … again”
+        \[-i²si²lv³ɂi\] “did… again”
 
   - \-ᎢᏏᏍᎪᎢ  
-    \[-i²³si³²sgo³ɂi\] “habitually …-ing again”
+    \[-i²³si³²sgo³ɂi\] “habitually…-ing again”
 
   - \-ᎢᏌ  
-    \[-i²³sa\] “let … again”
+    \[-i²³sa\] “let… again”
 
   - \-ᎢᏐᏗ  
-    \[-i²³soh²di\] “to … again”
+    \[-i²³soh²di\] “to… again”
 
 Examples:
 
@@ -89,4 +88,3 @@ Examples:
 
 *More details can be found in the “Cherokee Reference Grammer (2015) -
 Brad Montgomery-Anderson”, pp384-385.*
-

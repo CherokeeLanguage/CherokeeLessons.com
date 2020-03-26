@@ -14,7 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/If-about-to…/"
 
 +++
-
 Add the prefix “Ᏹ-” to any of the “Is about to” forms.
 <!-- more -->
   - ᏯᎩᏁᏥᏗ. “If I am about to speak.”
@@ -22,4 +21,3 @@ Add the prefix “Ᏹ-” to any of the “Is about to” forms.
   - ᏱᏣᏁᏥᏗ. “If you are about to speak.”
 
   - ᏳᏁᏥᏗ. “If he/she is about to speak.”
-

@@ -14,7 +14,6 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 #featured_image = "lessons/Michaels-Grammar-Notes/Completely…-To-finality…--Terminative---Completive-/"
 
 +++
-
 To indicate “has been done to completion” take the
 <span style="font-variant:small-caps;">past tense</span> form and add
 one of the following special endings.
@@ -33,4 +32,3 @@ one of the following special endings.
     
       - \-ᎣᎲᏍᏗ  
         \[-ọ²hṿ²sdi\] “to completely… ”
-
