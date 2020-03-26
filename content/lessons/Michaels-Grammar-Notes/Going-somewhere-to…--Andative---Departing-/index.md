@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2020-03-25T17:12:30Z
 title = "Going somewhere to… (Andative) (Departing)"
 weight = 1585156350

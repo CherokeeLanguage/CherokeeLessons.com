@@ -53,3 +53,8 @@ tags = ["Verbs", "Suffixes", "Infixes"]
 
 EOT
 ) > "$folder/index.md"
+
+cp -v fix-image-links.sh "$folder/"
+chmod +x "$folder/fix-image-links.sh"
+
+xdg-open "$folder/index.md"
