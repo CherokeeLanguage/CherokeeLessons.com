@@ -12,5 +12,5 @@ perl -p -i -e 's/\\uline\{/\\emph\{/g' "$FILE".tex.tmp
 perl -p -i -e 's/\\label\{[^}]*?\}//g' "$FILE".tex.tmp
 perl -p -i -e 's/\\begin\{multicols\}.*$//g' "$FILE".tex.tmp
 perl -p -i -e 's/\\end\{multicols\}//g' "$FILE".tex.tmp
-pandoc -o "$FILE".md --to=commonmark --from=latex "$FILE".tex.tmp
+pandoc -o "$FILE".md.text --to=commonmark --from=latex "$FILE".tex.tmp
 rm "$FILE".tex.tmp
