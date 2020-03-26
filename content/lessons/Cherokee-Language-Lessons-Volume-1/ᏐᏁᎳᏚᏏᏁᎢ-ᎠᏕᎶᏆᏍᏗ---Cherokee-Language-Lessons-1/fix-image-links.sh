@@ -4,8 +4,6 @@ set -e
 set -o pipefail
 trap 'echo error; read a' ERR
 
-cd "$(dirname "$0")"
-
 src="${HOME}/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1/"
 
 (grep '!\[image\](' index.md 2> /dev/null || true) | while read line; do

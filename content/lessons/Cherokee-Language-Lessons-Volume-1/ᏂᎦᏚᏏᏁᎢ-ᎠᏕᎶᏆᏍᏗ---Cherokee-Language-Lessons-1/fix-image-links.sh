@@ -4,8 +4,6 @@ set -e
 set -o pipefail
 trap 'echo error; read a' ERR
 
-cd "$(dirname "$0")"
-
 src="${HOME}/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1/"
 
 (grep '!\[image\](' index.md 2> /dev/null || true) | while read line; do
@@ -14,7 +12,11 @@ src="${HOME}/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1/"
         name="$(echo "$line "|cut -f 1 -d ' ')"
         line="$(echo "$line "|cut -f 2 -d ' ')"
         localname="$(echo "$name"|sed 's|/|-|g'|sed 's| |_|g')"
+        dir="$(dirname "$name")"
         echo "- $name"
+        if [ ! -d "$dir" ]; then
+            mkdir -p "$dir"
+        fi
         png="$name".png
         jpg="$name".jpg
         if [ -f "${src}$png" ]; then
