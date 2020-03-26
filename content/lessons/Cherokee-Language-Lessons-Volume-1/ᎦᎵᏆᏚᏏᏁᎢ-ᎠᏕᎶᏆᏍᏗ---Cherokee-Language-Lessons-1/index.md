@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2020-03-26T17:49:31Z
 title = "ᎦᎵᏆᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ"
 weight = 1585244970
