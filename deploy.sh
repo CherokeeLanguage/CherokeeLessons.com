@@ -13,6 +13,8 @@ rm -rf public
 zola build
 
 FROM="./public/"
-DEST="clcom@cherokeelessons.com:./www.CherokeeLessons.com/public_html/"
 
+cp content/.htaccess "$FROM/"
+
+DEST="clcom@cherokeelessons.com:./www.CherokeeLessons.com/public_html/"
 rsync --progress -a --delete-after -z --verbose --human-readable "$FROM" "$DEST"
