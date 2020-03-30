@@ -2,7 +2,7 @@
 date = 2020-03-21
 title="Language Lesson Materials"
 
-aliases = ["/phpBB3/viewforum.php", "/phpBB3/viewtopic.php"]
+aliases = []
 [extra]
 
 +++
