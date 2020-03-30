@@ -29,7 +29,9 @@ zulma_brand = {text="Cherokee Lessons"}
 zulma_theme = "superhero"
 zulma_allow_theme_selection = true
 zulma_menu = [
-  {url = "/apps", name = "Apps"},
-  {url = "/books", name = "Books and eBooks"},
-  {url = "/lessons", name = "Language Lessons"}
+  {url = "/apps/", name = "Apps"},
+  {url = "/books/", name = "Books and eBooks"},
+  {url = "/lessons/", name = "Language Lessons"},
+  {url = "/html-books/", name = "Online Books"},
+  {url = "/virtual-classrooms/", name = "Virtual Classrooms"}
 ]
