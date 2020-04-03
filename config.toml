@@ -15,7 +15,7 @@ taxonomies = [
 
 compile_sass = true
 
-hard_link_static = true
+hard_link_static = false
 
 [slugify]
 paths = "safe"
