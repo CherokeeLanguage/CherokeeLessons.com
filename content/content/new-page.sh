@@ -13,7 +13,9 @@ if [ "$1"x = "x" ]; then
 fi
 
 title="$1"
+
 folder="${title//[^Ꭰ-Ᏼ[:digit:][:alpha:]]/-}"
+folder="$(echo "$folder"| tr '[:upper:]' '[:lower:]')"
 
 echo $title
 echo $folder

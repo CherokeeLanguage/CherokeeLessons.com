@@ -16,4 +16,5 @@ Here you will find various online lesson materials.
 * [Cherokee Language Lessons - Volume 1](Cherokee-Language-Lessons-Volume-1/)
 * [Syllabary Dictation Exercises](Syllabary-Dictation/)
 * [Grammar Notes for Translating from English into Cherokee](Michaels-Grammar-Notes/)
-
+* [Cherokee Language Grammar from the Cherokee Messenger](Cherokee-Language-Grammar---Cherokee-Messenger-1844-1846/)
+#* [Cherokee Language Grammar from the CED](https://cherokeedictionary.net/grammar)
