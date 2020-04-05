@@ -12,7 +12,7 @@ tags = []
 
 [extra]
 
-featured_image="lessons/Cherokee-Language-Grammar---Cherokee-Messenger-1844-1846/syllabary-chart.jpg"
+featured_image="content/Cherokee-Language-Grammar---Cherokee-Messenger-1844-1846/syllabary-chart.jpg"
 
 +++
 ## Cherokee Language Grammar
