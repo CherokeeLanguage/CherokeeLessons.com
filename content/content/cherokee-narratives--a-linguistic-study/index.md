@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2020-04-05T16:23:59Z
 title = "Cherokee Narratives: A Linguistic Study"
 weight = 1586103830
