@@ -15,6 +15,7 @@ fi
 subtitle="$1"
 title="$subtitle / Online eBooks"
 folder="${subtitle//[^Ꭰ-Ᏼ[:digit:][:alpha:]]/-}"
+folder="$(echo "$folder"|tr '[:upper:]' '[:lower:]')"
 
 echo $title
 echo $folder

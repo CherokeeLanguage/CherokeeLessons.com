@@ -1,0 +1,251 @@
+%% LyX 2.3.4.2 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\RequirePackage{fixltx2e}
+\documentclass[12pt,american]{book}
+\usepackage{fontspec}
+\setmainfont[Mapping=tex-text,Numbers=OldStyle]{FreeSerif}
+\setsansfont[Mapping=tex-text]{FreeSans}
+\setmonofont{FreeMono}
+\usepackage[paperwidth=6in,paperheight=9in]{geometry}
+\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=0.75in}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{1}
+\usepackage{url}
+\usepackage[unicode=true,
+ bookmarks=true,bookmarksnumbered=true,bookmarksopen=false,
+ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=false]
+ {hyperref}
+\hypersetup{pdftitle={Michael's Second Cherokee Reader},
+ pdfauthor={Michael Joyner},
+ pdfsubject={Cherokee Language},
+ unicode=true,hypertexnames=false}
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+\XeTeXdashbreakstate 0
+\newcommand{\noun}[1]{\textsc{#1}}
+\providecommand\textquotedblplain{%
+  \bgroup\addfontfeatures{Mapping=}\char34\egroup}
+%% Special footnote code from the package 'stblftnt.sty'
+%% Author: Robin Fairbairns -- Last revised Dec 13 1996
+\let\SF@@footnote\footnote
+\def\footnote{\ifx\protect\@typeset@protect
+    \expandafter\SF@@footnote
+  \else
+    \expandafter\SF@gobble@opt
+  \fi
+}
+\expandafter\def\csname SF@gobble@opt \endcsname{\@ifnextchar[%]
+  \SF@gobble@twobracket
+  \@gobble
+}
+\edef\SF@gobble@opt{\noexpand\protect
+  \expandafter\noexpand\csname SF@gobble@opt \endcsname}
+\def\SF@gobble@twobracket[#1]#2{}
+
+\@ifundefined{date}{}{\date{}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+\usepackage{multicol}
+\usepackage{wallpaper}
+
+\AtBeginDocument{
+  \def\labelitemi{\large\(\bullet\)}
+  \def\labelitemii{\large\normalfont\bfseries{--}}
+  \def\labelitemiii{\large\(\ast\)}
+  \def\labelitemiv{\large\(\cdot\)}
+}
+
+\makeatother
+
+\usepackage{polyglossia}
+\setdefaultlanguage[variant=american]{english}
+\begin{document}
+\begin{sloppy}
+
+\frontmatter{}
+
+\pagestyle{empty}
+
+%\ThisCenterWallPaper{.7}{images/front-page-syllabary-sequoyah-40.png}
+\title{ᎹᎦᎵ ᏔᎵᏁ ᏣᎳᎩ ᎠᎪᎵᏰᏗ\\
+\rule[0.5ex]{1\linewidth}{1pt}\\
+Michael’s Second Cherokee Reader}
+\author{Michael W S Joyner}
+
+\maketitle
+\cleardoublepage{}
+
+~
+
+\clearpage{}
+
+\vspace*{\fill}
+
+ᎹᎦᎵ ᏔᎵᏁ ᏣᎳᎩ ᎠᎪᎵᏰᏗ
+
+Michael’s Second Cherokee Reader
+
+Copyright 2014, Michael Joyner
+
+ISBN: 978-X-XXX-XXXXX-X
+
+This work is licensed under the \noun{Creative Commons Attribution-Share
+Alike 3.0 United States License}.
+
+\$Revision: 1.49 \$
+
+\$Date: 2014/09/12 03:29:27 \$ UTC
+
+\cleardoublepage{}
+
+\tableofcontents{}
+
+\cleardoublepage{}
+
+\vspace*{\fill}
+
+\noindent \begin{center}
+\includegraphics[width=0.99\columnwidth,height=0.99\paperheight,keepaspectratio]{../Michaels-Cherokee-Reader/artwork/syllabarychart}
+\par\end{center}
+
+\vspace*{\fill}
+
+\cleardoublepage{}
+
+\pagestyle{plain}
+
+\mainmatter{}
+
+\include{preface}
+
+\chapter{ᎠᏂᏦᎢ ᏧᎾᏍᏗ ᏏᏆ}
+
+ᏧᏟᎢᎸᏔᏅ ᎠᏂᏦᎢ ᏧᎾᏍᏗ ᏏᏆ ᎨᏎ. ᏧᎬᏩᎶᏗ ᎤᏂᏯᎸᏎ. ᎢᎬᏱ ᏏᏆ ᎠᎴ ᎠᏍᎦᏯ ᏚᎾᏠᏎ. ᎢᎦᏓ ᏂᏕᎦᏛᎥ
+ᎧᏁᏍᎦ ᏚᎾᎡ Ꮎ ᎠᏍᎦᏯ ᎠᎴ ᏏᏆ ᎤᏛᏁ:—
+
+“ᎰᏍᏓ ᎠᏍᎦᏯ, ᎢᎦᏓ ᎧᏁᏍᎦ ᏗᏍᎬᏏ ᎦᎵᏦᏕ ᎠᏆᏁᏍᎨᏗ ᎠᏆᏚᎵ.”
+
+ᎢᏳᏍᏗ ᎠᏍᎦᏯ ᏄᏛᏁᎴ ᎠᎴ Ꮎ ᎤᏍᏗ ᏏᏆ ᎤᏤᎵ ᎦᎵᏦᏕ ᎤᏁᏍᎨᎮ ᎬᏗ ᎧᏁᏍᎦ. ᎩᎳᏊ ᏩᎭᏯ ᎤᎷᏤ ᎤᎿ.
+ᎦᎶᎯᏍᏗ ᎤᏩᏂᎴ ᎠᎴ ᎤᏛᏁ:—
+
+“ᎤᏍᏗ ᏏᏆ, ᎤᏍᏗ ᏏᏆ, ᏥᏴᎭ!”
+
+Ꮎ ᎤᏍᏗ ᏏᏆ ᎤᏬᎯᎵᏴᏎ:—
+
+“ᎥᏝ! ᎥᏝ! ᏣᏲ ᏩᎭᏯ! ᎬᏚᎢᏍᏗᎮ ᎥᏝ!”
+
+ᎾᎯᏳᏃ ᏩᎭᏯ ᎤᏬᎯᎵᏴᏎ:—
+
+“ᎥᏍᎩᏅᏳᏍᏗ, ᏛᏦᏔᎯ ᎠᎴ ᏛᏦᏔᎯ! ᎾᎯᏳ ᏣᏤᎵ ᎦᎵᏦᏕ ᏓᏲᏥ!”
+
+ᎾᎯᏳᏃ ᎤᏦᏔᎮ ᎠᎴ ᎤᏦᏔᎮ ᎠᎴ ᎦᎵᏦᏕ ᎤᏲᏤ ᏃᏊᎴ ᏩᎭᏯ ᎢᎬᏱ ᏏᏆ ᎤᏩᏯᎡᎾ.
+
+Ꮎ ᏔᎵᏁ ᎤᏍᏗ ᏏᏆ ᎠᎨᏯ ᏚᎾᏠᏎ. ᎢᎦᏓ ᎠᏓ ᏚᏩᏰ ᎠᎴ ᏏᏆ ᎤᏛᏁ:—
+
+“ᎰᏍᏓ ᎠᎨᏯ, ᎢᎦᏓ ᎠᏓ ᏗᏍᎩᎥᏏ ᎦᎵᏦᏕ ᎠᏆᏁᏍᎨᏗ ᎠᏆᏚᎵ.”
+
+ᎢᏳᏍᏗ ᎠᎨᏯ ᏄᏛᏁᎴ ᎠᎴ Ꮎ ᎤᏍᏗ ᏏᏆ ᎤᏤᎵ ᎦᎵᏦᏕ ᎤᏁᏍᎨᎮ. ᎾᎯᏳ ᏩᎭᏯ ᎤᎷᏤ ᎤᎿ ᎠᎴ ᎤᏛᏁ:—
+
+“ᎤᏍᏗ ᏏᏆ, ᎤᏍᏗ ᏏᏆ, ᏥᏴᎭ!”
+
+“ᎥᏝ! ᎥᏝ! ᏣᏲ ᏩᎭᏯ! ᎬᏚᎢᏍᏗᎮ ᎥᏝ!”
+
+“ᎥᏍᎩᏅᏳᏍᏗ, ᏛᏦᏔᎯ! ᏛᏦᏔᎯ! ᎠᎴ ᏣᏤᎵ ᎦᎵᏦᏕ ᏓᏲᏥ ᎢᏳᏍᏗ ᏛᏦᏔᎯ!”
+
+ᎾᎯᏳ ᎤᏦᏔᎮ ᎠᎴ ᎤᏦᏔᎮ ᏃᏊᎴ ᎤᏦᏔᎮ ᎠᎴ ᎤᏦᏔᎮ ᎾᎯᏳ ᎦᎵᏦᏕ ᎤᏲᏤ ᎠᎴ ᏩᎭᏯ ᏔᎵᏁ ᏏᏆ ᎤᏩᏯᎡ.
+
+Ꮎ ᏦᎢᏁ ᎤᏍᏗ ᏏᏆ ᎠᏍᎦᏯ ᏚᎾᏠᏎ. ᎢᎦᏓ ᏅᏯ ᏗᏛᏓᏅ ᏥᏚᎮ. ᎤᏍᏗ ᏏᏆ ᎤᏛᏁ:—
+
+“ᎰᏍᏓ ᎠᏍᎦᏯ, ᎢᎦᏓ ᏅᏯ ᏗᏛᏓᏅ ᏍᎩᎥᏏ ᎢᏳᏍᏗ ᎦᎵᏦᏕ ᎠᏆᏁᏍᎨᏗ ᎠᏆᏚᎵ.”
+
+ᎢᏳᏍᏗ ᎠᏍᎦᏯ ᎤᏍᏗ ᏏᏆ ᏚᏁᎴ ᎢᎦᏓ ᏅᏯ ᏗᏛᏓᏅ ᎠᎴ ᏏᏆ ᎤᏤᎵ ᎦᎵᏦᏕ ᎤᏁᏍᎨᎮ ᎬᏗ ᎥᏍᎩᎾ. ᎾᎯᏳ
+ᏩᏯᎭ ᎤᎷᏤ ᎤᎿ ᎢᏳᏍᏗ ᏥᏂᏚᏛᏁᎴ ᎠᎴ ᎤᏛᏁ:—
+
+“ᎤᏍᏗ ᏏᏆ, ᎤᏍᏗ ᏏᏆ, ᏥᏴᎭ!”
+
+“ᎥᏝ! ᎥᏝ! ᏣᏲ ᏩᎭᏯ! ᎬᏚᎢᏍᏗᎮ ᎥᏝ!”
+
+“ᎥᏍᎩᏅᏳᏍᏗ, ᏛᏦᏔᎯ! ᏛᏦᏔᎯ! ᎠᎴ ᏣᏤᎵ ᎦᎵᏦᏕ ᏓᏲᏥ ᎢᏳᏍᏗ ᏛᏦᏔᎯ!”
+
+ᎾᎯᏳ ᎤᏦᏔᎮ ᎠᎴ ᎤᏦᏔᎮ ᎠᏎᏃ ᎥᏝ ᎦᎵᏦᏕ ᏳᏲᏤ ᏍᎩᏅᏳᏍᏗ ᏏᏊ ᎤᏦᏔᎮ ᎠᎴ ᎤᏦᏔᎮ ᎠᏎᏃ Ꮟ ᎥᏝ ᎦᎵᏦᏕ
+ᏳᏲᏤ. ᎾᎯᏳ ᎤᏬᎵᏤ ᎥᏍᎩᎾ ᎥᏝ ᎦᎵᏦᏕ ᏱᏛᏲᏥ ᎠᎴ ᎤᏛᏁ:—
+
+“ᎤᏍᏗ ᏏᏆ, ᎾᎿ ᎠᏆᏅᏔ ᎣᏍᏓ ᏕᏈᏌᏂ ᏠᎨᏏ.”
+
+“ᎭᏢ?” ᎤᏛᏁ Ꮎ ᎤᏍᏗ ᏏᏆ.
+
+“Ꭳ, ᎠᎨ ᏥᏍᏚ ᎤᏤᎵ ᏠᎨᏏ, ᎠᎴ ᏑᎾᎴ ᏱᏔᏛᏅᎢᏍᏔᏂ ᎠᎭᏂ ᏓᏥᎷᏥ ᎠᎴ ᎢᎦᏓ ᏙᏓᏂᎩᏎᏏ.”
+
+“ᎰᏩᏊ,” ᎤᏛᏁ Ꮎ ᎤᏍᏗ ᏏᏆ, “ᏓᎦᏛᏅᎢᏍᏔᏂ. ᎯᎳ ᎠᏟᎢᎵ ᎩᏂᏅᏍᏗ ᏣᏚᎵ?”
+
+“Ꭳ, ᏑᏓᎵ ᎢᏳᏩᏂᎸ.”
+
+ᎾᎯᏳᏃ ᎨᏎ Ꮎ ᎤᏍᏗ ᏏᏆ ᎯᏍᎩ ᏑᎾᎴ ᎤᏗᏛᎮ ᎠᎴ ᏕᏈᏌᏂ ᏫᏚᎩᏎᎾ ᎢᎬᏱ ᏩᎭᏯ ᎤᎷᏤ (Ꮲ ᏑᏓᎵ ᏧᎷᏤ)
+ᎠᎴ ᏧᏛᏁ:—
+
+“ᎤᏍᏗ ᏏᏆ, ᏣᏛᏅᎢᏍᏔᏁᏍ?”
+
+Ꮎ ᎤᏍᏗ ᏏᏆ ᎤᏛᏁ: “ᎠᏆᏛᏅᎢᏍᏔᏁᏍ? ᎦᏳᎳ ᏫᏓᎩᏎᎾ. ᎤᏔᎾ ᎧᎵ ᏧᎳᏍᎩ! ᎣᏍᏓ ᏓᎦᎵᏍᏓᏴᏂ!”
+
+Ꮎ ᏩᎭᏯ ᎤᎿᎸᏤ ᎠᏎᏃ ᎤᏓᏅᏖᏞ, “Ꮟ ᏓᏥᎶᎾᏍᏔᏂ”, ᎾᎯᏳ ᎤᏛᏁ:—
+
+“ᎤᏍᏗ ᏏᏆ, ᎾᎿ ᎠᏆᏅᏔ ᎣᏍᏓ ᏒᎦᏔ ᏡᎬ.”
+
+“ᎭᏢ?” ᎤᏛᏁ Ꮎ ᏏᏆ.
+
+“ᏌᎶᎵ ᎤᏤᎵ ᏠᎨᏏ,” ᏩᎭᏯ ᎤᏁᏤ, “ᎠᎴ ᎥᏝ ᏱᏓᏍᎩᎶᎾᏍᏔᏂ ᎾᎯᏳ ᎠᎭᏂ ᏓᎦᎷᏥ ᎯᏍᎩ
+ᏑᎾᎴ ᎠᎴ ᎢᎦᏓ ᏒᎦᏔ ᏙᏓᏂᎩᏎᏏ.”
+
+ᎢᏳᏍᏗ ᏅᎩ ᏑᎾᎴ Ꮎ ᎤᏍᏗ ᏏᏆ ᎤᏗᏛᎮ ᎢᎬᏱ ᏩᎭᏯ ᎤᎷᎯᏍᏗ ᏧᎩᏍᏗ ᎤᏚᎵᎮ Ꮎ ᏏᏆ ᏍᎩᏅᏳᏍᏗ ᎦᏯᏄᎵ
+ᏒᎦᏔ ᏚᎩᏒᏎ ᎠᏎᏃ ᎢᏂᎨᎢ ᎨᏎ ᎠᎴ ᎠᏎ ᏡᎬ ᎤᎸᏍᏗ ᎨᏎ. ᎥᏍᎩᎾ ᎢᏴ ᎡᎳᏗ ᎤᎷᏎ ᏩᎭᏯ ᎦᎷᎨ ᎤᎪᎮ.
+ᎤᏍᎦᎴ. ᏩᎭᏯ ᎤᎷᏤ ᎤᏛᏁᏃ:—
+
+“ᎤᏍᏗ ᏏᏆ, ᎦᏙ!?! ᏂᎯᏧ ᏣᎷᏤ ᎢᎬᏱ ᎠᏴ? ᎠᏃᏍᏓᏍ ᏒᎦᏔ?”
+
+“ᎥᎥ, ᎠᏃᏍᏓᏒᎢ,” ᎤᏛᏁ ᎤᏍᏗ ᏏᏆ. “ᎡᎳᏗ ᏌᏊ ᏓᎬᏗᏅᏎᎵ.”
+
+ᎾᎯᏳᏃ ᎢᎾᏒᎢ ᎤᏗᏅᏎ. ᏩᎭᏯ ᎠᎩᏍᎨ Ꮎ ᎤᏍᏗ ᏏᏆ ᏧᏪᏅᏒᎢ ᏗᏜ ᎤᎵᏘᏎ. ᏐᎢ ᎢᎦ Ꮎ ᏩᎭᏯ ᎤᎷᏤ ᎤᏛᏁᏃ:—
+
+“ᎤᏍᏗ ᏏᏆ, ᏛᎾᏓᏟᏌᏂ ᎦᏚᎲ ᏒᎯᏰᏱ ᏗᏜ; ᏫᏖᏅᏏᏍ?”
+
+“Ꭳ, Ꭵ,” ᎤᏛᏁ Ꮎ ᏏᏆ, “ᏫᏓᎨᏅᏏ; ᎯᎳ ᎠᏟᎢᎵ ᏔᏛᏅᎢᏍᏔᏂ?”
+
+“Ꮶ ᎠᏟᎢᎵ,” ᎤᏛᏁ ᏩᎭᏯ. ᎢᏳᏍᏗ ᎤᏍᏗ ᏏᏆ ᎤᏪᏅᏎ ᎢᎬᏱ ᏩᎭᏯ ᎠᎴ ᏗᎦᏚᎲ ᎤᎷᏤ. ᎾᎯᏳ
+ᎠᏓᎾᏁᏒᎲᏍᎨ ᎠᎴ ᏒᏙᏂ ᎤᏩᏎ. ᎾᎯᏳ ᏏᏆ ᏩᎭᏯ ᎤᎪᎮ. “Ꭳ! ᎦᏙ ᏓᎦᏛᏁᎵ?” ᎤᏓᏅᏖᏞ. ᎦᏯᏄᎵ
+ᏒᏙᏂ ᏧᏣᏁ ᎾᎯᏳᏃ ᎤᏰᎶᎢᏍᏗ ᏒᏙᏂ ᎤᏅᏤ ᎠᎴ ᎡᎳᏗ ᎦᏚᏏ Ꮎ ᏏᏆ ᎠᎴ Ꮎ ᏒᏙᏂ ᎤᏁᏅᏎ ᎠᎾᏗᏆᎸᏕᏲᎮ.
+ᏩᎭᏯ ᎤᎪᎮ ᎠᎴ ᎤᏍᎦᎴ. ᎾᎯᏳ ᏧᏪᏅᏒᎢ ᏧᎵᏘᏎ. ᎩᎳᏊ ᎢᏴ ᏏᏆ ᏧᏪᏅᏒᎢ ᎤᏪᏅᏎ Ꮎ ᏩᎭᏯ ᎠᎴ ᎤᏃᎮᏞ
+ᎥᏍᎩᎾ ᎡᏆ ᎠᏗᏆᎸᏕᏲᎯ ᎨᏒ ᎠᎴ ᏩᎭᏯ ᎠᏍᎦᎯ ᎨᏎ ᎠᎴ ᎥᏍᎩᎾ ᎤᎵᏘᏎ. ᎾᎯᏳ ᎤᏍᏗ ᏏᏆ ᎤᏛᏁ:—
+
+“Ꭽ! ᎯᏍᎦᎯ! ᎠᏴ ᎬᏍᎦᎸᏍᏓᏅ. ᏒᏙᏂ ᎠᏆᏒ ᎾᎯᏳ ᎬᎪᎲ ᎠᎴ ᏒᏙᏂ ᎠᏆᏣᏅ ᎩᎳᏊ ᎢᏴ ᏒᏙᏂ ᎦᏅᎩ
+ᎨᏒ ᎠᎴ ᎠᎦᏐᏍᎬᎢ ᎡᎩ ᎨᏒ. ᎦᏣᎥᏍᎩ ᎨᏒ ᎠᎴ ᏂᎯ ᎠᎩᎶᏒ!”
+
+ᎾᎯᏳᏃ Ꮎ ᏩᎭᏯ ᎤᏔᎾ ᎤᎿᎸᏤ ᎠᎴ ᏏᏆ ᏧᏬᏎᎴ, “ᏣᏲᏒᎢ ᏏᏆ! ᏓᎬᏯᏯᎢ! ᎡᎳᏗ ᎠᎱᏣᏬᎳᏛᎢ ᏓᏥᎸᏏ!”
+
+ᏃᏊ Ꮎ ᏏᏆ ᏓᏈᏌᏂ ᏧᎳᏍᎩ ᏚᏩᏂᏍᏔᏁ ᎤᎿ ᏗᎪᏛᏙᏗ. ᎦᏯᏄᎵ ᏧᎳᏍᎩ ᎤᏍᏚᎢᏎ ᎠᎴ ᏩᎭᏯ ᏧᎳᏍᎩᎢ ᎤᎶᏎ!
+ᎦᏯᏄᎵ ᏧᎳᏍᎩ ᎤᏭᏢᏁ ᏩᎭᏯ ᎤᏣᎢ ᎨᏎ. Ꮎ ᎤᏍᏗ ᏏᏆ ᏩᎭᏯ ᎤᏩᏂᏍᏔᏁ ᎠᎴ ᏧᏩᏯᎡ.
+
+\clearpage{}
+\begin{center}
+\includegraphics[width=0.99\columnwidth,height=0.99\paperheight,keepaspectratio]{src.jpg/004}
+\par\end{center}
+
+\clearpage{}
+
+\chapter{ᏦᎢ ᏲᎾ}
+
+ᏌᏊ ᎢᏳᏩᎦᏗ ᏦᎢ ᏲᎾ ᎨᏎ. ᎢᎾᎨᎢ ᎾᎥ ᎦᎵᏦᏕ ᎠᏁᎯ. ᎢᎬᏱᎢ ᎤᏍᏗᏒ ᏲᎾ, ᏐᎢ ᎠᏰᏟ ᎤᏔᎾ ᏲᎾ,
+ᏦᎢᏁ ᎡᏆᏒᎢ ᏲᎾ. 
+
+\include{vocabulary}
+
+\include{grammar}
+
+\include{also-by}
+
+\include{creative-commons}
+
+\end{sloppy}
+\end{document}
