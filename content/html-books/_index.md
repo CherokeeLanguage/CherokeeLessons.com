@@ -1,10 +1,10 @@
 +++
-paginate_by = 1
+paginate_by = 3
 insert_anchorLinks = "right"
 title="Online Books"
 description="HTML Book Versions for Online Reading"
 
-sort_by = "weight"
+sort_by = "date"
 paginate_path = "ebook"
 render = true
 transparent = true
