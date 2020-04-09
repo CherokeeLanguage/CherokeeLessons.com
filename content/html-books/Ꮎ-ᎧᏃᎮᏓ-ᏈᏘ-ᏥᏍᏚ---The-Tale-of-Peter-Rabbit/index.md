@@ -14,9 +14,8 @@ zulma_title="Cherokee Language Lessons 1"
 featured_image = "html-books/Ꮎ-ᎧᏃᎮᏓ-ᏈᏘ-ᏥᏍᏚ---The-Tale-of-Peter-Rabbit/Na_Kanoheda_Kwiti_Jisdu-frontcover.png"
 
 +++
-### [Show your support! Purchase a copy and leave a five star review!](@/books/_index.md)
 
-<!-- more -->
+### [Also available in paperbook and eBook formats](@/books/ꮎ-ꭷꮓꭾꮣ-ꮘꮨ-ꮵꮝꮪ.md)
 
 ![image](color.1907-jpgs-002.jpg)
 
@@ -35,7 +34,7 @@ $Date: 2020/01/29 00:00:29 $ UTC
 <span style="font-variant:small-caps;">Creative Commons
 Attribution-Share Alike 3.0 United States License</span>.
 
- 
+<!-- more --> 
 
 ![image](color.1907-jpgs-003.jpg)
 

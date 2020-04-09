@@ -11,7 +11,7 @@ tags = []
 
 [extra]
 
-#featured_image = "content/cherokee-narratives--a-linguistic-study/"
+featured_image = "content/cherokee-narratives--a-linguistic-study/book-cover.jpg"
 
 +++
 

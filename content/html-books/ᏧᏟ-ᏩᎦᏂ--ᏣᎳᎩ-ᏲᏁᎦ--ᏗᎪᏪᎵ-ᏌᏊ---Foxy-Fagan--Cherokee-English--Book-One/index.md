@@ -16,11 +16,7 @@ featured_image = "html-books/ᏧᏟ-ᏩᎦᏂ--ᏣᎳᎩ-ᏲᏁᎦ--ᏗᎪᏪᎵ
 
 +++
 
-#### Online Book
-
-##### [Show your support! Purchase a copy and leave a five star review!](@/books/_index.md)
-
-<!-- more -->
+### [Also available in paperbook and eBook formats](@/books/ꮷꮯ-ꮹꭶꮒ-ꮳꮃꭹ-ᏺꮑꭶ-ꮧꭺꮺꮅ-ꮜꮚ.md)
 
 ᏧᏟ ᏩᎦᏂ, ᏣᎳᎩ-ᏲᏁᎦ, ᏗᎪᏪᎵ ᏌᏊ  
 Foxy Fagan, Cherokee-English, Book One
@@ -41,7 +37,7 @@ $Date: 2016/04/05 01:57:44 $ UTC
 
 $Revision: 1.15 $
 
-
+<!-- more -->
 
 # ᎦᏁᎳ ᏍᏆᎩ ᏔᎩ
 
