@@ -60,4 +60,4 @@ I may update this Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me via github private messaging.
 
-This privacy policy page was created at [https://privacypolicytemplate.net] and modified by Michael Conrad.
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified by Michael Conrad.
