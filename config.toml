@@ -32,7 +32,7 @@ zulma_menu = [
   {url = "/apps/", name = "Apps"},
   {url = "/books/", name = "Books"},
   {url = "/lessons/", name = "Lessons"},
-  {url = "/virtual-classrooms/", name = "Online Courses"}
+  {url = "/virtual-classrooms/", name = "Online Courses"},
   {url = "/content/", name = "Other"},
-  {url = "/html-books/", name = "Stories"},
+  {url = "/html-books/", name = "Stories"}
 ]
