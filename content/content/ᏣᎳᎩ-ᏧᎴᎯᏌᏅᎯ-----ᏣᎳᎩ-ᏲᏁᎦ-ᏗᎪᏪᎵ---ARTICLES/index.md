@@ -1,13 +1,19 @@
 +++
 draft=false
-date = 2020-03-29T18:42:08Z
+date = 2020-04-10T03:10:20Z
 title = "ᏣᎳᎩ ᏧᎴᎯᏌᏅᎯ --- ᏣᎳᎩ-ᏲᏁᎦ ᏗᎪᏪᎵ - ARTICLES"
-weight = 1585507320
+weight = 1586488220
+[taxonomies]
+authors = ["Michael Conrad"]
+categories = []
+tags = []
+[extra]
+featured_image = "content/ᏣᎳᎩ-ᏧᎴᎯᏌᏅᎯ-----ᏣᎳᎩ-ᏲᏁᎦ-ᏗᎪᏪᎵ---ARTICLES/phoenix-only.png"
 +++
 
-## ᏣᎳᎩ ᏧᎴᎯᏌᏅᎯ | ᏣᎳᎩ-ᏲᏁᎦ ᏗᎪᏪᎵ - Articles - 2020-03-29
+## ᏣᎳᎩ ᏧᎴᎯᏌᏅᎯ | ᏣᎳᎩ-ᏲᏁᎦ ᏗᎪᏪᎵ - Articles - 2020-04-09
 
-### Cherokee Phoenix | Cherokee-English Articles - Articles - 2020-03-29
+### Cherokee Phoenix | Cherokee-English Articles - Articles - 2020-04-09
 
 A total of 325 dual-language articles were found.
 
@@ -1040,4 +1046,3 @@ GIT HUB LINK:
 325. [ᎧᎵᏎᏥ ᎢᏳᎾᎵᏍᏓᏁᎯ ᎤᎾᏕᎶᎰᎯᏍᏙᏗ ᎤᎵᏍᎨᏗ ᎾᏍᎩ ᎠᏁᎯᏯ
      ᎠᎹᏰᏟ](https://www.cherokeephoenix.org/Article/index/3283)
      (10/02/2009 07:07 AM) \[3283\]
-

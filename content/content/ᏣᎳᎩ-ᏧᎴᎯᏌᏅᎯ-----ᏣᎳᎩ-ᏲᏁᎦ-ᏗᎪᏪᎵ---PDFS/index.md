@@ -1,13 +1,19 @@
 +++
 draft=false
-date = 2020-03-29T18:42:09Z
+date = 2020-04-10T03:10:20Z
 title = "ᏣᎳᎩ ᏧᎴᎯᏌᏅᎯ --- ᏣᎳᎩ-ᏲᏁᎦ ᏗᎪᏪᎵ - PDFS"
-weight = 1585507320
+weight = 1586488220
+[taxonomies]
+authors = ["Michael Conrad"]
+categories = []
+tags = []
+[extra]
+featured_image = "content/ᏣᎳᎩ-ᏧᎴᎯᏌᏅᎯ-----ᏣᎳᎩ-ᏲᏁᎦ-ᏗᎪᏪᎵ---ARTICLES/phoenix-only.png"
 +++
 
-## ᏣᎳᎩ ᏧᎴᎯᏌᏅᎯ | ᏣᎳᎩ-ᏲᏁᎦ ᏗᎪᏪᎵ - PDFs - 2020-03-29
+## ᏣᎳᎩ ᏧᎴᎯᏌᏅᎯ | ᏣᎳᎩ-ᏲᏁᎦ ᏗᎪᏪᎵ - PDFs - 2020-04-09
 
-### Cherokee Phoenix | Cherokee-English Articles - PDFs - 2020-03-29
+### Cherokee Phoenix | Cherokee-English Articles - PDFs - 2020-04-09
 
 A total of 60 dual-language PDFs were found.
 
@@ -343,4 +349,3 @@ GIT HUB LINK:
     (07/05/2011 01:54 PM) \[5036\]
       - PDF:
         [5036\_2011-07-01.pdf](http://www.cherokeephoenix.org/Docs/2011/7/5036_2011-07-01.pdf)
-
