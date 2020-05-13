@@ -24,6 +24,8 @@ The following examples demonstrate why creating these audio files is so importan
 
 <!-- more -->
 
+(These files were updated 2020-05-12 to reflect most recent changes.)
+
 ##### Water vs Salt:
 
 * ᎠᎹ [ạ²ma](ạ²ma_.mp3): Water.
@@ -48,6 +50,6 @@ The following examples demonstrate why creating these audio files is so importan
 
     {{audio(file="ạ_⁴da_.mp3")}}
 
-While the pronuncation keys do help mentally visualize the pitch contours and cadences of words, they aren't the same as hearing it. While the audio may not be perfect, it may be the only resource available to many students which actually tries to present both the cadence and the pitch contours for the Cherokee language. (At least for this specific dialect as recorded in the Cherokee-English Dictionary.)
+While the pronuncation keys do help mentally visualize the pitch contours and cadences of words, they aren't the same as hearing it. While the audio is not perfect, it may be the only resource available to many students which presents both the cadence and the pitch contours for the Cherokee language to some degree. (At least for this specific dialect as recorded in the Cherokee-English Dictionary.)
 
 As always, please leave comments below.
