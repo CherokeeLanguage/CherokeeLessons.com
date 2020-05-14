@@ -19,7 +19,7 @@ I've been working on adding Cherokee support to the [espeak-ng](https://github.c
 
 I have chosen to use the Cherokee-English Dictionary phonetics, as this is the only written form that indicates both tone and cadence that is in common use. Hopefully the results will be good enough at a future date to be able to add pronunciations for all the C.E.D. and Raven Rock entries at the [Cherokee Dictionary Project](https://www.cherokeedictionary.net)
 
-I have posted here the [espeak-ng](https://github.com/espeak-ng/espeak-ng) output for the 1,630 conjugated challenges from the [Bound Pronouns](@/apps/bound-pronouns.md) app for review by those interested.
+I have posted here the [espeak-ng](https://github.com/espeak-ng/espeak-ng) output for the 1,630 conjugated challenges from the [Bound Pronouns](@/apps/bound-pronouns/index.md) app for review by those interested.
 
 <!-- more -->
 
