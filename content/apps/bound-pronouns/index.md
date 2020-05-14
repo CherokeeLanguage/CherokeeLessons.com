@@ -28,7 +28,7 @@ Additionally, it only feeds you new cards if you successfully complete all curre
 * [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.bp.android)
 * [iPhone/iPad App](https://apps.apple.com/us/app/cherokee-bound-pronouns/id966667496?ls=1)
 * [Android App via Amazon](https://www.amazon.com/gp/product/B00TCP955U)
-* [Desktop App via Direct Download](BoundPronouns-3.00.jar)
-* [Android App via Direct Download](BoundPronouns-3.00.apk)
+* [Desktop App via Direct Download](BoundPronouns-3.01.jar) (version 3.01 Released 2020-05-14)
+* [Android App via Direct Download](BoundPronouns-3.01.apk) (version 3.01 Released 2020-05-14)
 * [Android App via Goolge Play BETA](https://play.google.com/apps/testing/com.cherokeelessons.bp.android)
 
