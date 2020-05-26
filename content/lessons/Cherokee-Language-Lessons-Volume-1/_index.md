@@ -9,7 +9,7 @@ paginate_path = "lesson"
 render = true
 transparent = false
 
-aliases = ["/Cherokee-Language-Lessons-Introductory-Edition"]
+aliases = []
 
 [extra]
 zulma_title="Language Lessons"
