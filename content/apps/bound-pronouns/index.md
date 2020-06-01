@@ -1,8 +1,8 @@
 +++
 draft = false
-date = 2020-05-26T17:05:32Z
+date = 2020-05-31T20:16:54Z
 title = "Bound Pronouns"
-weight = 1590339930
+weight = 1590869810
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -14,7 +14,7 @@ featured_image = "../static/images/bound-pronouns.png"
 
 +++
 
-#### (Beta updated 2020-05-26)
+#### (Beta updated 2020-05-31)
 
 This is a custom "flash card" style program to assist with learning the bound pronouns. It has options to display using either Latin, Syllabary, both, or none. The software keeps track of your progress and schedules cards based on how well you do. Cards you have problems with are repeated often. Cards you do well with are not.
 
@@ -31,12 +31,16 @@ Additionally, it only feeds you new cards if you successfully complete all curre
 * [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.bp.android)
 * [iPhone/iPad App via Apple](https://apps.apple.com/us/app/cherokee-bound-pronouns/id966667496?ls=1)
 * [Android App via Amazon](https://www.amazon.com/gp/product/B00TCP955U)
-* [Desktop App via Direct Download](BoundPronouns-3.06.jar) (version 3.06 Released 2020-05-25)
-* [Android App via Direct Download](BoundPronouns-3.06-release.apk) (version 3.06 Released 2020-05-25)
+* [Desktop App via Direct Download](BoundPronouns-3.15.jar) (version 3.15 Released 2020-05-31)
+* [Android App via Direct Download](BoundPronouns-3.15-release.apk) (version 3.15 Released 2020-05-31)
 * [iPhone/iPad App via Testflight BETA](https://testflight.apple.com/join/EzYA4uQB)
 * [Android App via Google Play BETA](https://play.google.com/apps/testing/com.cherokeelessons.bp.android)
 
 ## Changelog
+
+### 3.xx
+
+Updated to newer espeak-ng output using updated cadence and pitch contours.
 
 ### 3.06
 
