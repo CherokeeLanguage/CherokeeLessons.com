@@ -1,8 +1,8 @@
 +++
 draft = false
-date = 2020-05-31T20:16:54Z
+date = 2020-06-01T21:19:52Z
 title = "Bound Pronouns"
-weight = 1590869810
+weight = 1591046390
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -14,7 +14,7 @@ featured_image = "../static/images/bound-pronouns.png"
 
 +++
 
-#### (Beta updated 2020-05-31)
+#### (App updated 2020-06-10)
 
 This is a custom "flash card" style program to assist with learning the bound pronouns. It has options to display using either Latin, Syllabary, both, or none. The software keeps track of your progress and schedules cards based on how well you do. Cards you have problems with are repeated often. Cards you do well with are not.
 
@@ -31,16 +31,31 @@ Additionally, it only feeds you new cards if you successfully complete all curre
 * [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.bp.android)
 * [iPhone/iPad App via Apple](https://apps.apple.com/us/app/cherokee-bound-pronouns/id966667496?ls=1)
 * [Android App via Amazon](https://www.amazon.com/gp/product/B00TCP955U)
-* [Desktop App via Direct Download](BoundPronouns-3.15.jar) (version 3.15 Released 2020-05-31)
-* [Android App via Direct Download](BoundPronouns-3.15-release.apk) (version 3.15 Released 2020-05-31)
+* [Desktop App via Direct Download](BoundPronouns-3.19.jar) (version 3.19 Released 2020-06-10)
+* [Android App via Direct Download](BoundPronouns-3.19-release.apk) (version 3.19 Released 2020-06-10)
 * [iPhone/iPad App via Testflight BETA](https://testflight.apple.com/join/EzYA4uQB)
 * [Android App via Google Play BETA](https://play.google.com/apps/testing/com.cherokeelessons.bp.android)
 
 ## Changelog
 
-### 3.xx
+### 3.19
 
-Updated to newer espeak-ng output using updated cadence and pitch contours.
+Pronunciation fix for prefix ᎦᏥ- (I+them-animate).
+The master entry in the pronouns table was missing a tone mark.
+
+### 3.18
+
+Adjust master deck sorting so that challenges are no longer grouped by bound pronoun or verb.
+Each new challenge introduced and added to your active cards should now be a different bound pronoun.
+
+Does not change the ordering of cards already active in a session slot which are soley ordered based on
+your accuracy with correct answers and last show time.
+
+### 3.17
+
+Indicate how many total cards are in the deck.
+
+Updated to newest espeak-ng output using most recently updated Cherokee phoneme definitions.
 
 ### 3.06
 
