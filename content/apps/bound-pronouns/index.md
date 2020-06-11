@@ -31,12 +31,20 @@ Additionally, it only feeds you new cards if you successfully complete all curre
 * [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.bp.android)
 * [iPhone/iPad App via Apple](https://apps.apple.com/us/app/cherokee-bound-pronouns/id966667496?ls=1)
 * [Android App via Amazon](https://www.amazon.com/gp/product/B00TCP955U)
-* [Desktop App via Direct Download](BoundPronouns-3.19.jar) (version 3.19 Released 2020-06-10)
-* [Android App via Direct Download](BoundPronouns-3.19-release.apk) (version 3.19 Released 2020-06-10)
+* [Desktop App via Direct Download](BoundPronouns-3.21.jar) (version 3.21 Released 2020-06-10)
+* [Android App via Direct Download](BoundPronouns-3.21-release.apk) (version 3.21 Released 2020-06-10)
 * [iPhone/iPad App via Testflight BETA](https://testflight.apple.com/join/EzYA4uQB)
 * [Android App via Google Play BETA](https://play.google.com/apps/testing/com.cherokeelessons.bp.android)
 
 ## Changelog
+
+### 3.21
+
+Update espeak.txt file.
+
+### 3.20
+
+Master deck sort order fix.
 
 ### 3.19
 
@@ -48,7 +56,7 @@ The master entry in the pronouns table was missing a tone mark.
 Adjust master deck sorting so that challenges are no longer grouped by bound pronoun or verb.
 Each new challenge introduced and added to your active cards should now be a different bound pronoun.
 
-Does not change the ordering of cards already active in a session slot which are soley ordered based on
+Does not change the ordering of cards already active in a session slot which are solely ordered based on
 your accuracy with correct answers and last show time.
 
 ### 3.17
