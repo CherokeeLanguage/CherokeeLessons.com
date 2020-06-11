@@ -1,13 +1,13 @@
 +++
 draft = false
-date = 2020-05-12T02:53:26Z
+date = 2020-06-11T01:49:07Z
 title = "Here is why I'm so keen on getting espeak-ng speaking Cherokee..."
-weight = 1589252000
+weight = 1591840140
 
 [taxonomies]
 authors = ["Michael Conrad"]
 categories = ["espeak-ng"]
-tags = ["phonetics"]
+tags = ["phonetics", "CED" ]
 
 [extra]
 
@@ -24,7 +24,7 @@ The following examples demonstrate why creating these audio files is so importan
 
 <!-- more -->
 
-(These files were updated 2020-05-12 to reflect most recent changes.)
+(These files were updated 2020-06-10 to reflect most recent changes.)
 
 ##### Water vs Salt:
 
@@ -53,3 +53,5 @@ The following examples demonstrate why creating these audio files is so importan
 While the pronuncation keys do help mentally visualize the pitch contours and cadences of words, they aren't the same as hearing it. While the audio is not perfect, it may be the only resource available to many students which presents both the cadence and the pitch contours for the Cherokee language to some degree. (At least for this specific dialect as recorded in the Cherokee-English Dictionary.)
 
 As always, please leave comments below.
+
+(This article was first published 5-12-2020)
