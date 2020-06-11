@@ -1,8 +1,8 @@
 +++
 draft = false
-date = 2020-05-11T19:12:39Z
-title = "espeak-ng and CED phonetics (initial results)"
-weight = 1589224350
+date = 2020-06-11T02:06:21Z
+title = "espeak-ng and CED phonetics"
+weight = 1591841180
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -15,13 +15,17 @@ featured_image = "content/espeak-ng-and-ced-phonetics/espeak-ng-android-launcher
 
 +++
 
+(Audio updated 2020-06-10)
+
 I've been working on adding Cherokee support to the [espeak-ng](https://github.com/espeak-ng/espeak-ng) speech synthesizer. While more work definitely needs done, I think this is a good start.
 
 I have chosen to use the Cherokee-English Dictionary phonetics, as this is the only written form that indicates both tone and cadence that is in common use. Hopefully the results will be good enough at a future date to be able to add pronunciations for all the C.E.D. and Raven Rock entries at the [Cherokee Dictionary Project](https://www.cherokeedictionary.net)
 
-I have posted here the [espeak-ng](https://github.com/espeak-ng/espeak-ng) output for the 1,630 conjugated challenges from the [Bound Pronouns](@/apps/bound-pronouns/index.md) app for review by those interested.
+I have posted here the [espeak-ng](https://github.com/espeak-ng/espeak-ng) output for the 1,903 conjugated challenges from the [Bound Pronouns](@/apps/bound-pronouns/index.md) app for review by those interested.
 
 <!-- more -->
+
+I've been pondering the creation of a basic vocabulary training app using the CED entries as the source in combination with the synthetic speech. Your thoughts?
 
 Comments are welcome. Please use the comments box at the bottom of this page.
 
