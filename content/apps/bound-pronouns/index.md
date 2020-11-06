@@ -28,15 +28,62 @@ Unlike many other flashcard programs, it isn't designed to be dogmatic about tim
   
 Additionally, it only feeds you new cards if you successfully complete all current pending cards within the minimum session time so that you only get new stuff after you perform decently with existing stuff (from session to session).
 
+### App Stores
+
 * [Android App via Google Play](https://play.google.com/store/apps/details?id=com.cherokeelessons.bp.android)
 * [iPhone/iPad App via Apple](https://apps.apple.com/us/app/cherokee-bound-pronouns/id966667496?ls=1)
 * [Android App via Amazon](https://www.amazon.com/gp/product/B00TCP955U)
-* [Desktop App via Direct Download](BoundPronouns-3.21.jar) (version 3.21 Released 2020-06-10)
-* [Android App via Direct Download](BoundPronouns-3.21-release.apk) (version 3.21 Released 2020-06-10)
+
+### Direct Download
+
+* [Desktop App via Direct Download](BoundPronouns-3.30.jar)
+* [Android App via Direct Download](BoundPronouns-3.30-release.apk)
+
+### App Store BETA
+
 * [iPhone/iPad App via Testflight BETA](https://testflight.apple.com/join/EzYA4uQB)
 * [Android App via Google Play BETA](https://play.google.com/apps/testing/com.cherokeelessons.bp.android)
 
 ## Changelog
+
+### 3.30
+
+Fix issue with "bound pronouns" list screen caused by "csv" to "tsv" filename extension change.
+
+### 3.29
+
+Change minimum Android SDK requirements.
+
+### 3.28
+
+Change "csv" to "tsv" to correctly identify file contents for editing.
+
+### 3.27
+
+Add missing audio files.
+Use "alveolar" version of "d" instead of "dental" version of "d" for espeak-ng generated audio.
+
+### 3.26
+
+Fixes for the h/ɂ alternations in stems based on persons.
+
+### 3.25
+
+Reduce cards needed for ᎢᏨ-, ᎢᏍᎩ-, ᎢᏍᏛ-, and ᏍᎩᏂ- by doing "a or b" forms in the English.
+Also updated English wording replacement to hopefully produce better English answer sets.
+
+### 3.24
+
+Fix for loading embedded master deck on android.
+
+### 3.23
+
+Switch to using pre-conjugated master deck. Boost volume on audio files to max.
+
+### 3.22
+
+Switch to Brazilian Portuguese &~ instead of French V~ for "v" and "ṿ".
+Some adjustments for when to use become acquainted instead of recognize.
 
 ### 3.21
 

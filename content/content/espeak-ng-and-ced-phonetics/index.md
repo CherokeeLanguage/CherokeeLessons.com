@@ -1,8 +1,8 @@
 +++
 draft = false
-date = 2020-06-11T02:06:21Z
+date = 2020-06-29T13:06:35Z
 title = "espeak-ng and CED phonetics"
-weight = 1591841180
+weight = 1593435990
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -15,17 +15,17 @@ featured_image = "content/espeak-ng-and-ced-phonetics/espeak-ng-android-launcher
 
 +++
 
-(Audio updated 2020-06-10)
+(Audio updated 2020-06-29)
 
 I've been working on adding Cherokee support to the [espeak-ng](https://github.com/espeak-ng/espeak-ng) speech synthesizer. While more work definitely needs done, I think this is a good start.
 
 I have chosen to use the Cherokee-English Dictionary phonetics, as this is the only written form that indicates both tone and cadence that is in common use. Hopefully the results will be good enough at a future date to be able to add pronunciations for all the C.E.D. and Raven Rock entries at the [Cherokee Dictionary Project](https://www.cherokeedictionary.net)
 
-I have posted here the [espeak-ng](https://github.com/espeak-ng/espeak-ng) output for 100 of the 1,903 conjugated challenges from the [Bound Pronouns](@/apps/bound-pronouns/index.md) app for review by those interested.
+I have posted here the [espeak-ng](https://github.com/espeak-ng/espeak-ng) output for 100 of the conjugated challenges from the [Bound Pronouns](@/apps/bound-pronouns/index.md) app for review by those interested.
 
 <!-- more -->
 
-I've been pondering the creation of a basic vocabulary training app using the CED entries as the source in combination with the synthetic speech. Your thoughts?
+I've been pondering the creation of a basic vocabulary training app using the CED entries as the source in combination with the synthetic speech. Your thoughts?  (Or maybe a classifiers focused app?)
 
 Comments are welcome. Please use the comments box at the bottom of this page.
 
@@ -73,7 +73,7 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="da2gaa2_.mp3")}}
 
-* ᏍᏕ³Ꭶ [sde³ga](sdee3gaa_.mp3): You two are going
+* ᏍᏕ³Ꭶ [sde³ga](sdee3gaa_.mp3): You both are going
 
     {{audio (file="sdee3gaa_.mp3")}}
 
@@ -81,9 +81,9 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="aa1nee3gaa_.mp3")}}
 
-* ᏍᏉ²Ꮅ¹Ꭶ [sgwo²li¹ga](sgwoo2lii1gaa_.mp3): You (1) recognize me
+* ᏍᏉᎵ͓²Ꭶ [sgwohl²ga](sgwoohl2gaa_.mp3): You (1) recognize me
 
-    {{audio (file="sgwoo2lii1gaa_.mp3")}}
+    {{audio (file="sgwoohl2gaa_.mp3")}}
 
 * Ꭲ¹Ꮑ³Ꭶ [i¹ne³ga](ii1nee3gaa_.mp3): You (1) and I are going
 
@@ -109,9 +109,9 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="daa1gi2haa_.mp3")}}
 
-* Ꭳ¹ᏍᏕ³Ꭶ [o²sde³ga](oo2sdee3gaa_.mp3): He and I are going
+* Ꭳ¹ᏍᏕ³Ꭶ [o¹sde³ga](oo1sdee3gaa_.mp3): He and I are going
 
-    {{audio (file="oo2sdee3gaa_.mp3")}}
+    {{audio (file="oo1sdee3gaa_.mp3")}}
 
 * Ꮥ²Ꮵ̣²Ꭶ² [de²jị²ga²](dee2ji2gaa2_.mp3): I ate solid foods recently
 
@@ -129,7 +129,7 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="gee2goo2lii1gaa_.mp3")}}
 
-* Ꭲ¹ᏍᎩ²Ꭺ¹Ꮹ²Ꮤ [i¹sgi²go¹wah²ta](ii1sgii2goo1waah2taa_.mp3): Let you (1) see them and me
+* Ꭲ¹ᏍᎩ²Ꭺ¹Ꮹ²Ꮤ [i¹sgi²go¹wah²ta](ii1sgii2goo1waah2taa_.mp3): Let you (1), two, or all see us all
 
     {{audio (file="ii1sgii2goo1waah2taa_.mp3")}}
 
@@ -153,7 +153,7 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="jii2yoo2lii1gaa_.mp3")}}
 
-* ᏍᏓ̣²Ꮣ²Ꭺ¹Ꮹ²Ꮤ [sdạ²da²go¹wah²ta](sdaa_2daa2goo1waah2taa_.mp3): Let you two see yourselves
+* ᏍᏓ̣²Ꮣ²Ꭺ¹Ꮹ²Ꮤ [sdạ²da²go¹wah²ta](sdaa_2daa2goo1waah2taa_.mp3): Let you both see yourselves
 
     {{audio (file="sdaa_2daa2goo1waah2taa_.mp3")}}
 
@@ -161,47 +161,47 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="ii1ga2da2duu23laa_.mp3")}}
 
-* ᏍᏛ²Ᏺ²Ꮅ¹Ꭶ [sdv²yo²li¹ga](sdvv2yoo2lii1gaa_.mp3): I recognize you two
-
-    {{audio (file="sdvv2yoo2lii1gaa_.mp3")}}
-
 * Ꮹ¹Ꮖ̣²Ꮣ̣²Ꮪ²³Ꮃ [wa¹gwạ²dạ²du²³la](waa1gwaa_2da2duu23laa_.mp3): Let me want myself
 
     {{audio (file="waa1gwaa_2da2duu23laa_.mp3")}}
+
+* ᏍᏛ²Ᏺ²Ꮅ¹Ꭶ [sdv²yo²li¹ga](sdvv2yoo2lii1gaa_.mp3): I recognize you both
+
+    {{audio (file="sdvv2yoo2lii1gaa_.mp3")}}
 
 * Ꭰ¹Ꮣ²ᏙᎵ͓²Ꭶ [a¹da²dohl²ga](aa1daa2doohl2gaa_.mp3): He recognizes himself
 
     {{audio (file="aa1daa2doohl2gaa_.mp3")}}
 
-* Ꭲ¹Ꮸ²Ᏺ²Ꮅ¹Ꭶ [i¹jv²yo²li¹ga](ii1jvv2yoo2lii1gaa_.mp3): I recognize you all
+* Ꭲ¹Ꮸ²Ᏺ²Ꮅ¹Ꭶ [i¹jv²yo²li¹ga](ii1jvv2yoo2lii1gaa_.mp3): I, we two, or we all recognize you all
 
     {{audio (file="ii1jvv2yoo2lii1gaa_.mp3")}}
 
-* Ꮶ¹Ꭶ̣²Ꮩ²Ꮅ³ᏍᏗ [jo¹gạ²da²do²hlị³sdi](joo1ga2daa2doo2hli3sdii_.mp3): For them and me to become acquainted with each other
+* Ꮶ¹Ꭶ̣²Ꮩ²Ꮅ³ᏍᏗ [jo¹gạ²da²do²hlị³sdi](joo1ga2daa2doo2hli3sdii_.mp3): For them and me to become acquainted
 
     {{audio (file="joo1ga2daa2doo2hli3sdii_.mp3")}}
-
-* Ꮷ¹Ꮎ̣²Ꮩ²Ꮅ³ᏍᏗ [ju¹nạ²da²do²hlị³sdi](juu1na2daa2doo2hli3sdii_.mp3): For them to become acquainted with each other
-
-    {{audio (file="juu1na2daa2doo2hli3sdii_.mp3")}}
 
 * Ꭲ¹Ꮎ̣²Ꮣ²Ꭺ¹Ꮹ²Ꮤ [i¹nạ²da²go¹wah²ta](ii1na2daa2goo1waah2taa_.mp3): Let you (1) and me see ourselves
 
     {{audio (file="ii1na2daa2goo1waah2taa_.mp3")}}
 
+* Ꮷ¹Ꮎ̣²Ꮩ²Ꮅ³ᏍᏗ [ju¹nạ²da²do²hlị³sdi](juu1na2daa2doo2hli3sdii_.mp3): For them to become acquainted
+
+    {{audio (file="juu1na2daa2doo2hli3sdii_.mp3")}}
+
 * Ꭲ¹Ꮣ̣²Ꮣ²Ꭺ¹Ꮹ²Ꮤ [i¹dạ²da²go¹wah²ta](ii1da2daa2goo1waah2taa_.mp3): Let all of us see ourselves
 
     {{audio (file="ii1da2daa2goo1waah2taa_.mp3")}}
-
-* Ꮧ̣²Ꭶ̣²Ꮩ²Ꮅ³ᏍᏗ [dị²gạ²da²do²hlị³sdi](di2ga2daa2doo2hli3sdii_.mp3): For all of us to become acquainted with each other
-
-    {{audio (file="di2ga2daa2doo2hli3sdii_.mp3")}}
 
 * Ꭲ¹Ꮳ̣²Ꮣ²Ꭺ¹Ꮹ²Ꮤ [i¹jạ²da²go¹wah²ta](ii1ja2daa2goo1waah2taa_.mp3): Let you all see yourselves
 
     {{audio (file="ii1ja2daa2goo1waah2taa_.mp3")}}
 
-* Ꮧ̣²Ꮎ̣²ᏙᎵ͓²Ꭹ [dị²nạ²da²dohl²gi](di2na2daa2doohl2gii_.mp3): Let you (1) and me become acquainted with each other
+* Ꮧ̣²Ꭶ̣²Ꮩ²Ꮅ³ᏍᏗ [dị²gạ²da²do²hlị³sdi](di2ga2daa2doo2hli3sdii_.mp3): For all of us to become acquainted
+
+    {{audio (file="di2ga2daa2doo2hli3sdii_.mp3")}}
+
+* Ꮧ̣²Ꮎ̣²ᏙᎵ͓²Ꭹ [dị²nạ²da²dohl²gi](di2na2daa2doohl2gii_.mp3): Let you (1) and me become acquainted
 
     {{audio (file="di2na2daa2doohl2gii_.mp3")}}
 
@@ -209,17 +209,17 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="ga2daa2doohl2gaa_.mp3")}}
 
-* Ꮧ̣²Ꮣ̣²ᏙᎵ͓²Ꭹ [dị²dạ²da²dohl²gi](di2da2daa2doohl2gii_.mp3): Let all of us become acquainted with each other
+* Ꮧ̣²Ꮣ̣²ᏙᎵ͓²Ꭹ [dị²dạ²da²dohl²gi](di2da2daa2doohl2gii_.mp3): Let all of us become acquainted
 
     {{audio (file="di2da2daa2doohl2gii_.mp3")}}
+
+* Ꮧ̣²Ꮳ̣²ᏙᎵ͓²Ꭹ [dị²jạ²da²dohl²gi](di2ja2daa2doohl2gii_.mp3): Let you all become acquainted
+
+    {{audio (file="di2ja2daa2doohl2gii_.mp3")}}
 
 * Ꮼ¹Ꭶ̣²Ꮣ̣²Ꮪ²³Ꮃ [wo¹gạ²dạ²du²³la](woo1ga2da2duu23laa_.mp3): Let them and me want ourselves
 
     {{audio (file="woo1ga2da2duu23laa_.mp3")}}
-
-* Ꮧ̣²Ꮳ̣²ᏙᎵ͓²Ꭹ [dị²jạ²da²dohl²gi](di2ja2daa2doohl2gii_.mp3): Let you all become acquainted with each other
-
-    {{audio (file="di2ja2daa2doohl2gii_.mp3")}}
 
 * Ꮽ¹Ꮎ̣²Ꮣ̣²Ꮪ²³Ꮃ [wu¹nạ²dạ²du²³la](wuu1na2da2duu23laa_.mp3): Let them want themselves
 
@@ -229,15 +229,15 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="gi2na2da2duu23laa_.mp3")}}
 
-* Ꮶ¹Ꭹ̣²Ꮎ̣²Ꮩ²Ꮅ³ᏍᏗ [jo¹gị²nạ²da²do²hlị³sdi](joo1gi2na2daa2doo2hli3sdii_.mp3): For him and me to become acquainted with each other
-
-    {{audio (file="joo1gi2na2daa2doo2hli3sdii_.mp3")}}
-
 * Ꭰ¹Ꮎ̣²Ꮣ²ᏙᎵ͓²Ꭶ [a¹nạ²da²dohl²ga](aa1naa_2daa2doohl2gaa_.mp3): They recognize themselves
 
     {{audio (file="aa1naa_2daa2doohl2gaa_.mp3")}}
 
-* Ꮧ̣²Ꭹ̣²Ꮎ̣²Ꮩ²Ꮅ³ᏍᏗ [dị²gị²nạ²da²do²hlị³sdi](di2gi2na2daa2doo2hli3sdii_.mp3): For you (1) and me to become acquainted with each other
+* Ꮶ¹Ꭹ̣²Ꮎ̣²Ꮩ²Ꮅ³ᏍᏗ [jo¹gị²nạ²da²do²hlị³sdi](joo1gi2na2daa2doo2hli3sdii_.mp3): For him and me to become acquainted
+
+    {{audio (file="joo1gi2na2daa2doo2hli3sdii_.mp3")}}
+
+* Ꮧ̣²Ꭹ̣²Ꮎ̣²Ꮩ²Ꮅ³ᏍᏗ [dị²gị²nạ²da²do²hlị³sdi](di2gi2na2daa2doo2hli3sdii_.mp3): For you (1) and me to become acquainted
 
     {{audio (file="di2gi2na2daa2doo2hli3sdii_.mp3")}}
 
@@ -245,15 +245,15 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="oo1ja2daa2doohl2gaa_.mp3")}}
 
-* Ꮣ¹Ꮎ̣²Ꮣ²ᏙᎵ͓²Ꭶ [da¹nạ²da²dohl²ga](daa1naa_2daa2doohl2gaa_.mp3): They are acquainted with each other
+* Ꮣ¹Ꮎ̣²Ꮣ²ᏙᎵ͓²Ꭶ [da¹nạ²da²dohl²ga](daa1naa_2daa2doohl2gaa_.mp3): They are acquainted
 
     {{audio (file="daa1naa_2daa2doohl2gaa_.mp3")}}
 
-* Ꮧ̣²ᏍᏓ̣²ᏙᎵ͓²Ꭹ [dị²sdạ²da²dohl²gi](di2sdaa_2daa2doohl2gii_.mp3): Let you two become acquainted with each other
+* Ꮧ̣²ᏍᏓ̣²ᏙᎵ͓²Ꭹ [dị²sdạ²da²dohl²gi](di2sdaa_2daa2doohl2gii_.mp3): Let you both become acquainted
 
     {{audio (file="di2sdaa_2daa2doohl2gii_.mp3")}}
 
-* Ꮩ¹Ꮳ̣²Ꮣ²ᏙᎵ͓²Ꭶ [do¹jạ²da²dohl²ga](doo1ja2daa2doohl2gaa_.mp3): They and I are acquainted with each other
+* Ꮩ¹Ꮳ̣²Ꮣ²ᏙᎵ͓²Ꭶ [do¹jạ²da²dohl²ga](doo1ja2daa2doohl2gaa_.mp3): They and I are acquainted
 
     {{audio (file="doo1ja2daa2doohl2gaa_.mp3")}}
 
@@ -261,7 +261,7 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="oo1sda2daa2doohl2gaa_.mp3")}}
 
-* Ꮩ¹ᏍᏓ̣²Ꮣ²ᏙᎵ͓²Ꭶ [do¹sdạ²da²dohl²ga](doo1sda2daa2doohl2gaa_.mp3): He and I are acquainted with each other
+* Ꮩ¹ᏍᏓ̣²Ꮣ²ᏙᎵ͓²Ꭶ [do¹sdạ²da²dohl²ga](doo1sda2daa2doohl2gaa_.mp3): He and I are acquainted
 
     {{audio (file="doo1sda2daa2doohl2gaa_.mp3")}}
 
@@ -297,11 +297,11 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="gvv2goo2hvv23-ii_.mp3")}}
 
-* ᏍᏉ²Ꮅ¹Ꭹ [sgwo²li¹gi](sgwoo2lii1gii_.mp3): Let you (1) recognize me
+* ᏍᏉᎵ͓²Ꭹ [sgwohl²gi](sgwoohl2gii_.mp3): Let you (1) recognize me
 
-    {{audio (file="sgwoo2lii1gii_.mp3")}}
+    {{audio (file="sgwoohl2gii_.mp3")}}
 
-* ᏍᏕ¹Ꮎ [sde¹na](sdee1naa_.mp3): Let you two go
+* ᏍᏕ¹Ꮎ [sde¹na](sdee1naa_.mp3): Let you both go
 
     {{audio (file="sdee1naa_.mp3")}}
 
@@ -332,6 +332,10 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 * Ꭳ¹Ꭹ²Ꭽ [o¹gi²ha](oo1gii2haa_.mp3): They and I have a solid object
 
     {{audio (file="oo1gii2haa_.mp3")}}
+
+* ᏍᏛ²Ꭺ²Ꮂ²³Ꭲ [sdv²go²hv²³ɂi](sdvv2goo2hvv23-ii_.mp3): I saw you both a while ago
+
+    {{audio (file="sdvv2goo2hvv23-ii_.mp3")}}
 
 * Ꭴ¹Ꮒ²Ꭽ [u¹ni²ha](uu1nii2haa_.mp3): They have a solid object
 
@@ -389,7 +393,7 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 
     {{audio (file="ee1joohl2gaa_.mp3")}}
 
-* Ꮥ²ᏍᏗ²Ꭽ [de²sdi²ha](dee2sdii2haa_.mp3): You two have solid objects
+* Ꮥ²ᏍᏗ²Ꭽ [de²sdi²ha](dee2sdii2haa_.mp3): You both have solid objects
 
     {{audio (file="dee2sdii2haa_.mp3")}}
 
@@ -424,8 +428,4 @@ Comments are welcome. Please use the comments box at the bottom of this page.
 * Ꭳ¹Ꭹ̣²Ꮒ²Ꭽ [o¹gị²ni²ha](oo1gi2nii2haa_.mp3): He and I have a solid object
 
     {{audio (file="oo1gi2nii2haa_.mp3")}}
-
-* Ꮥ²Ꭹ̣²Ꮒ²Ꭽ [de²gị²ni²ha](dee2gi2nii2haa_.mp3): You (1) and I have solid objects
-
-    {{audio (file="dee2gi2nii2haa_.mp3")}}
 
