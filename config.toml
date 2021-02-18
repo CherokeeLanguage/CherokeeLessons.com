@@ -34,5 +34,6 @@ zulma_menu = [
   {url = "/lessons/", name = "Lessons"},
   {url = "/virtual-classrooms/", name = "Online Courses"},
   {url = "/content/", name = "Other"},
-  {url = "/html-books/", name = "Stories"}
+  {url = "/html-books/", name = "Stories"},
+  {url = "/apps/privacy-policy---apps/", name = "Privacy"}
 ]
