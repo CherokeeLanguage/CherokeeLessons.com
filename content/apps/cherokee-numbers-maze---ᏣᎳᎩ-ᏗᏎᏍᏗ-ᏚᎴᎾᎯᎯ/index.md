@@ -33,7 +33,7 @@ After you have completed all the challenges for a level you move on to the next 
 
 <!-- more -->
 
-If you would like to play online with your computer, visit [HTML-Games/NumberMaze](/HTML-Games/NumberMaze/index.html). **No guarentees it will work**.
+If you would like to play online with your computer, visit [HTML-Games/NumbersMaze](/HTML-Games/NumberMaze/index.html). **No guarentees it will work**.
 
 #### You may have to click **in** the game window to have Audio!
 
