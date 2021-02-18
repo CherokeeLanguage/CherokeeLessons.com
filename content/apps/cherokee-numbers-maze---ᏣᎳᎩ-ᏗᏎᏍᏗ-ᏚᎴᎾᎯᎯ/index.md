@@ -33,20 +33,25 @@ After you have completed all the challenges for a level you move on to the next 
 
 <!-- more -->
 
-If you would like to play online with your computer, visit [HTML-Games/NumbersMaze](/HTML-Games/NumberMaze/index.html). **No guarentees it will work**.
+If you would like to play online with your computer, visit [HTML-Games/NumbersMaze](/HTML-Games/NumbersMaze/index.html). **No guarentees it will work**.
 
 #### You may have to click **in** the game window to have Audio!
 
 I *strongly* recommend Google Chrome instead of Firefox. I had serious performance issues with Firefox. I have not tried the latest Edge.
 
-If you have a gamepad, it should work with the browser.
+If you have a gamepad:
 
-If you want to use the keyboard instead:
+* Left stick or DPAD: Move
+* \[A\]: Fireball
+* \[X\]: Pickup Blocks
+* \[Y\]: Drop Blocks
 
-* Arrow Keys: MOVE
-* [F]: Fireball
-* [D]: Pickup Blocks
-* [S]: Drop Blocks
+Or you can use a keygoard:
+
+* Arrow Keys: Move
+* \[F\]: Fireball
+* \[D\]: Pickup Blocks
+* \[S\]: Drop Blocks
 
 You can also use [SPACE] or [ENTER] for Fireballs.
 
