@@ -53,7 +53,13 @@ Or you can use a keygoard:
 * \[D\]: Pickup Blocks
 * \[S\]: Drop Blocks
 
-You can also use [SPACE] or [ENTER] for Fireballs.
+You can also use \[SPACE\] or \[ENTER\] for Fireballs.
+
+### Direct Download
+
+* [Linux (x64)](NumbersMaze.x86_64)
+* [Mac OSX (universal)](NumbersMaze-mac.zip)
+* [Windows (x64)](NumbersMaze-x86_64.exe)
 
 ### App Stores
 
@@ -63,8 +69,6 @@ You can also use [SPACE] or [ENTER] for Fireballs.
 <!-- * [iPhone/iPad App via Apple](https://apps.apple.com/us/app/cherokee-bound-pronouns/id966667496?ls=1)
 * [Android App via Amazon](https://www.amazon.com/gp/product/B00TCP955U) -->
 
-### Desktop
-
-Not available yet.
+### Desktop App Stores
 
 I have to look into publishing via the Microsoft Store, the Apple Store, and a Linux Store.
