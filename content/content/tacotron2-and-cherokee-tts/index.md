@@ -6,8 +6,8 @@ weight = 1604603350
 
 [taxonomies]
 authors = ["Michael Conrad"]
-categories = []
-tags = []
+categories = ["TTS"]
+tags = ["Tacotron", "TTS", "Python"]
 
 [extra]
 

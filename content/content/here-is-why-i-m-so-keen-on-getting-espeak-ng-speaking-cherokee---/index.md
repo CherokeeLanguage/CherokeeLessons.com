@@ -6,8 +6,8 @@ weight = 1591840140
 
 [taxonomies]
 authors = ["Michael Conrad"]
-categories = ["espeak-ng"]
-tags = ["phonetics", "CED" ]
+categories = ["TTS"]
+tags = ["CED", "TTS", "espeak-ng" ]
 
 [extra]
 
