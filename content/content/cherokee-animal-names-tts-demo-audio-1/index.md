@@ -15,7 +15,7 @@ featured_image = "content/cherokee-animal-names-tts-demo-audio-1/04-08.jpg"
 
 +++
 
-Enough progress has been made on the Cherokee TTS project to provide to provide a full set of audio only exercices.
+Enough progress has been made on the Cherokee TTS project to provide a full set of audio only exercises.
 
 This audio is 100% computer generated audio. No humans were used in the making of these audio files.
 
