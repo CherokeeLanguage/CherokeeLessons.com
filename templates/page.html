@@ -27,9 +27,23 @@
                         </div>
                         {% block page_footer %}
                         {{ post_macros::post_footer(page=page) }}
-                        <script src="https://utteranc.es/client.js" repo="CherokeeLanguage/CherokeeLessons.com"
-                            issue-term="pathname" label="comment" theme="icy-dark" crossorigin="anonymous" async>
-                            </script>
+                        <script src="https://giscus.app/client.js"
+                            data-repo="CherokeeLanguage/CherokeeLessons.com"
+                            data-repo-id="MDEwOlJlcG9zaXRvcnkyNDgxMDY2NjU="
+                            data-category-id="DIC_kwDODsnOqc4COpqd"
+                            data-mapping="pathname"
+                            data-reactions-enabled="1"
+                            data-emit-metadata="0"
+                            data-input-position="bottom"
+                            data-theme="dark_protanopia"
+                            data-lang="en"
+                            data-loading="lazy"
+                            crossorigin="anonymous"
+                            async>
+                        </script>
+<!--                        <script src="https://utteranc.es/client.js" repo="CherokeeLanguage/CherokeeLessons.com"-->
+<!--                            issue-term="pathname" label="comment" theme="icy-dark" crossorigin="anonymous" async>-->
+<!--                            </script>-->
                         <!--<script src='https://redditjs.com/post.js' data-post-finder="mostUpvoted" data-theme="dark" data-show-submit="true" />-->
                         {% endblock page_footer %}
                     </div>
