@@ -5,7 +5,7 @@ set -o pipefail
 
 trap "echo ERROR; read a" ERR
 
-if [ "$(hostname)" != "Precision-Workstation" ]; then echo "WRONG MACHINE"; exit -1; fi
+if [ "$(hostname)" != "omen-desktop" ]; then echo "WRONG MACHINE"; exit -1; fi
 
 cd "$(dirname "$0")"
 
