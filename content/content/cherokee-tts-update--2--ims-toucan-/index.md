@@ -7,7 +7,7 @@ weight = 1650318750
 [taxonomies]
 authors = ["Michael Conrad"]
 categories = ["TTS"]
-tags = ["Tacotron", "TTS", "Python", "Animals", "Audio Exercises", "Lessons"]
+tags = ["FastSpeech", "TTS", "Python", "Demo Audio"]
 
 [extra]
 
