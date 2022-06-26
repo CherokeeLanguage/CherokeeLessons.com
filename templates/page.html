@@ -17,9 +17,10 @@
                             <div itemprop="articleBody" class="content article-body" style="min-height: 450px;">
                                 {% if page.extra.featured_image -%}
                                 <div style='display: inline-block; float: left; max-width: 25%; margin-right: 2rem;'>
-                                    {% set image = resize_image(path=page.extra.featured_image, width=450, height=450, op="fit") %}
+                                    {% set image = resize_image(path=page.extra.featured_image, width=450, height=450,
+                                    op="fit") %}
                                     <img style='width: 100%; height: 100%'
-                                        src="{{ image.url }}" />
+                                         src="{{ image.url }}"/>
                                 </div>
                                 {% endif -%}
                                 {{ page.content | safe }}
@@ -28,23 +29,19 @@
                         {% block page_footer %}
                         {{ post_macros::post_footer(page=page) }}
                         <script src="https://giscus.app/client.js"
-                            data-repo="CherokeeLanguage/CherokeeLessons.com"
-                            data-repo-id="MDEwOlJlcG9zaXRvcnkyNDgxMDY2NjU="
-                            data-category-id="DIC_kwDODsnOqc4COpqd"
-                            data-mapping="pathname"
-                            data-reactions-enabled="1"
-                            data-emit-metadata="0"
-                            data-input-position="bottom"
-                            data-theme="dark_protanopia"
-                            data-lang="en"
-                            data-loading="lazy"
-                            crossorigin="anonymous"
-                            async>
+                                data-repo="CherokeeLanguage/CherokeeLessons.com"
+                                data-repo-id="MDEwOlJlcG9zaXRvcnkyNDgxMDY2NjU="
+                                data-category-id="DIC_kwDODsnOqc4COpqe"
+                                data-mapping="pathname"
+                                data-reactions-enabled="1"
+                                data-emit-metadata="0"
+                                data-input-position="bottom"
+                                data-theme="dark_protanopia"
+                                data-lang="en"
+                                data-loading="lazy"
+                                crossorigin="anonymous"
+                                async>
                         </script>
-<!--                        <script src="https://utteranc.es/client.js" repo="CherokeeLanguage/CherokeeLessons.com"-->
-<!--                            issue-term="pathname" label="comment" theme="icy-dark" crossorigin="anonymous" async>-->
-<!--                            </script>-->
-                        <!--<script src='https://redditjs.com/post.js' data-post-finder="mostUpvoted" data-theme="dark" data-show-submit="true" />-->
                         {% endblock page_footer %}
                     </div>
                 </article>
