@@ -62,6 +62,7 @@ little to no difficulty with reading the Cherokee in the chapter texts.
 """
 
     below_fold_md: str = """
+    
 ## Audio Exercises
 
 SESSION|MP3 FILE
