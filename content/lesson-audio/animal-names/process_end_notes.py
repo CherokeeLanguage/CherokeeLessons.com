@@ -24,22 +24,18 @@ def main() -> None:
     shell_md = shell_md.replace("__weight__", weight)
 
     above_fold_md: str = """
-> Language and culture which are not shared and taught openly and freely will die.
-> If our language and culture die, then, as a people, so do we.
-
 These sessions closely follow the vocabulary from the Animals app.
 
+Try doing one session each day. Three times per day, morning, noon, then evening.
+"""
+
+    below_fold_md: str = """
 Much the same way that English speakers shorten phrases such as “do not” into “don't”
 and “can not” into “can't”,
 Cherokee speakers also shorten phrases by dropping certain vowels, syllables,
 and words in everyday speech.
 Vocabulary will be introduced using the long form of the word or phrase.
 Many challenges will be using a mixture of full and short forms.
-"""
-
-    below_fold_md: str = """
-
-Try doing one session each day. Three times per day, morning, noon, then evening.
 
 Leave comments below.    
     
