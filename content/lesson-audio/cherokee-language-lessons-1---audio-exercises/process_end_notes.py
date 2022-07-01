@@ -6,6 +6,8 @@ conda activate cherokee-lessons
 exec python "$0" "$@"
 exit $?
 ''"""
+from datetime import datetime
+from datetime import timezone
 
 
 def main() -> None:
@@ -13,9 +15,9 @@ def main() -> None:
     shell_md: str = """
 +++
 draft = false
-date = 2022-06-25T22:20:23Z
+date = __post_date__
 title = "Cherokee Language Lessons 1 - Audio Exercises"
-weight = 1656195620
+weight = __weight__
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -35,6 +37,13 @@ __above_fold__
 __below_fold__
 
 """
+
+    now = datetime.now(timezone.utc)
+    weight: str = str(int(now.timestamp()/60)*60)
+    post_date: str = now.isoformat(timespec="seconds").replace("+00:00", "Z")
+
+    shell_md = shell_md.replace("__post_date__", post_date)
+    shell_md = shell_md.replace("__weight__", weight)
 
     above_fold_md: str = """
 ## Audio Lessons - About

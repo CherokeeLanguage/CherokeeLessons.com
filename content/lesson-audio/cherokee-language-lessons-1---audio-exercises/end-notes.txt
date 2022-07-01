@@ -5,36 +5,32 @@
 005: 
 006: Complete the lesson material through the end of chapter 5.
 007: Complete the lesson material through the end of chapter 6.
-008: Complete the lesson material through the end of chapter 7.
-009: Complete the lesson material through the end of chapter 8.
-010: 
-011: Complete the lesson material through the end of chapter 9.
-012: 
-013: Complete the lesson material through the end of chapter 10.
-014: 
+008: Complete the lesson material through the end of chapter 8.
+009: 
+010: Complete the lesson material through the end of chapter 9.
+011: 
+012: Complete the lesson material through the end of chapter 10.
+013: 
+014: Complete the lesson material through the end of chapter 11.
 015: 
-016: Complete the lesson material through the end of chapter 11.
+016: 
 017: 
-018: 
+018: Complete the lesson material through the end of chapter 12.
 019: 
-020: Complete the lesson material through the end of chapter 12.
-021: 
-022: 
+020: 
+021: Complete the lesson material through the end of chapter 13.
+022: Complete the lesson material through the end of chapter 14.
 023: 
-024: Complete the lesson material through the end of chapter 13.
-025: 
-026: Complete the lesson material through the end of chapter 14.
-027: Complete the lesson material through the end of chapter 15.
-028: Complete the lesson material through the end of chapter 17.
-029: 
-030: Complete the lesson material through the end of chapter 18.
-031: 
-032: Complete the lesson material through the end of chapter 19.
-033: Complete the lesson material through the end of chapter 20.
+024: Complete the lesson material through the end of chapter 15.
+025: Complete the lesson material through the end of chapter 17.
+026: Complete the lesson material through the end of chapter 18.
+027: 
+028: Complete the lesson material through the end of chapter 19.
+029: Complete the lesson material through the end of chapter 20.
+030: 
+031: Complete the lesson material through the end of chapter 21.
+032: 
+033: 
 034: 
 035: 
-036: Complete the lesson material through the end of chapter 21.
-037: 
-038: 
-039: 
-040: Complete the lesson material through the end of chapter 22.
+036: Complete the lesson material through the end of chapter 22.
