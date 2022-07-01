@@ -1,8 +1,8 @@
 +++
 draft = false
-date = 2022-07-01T02:30:56Z
+date = 2022-07-01T02:35:44Z
 title = "Cherokee Animals Names - Audio Exercises"
-weight = 1656642600
+weight = 1656642900
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -18,8 +18,6 @@ featured_image = "lesson-audio/animal-names/CherokeeAnimals-promo.jpg"
 
 These sessions closely follow the vocabulary from the Animals app.
 
-Try doing one session each day. Three times per day, morning, noon, then evening.
-
 
 <!-- more -->
 
@@ -34,6 +32,9 @@ Many challenges will be using a mixture of full and short forms.
 Leave comments below.    
     
 ## Audio Exercises
+
+Try doing one session each day.
+Repeat the session three times per day, morning, noon, then evening.
 
 SESSION|MP3 FILE
 --|--

@@ -25,8 +25,6 @@ def main() -> None:
 
     above_fold_md: str = """
 These sessions closely follow the vocabulary from the Animals app.
-
-Try doing one session each day. Three times per day, morning, noon, then evening.
 """
 
     below_fold_md: str = """
@@ -40,6 +38,9 @@ Many challenges will be using a mixture of full and short forms.
 Leave comments below.    
     
 ## Audio Exercises
+
+Try doing one session each day.
+Repeat the session three times per day, morning, noon, then evening.
 
 SESSION|MP3 FILE
 --|--

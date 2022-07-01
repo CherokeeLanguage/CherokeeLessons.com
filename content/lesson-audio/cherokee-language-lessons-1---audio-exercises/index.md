@@ -1,9 +1,9 @@
 
 +++
 draft = false
-date = 2022-07-01T01:45:15Z
+date = 2022-07-01T02:35:12Z
 title = "Cherokee Language Lessons 1 - Audio Exercises"
-weight = 1656639900
+weight = 1656642900
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -46,6 +46,9 @@ little to no difficulty with reading the Cherokee in the chapter texts.
 
     
 ## Audio Exercises
+
+Try doing one session each day.
+Repeat the session three times per day, morning, noon, then evening.
 
 SESSION|MP3 FILE
 --|--
