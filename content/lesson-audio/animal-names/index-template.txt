@@ -1,0 +1,23 @@
++++
+draft = false
+date = __post_date__
+title = "Cherokee Animals Names - Audio Exercises"
+weight = __weight__
+
+[taxonomies]
+authors = ["Michael Conrad"]
+categories = ["Lessons", "Grammar", "Lesson Audio"]
+tags = ["TTS", "IMS-Toucan", "Challenge-Response"]
+
+[extra]
+
+featured_image = "lesson-audio/animal-names/CherokeeAnimals-promo.jpg"
+
++++
+
+__above_fold__
+
+<!-- more -->
+
+__below_fold__
+
