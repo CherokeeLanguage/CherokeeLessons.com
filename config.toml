@@ -8,9 +8,9 @@ generate_rss = true
 build_search_index = true
 
 taxonomies = [
-    {name = "categories", paginate_by = 8, rss = true},
-    {name = "tags", paginate_by = 8, rss = true},
-    {name = "authors", paginate_by = 8, rss = true}
+    { name = "categories", paginate_by = 8, rss = true },
+    { name = "tags", paginate_by = 8, rss = true },
+    { name = "authors", paginate_by = 8, rss = true }
 ]
 
 compile_sass = true
@@ -28,15 +28,16 @@ anchors = "safe"
 [extra]
 
 zulma_title = "Cherokee Language Lessons"
-zulma_brand = {text="Cherokee Lessons"}
+zulma_brand = { text = "Cherokee Lessons" }
 zulma_theme = "superhero"
 zulma_allow_theme_selection = true
 zulma_menu = [
-  {url = "/apps/", name = "Apps"},
-  {url = "/books/", name = "Books"},
-  {url = "/lessons/", name = "Lessons"},
-  {url = "/virtual-classrooms/", name = "Online Courses"},
-  {url = "/content/", name = "Other"},
-  {url = "/html-books/", name = "Stories"},
-  {url = "/apps/privacy-policy---apps/", name = "Privacy"}
+    { url = "/apps/", name = "Apps" },
+    { url = "/lesson-audio/", name = "Audio" },
+    { url = "/books/", name = "Books" },
+    { url = "/lessons/", name = "Lessons" },
+    { url = "/virtual-classrooms/", name = "Courses" },
+    { url = "/content/", name = "Other" },
+    { url = "/html-books/", name = "Stories" },
+    { url = "/apps/privacy-policy---apps/", name = "Privacy" }
 ]
