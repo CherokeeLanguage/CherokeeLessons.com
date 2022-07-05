@@ -1,9 +1,9 @@
 
 +++
 draft = false
-date = 2022-07-01T02:35:12Z
+date = 2022-07-05T04:48:00Z
 title = "Cherokee Language Lessons 1 - Audio Exercises"
-weight = 1656642900
+weight = 1656996480
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -68,42 +68,25 @@ SESSION|MP3 FILE
 0010|{{audio (file="cll1-v3-0010.mp3")}}
 ----| Complete the lesson material through the end of chapter 9.
 0011|{{audio (file="cll1-v3-0011.mp3")}}
-0012|{{audio (file="cll1-v3-0012.mp3")}}
 ----| Complete the lesson material through the end of chapter 10.
+0012|{{audio (file="cll1-v3-0012.mp3")}}
+----| Complete the lesson material through the end of chapter 11.
 0013|{{audio (file="cll1-v3-0013.mp3")}}
 0014|{{audio (file="cll1-v3-0014.mp3")}}
-----| Complete the lesson material through the end of chapter 11.
+----| Complete the lesson material through the end of chapter 12.
 0015|{{audio (file="cll1-v3-0015.mp3")}}
 0016|{{audio (file="cll1-v3-0016.mp3")}}
-0017|{{audio (file="cll1-v3-0017.mp3")}}
-0018|{{audio (file="cll1-v3-0018.mp3")}}
-----| Complete the lesson material through the end of chapter 12.
-0019|{{audio (file="cll1-v3-0019.mp3")}}
-0020|{{audio (file="cll1-v3-0020.mp3")}}
-0021|{{audio (file="cll1-v3-0021.mp3")}}
 ----| Complete the lesson material through the end of chapter 13.
-0022|{{audio (file="cll1-v3-0022.mp3")}}
-----| Complete the lesson material through the end of chapter 14.
-0023|{{audio (file="cll1-v3-0023.mp3")}}
-0024|{{audio (file="cll1-v3-0024.mp3")}}
+0017|{{audio (file="cll1-v3-0017.mp3")}}
 ----| Complete the lesson material through the end of chapter 15.
-0025|{{audio (file="cll1-v3-0025.mp3")}}
-----| Complete the lesson material through the end of chapter 17.
-0026|{{audio (file="cll1-v3-0026.mp3")}}
+0018|{{audio (file="cll1-v3-0018.mp3")}}
 ----| Complete the lesson material through the end of chapter 18.
-0027|{{audio (file="cll1-v3-0027.mp3")}}
-0028|{{audio (file="cll1-v3-0028.mp3")}}
-----| Complete the lesson material through the end of chapter 19.
-0029|{{audio (file="cll1-v3-0029.mp3")}}
+0019|{{audio (file="cll1-v3-0019.mp3")}}
 ----| Complete the lesson material through the end of chapter 20.
-0030|{{audio (file="cll1-v3-0030.mp3")}}
-0031|{{audio (file="cll1-v3-0031.mp3")}}
+0020|{{audio (file="cll1-v3-0020.mp3")}}
 ----| Complete the lesson material through the end of chapter 21.
-0032|{{audio (file="cll1-v3-0032.mp3")}}
-0033|{{audio (file="cll1-v3-0033.mp3")}}
-0034|{{audio (file="cll1-v3-0034.mp3")}}
-0035|{{audio (file="cll1-v3-0035.mp3")}}
-0036|{{audio (file="cll1-v3-0036.mp3")}}
+0021|{{audio (file="cll1-v3-0021.mp3")}}
+0022|{{audio (file="cll1-v3-0022.mp3")}}
 ----| Complete the lesson material through the end of chapter 22.
 
 
