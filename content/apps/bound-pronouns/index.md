@@ -14,7 +14,7 @@ featured_image = "../static/images/bound-pronouns.png"
 
 +++
 
-#### (App updated 2022-06-26)
+#### (App updated 2022-07-18)
 
 Learn the bound pronouns of Cherokee.
 
@@ -48,10 +48,14 @@ IF YOU FIND AN ISSUE WITH THE APP OR TRAINING DATA - PLEASE REPORT IT WITH DETAI
 
 ### Direct Download
 
-* [Desktop App via Direct Download](BoundPronouns-3.40.jar)
-* [Android App via Direct Download](BoundPronouns-3.40-release.apk)
+* [Desktop App via Direct Download](BoundPronouns-3.41.jar)
+* [Android App via Direct Download](BoundPronouns-3.41-release.apk)
 
 ## Changelog
+
+### 3.41
+
+Slower speech to better match normal Cherokee speech rate.
 
 ### 3.40
 
