@@ -16,7 +16,7 @@
 0016: Complete the lesson material through the end of chapter 13.
 0017: Complete the lesson material through the end of chapter 15.
 0018: Complete the lesson material through the end of chapter 18.
-0019: Complete the lesson material through the end of chapter 20.
-0020: Complete the lesson material through the end of chapter 21.
-0021: 
+0019: Complete the lesson material through the end of chapter 19.
+0020: Complete the lesson material through the end of chapter 20.
+0021: Complete the lesson material through the end of chapter 21.
 0022: Complete the lesson material through the end of chapter 22.
