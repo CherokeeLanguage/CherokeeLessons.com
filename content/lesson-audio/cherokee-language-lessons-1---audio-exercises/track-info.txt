@@ -1,22 +1,22 @@
-0001|2022-07-04T19:28:07|CLL 1 [01] Osiyo ... Tohiju|Cherokee Language Lessons 1 - 3rd Edition|13:08
-0002|2022-07-04T19:30:46|CLL 1 [02] Tohisgo ... Gohusdi|Cherokee Language Lessons 1 - 3rd Edition|17:31
-0003|2022-07-04T19:34:14|CLL 1 [03] Donadagohvi ... Tali didehlohgwasdi|Cherokee Language Lessons 1 - 3rd Edition|20:43
-0004|2022-07-04T19:38:27|CLL 1 [04] Ayadohlvi ... Tatvdasda|Cherokee Language Lessons 1 - 3rd Edition|24:00
-0005|2022-07-04T19:43:19|CLL 1 [05] Hisginei agehya ... Sudali jisdu|Cherokee Language Lessons 1 - 3rd Edition|25:26
-0006|2022-07-04T19:49:07|CLL 1 [06] Gahlgwogi anigehyuja ... Gado jusdi nvya|Cherokee Language Lessons 1 - 3rd Edition|30:55
-0007|2022-07-04T19:56:10|CLL 1 [07] Gado unsdi anigehya ... Ahani ale uhna|Cherokee Language Lessons 1 - 3rd Edition|35:19
-0008|2022-07-04T20:04:21|CLL 1 [08] Ina ale nav ... Agehyahv|Cherokee Language Lessons 1 - 3rd Edition|38:48
-0009|2022-07-04T20:13:30|CLL 1 [09] Vsginahv ... Hlasgo ahawi yigi|Cherokee Language Lessons 1 - 3rd Edition|41:19
-0010|2022-07-04T20:23:19|CLL 1 [10] Hlaju wahaya yigi ... Nigada nihi dvijvgohi|Cherokee Language Lessons 1 - 3rd Edition|45:16
-0011|2022-07-04T20:34:29|CLL 1 [11] Nigada ayv dvijvgohi ... Nigadu|Cherokee Language Lessons 1 - 3rd Edition|46:55
-0012|2022-07-04T20:45:55|CLL 1 [12] Sgigadu ... Gado|Cherokee Language Lessons 1 - 3rd Edition|44:11
-0013|2022-07-04T20:58:33|CLL 1 [13] Gadogi ... Ajalagi|Cherokee Language Lessons 1 - 3rd Edition|56:34
-0014|2022-07-04T21:12:45|CLL 1 [14] Anosda anijalagi ... Dewidi jisdu dagwadoa|Cherokee Language Lessons 1 - 3rd Edition|55:19
-0015|2022-07-04T21:24:29|CLL 1 [15] Nihi ale ayv ... Ahani sagwu sogwili|Cherokee Language Lessons 1 - 3rd Edition|44:51
-0016|2022-07-04T21:34:57|CLL 1 [16] Hiasgo osda sogwili ... Adahaligei ahawi|Cherokee Language Lessons 1 - 3rd Edition|43:30
-0017|2022-07-04T21:48:32|CLL 1 [17] Adalonigei ahawi ... Tuya uniha|Cherokee Language Lessons 1 - 3rd Edition|57:24
-0018|2022-07-04T22:04:12|CLL 1 [18] Sadvdi agiha ... Nuna duniha|Cherokee Language Lessons 1 - 3rd Edition|59:53
-0019|2022-07-04T22:20:47|CLL 1 [19] Nvya dagiha ... Gesesdi|Cherokee Language Lessons 1 - 3rd Edition|59:55
-0020|2022-07-04T22:36:50|CLL 1 [20] Gwagwaa jiyaduliha ... Nuna gasgilvi|Cherokee Language Lessons 1 - 3rd Edition|59:53
-0021|2022-07-04T22:52:16|CLL 1 [21] Gado usdi ulsuhwida na gihli ... Agiyo agwaduliha jayos jaduli|Cherokee Language Lessons 1 - 3rd Edition|59:44
-0022|2022-07-04T23:03:31|CLL 1 [22] Ajalag wes gese ... Nasgi gajiyaduli|Cherokee Language Lessons 1 - 3rd Edition|38:16
+0001|2022-07-19T00:38:21|CLL 1 [01] O:síyo ... Tò:hi̋:ju|Cherokee Language Lessons 1 - 3rd Edition|13:25
+0002|2022-07-19T00:41:04|CLL 1 [02] Tò:hi̋:sgo ... Go:hű:sdi|Cherokee Language Lessons 1 - 3rd Edition|18:16
+0003|2022-07-19T00:44:29|CLL 1 [03] Donada:go:hv:ɂi ... Taɂli dide:hlohgwà:sdi|Cherokee Language Lessons 1 - 3rd Edition|21:52
+0004|2022-07-19T00:48:36|CLL 1 [04] Aya:do:hlv̋:ɂi ... Tatv:dà:sda|Cherokee Language Lessons 1 - 3rd Edition|25:30
+0005|2022-07-19T00:53:26|CLL 1 [05] Hisgi:ne̋:ɂi agě:hya ... Sǔ:dáli ji:sdu|Cherokee Language Lessons 1 - 3rd Edition|27:36
+0006|2022-07-19T00:59:13|CLL 1 [06] Gahlgwǒ:gi ani:ge:hyű:ja ... Gadō jű:sdi nv̀:ya|Cherokee Language Lessons 1 - 3rd Edition|33:01
+0007|2022-07-19T01:06:20|CLL 1 [07] Gadō űnsdi ani:gě:hya ... Áhani ale ù:hna̋|Cherokee Language Lessons 1 - 3rd Edition|38:02
+0008|2022-07-19T01:14:37|CLL 1 [08] I̋:na ale naɂv ... Agě:hyahv|Cherokee Language Lessons 1 - 3rd Edition|41:42
+0009|2022-07-19T01:23:52|CLL 1 [09] V̀:sginahv ... Hlasgo ahawi yi̋:gi|Cherokee Language Lessons 1 - 3rd Edition|43:42
+0010|2022-07-19T01:33:38|CLL 1 [10] Hlaju wahaya yi̋:gi ... Niga̋:da nihi, dv:ɂì:jv:go:hi|Cherokee Language Lessons 1 - 3rd Edition|47:36
+0011|2022-07-19T01:44:46|CLL 1 [11] Niga̋:da ayv dv:ɂì:jv:go:hi ... Niga:ɂdu|Cherokee Language Lessons 1 - 3rd Edition|50:39
+0012|2022-07-19T01:56:19|CLL 1 [12] Sgiga:ɂdu ... Gadò|Cherokee Language Lessons 1 - 3rd Edition|47:16
+0013|2022-07-19T02:08:52|CLL 1 [13] Gadògí ... Ajalagi|Cherokee Language Lessons 1 - 3rd Edition|59:36
+0014|2022-07-19T02:22:48|CLL 1 [14] À:nő:sda ani:jalagi ... Dé:widi ji:sdu dà:gwadó:a|Cherokee Language Lessons 1 - 3rd Edition|58:40
+0015|2022-07-19T02:34:20|CLL 1 [15] Nihi ale ayv ... Áhani sà:gwű sǒ:gwíli|Cherokee Language Lessons 1 - 3rd Edition|47:13
+0016|2022-07-19T02:44:40|CLL 1 [16] Hiɂasgo ő:sda sǒ:gwíli ... Adaha:lige̋:ɂi ahawi|Cherokee Language Lessons 1 - 3rd Edition|47:46
+0017|2022-07-19T02:57:58|CLL 1 [17] Adalǒ:níge̋:ɂi ahawi ... Tǔ:ya ù:nǐ:ha|Cherokee Language Lessons 1 - 3rd Edition|59:45
+0018|2022-07-19T03:12:09|CLL 1 [18] Sadv́:di à:giha ... Ani:chű:ja ge:jagowhtíha|Cherokee Language Lessons 1 - 3rd Edition|59:41
+0019|2022-07-19T03:26:45|CLL 1 [19] Vhla salǒ:li yige:jagowhtíha ... Gè:sv̌:ɂi|Cherokee Language Lessons 1 - 3rd Edition|59:40
+0020|2022-07-19T03:41:13|CLL 1 [20] Gè:sv̌:gi ... Na ani:sgaya ge:jadu:líha|Cherokee Language Lessons 1 - 3rd Edition|59:43
+0021|2022-07-19T03:55:19|CLL 1 [21] Go:hű:sdi ù:na:du:líha ... Ù:hnana|Cherokee Language Lessons 1 - 3rd Edition|59:40
+0022|2022-07-19T04:08:16|CLL 1 [22] Ani:yv:wi ù:hna yigè:sé:sdi ... Nà:sgi ga:ji:ya:du:lí|Cherokee Language Lessons 1 - 3rd Edition|55:26

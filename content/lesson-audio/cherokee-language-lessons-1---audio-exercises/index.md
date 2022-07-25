@@ -20,7 +20,7 @@ featured_image = "lesson-audio/cherokee-language-lessons-1---audio-exercises/Che
 ## Audio Lessons - About
 
 These audio exercise sessions complement the book 'Cherokee Language Lessons 1',
-3rd Edition, by Michael Conrad.
+3rd Edition, by Michael Conrad. They are also usable with the 2nd edition.
 
 Each set of audio exercises should be completed **before** working through the 
 corresponding chapters in the book. The audio will indicate when you should
@@ -32,10 +32,7 @@ you should wait about an hour between sessions.
 Do not and try to cram multiple audio exercises into a single day, you will not
 retain the material. The ideal schedule is one exercise repeated at least twice per day.
 Do the session in the morning, then repeat the session in the evening.
-Others prefer morning, noon, and then evening.
-
-Some people can cram two or more exercises per day without issue.
-You should wait an least an hour between such cram sessions.
+Others prefer doing them three times, morning, noon, and then evening.
 
 By the time you complete the audio exercises, you should have
 little to no difficulty with reading the Cherokee in the chapter texts.
@@ -47,8 +44,9 @@ little to no difficulty with reading the Cherokee in the chapter texts.
     
 ## Audio Exercises
 
-Try doing one session each day.
-Repeat the session three times per day, morning, noon, then evening.
+Try doing one session three times each day. Morning, noon, then evening.
+
+Last updated: 2022-07-24 23:37:24
 
 SESSION|MP3 FILE
 --|--
@@ -82,10 +80,11 @@ SESSION|MP3 FILE
 0018|{{audio (file="cll1-v3-0018.mp3")}}
 ----| Complete the lesson material through the end of chapter 18.
 0019|{{audio (file="cll1-v3-0019.mp3")}}
-----| Complete the lesson material through the end of chapter 20.
+----| Complete the lesson material through the end of chapter 19.
 0020|{{audio (file="cll1-v3-0020.mp3")}}
-----| Complete the lesson material through the end of chapter 21.
+----| Complete the lesson material through the end of chapter 20.
 0021|{{audio (file="cll1-v3-0021.mp3")}}
+----| Complete the lesson material through the end of chapter 21.
 0022|{{audio (file="cll1-v3-0022.mp3")}}
 ----| Complete the lesson material through the end of chapter 22.
 

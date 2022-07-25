@@ -8,6 +8,7 @@ exit $?
 ''"""
 from datetime import datetime
 from datetime import timezone
+from zoneinfo import ZoneInfo
 
 
 def main() -> None:
@@ -15,9 +16,9 @@ def main() -> None:
     shell_md: str = """
 +++
 draft = false
-date = __post_date__
+date = 2022-07-05T04:48:00Z
 title = "Cherokee Language Lessons 1 - Audio Exercises"
-weight = __weight__
+weight = 1656996480
 
 [taxonomies]
 authors = ["Michael Conrad"]
@@ -42,6 +43,8 @@ __below_fold__
     weight: str = str(int(now.timestamp()/60)*60)
     post_date: str = now.isoformat(timespec="seconds").replace("+00:00", "Z")
 
+    last_updated = datetime.now(ZoneInfo("EST5EDT"))
+
     shell_md = shell_md.replace("__post_date__", post_date)
     shell_md = shell_md.replace("__weight__", weight)
 
@@ -49,7 +52,7 @@ __below_fold__
 ## Audio Lessons - About
 
 These audio exercise sessions complement the book 'Cherokee Language Lessons 1',
-3rd Edition, by Michael Conrad.
+3rd Edition, by Michael Conrad. They are also usable with the 2nd edition.
 
 Each set of audio exercises should be completed **before** working through the 
 corresponding chapters in the book. The audio will indicate when you should
@@ -61,10 +64,7 @@ you should wait about an hour between sessions.
 Do not and try to cram multiple audio exercises into a single day, you will not
 retain the material. The ideal schedule is one exercise repeated at least twice per day.
 Do the session in the morning, then repeat the session in the evening.
-Others prefer morning, noon, and then evening.
-
-Some people can cram two or more exercises per day without issue.
-You should wait an least an hour between such cram sessions.
+Others prefer doing them three times, morning, noon, and then evening.
 
 By the time you complete the audio exercises, you should have
 little to no difficulty with reading the Cherokee in the chapter texts.
@@ -74,8 +74,9 @@ little to no difficulty with reading the Cherokee in the chapter texts.
     
 ## Audio Exercises
 
-Try doing one session each day.
-Repeat the session three times per day, morning, noon, then evening.
+Try doing one session three times each day. Morning, noon, then evening.
+
+Last updated: __last_updated__
 
 SESSION|MP3 FILE
 --|--
@@ -102,6 +103,7 @@ SESSION|MP3 FILE
     index_md: str = shell_md
     index_md = index_md.replace("__above_fold__", above_fold_md)
     index_md = index_md.replace("__below_fold__", below_fold_md)
+    index_md = index_md.replace("__last_updated__", last_updated.strftime("%Y-%m-%d %H:%M:%S"))
 
     with open("index.md", "w") as w:
         w.write(index_md)
