@@ -6,8 +6,10 @@ conda activate cherokee-lessons
 exec python "$0" "$@"
 exit $?
 ''"""
+import subprocess
 from datetime import datetime
 from datetime import timezone
+from glob import glob
 from zoneinfo import ZoneInfo
 
 
@@ -78,6 +80,8 @@ Try doing one session three times each day. Morning, noon, then evening.
 
 Last updated: __last_updated__
 
+Download all files as a single zip: [cll1-v3-audio.zip](cll1-v3-audio.zip).
+
 SESSION|MP3 FILE
 --|--
 """
@@ -108,6 +112,8 @@ SESSION|MP3 FILE
     with open("index.md", "w") as w:
         w.write(index_md)
         w.write("\n")
+
+    subprocess.run(["zip", "-j", "-9", "cll1-v3-audio.zip"] + glob("*.mp3") , check=True)
 
 
 if __name__ == '__main__':

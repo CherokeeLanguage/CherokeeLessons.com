@@ -46,7 +46,9 @@ little to no difficulty with reading the Cherokee in the chapter texts.
 
 Try doing one session three times each day. Morning, noon, then evening.
 
-Last updated: 2022-07-24 23:37:24
+Last updated: 2022-07-25 15:06:39
+
+Download all files as a single zip: [cll1-v3-audio.zip](cll1-v3-audio.zip).
 
 SESSION|MP3 FILE
 --|--
