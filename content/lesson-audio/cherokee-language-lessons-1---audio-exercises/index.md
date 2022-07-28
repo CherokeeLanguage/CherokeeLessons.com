@@ -44,9 +44,9 @@ little to no difficulty with reading the Cherokee in the chapter texts.
     
 ## Audio Exercises
 
-Try doing one session three times each day. Morning, noon, then evening.
+Try repeating one session three times each day. Morning, noon, then evening.
 
-Last updated: 2022-07-25 15:06:39
+Last updated: 2022-07-28 00:58:47
 
 Download all files as a single zip: [cll1-v3-audio.zip](cll1-v3-audio.zip).
 

@@ -76,7 +76,7 @@ little to no difficulty with reading the Cherokee in the chapter texts.
     
 ## Audio Exercises
 
-Try doing one session three times each day. Morning, noon, then evening.
+Try repeating one session three times each day. Morning, noon, then evening.
 
 Last updated: __last_updated__
 
