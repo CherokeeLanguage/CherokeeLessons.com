@@ -6,6 +6,7 @@ conda activate cherokee-lessons
 exec python "$0" "$@"
 exit $?
 ''"""
+import pathlib
 import subprocess
 from datetime import datetime
 from datetime import timezone
@@ -112,8 +113,8 @@ SESSION|MP3 FILE
     with open("index.md", "w") as w:
         w.write(index_md)
         w.write("\n")
-
-    subprocess.run(["zip", "-j", "-9", "cll1-v3-audio.zip"] + glob("*.mp3") , check=True)
+    pathlib.Path("cll1-v3-audio.zip").unlink(missing_ok=True)
+    subprocess.run(["zip", "-j", "-9", "-o", "cll1-v3-audio.zip"] + glob("*.mp3") , check=True)
 
 
 if __name__ == '__main__':

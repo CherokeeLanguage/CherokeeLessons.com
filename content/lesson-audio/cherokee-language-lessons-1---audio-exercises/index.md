@@ -46,7 +46,7 @@ little to no difficulty with reading the Cherokee in the chapter texts.
 
 Try repeating one session three times each day. Morning, noon, then evening.
 
-Last updated: 2022-07-28 00:58:47
+Last updated: 2022-08-23 13:28:15
 
 Download all files as a single zip: [cll1-v3-audio.zip](cll1-v3-audio.zip).
 
@@ -70,24 +70,25 @@ SESSION|MP3 FILE
 0011|{{audio (file="cll1-v3-0011.mp3")}}
 ----| Complete the lesson material through the end of chapter 10.
 0012|{{audio (file="cll1-v3-0012.mp3")}}
-----| Complete the lesson material through the end of chapter 11.
 0013|{{audio (file="cll1-v3-0013.mp3")}}
+----| Complete the lesson material through the end of chapter 11.
 0014|{{audio (file="cll1-v3-0014.mp3")}}
 ----| Complete the lesson material through the end of chapter 12.
 0015|{{audio (file="cll1-v3-0015.mp3")}}
 0016|{{audio (file="cll1-v3-0016.mp3")}}
-----| Complete the lesson material through the end of chapter 13.
 0017|{{audio (file="cll1-v3-0017.mp3")}}
-----| Complete the lesson material through the end of chapter 15.
+----| Complete the lesson material through the end of chapter 14.
 0018|{{audio (file="cll1-v3-0018.mp3")}}
-----| Complete the lesson material through the end of chapter 18.
+----| Complete the lesson material through the end of chapter 17.
 0019|{{audio (file="cll1-v3-0019.mp3")}}
-----| Complete the lesson material through the end of chapter 19.
+----| Complete the lesson material through the end of chapter 18.
 0020|{{audio (file="cll1-v3-0020.mp3")}}
-----| Complete the lesson material through the end of chapter 20.
+----| Complete the lesson material through the end of chapter 19.
 0021|{{audio (file="cll1-v3-0021.mp3")}}
-----| Complete the lesson material through the end of chapter 21.
+----| Complete the lesson material through the end of chapter 20.
 0022|{{audio (file="cll1-v3-0022.mp3")}}
+----| Complete the lesson material through the end of chapter 21.
+0023|{{audio (file="cll1-v3-0023.mp3")}}
 ----| Complete the lesson material through the end of chapter 22.
 
 

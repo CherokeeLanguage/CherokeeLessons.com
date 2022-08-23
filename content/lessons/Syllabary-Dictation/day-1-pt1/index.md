@@ -93,7 +93,7 @@ pronunciations:
 
 #### Video: How to do a Dictation Exercise
 
-{{ video(video="Dictation 01-00 Introduction.mp4") }}
+{{ video(video="Dictation 01-01 How to do a dictation exercise.mp4") }}
 
 ---
 
