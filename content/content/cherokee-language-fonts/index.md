@@ -117,7 +117,7 @@ Download the zips.
 
 * [Joseph_Erb/Cherokeedouble.ttf](Joseph_Erb/Cherokeedouble.ttf)
 
-![img_14.png](img/img_14.png)
+![img_27.png](img/img_27.png)
 
 ---
 
