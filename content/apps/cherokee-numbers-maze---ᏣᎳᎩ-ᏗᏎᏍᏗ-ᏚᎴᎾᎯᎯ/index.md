@@ -15,6 +15,8 @@ featured_image = "apps/cherokee-numbers-maze---ᏣᎳᎩ-ᏗᏎᏍᏗ-ᏚᎴᎾ�
 
 +++
 
+## Demo Video
+
 {{ youtube(id="tj6c0UGRMF4") }}
 
 ## FREE! 

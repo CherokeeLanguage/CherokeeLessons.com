@@ -1,0 +1,2882 @@
+A lot	ᏥᏍᏈᏍᏓ	[tsgwisda] /rrd/
+Abdomen	ᎠᏍᏆᏁᎦᎸᎢ	[asgwaneːgalvʔi] (his) /rrd/
+Above	ᎦᎸᎳᏗᏣ	[galvːladitsa] /rrd/
+Accipiter striatus	ᏗᎦᎦᏛᎾᎯᏛ	[digaːgdvnahiːdv] /rrd/
+Accordian	ᏗᎫᏣᎾᎩᏍᏗ	[diguːtsanagiːsdi] /rrd/
+Acer rubrum	ᎩᎦᎨᏨᏩᎩ	[gigageːtsvːhwagi] /rrd/
+Acer saccharum	ᏧᏩᎩ	[tsuːwaːgi] /rrd/
+Aching	ᎤᏪᎯᏍᏓᏁᎭ	[uːweːhisdaːneha] /rrd/
+Acne	ᏛᎬᎾ	[dvgvːna] /rrd/
+Acorn	ᎫᎴ	[guːle] /rrd/
+Acorus calamus	ᎤᏲᏓᎵ	[uyoːdaːhli] /rrd/
+Acquainted with him	ᎪᎵᎦ	[goːlhga] /rrd/
+Acre	ᏑᏥᎶᏓ	[sutsiloːda] /rrd/
+Acrididae	ᎥᎴ	[vːle] /rrd/
+Acting	ᎠᏛᏁᎵᎭ	[advːneːliha] /rrd/
+Acting up	ᎠᏛᏁᎵᎭ	[advːneliha] /rrd/
+Actor	ᎠᏛᏁᎵᏍᎩ	[advːneːlihsgi] /rrd/
+Adam's needle	ᏎᎷᏉᏯ	[seːlugwoya] /rrd/
+Adding	ᎠᏌᏂᏙᎭ	[ahsaniːdoha] /rrd/
+Adding someone to a group	ᎨᎳᏗᎠ	[géhladiʔa] /rrd/
+Admiring it	ᎠᏍᏆᏂᎪᏍᎦ	[ahsgwánigohsga] /rrd/
+Aesculus pavia	ᎤᏍᏆᏙ	[uhsgwado] /rrd/
+Aesculus pavia	ᏧᏆᏆ	[tsuːgwaːgwa] /rrd/
+Affadavit	ᎠᏎᎵᏓᏅ	[aselidaːnv] /rrd/
+Afraid of	ᎠᏍᎦᎢᎭ	[ahsgaʔiha] /rrd/
+After a while	ᎪᎯ	[goːhi] /rrd/
+After a while	ᎪᎯᎩᎳ	[gohigila] /rrd/
+Afternoon	ᏒᎯᏰᏱᏗᏣ	[svhiyeyhditsa] /rrd/
+Afterwards	ᎤᎶᏐᏅ	[uloːsonv] /rrd/
+Again	ᏏᏉ	[sigwo] /rrd/
+Agkistrodon contortrix	ᏬᏗᎨᎠᏍᎪᎵ	[woːdigeːasgoːli] /rrd/
+Agkistrodon piscivorus	ᎧᏁᏉᏓ	[kaneːgwoːda] /rrd/
+Agony	ᎠᎩᎵᏲᎦ	[agiːhlíyoʔga] (in) /rrd/
+Agreeing	ᎪᎯᏳᎲᏍᎦ	[gohíːyuhvːsga] /rrd/
+Airplane	ᏥᏳ	[tsiːyu] /rrd/
+Alive	ᎡᎭ	[eha] /rrd/
+All	ᏂᎦᏓ	[nigaːda] /rrd/
+Allegheny serviceberry	ᎤᏙᎳᏂ	[udoːlani] /rrd/
+Alligator	ᏧᎳᏍᎩ	[tsuːlasgi] /rrd/
+Alligator mississippiensis	ᏧᎳᏍᎩ	[tsuːlasgi] /rrd/
+Allium cepa	ᏒᎩ	[svːgi] /rrd/
+Allium tricoccum	ᎤᏩᏍᏗ	[uwahsdi] /rrd/
+Almost	ᏎᎦᏨ	[seːgaːtsv] /rrd/
+Alnus serrulata	ᎠᏤᏓ	[aːhtseːhd] /rrd/
+Alone	ᎤᏩᏌ	[uːwahsa] /rrd/
+Already	ᎦᏳᎳ	[gaːyuːla] /rrd/
+Alright	ᎭᏩ	[hawa] /rrd/
+Always	ᏂᎪᎯᎸᎢ	[nigoːhilvʔi] /rrd/
+Amaranthus spinosus	ᏙᎳᏗᏳᏍᏗ	[toːhldiyusdi] /rrd/
+Amaranthus viridis	ᏩᏥᎦ	[watsga] /rrd/
+Ambrosia trifida	ᎤᏆᏍᏓᎷᏱᏓ	[ugwasdaːluhyda] /rrd/
+Amelanchier laevis	ᎤᏙᎳᏂ	[udoːlani] /rrd/
+American beech	ᎫᏏ	[kuːsi] /rrd/
+American black bear	ᏲᎾ	[yoːna] /rrd/
+American black elderberry	ᎪᏒᎦ	[goːsvʔga] /rrd/
+American chestnut	ᏘᎵ	[tiːli] /rrd/
+American chinquapin	ᎤᏅᎩᏅ	[uhnvgiːnv] /rrd/
+American eagle	ᎠᏬᎯᎵ	[awohili] /rrd/
+American hazelnut	ᎠᏳᎩᏓ	[ahyugiːda] /rrd/
+American kestrel	ᎩᎩ	[giːgi] /rrd/
+American robin	ᏥᏍᏉᏉ	[tsiːsgwoːgwo] /rrd/
+American sycamore	ᎫᏫᏳᎦᏍᏗ	[kuːhwiːyugsdi] /rrd/
+American tiger lily	ᎧᎾᎫᏣᏘ	[kaːhnguːtsati] /rrd/
+American walking fern	ᎢᎾᏓ ᎦᏁᎦ	[iːnada gahnga] /rrd/
+American willow	ᏗᎵᎦᎵᏍᎩ	[diːligalisgi] /rrd/
+American witch-hazel	ᎦᎾᏑᏛᎶ	[gansuːdvlo] /rrd/
+Amphicarpaea bracteata	ᏚᏯ ᎢᎾᎨᎢ	[tuːya inageʔi] /rrd/
+Amusing himself	ᎠᏍᏆᏂᎪᏒᎥᏍᎦ	[asgwaːnigosvʔvsga] /rrd/
+And	ᎠᎴ	[aleː] /rrd/
+And	ᏃᎴ	[noːle] /rrd/
+Andropogon virginicus	ᎧᏁᏍᎦ ᏬᏗ	[kaneːsga woːdi] /rrd/
+Angelico	ᏩᏁᎩᏓ	[waneːgida] /rrd/
+Angry	ᎤᎿᎦᎸᎭ	[uːhnagalvha] /rrd/
+Angry	ᎤᎿᎦᎸᎦ	[uːhnagalvʔga] (becoming) /rrd/
+Anguilla rostrata	ᏛᏕᏆ	[tvːdeːgwa] /rrd/
+Ankle	ᎦᏅᏒᏨᎢ	[ganvːsvtsvʔi] (his) /rrd/
+Ant	ᏙᏒᏓᎵ	[doːsvdaːli] /rrd/
+Antlers	ᏧᏲᏂ	[tsuːhyoːni] /rrd/
+Antrostomus vociferus	ᏩᎫᎵ	[waguːli] /rrd/
+Anus	ᎤᎦᏎᏂ	[uːkseːni] (his) /rrd/
+Anxious	ᎤᎶᏅᏤᎭ	[uːloːnv́ːtseha] /rrd/
+Any	ᎢᏳᏍᏗᏉ	[iːyusdigwo] /rrd/
+Anything	ᎦᎱᏍᏗ	[gahusdi] /rrd/
+Anytime	ᎢᏳᏉ	[iːyuːgwo] /rrd/
+Appears as	ᏂᎬᏫᏍᏗ	[nigvːwhsdi] /rrd/
+Apple	ᏒᎦᏔ	[svːkta] (all varieties) /rrd/
+Applying brakes	ᎦᏅᏐᎯᎭ	[ganvːsóhiha] /rrd/
+Approving it	ᎠᏍᏓᏱᏗᎠ	[ahsdaʔyíːdiʔa] /rrd/
+April	ᎧᏬᏄ	[kawoːnu] /rrd/
+Apron	ᎠᏤᏌᏙ	[atseːsado] /rrd/
+Archilochus colubris	ᏩᎴᎳ	[waːlela] /rrd/
+Ardea herodias	ᎧᏂᏍᎦᏩ	[kanisgawa] /rrd/
+Arguing	ᎠᏘᏲᎯᎭ	[atiyóhiha] /rrd/
+Arisaema triphyllum	ᏙᏒᎾ ᎢᎾᎨ ᎡᎯ	[doːsvna inage ehi] /rrd/
+Arisaema triphyllum	ᏚᏯᏍᏗ	[duyasdi] /rrd/
+Arising from lying	ᎠᏗᏗᎠ	[adiːdiʔa] /rrd/
+Arm	ᎦᏃᎨᏂ	[gaːhnoːgeːni] (his) /rrd/
+Armillaria mellea	ᎤᏂᎶᏇ	[uniloːgwe] /rrd/
+Armillaria mellea	ᏧᏂᎶᏇ	[tsuːniːhloːgwe] /rrd/
+Armpit	ᎦᏍᎨᏂ	[gasgeːni] (his) /rrd/
+Arriving	ᎦᎷᎦ	[gaʔluhga] /rrd/
+Arrow	ᎦᏓᎵᏓ	[gaːdaːhlida] /rrd/
+Arrowheads	ᏚᏫᏍᎦᎵ	[duwisgali] /rrd/
+Arthritis	ᏗᏙᎴᏍᎩ	[didoːleːsgi] /rrd/
+Arundinaria spp	ᎢᏯ	[iːhya] /rrd/
+As long as	ᎢᎪᎯᏛ	[iːgohiːdv] /rrd/
+Ash	ᏧᎦᏃᏅ	[tsuːganoːnv] (tree) /rrd/
+Ashamed	ᎠᏕᎰᏍᎦ	[adehóhsga] /rrd/
+Ashes	ᎪᏍᏓ	[kosda] /rrd/
+Ashes	ᎪᏍᏚᎯ	[koːsduhi] (in) /rrd/
+Asheville, N.C	ᏙᎩᏯᏍᏗ	[toːgiyaːsdi] /rrd/
+Asio otus	ᏥᎩᎵ	[tsgiːli] /rrd/
+Asking	ᎠᏔᏲᎯᎭ	[ahtayohiha] /rrd/
+Asking a question	ᎠᏓᏛᏛᎲᏍᎦ	[adatv́ːdvhvhsga] /rrd/
+Asking for	ᎠᏔᏲᎯᎭ	[ahtayohiha] /rrd/
+Asking him for it	ᎠᏔᏲᏎᎭ	[ahtayóhseha] /rrd/
+Asking him to do …	ᎦᏅᏍᎦ	[ganvːsga] /rrd/
+Asleep	ᎦᎵᎭ	[gaːhliha] /rrd/
+Asplenium rhizophyllum	ᎢᎾᏓ ᎦᏁᎦ	[iːnada gahnga] /rrd/
+Assaulting him	ᎦᎵᎥᏂᎭ	[galiʔvːniːha] /rrd/
+Assembling them	ᏓᏰᎧᎳᏍᎦ	[daːyekaːhlaːsga] /rrd/
+Assembling together	ᎠᎾᏓᏥᎩᎭ	[anadadsgiha] (they are) /rrd/
+Attached to it	ᎦᏯᎸᏅᎦ	[gayalvːnga] /rrd/
+Attaching it to something	ᎠᏯᎸᎥᏍᎦ	[ayalvʔvhsga] /rrd/
+Attending	ᎨᎳᏗᏙᎭ	[keladíːdoha] /rrd/
+Attractive	ᎤᏬᏚᎭ	[uːwoːduha] /rrd/
+Auctioneer	ᎦᎾᏗᏍᎩ	[gandisgi] /rrd/
+August	ᎦᎶᏂ	[galoːni] /rrd/
+Automobile	ᏓᏆᎴᎷ	[daːgwaleːlu] /rrd/
+Autumn	ᎤᎶᎪᎰᏍᏗ	[uloːgohosdi] /rrd/
+Awhile	ᏎᎦ	[seːga] /rrd/
+Axe	ᎦᎷᏱᏍᏗ	[galuʔyhsdi] /rrd/
+Aztec tobacco	ᏦᎳ ᎠᎦᏴᎵ	[tsoːla agayvːli] /rrd/
+Baby	ᎤᏍᏗᎢ	[uhsdiːʔi] /rrd/
+Baby sitting	ᎠᏓᎦᏘᏰᎭ	[adaːktiʔyeːha] /rrd/
+Back, the lower part	ᎦᏖᏍᎨᏂ	[gateːsgeːni] (his) /rrd/
+Bad	ᎤᏲᎢ	[uːyoːʔi] /rrd/
+Bad	ᎠᏲᎦ	[ayoːga] (becoming) /rrd/
+Baeolophus bicolor	ᎤᏧᎩ	[utsuːgi] /rrd/
+Bag	ᏕᎦᎵᏗ	[degaːhldi] /rrd/
+Baking bread	ᏕᎦᏚᎲᏍᎦ	[deːgaːduhvːsga] /rrd/
+Bald	ᎤᎨᏬᏗ	[uːgeːwoːdi] /rrd/
+Bald eagle	ᎠᏬᎯᎵ	[awohili] /rrd/
+Ball	ᎠᎳᏍᎦᎶᏗ	[ahlsgahldi] /rrd/
+Ball game	ᎠᏁᏣ	[aneːtsa] (stickball) /rrd/
+Ball game	ᎠᏁᏦᏗ	[aneːtsoːdi] (stickball) /rrd/
+Ball player	ᎠᏁᏦᎥᏍᎩ	[aneːtsoʔvhsgi] /rrd/
+Ball sticks	ᏗᎳᏍᎦᎵᏗ	[diːhlsgaːhldi] /rrd/
+Ball-hooting	ᎠᏳᏲᎰᏍᎦ	[aːyuːyohohsga] /rrd/
+Ball-hooting	ᏕᎦᏳᏲᎰᎾᏗᎭ	[deːgayuːyoːhoːhndiha] /rrd/
+Ballot	ᎪᏪᎵ ᏧᏍᏗ	[goːhweːli tsuːsdi] /rrd/
+Balsam poplar	ᎾᎨᎢ	[nageʔi] /rrd/
+Bandaging	ᎠᎸᎢᎭ	[ahlv́ːiha] /rrd/
+Banjo	ᏗᏴᎩᏍᏗ	[diːhyvːgisdi] /rrd/
+Bank swallow	ᏦᏯᎦ	[tsoːyaga] /rrd/
+Bankrupt	ᏚᎵᏍᏆᎵᏒᎯᎠ	[duːlsgwalísvhiːa] /rrd/
+Baptist	ᏗᏓᏬᏍᎩ	[didawoːsgi] /rrd/
+Barber	ᏗᏓᏍᏙᏰᏍᎩ	[didasdoyesgi] /rrd/
+Bark of a tree	ᎤᏯᎷᎦ	[uhyaluːga] /rrd/
+Barking	ᏓᏑᏫᏍᎦ	[daːhsuhwísga] /rrd/
+Barn swallow	ᏧᏗᏆᏅᏥ	[tsuːdigwaːntsi] /rrd/
+Barred owl	ᎤᎫᎫ	[uguːku] /rrd/
+Barrel	ᏒᏙᏂ	[svːdoʔni] /rrd/
+Bashful	ᎤᏕᎰᏌᏘ	[uːdehohsati] /rrd/
+Basket	ᏔᎷᏣ	[taluːtsa] /rrd/
+Bat	ᏣᎹᎭ	[tsaːmaha] /rrd/
+Bathing	ᎠᏓᏬᎠ	[adawóːʔa] /rrd/
+Batter	ᎠᏑᎨᎸᎯ	[ahsuːgeːlvhi] /rrd/
+Battery	ᎠᎾᎦᎵᏍᎩ	[anaʔgalihsgi] /rrd/
+Beach	ᎠᎹ ᎠᏍᏛᎢ	[am ahsdvːʔi] /rrd/
+Bean bread	ᏚᏯ ᎠᏑᏱ ᎦᏚ	[tuːya asuːyi gaːdu] /rrd/
+Bean salad	ᏧᎯᏥᏆ	[tsuːhiːtsgwa] (food) /rrd/
+Beans	ᏚᏯ	[tuya] /rrd/
+Bear	ᏲᎾ	[yoːna] /rrd/
+Bear grass	ᏔᏆᎵ	[taːgwaːli] /rrd/
+Bear huckleberry	ᎡᎶᏘᏍᎩ	[eloːtisgi] /rrd/
+Bear nettle	ᏙᎴᏓ	[toːleːda] /rrd/
+Bearing false witness	ᎠᏥᎪᎥᏍᎦ	[atshsgoʔvhsga] /rrd/
+Beating him in a game	ᎠᏔᎶᏍᎦ	[aʔtalohsga] /rrd/
+Beating him up	ᎦᎵᎥᏂᎭ	[galiʔvːniːha] /rrd/
+Beating it	ᎦᏅᏆᎶᎠ	[ganvːgwalóʔa] /rrd/
+Beaver	ᏙᏯ	[doːya] /rrd/
+Because of	ᏂᎦᎵᏍᏗᎭ	[nigaːlsdiha] /rrd/
+Bed	ᎦᏂᏏ	[ganisi] /rrd/
+Bed clothes	ᏗᏅᏬᏍᏙᏗ	[diːhnvwóːsdoːhdi] /rrd/
+Bed cover	ᎠᎵᏇᏅᏗ	[algwehnvhdi] /rrd/
+Bee	ᏩᏚᎵᏏ	[waːduːliːsi] /rrd/
+Beech	ᎫᏏ	[kuːsi] /rrd/
+Beef	ᏩᎧ ᎭᏫᏯ	[waka hawiːya] /rrd/
+Beer	ᎤᏬᎩᎵ	[uwoːgili] /rrd/
+Beet, red	ᎩᎦᎨ ᎦᎳᏍᎩ	[giːgage gaːhlaːsgi] /rrd/
+Before	ᎠᎬᏱᏗᏣ	[agvːyidiːtsa] /rrd/
+Begging him	ᎠᏍᏗᏰᏗᎭ	[ahsdiːyeʔdiha] /rrd/
+Beginning it	ᎠᎴᏂᎠ	[aleːniʔa] /rrd/
+Beginning with	ᎠᎴᏅᏗᎭ	[alenvhdiha] /rrd/
+Behind	ᎣᏂᏗᏣ	[ohnidiːtsa] /rrd/
+Being bad	ᎤᏲᎢᏯ	[uːyóʔiːya] /rrd/
+Being born	ᎠᏕᎲᏍᎦ	[adehv́hsga] /rrd/
+Being carried by it	ᎦᎾᏨᏍᏗᎭ	[gantsvːsdiːha] (a liquid) /rrd/
+Being carried by it	ᎦᏅᏍᏗᎭ	[ganvsdiːha] (something alive) or (something flexible) /rrd/
+Being carried by it	ᎦᏅᏍᏗᎭ	[ganvsdiha] (something long) /rrd/
+Being dripped on	ᎤᏍᏚᏥᎠ	[uːhsduːtsiʔa] /rrd/
+Being good	ᎣᏍᏓ	[osda] /rrd/
+Being hanged	ᎦᏓᎠ	[gadaʔa] /rrd/
+Being rained on	ᎤᎦᏍᎦ	[uːgáhsga] /rrd/
+Being spilled on	ᎤᏍᏚᏥᎠ	[uːhsduːtsiʔa] /rrd/
+Being splashed	ᎤᏍᏚᏥᎠ	[uːhsduːtsiʔa] /rrd/
+Being troublesome	ᎠᏕᏯᏙᏗᎭ	[adehytohdiha] /rrd/
+Belching, burping. I	ᎤᏩᎫᎴᎠ	[uːwaːguːleʔa] /rrd/
+Belching, burping. II	ᎤᏩᎫᎴᎠ	[uːwaːguːleʔga] /rrd/
+Believing	ᎪᎯᏳᎲᏍᎦ	[gohíːyuhvːsga] /rrd/
+Believing in	ᎤᏬᎯᏳᎭ	[uːwoːhíyuha] /rrd/
+Below	ᎡᎸᏗ	[elvːdi] /rrd/
+Belt	ᎠᏓᏦᏍᏗ	[adaːtsoːsdi] /rrd/
+Belted kingfisher	ᏣᎶᎯ	[tsaːlohi] /rrd/
+Bending it	ᎠᏴᏈᏛᎥᏍᎦ	[ayvgwidv́ːʔvhsga] /rrd/
+Berry	ᎤᏓᏔᏅᎯ	[udataːnvhi] /rrd/
+Beside	ᎤᎵᏗᏨ	[uhldiːtsv] /rrd/
+Beta vulgaris	ᎩᎦᎨ ᎦᎳᏍᎩ	[giːgage gaːhlaːsgi] /rrd/
+Betting	ᏓᎬᏩᎳᏍᎦ	[daːgvʔhwalaːsga] /rrd/
+Betula nigra	ᎦᏁᏗᏍᎩ	[ganeːdísgi] /rrd/
+Between	ᎠᏰᎵ	[ayehli] /rrd/
+Bible	ᎪᏪᎵ ᎦᎸᏉᏗ	[goːhweʔli galvkwdi] /rrd/
+Big	ᎡᏆ	[eːgwa] /rrd/
+Big	ᎤᏔᎾ	[uːtana] /rrd/
+Big	ᎠᏔᏃᏍᎦ	[atanóhsga] (becoming) /rrd/
+Big stoat	ᏓᎶᏂᎨ ᏥᏍᏕᏥ	[daloːnige tsisdeːtsi] /rrd/
+Bigger	ᏫᏥᎨᏆ	[witsiʔgégwa] /rrd/
+Bigmouth bass	ᎤᏃᎧ	[uhnohga] /rrd/
+Biol.  Malus spp	ᏒᎦᏛ ᎢᎾᎨ ᎠᏁᎯ	[svːgdv iːnage aːneːhi] (lit. Wild Apples) /rrd/
+Bird	ᏥᏍᏆ	[tsiːsgwa] /rrd/
+Bird clan	ᎠᏂᏥᏍᏆ	[aniːtsiːsgwa] /rrd/
+Birdtown	ᏥᏍᏉᎯ	[tsisgwoːhi] /rrd/
+Birth	ᎤᏕᏅ	[udeːnv] /rrd/
+Birth mark	ᎤᏙᏪᎸᎢ	[udoːweːlvʔi] /rrd/
+Birthplace	ᎤᏕᏅ	[udeːnv] /rrd/
+Bison Bison	ᏴᎾᏌ	[yvnsa] /rrd/
+Biting it	ᎠᏍᎦᎵᎦ	[ahsgáhlga] /rrd/
+Bitter	ᎤᏴᏍᏗ	[uːhyvsdi] /rrd/
+Black	ᎬᏂᎨᎢ	[gvːnigeʔi] /rrd/
+Black birch	ᎦᏁᏗᏍᎩ	[ganeːdísgi] /rrd/
+Black Fox	ᎢᏃᎵ	[inoːli] (Surname) /rrd/
+Black gum	ᎤᏂᏆ	[uːnihgwa] /rrd/
+Black huckleberry	ᎧᏩᏯ	[kaːwaya] /rrd/
+Black locust	ᎧᎶᏇᏗ	[kalogweːhdi] /rrd/
+Black oak	ᏗᎬᏂᎨᎢ	[digvnigeʔi] /rrd/
+Black people	ᎠᏂᎬᎾᎨᎢ	[aniːgvnageʔi] /rrd/
+Black rat snake	ᎦᎴᎩ	[gaʔleːgi] /rrd/
+Black walnut, eastern	ᎬᏂᎨ ᏎᏘ	[gvːnige seːti] /rrd/
+Black-eyed-susan	ᏐᏤᎾ	[soːtseːna] /rrd/
+Blackberries	ᏄᎦᎵ	[nuːgaːhli] /rrd/
+Blackburnian warbler	ᎦᏅᎩ	[ganvːgi] /rrd/
+Blacksnake	ᎦᎴᎩ	[gaʔleːgi] /rrd/
+Blaming him	ᎠᏚᎯᏍᏗᎭ	[aduhisdiha] /rrd/
+Bleeding	ᎠᏔᏍᎩᎠ	[ahtaːsgíʔa] /rrd/
+Blessing it	ᎦᎸᏉᏗᎭ	[galvːkwoːhdiha] /rrd/
+Blind	ᏓᎨᏬᎦ	[daːkeːwoːga] (becoming) /rrd/
+Blood	ᎩᎦ	[giːga] /rrd/
+Blow gun	ᏚᏇᏍᏗ	[tuːgwesdi] /rrd/
+Blowing	ᎦᏦᏔᏍᎦ	[atsóːtasga] /rrd/
+Blowing on him	ᎠᏦᏖᎭ	[atsoːteha] /rrd/
+Blue	ᏌᎪᏂᎨᎢ	[saːgoːnigeʔi] /rrd/
+Blue clan	ᎠᏂᏌᎰᏂ	[aniːhsahoːni] /rrd/
+Blue fox	ᏧᎳ ᏌᎪᏂᎨ	[tsuːla sakoːnige] /rrd/
+Blue houndstongue	ᎤᏂᏍᏕᎴᏍᏗ	[unisdeleːhsdi] /rrd/
+Blue jay	ᏣᏱᎦ	[tsahyga] /rrd/
+Blue racer	ᎤᎦᏑᎯ	[uːgsuhi] (snake) /rrd/
+Blue violet	ᏗᎾᏓᏍᏓᏍᎩ	[diːhndaːsdaːsgi] /rrd/
+Blueberry	ᎧᏩᏯ	[kaːwaya] /rrd/
+Bluebird	ᏣᏉᎳᏕ	[tsaːgwoːlde] /rrd/
+Blunt	ᎪᏍᏗᏳᎵ	[gosdiːyuːhli] /rrd/
+Boar	ᏧᎦᏅᏍᏓᎵ	[tsuːganvːsdaːhli] /rrd/
+Board	ᎠᏯᏖᎾ	[ayaːteːna] /rrd/
+Boasting	ᎠᏨᏆᏍᎦ	[atsv́ːhgwhsga] /rrd/
+Boat	ᏥᏳ	[tsiːyu] /rrd/
+Bobcat	ᎬᎮ	[kvːhe] /rrd/
+Body	ᎠᏰᎸᎢ	[ahyeːlv́ːʔi] (his) /rrd/
+Boiling	ᎠᎵᏥᎭ	[ahltsiha] /rrd/
+Boiling it	ᎠᎵᏥᏗᎭ	[ahliːdsdiha] /rrd/
+Bold, to be	ᏍᎦᏎᏅ	[sgaseːhnv] /rrd/
+Bombycilla cedrorum	ᎤᏃᏴ	[uːnoːyv] /rrd/
+Bonasa umbellus	ᏛᏗᏍᏗ	[tvːdisdi] /rrd/
+Bone	ᎪᎳ	[koːla] (his) /rrd/
+Boneset	ᎪᎳᎧᎩᏍᏗ	[koːlakagiːsdi] (plant) /rrd/
+Boney	ᎪᎸᎲ	[kolvhv] /rrd/
+Bonnet	ᎠᎵᏍᏚᎶᎯ	[ahlsduːlohi] /rrd/
+Booger tobacco	ᏦᎳ ᎠᎦᏴᎵ	[tsoːla agayvːli] /rrd/
+Book	ᎪᏪᎵ	[goːhweːli] /rrd/
+Born	ᎤᏕᏅ	[udeːnv] /rrd/
+Borrowing it	ᎠᏙᎵᏍᎦ	[ahtoːhlsga] /rrd/
+Boss	ᎠᏍᎦᏰᎬᏍᏗ	[aːsgayeːgvːsdi] /rrd/
+Both	ᎢᏧᎳ	[itsuːla] /rrd/
+Bothering someone	ᎠᏕᏯᏙᏗᎭ	[adehytohdiha] /rrd/
+Botrypus virginianus	ᎤᏎᎳᏘ	[uːselaːti] /rrd/
+Bottle	ᎫᎫ	[guːgu] /rrd/
+Bottle groud	ᎦᎸᎾ	[galvʔna] /rrd/
+Bow	ᎦᎵᏣᏗ	[gaːhltsaːdi] /rrd/
+Bowing	ᎠᏗᏍᏚᏍᎦ	[adíhsduhsga] /rrd/
+Bowl	ᎤᏅᏪᏓ	[unvweːda] /rrd/
+Box	ᎧᏁᏌ	[kaneːsa] /rrd/
+Box turtle	ᏓᎦᏏ	[daːgsi] /rrd/
+Boxing	ᏓᏓᏛᏂᎭ	[daːdaːdvːhniha] /rrd/
+Boy	ᎠᏧᏣ	[atshuːtsa] /rrd/
+Boy, teenage	ᎠᏫᎾ	[awiːna] /rrd/
+Bragging	ᎠᏨᏆᏍᎦ	[atsv́ːhgwhsga] /rrd/
+Braiding hair	ᎠᏍᏕᏲᏎᎭ	[asdeyohseha] /rrd/
+Brains	ᎤᏅᏥᏓ	[uːnvːtsiːda] /rrd/
+Brake	ᏗᎦᏅᏐᏍᏙᏗ	[diganvsosdoːhdi] (on a vehicle) /rrd/
+Branch	ᎠᎹᎨᏴᎢ	[amaːgeːyvːʔi] /rrd/
+Branch lettuce	ᎠᎪᏍᏚᎩᏍᏗ	[agoːsdugiːsdi] /rrd/
+Branch of a tree	ᎤᏩᏂᎦᎳᏅ	[uwaːnigaːhlanv] /rrd/
+Branta canadensis	ᏌᏌ	[sasa] /rrd/
+Brassica oleracea	ᎤᏍᎨᏫ	[uhsgeːwi] /rrd/
+Brassica rapa	ᏙᏌᎾ	[dosana] /rrd/
+Bread	ᎦᏚ	[gaːdu] /rrd/
+Breaking	ᎠᏲᎦ	[ayoːga] /rrd/
+Breaking his bone	ᎠᏛᎳᎦ	[advːlaːga] /rrd/
+Breaking it	ᎠᏍᏆᎵᏍᎦ	[ahsgwáʔlihsga] (something long) /rrd/
+Breaking it	ᎦᎶᎠ	[galoʔa] (something solid) /rrd/
+Breast	ᏅᏣᏛ	[nvːtshadv] /rrd/
+Breathing	ᎠᏛᎵᎭ	[advːliha] /rrd/
+Briar	ᎧᏄᎦᎵ	[kanuːgaːli] /rrd/
+Brick	ᎠᏛᏓᎾ	[advːdaːʔna] /rrd/
+Bridge	ᎠᏒᏨ	[ahsvːtsv] /rrd/
+Bridging it	ᎠᏒᏣᏗᎠ	[ahsvːhtsádiʔa] /rrd/
+Bridle	ᏧᏔᎾᎶ	[tsuːtanaːlo] /rrd/
+Bringing it	ᎦᏁᏤᎭ	[ganhtseːha] (a liquid) /rrd/
+Bringing it	ᎧᏂ	[kani] (something alive) /rrd/
+Bringing it	ᎦᏃᎯᎭ	[ganhoːhiha] (something flexible) /rrd/
+Bringing it	ᎠᏲᎯᎭ	[ayhohiha] (something solid) /rrd/
+Broadcasting	ᎦᎳᎨᏴᏛᎥᏍᎦ	[galagéhydvʔvːsga] (seed or similar in concept) /rrd/
+Broke	ᏚᎵᏍᏆᎵᏒᎯᎠ	[duːlsgwalísvhiːa] /rrd/
+Broken bone	ᎤᏛᎳᎦᏍᏛᏅ	[uːdvːlagsdvnv] (his) /rrd/
+Brooding	ᎠᎵᏲᏪᏗᎭ	[ahliyoːwéhdiha] /rrd/
+Broom	ᎬᏃᏌᏍᏗ	[gvʔnoːsasdi] /rrd/
+Broomsedge bluestem	ᎧᏁᏍᎦ ᏬᏗ	[kaneːsga woːdi] /rrd/
+Brother	ᎤᏙ	[uːdoː] (female ego) (her) /rrd/
+Brother	ᏗᎾᎵᏅᏥ	[dinaːhlinvːtsi] (male ego) (his) /rrd/
+Brothers	ᏗᎾᎵᏅᏥ	[dinaːhlinvːtsi] (they are) /rrd/
+Brothers, we are	ᏦᏍᏓᎵᏅᏥ	[tsosdaːhlinvːtsi] /rrd/
+Brown	ᏬᏗᎨᎢ	[woːdigeʔi] /rrd/
+Brown thrasher	ᏩᏚᏰᎳ	[waduyeːla] /rrd/
+Bruise, to have a	ᎤᏲᏃᎪᏍᏓᎯ	[uːyoːnogoːsdahi] /rrd/
+Bryson City, North Carolina	ᏣᎵᏍᏙᏂ	[tsaːhlsdoːni] /rrd/
+Buck	ᎦᎳᎩᎾ	[galagiːna] /rrd/
+Bucket	ᏔᎷᎩᏍᎩ	[taluːgiːsgi] /rrd/
+Budding	ᎠᏍᎫᏓᏔᏍᎦ	[ahsguːdatahsga] /rrd/
+Buffalo	ᏴᎾᏌ	[yvnsa] /rrd/
+Bufu spp	ᏩᎶᏏ	[waloːsi] /rrd/
+Bug	ᏥᎪᏱ	[dsgoːyi] /rrd/
+Bugle	ᎦᏤᎷᎩᏍᏙᏗ	[gaːtseːhlukiːsdoːhdi] /rrd/
+Building	ᎠᏓᏁᎸᎢ	[aːdaːneːlvːʔi] /rrd/
+Building it	ᎠᏁᏍᎨᎭ	[ahneːsgeha] /rrd/
+Bull	ᏧᎦᏅᏍᏓᎵ	[tsuːganvːsdaːhli] /rrd/
+Bull dozer	ᏅᏃ ᎠᏍᏛᎪᏍᎩ	[nvːno asdvːgosgi] /rrd/
+Bullet	ᎦᏂ	[gaʔni] /rrd/
+Bullfrog	ᎧᏄᏄ	[kanuːnu] /rrd/
+Bullsnake	ᎢᎾᏓ ᏐᎸᎨᎢ	[iːnada solvgeʔi] /rrd/
+Bullying	ᎦᏁᏄᎵᎠ	[ganeːnúliʔa] /rrd/
+Bumping his elbow	ᎤᎫᏍᏆᎶᎠ	[uːhkuhsgwalóːʔa] /rrd/
+Bumping his head	ᎠᏓᏍᏆᎶᏍᏗᎭ	[adaːsgwaloːsdiha] /rrd/
+Bumping someone's head	ᎠᏍᏆᎶᎠ	[ahsgwaloʔa] /rrd/
+Bundle	ᎠᏓᎳᏒᎯ	[adahlsvhi] /rrd/
+Burial	ᎦᏂᏌᎲᎢ	[ganiːsahvʔi] /rrd/
+Burlap sack	ᏙᎴᏓ	[toːleːda] /rrd/
+Burner on a stove	ᎤᏓᏪᎳᎩᏍᏗ	[uːdaweːlagʔisdi] /rrd/
+Burning	ᎠᎪᎲᏍᎦ	[agoːhvhsga] /rrd/
+Burning	ᎠᏙᏪᎳᎩᎠ	[adoweːlaːgiʔa] /rrd/
+Burning himself with hot food	ᎠᎱᎴᏴᏍᎦ	[ahuleːyvhsga] /rrd/
+Burning it	ᎠᎪᎲᏍᏗᎭ	[agoʔhvsdiha] /rrd/
+Burning it	ᎦᎴᏗᎭ	[galehdiha] /rrd/
+Burning up	ᎠᎪᎲᏍᎦ	[agʔohv́hsga] /rrd/
+Burying him	ᎦᏂᏌᎲᏍᎦ	[ganiːsáhvːsga] /rrd/
+Burying it	ᎦᏄᎳᏒᎥᏍᎦ	[ganuːlǎːhsvʔvːsga] /rrd/
+Bush	ᎤᏓᏁᎶᎲ	[uːdaneːlohvː] /rrd/
+Bush	ᏗᎤᏓᏍᎦ	[diʔudaːsga] /rrd/
+Business	ᏗᎦᎸᏫᏍᏓᏁᏗ	[digalvːhwisdandi] /rrd/
+But yet	ᎠᏎᏃ	[ahseːhno] /rrd/
+Butcher knife	ᎡᏆ ᎭᏰᎳᏍᏗ	[eːgwa hayeːlahsdi] /rrd/
+Buteo jamaicensis	ᏔᏬᏗ ᎡᏆ	[tawoːdʔ eːgwa] /rrd/
+Buteo spp	ᏔᏬᏗ	[tawoːdi] /rrd/
+Butter	ᎪᏒᏅ	[gosvːnv] /rrd/
+Butter bean	ᏚᏯᏁᏆ	[tuːyaneːgwa] /rrd/
+Butterfly	ᎧᎹᎹ	[kamaːma] /rrd/
+Butternut	ᎪᎯ	[koːhi] /rrd/
+Button	ᎠᎦᏁᏍᏗ	[aʔganeːsdi] /rrd/
+Buying it	ᎤᏩᏍᎦ	[uːhwahsga] /rrd/
+Buying things	ᎤᏩᏒᎥᏍᎦ	[uːhwásvʔvhsga] /rrd/
+Buzzard	ᏑᎵ	[suːli] /rrd/
+Buzzards	ᎠᏂᏑᎵ	[aniːsuːli] (they are) /rrd/
+By oneself	ᎤᏩᏌ	[uːwahsa] /rrd/
+Cabbage	ᎤᏍᎨᏫ	[uhsgeːwi] /rrd/
+Cairina moschata	ᏙᎦᏏ	[doːgsi] /rrd/
+Calendar	ᏅᏙᏗᏎᏍᏗ	[nvdodisesdi] /rrd/
+Calf	ᏩᎧ ᎠᎩᎾ	[waka agiːna] /rrd/
+Calf of the leg	ᎦᏍᏓᎨᏂ	[gasdgeːni] (his) /rrd/
+Calling	ᎦᎸᏛᏂᎭ	[galvːdv́ʔniːha] (idiom) /rrd/
+Calling out	ᎠᏯᏂᎭ	[ahyániha] /rrd/
+Calling out to him	ᏩᏯᏂᎭ	[wahyaːniha] /rrd/
+Camel	ᎨᎻᎵ	[keːmili] /rrd/
+Camera	ᏗᏓᏥᎶᏍᏗᏍᎩ	[didatsiːloːsdiːsgi] /rrd/
+Can house	ᎦᎵᏔᏅᏔᏅ ᎠᏗ	[gaːhltanvːtanvʔ aːhdi] /rrd/
+Can house	ᏧᏁᏍᏓᎳ ᏗᏗᏳ	[tsuːnesdala diːhdiːyu] /rrd/
+Canadian lousewort	ᎤᎫᎫᏍᏙ	[uguːkuːsdo] /rrd/
+Cancer	ᎠᏓᏰᏍᎩ	[adaːyeːsgi] /rrd/
+Candy roaster squash	ᎤᎾᏤᏥᏍᏗ	[untseːtshsdi] /rrd/
+Canis lupus	ᏩᏯ	[waːhya] /rrd/
+Canis lupus familiaris	ᎩᎵ	[giːhli] /rrd/
+Canning it	ᎦᎶᏔᏅᎥᏍᎦ	[gahlohtanv́ʔvːsga] /rrd/
+Canoe	ᏥᏳ	[tsiːyu] /rrd/
+Cantaloupe	ᎦᏩᏒᎩ	[gaːwhsvːgi] /rrd/
+Cap over a stove pipe	ᎠᏍᏇᏚᏍᏗ	[ahsgweːtuhsdi] /rrd/
+Capra spp	ᏧᎦᏍᏆᎾᎩᏓ	[tsuːksgwanagiːda] /rrd/
+Car	ᏓᏆᎴᎷ	[daːgwaleːlu] /rrd/
+Cardinal	ᏙᏧᏩ	[toːtsuːwa] /rrd/
+Cardinalis cardinalis	ᏙᏧᏩ	[toːtsuːwa] /rrd/
+Carolina wren	ᎠᎵᏔᎹ	[alihtama] /rrd/
+Carolina yelloweyed grass	ᏓᎶᏂᎨ ᎤᎾᏍᏕᏥ	[daloːnige unasdeːtsi] /rrd/
+Carpenter	ᎠᏲᎳᏅᎥᏍᎩ	[ayohlanvːʔvːsgi] /rrd/
+Carrion flower	ᏏᎦᏓᏍᎩ	[siːgadaːsgi] /rrd/
+Carrots	ᏓᎶᏂᎨ ᎦᎳᏗᏍᎩ	[daloːnige gaːladiːsgi] /rrd/
+Carrying it	ᎦᎾᏥ	[ganhtsi] (a liquid) /rrd/
+Carrying it	ᎦᏁᏫᏗᎭ	[ganewiːdiːha] (a liquid) off /rrd/
+Carrying it	ᎦᏁᎧ	[ganehga] (something flexible) /rrd/
+Carrying it	ᎦᏁᎭ	[ganheːha] (something flexible) /rrd/
+Carrying it	ᎦᏂ	[gáːni] (something long) /rrd/
+Carrying it	ᎠᏱ	[ayhi] (something solid) /rrd/
+Carrying it by	ᎠᏴᏍᏗᎭ	[ayvːsdiha] (something solid) /rrd/
+Carrying it off	ᎦᎾᏫᏗᎭ	[ganawiːdiːha] (something alive) or (something flexible) /rrd/
+Carrying it off	ᎦᏯᏫᏗᎭ	[gayawiːdiːha] (something long) /rrd/
+Carrying it off	ᎠᏫᏗᎭ	[awiːdiha] (something solid) /rrd/
+Carrying it on his back	ᎠᎵᏎᎭ	[aliːseːha] /rrd/
+Carving it	ᎠᏲᎳᏅᎥᏍᎦ	[ayóːʔlanvʔvhsga] /rrd/
+Carving, a	ᎠᏲᎳᏅᏅ	[ayoːhlanvːnv] (wood, stone, etc.) /rrd/
+Carya spp	ᏐᎯ	[soːhi] /rrd/
+Carya spp	ᏩᏁᎢ	[waneʔi] /rrd/
+Castanea	ᏓᏑᏓᏆᎴᏆ	[dahsuːdagwaleːgwa] /rrd/
+Castanea dentata	ᏘᎵ	[tiːli] /rrd/
+Castanea pumila	ᎤᏅᎩᏅ	[uhnvgiːnv] /rrd/
+Castor canadensis	ᏙᏯ	[doːya] /rrd/
+Castor oil beans	ᏗᏕᏍᏗᏓᏁᏆ	[dideːsdidaneːgwa] /rrd/
+Cat	ᏪᏌ	[weːhsa] /rrd/
+Cat greenbriar	ᏄᎦᎸ	[nuːgaːhlv] /rrd/
+Catawba	ᎠᏂᏔᏈ	[aniːtaːgwi] /rrd/
+Catberry	ᎤᏍᏓᏍᏗ	[uhsdahsdi] /rrd/
+Catbriar	ᏄᎦᎸ	[nuːgaːhlv] /rrd/
+Catcher, hind	ᎣᏁᎦᏂᏱᏍᎩ	[ohneːganiːyisgi] (baseball) /rrd/
+Catching fire	ᎠᏥᏍᏓᎵᎦ	[atsíːsdahlga] /rrd/
+Catching something thrown or chased	ᎦᏂᏱᎭ	[ganíːyiːha] /rrd/
+Caterpillar	ᏥᎪᏱ ᎠᏁᏍᎩᎸᎥᏍᎩ	[tsgoːyi aneːsgilvʔvsgi] /rrd/
+Catfish	ᏧᎵᏍᏓᎾᎵ	[tsuliːsdanaːli] /rrd/
+Cathartes aura	ᏑᎵ	[suːli] /rrd/
+Causing it to flow	ᎨᏴᎯᏍᏗᎭ	[geːʔyvːhiːsdiha] /rrd/
+Cave	ᎤᏍᏓᎦᎸᎢ	[usdaːgalvːʔi] /rrd/
+Cavern	ᎤᏍᏓᎦᎸᎢ	[usdaːgalvːʔi] /rrd/
+Ceasing	ᎠᏲᎯᏍᏗᎭ	[ayohiːsdiha] /rrd/
+Cedar	ᎠᏥᏂ	[aʔtsiːni] /rrd/
+Cedar waxwing	ᎤᏃᏴ	[uːnoːyv] /rrd/
+Cemetary	ᏗᏓᏂᏐᏗᏳ	[didanisoːhdiyu] /rrd/
+Cemetary	ᏗᏓᏂᏐᏗᏳ	[didaːnisoːdiyu] /rrd/
+Cent	ᏎᏅᏏ	[seːnhsi] /rrd/
+Cervus canadensis	ᎠᏩ ᎤᏔᎾ	[ahwa uːtana] /rrd/
+Chaetura pelagica	ᎠᏂᎪᏍᏓᏯ	[aniːgohsdahya] /rrd/
+Chair	ᎦᏍᎩᎶᎯ	[gasgilohi] /rrd/
+Challenging	ᎦᏁᏄᎵᎠ	[ganeːnúliʔa] /rrd/
+Chapter	ᎠᏯᏙᎸᎢ	[ayaːdohlvʔi] /rrd/
+Charcoal	ᎧᏃᏍᎬ	[kanoːsgv] /rrd/
+Chasing him/it	ᎠᎨᎯ	[ahkehi] /rrd/
+Chattanooga	ᏣᏓᏄᎩ	[tsadanuːgi] /rrd/
+Cheating, deceiving, tricking, fooling	ᎦᎶᏅᎮᎭ	[galoːnvːheːha] (him) /rrd/
+Chebecker	ᏥᎪᏱᏙᏍᏗ	[dsgoːyiʔdosdi] (bird) /rrd/
+Check	ᎪᏪᎵ ᎠᏕᎳ ᏤᎦ	[goːhweːli adeːla tseːga] (written payment document) /rrd/
+Cheek	ᎦᎦᏆᎴᏂ	[gakgwaleːni] (his) /rrd/
+Chelone spp	ᎠᏫ ᎦᏁᎪᎢ	[ahwi gahngoʔi] /rrd/
+Chelydra serpentina	ᏌᎵᎫᎩ	[salígúːgi] /rrd/
+Cheraw or sera	ᎠᏂᏑᏩᎵ	[aniːsuwaːli] /rrd/
+Cherokee	ᎠᏴᏫᏯ	[ayvːwiya] /rrd/
+Cherry	ᏔᏯ	[taːya] /rrd/
+Chest	ᎦᏁᏥᎢ	[ganeːtsiʔi] (of his body) (his) /rrd/
+Chestnut	ᏓᏑᏓᏆᎴᏆ	[dahsuːdagwaleːgwa] /rrd/
+Chestnut	ᏘᎵ	[tiːli] /rrd/
+Chestnut bread	ᏘᎵ ᎠᏑᏱ ᎦᏚ	[tili asuːyi gaːdu] /rrd/
+Chestnut-sided warbler	ᏚᏯ	[duːya] /rrd/
+Chewing gum	ᎠᏣ ᎠᎩᏍᏙᏍᏗ	[aːtsa agʔisdoːsdi] /rrd/
+Chewing it	ᎠᎩᏍᏙᎠ	[agʔihsdóːʔa] /rrd/
+Chickadee	ᏥᎩᎵᎵ	[tsigiliːli] /rrd/
+Chickasaw	ᎠᏂᏥᎧᏌ	[aniːtsiːkasa] /rrd/
+Chicken	ᏥᏓᎦ	[tsidaːga] /rrd/
+Chief	ᎤᎬᏫᏳᎯ	[uːgvːwiyuhi] /rrd/
+Child	ᎠᏲᎵ	[ayoːhli] /rrd/
+Child	ᎤᏪᏥ	[uweːtsi] (his) /rrd/
+Chimaphila maculata	ᎠᏨᎩ ᎢᎾᎨ ᎡᎯ	[ahtsvːgi inageː ehi] /rrd/
+Chimney	ᎠᎱᏣᏬᎳᏛᎢ	[ahuːtsawoːladvːʔi] /rrd/
+Chimney swift	ᎠᏂᎪᏍᏓᏯ	[aniːgohsdahya] /rrd/
+Chin	ᎠᏳᎨᏂ	[ayuhkeːni] /rrd/
+Chipmunk, eastern	ᎩᏳᎦ	[kiyuːga] /rrd/
+Choctaw	ᎠᏂᏣᎧᏔ	[aniːtsaːkta] /rrd/
+Choking him	ᎥᏍᎩᏱᎭ	[vːsgiːyiha] /rrd/
+Choosing them	ᏓᏑᏯᎩᎠ	[daːhsuːyagíʔa] /rrd/
+Chopping it	ᎦᎷᏱᏍᎦ	[galúʔyhsga] /rrd/
+Chordeiles minor	ᏓᎳᏍᏙᎬ	[daːhlsdoːgv] /rrd/
+Christian	ᏧᏁᎸᏗ	[tsuneːhldi] /rrd/
+Christmas	ᎤᎾᏕᏘᏱᏍᎬᎢ	[unadeːtiyisgvʔi] /rrd/
+Church	ᏗᎦᎳᏫᎢᏍᏗ	[digalaːwiʔisdi] /rrd/
+Churn	ᎦᏓᎫᎦ	[gaːdaguːga] /rrd/
+Churning it	ᎠᏍᏙᎠ	[ahsdoːʔa] /rrd/
+Cigar	ᎪᎦᏍᏗ	[goːksdi] /rrd/
+Cigarette	ᎪᎦᏍᏗ	[goːksdi] /rrd/
+Circus hudsonius	ᎠᎪᏕᎯ	[agodʔehi] /rrd/
+Citrullus lanatus	ᎬᎩᏍᏗ	[gvgiːsdi] /rrd/
+Clan	ᎤᏍᏓᎸᎢ	[uːhsdaːhlvʔi] (his) /rrd/
+Clan members	ᏓᏂᎳᏍᏓᏛᎢ	[danilaːsdadvʔi] /rrd/
+Clarinet	ᎦᏤᎷᎩᏍᏙᏗ	[gaːtseːhlukiːsdoːhdi] /rrd/
+Class Hirudinea	ᏣᏄᏏ	[tsaːnuːsi] /rrd/
+Clay	ᎦᏓᏆᎵ	[gadagwaːli] /rrd/
+Cleaning	ᎦᏅᎦᎵᎠ	[ganvːgáliʔa] (1) /rrd/
+Cleaning	ᎦᏅᎦᎵᎭ	[ganvːgáliːha] (2) /rrd/
+Clearing a field	ᎦᎶᎨᏗᎠ	[galogeːdiʔa] /rrd/
+Clearing a path	ᎠᏣᎦᏍᎦ	[atsaːksga] /rrd/
+Clearing it	ᎧᏅᎠ	[kanvːʔa] (flexible) away /rrd/
+Clearing it	ᎦᎾᎬᎠ	[ganáʔgvʔa] (something flexible) off /rrd/
+Clearing it away	ᎠᎧᎲᎠ	[akahvːʔa] (something alive) /rrd/
+Clearing it away	ᎠᏏᏴᎠ	[ahsíːyvʔa] (something long) /rrd/
+Climbing	ᎦᎳᎯ	[gaʔlaːhi] (up) /rrd/
+Climbing a hill or mountain	ᎧᎿᎷᏍᎦ	[kanalǔːhsga] /rrd/
+Climbing over	ᎠᏓᏬᎯᎵᏗᎠ	[adawohildiʔa] /rrd/
+Clock	ᎦᎾᏁᏍᎩ	[gaʔnanesgi] /rrd/
+Close by	ᎾᎥᏂ	[naʔv́ʔni] /rrd/
+Closing it	ᎠᏍᏚᎲᏍᎦ	[ahsduhv́hsga] /rrd/
+Cloth	ᎠᏅᏬ	[aːhnvwo] /rrd/
+Cloth sack	ᏕᎦᎵᏗ	[degaːhldi] /rrd/
+Clothes dryer	ᏗᏅᏬ ᏗᎧᏲᏗᏍᎩ	[diːhnvwo dikaːhyodihsgi] /rrd/
+Cloud	ᎤᎶᎩᎸ	[uːloːgilvː] /rrd/
+Coaching	ᎠᏏᏅᏍᏗᎭ	[ahsínhvhsdiha] /rrd/
+Coal	ᎧᏃᏍᎬ	[kanoːsgv] /rrd/
+Coat	ᎦᏌᎴᎾ	[gaːsaleːna] /rrd/
+Coat	ᎤᏌᎴᏂ	[uːsaleːni] (his) /rrd/
+Coccyzus Americanus	ᏓᎶᎬ	[daloːgv] /rrd/
+Coffee	ᎪᏫ	[koːwi] /rrd/
+Coix lacryma  -jobi	ᏎᎷ ᎤᏂᏥ	[seːlu uniːtsi] /rrd/
+Colaptes auratus auratus	ᎤᏁᎦᏓ	[uneːgaːda] /rrd/
+Cold	ᎤᏴᏣ	[uːhyvːtsa] /rrd/
+Cold	ᎧᎾᏬᎦ	[kanawóːga] /rrd/
+Cold water	ᎠᎹ ᎤᏯᏥ	[am uhyaːtsi] /rrd/
+Colinus virginianus	ᎤᎫᏇᎯ	[ukgweːhi] /rrd/
+Collander	ᎦᏁᏐᎸᏍᏙᏗ	[ganesoːlvsdoʔdi] /rrd/
+Collar	ᎠᏯᏨᏗ	[ahyatsvhdi] /rrd/
+Colt	ᏐᏈᎵ ᎠᎩᎾ	[sogwili agiːna] /rrd/
+Coluber constrictor	ᎤᎦᏑᎯ	[uːgsuhi] /rrd/
+Comb	ᏗᎵᏔᏬᏍᏙᏗ	[diːhltawoːsdoːdi] /rrd/
+Combing hair	ᎠᏔᏬᎠ	[ahtawóːʔa] /rrd/
+Come in	ᎦᎵᏦᏕ	[gaːhltsoːde] /rrd/
+Come to a point …	ᎠᎵᏰᎶᏍᎦ	[ahliyéhlohsga] /rrd/
+Coming back to life	ᎠᏛᏂᏗᎠ	[advhniːdiʔa] /rrd/
+Coming to an end	ᎠᏍᏛᏍᎦ	[ahstvhsga] /rrd/
+Coming/going back	ᎢᎦᎷᎦ	[íːgaluhga] /rrd/
+Common evening-primrose	ᎠᎾᏓᏥ	[andaːtsi] /rrd/
+Common greenbrier	ᎠᏂᏍᎩᎾ ᎤᎾᏁᏌᏓ	[aniːsgina unanehsada] /rrd/
+Coneflower	ᏐᏤᎾ	[soːtseːna] /rrd/
+Congaree	ᎠᏂᎩᎵ	[aniːgiːhli] (the dog people), see Mooney pg 508 /rrd/
+Congregating	ᎠᎾᏓᏥᎩᎭ	[anadadsgiha] (they are) /rrd/
+Conjuring	ᎠᏓᏁᏌᎩᎠ	[adahnehsagiʔa] /rrd/
+Conjuring	ᏓᏙᏂᎭ	[daːdoːniːha] /rrd/
+Conserving it	ᎠᎵᏏᏅᏗᎭ	[ahlsíːhndiha] /rrd/
+Considering	ᎠᏓᏅᏖᏏᎭ	[adaːntéhsiha] /rrd/
+Constitution	ᎠᏓᎶᏍᏗ	[adaːʔloːsdi] /rrd/
+Container for it	ᎠᏥᏍᏙᏗ	[atsíhsdohdi] (a liquid) /rrd/
+Container for it	ᎦᎸᏙᏗ	[gaːhlvːdoːhdi] (something flexible) /rrd/
+Container for solid items	ᎦᎵᏔᏅᏙᏗ	[gaːhltanvːdoːhdi] /rrd/
+Container for something long	ᎦᎳᏗᏍᏙᏗ	[gaːhladisdoːhdi] /rrd/
+Cook	ᎤᏍᏓᏴᎲᏍᎩ	[uːsdaːyvhvsgi] /rrd/
+Cooking	ᎬᏂᏍᎦ	[gvnhsga] /rrd/
+Copperhead	ᏬᏗᎨᎠᏍᎪᎵ	[woːdigeːasgoːli] /rrd/
+Cork	ᏚᏬᎵ	[duwoːhli] /rrd/
+Corn	ᏎᎷ	[seːlu] /rrd/
+Corn beer	ᎠᎹᎨᎢ	[amageʔi] /rrd/
+Corn bread	ᏎᎷ ᎦᏚ	[selu gaːdu] /rrd/
+Corn cob	ᎤᏗ	[uːdi] /rrd/
+Corn tassel	ᎤᏥᏣᏗ	[utsiːtsadi] /rrd/
+Corn tassel is falling off	ᎠᏥᎳᏙᎣᏍᎦ	[atsiːladoʔohsga] /rrd/
+Corner	ᎤᏅᏏᏴᎢ	[unvːsiyvːʔi] /rrd/
+Cornsilk	ᏎᎷ ᎤᏁᏄᏗ	[seːlu uneːnuːhdi] /rrd/
+Corpse	ᎤᏴᎰᏒᎯ	[uːyvhoːsvhi] /rrd/
+Correct	ᏚᏳᎦᏔ	[duyuːkta] /rrd/
+Corvus brachyrhynchos	ᎪᎦ	[koːga] /rrd/
+Corylus americana	ᎠᏳᎩᏓ	[ahyugiːda] /rrd/
+Cost	ᏧᎬᏩᎶᏗ	[tsuːgvːwaːhldi] /rrd/
+Cotton	ᎤᏥᎸ	[uːtsiʔlv] /rrd/
+Cotton grass	ᏥᏍᏚ ᏍᎩᏓᏘ	[tsiːsdu sgiːdati] /rrd/
+Cotton thistle	ᏥᏥ	[tsiːtsi] /rrd/
+Cottonmouth	ᎧᏁᏉᏓ	[kaneːgwoːda] /rrd/
+Cottonwood	ᎠᏓ ᎬᏂᎯᏛ	[aʔda gvnihiːdv] /rrd/
+Cottus spp	ᏥᏍᏆᎸᎾ	[tsisgwalvːna] /rrd/
+Coughing	ᎤᏏᏩᏍᎦ	[uːhsihwáhsga] /rrd/
+Council house	ᏗᎦᎳᏫᎢᏍᏗ	[digalaːwiʔisdi] /rrd/
+Counting	ᎠᏎᎯᎭ	[ahséhiha] /rrd/
+County	ᎦᏚᎩ	[gaːduːgi] /rrd/
+Covered with dirt	ᎦᏄᎳᏌᎠ	[ganuːlǎːhsaʔa] /rrd/
+Covering himself	ᎠᏚᏒᎥᏍᎦ	[adúːsvːʔvhsga] /rrd/
+Covering it	ᎫᏌᎥᏍᎦ	[gúːsaʔvːsga] /rrd/
+Covering it with dirt	ᎦᏄᎳᏒᎥᏍᎦ	[ganuːlǎːhsvʔvːsga] /rrd/
+Cow	ᏩᎧ	[waka] /rrd/
+Cow's foot	ᏩᎧ ᎤᎳᏏᏗ	[waka ulasiːdi] /rrd/
+Coward	ᎤᏍᎦᎡᏂ	[usgaʔeːni] /rrd/
+Crab apple	ᏒᎦᏛ ᎢᎾᎨ ᎠᏁᎯ	[svːgdv iːnage aːneːhi] /rrd/
+Cracking	ᎠᏛᏍᏆᎶᎠ	[advhsgwaloːʔa] /rrd/
+Cracking it	ᎬᏍᏆᎶᎠ	[gvhsgwalóʔa] /rrd/
+Crane	ᎧᎾᏍᎦᏫ	[kansgawi] /rrd/
+Craving it	ᎠᏍᏉᏍᎦ	[ahsgwóhsga] /rrd/
+Crawling	ᎠᏓᏅᏏᏂᏙᎭ	[adaːhnsíːniːdoha] /rrd/
+Crayfish, brown	ᏥᏍᏛᎾ	[tsisdvːna] /rrd/
+Crayfish, green	ᏥᏍᏛᎾ	[tsisdvːna] /rrd/
+Crayfish, red	ᏥᏍᎪᎩᎵ	[tsisgoːgili] /rrd/
+Crazy	ᎤᎸᏗᎭ	[uːlvːdiha] /rrd/
+Creating	ᎪᏒᏍᎦ	[gósvːsga] /rrd/
+Creek	ᎠᎹᎨᏴᎢ	[amaːgeːyvːʔi] /rrd/
+Creek	ᎠᏂᎧᏫᏔ	[aniːkawiːta] (lower) /rrd/
+Creek	ᎠᏂᎫᏏ	[aniːkuːsi] (upper) /rrd/
+Crested iris	ᎤᏍᎦᎢ	[usgaʔhi] /rrd/
+Cricket	ᏔᎳᏚ	[talaːdu] /rrd/
+Crimson beebalm	ᏩᎴᎷ ᎤᏂᏣᎩᏍᏗ	[waleːlu unitsagiːsdi] /rrd/
+Crippled	ᎠᎵᎡᏂᎠ	[aliːʔeːni] /rrd/
+Cross	ᏗᏓᎾᏫᏓ	[didaːnawiːda] /rrd/
+Crossing	ᏓᏐᎧ	[daːsoka] /rrd/
+Crotalus horridus	ᎠᏨᏯ ᎤᏦᏅᏗ	[atsvya utsoːnvdi] /rrd/
+Crotalus horridus	ᎤᏦᎾᏗ	[uːtsoːnadi] /rrd/
+Crotalus horridus	ᏓᎶᏂᎨ ᎤᏦᏅᏗ	[daloːnige utsoːnvdi] /rrd/
+Crow	ᎪᎦ	[koːga] /rrd/
+Crow bar	ᏩᎧ ᎤᎳᏏᏗ	[waka ulasiːdi] /rrd/
+Crown of his head	ᎠᏴᏍᎨᏂ	[ayhsgeːni] /rrd/
+Crowsfoot	ᎠᎾᎵᏍᏆᎸᏍᎩ	[anahlsgwalvhsgi] /rrd/
+Crying	ᎠᏦᏱᎭ	[atsoːhyiha] /rrd/
+Crying out	ᎤᏪᎷᎦ	[uːwehluhga] /rrd/
+Cucumber	ᎦᎦᎹ	[gaːgama] /rrd/
+Cucumber tree	ᏧᏆᎶᎦ ᏤᏆ	[tsuːgwaloːga tseːgwa] /rrd/
+Cucumis melo	ᎦᏩᏒᎩ	[gaːwhsvːgi] /rrd/
+Cucumis sativus	ᎦᎦᎹ	[gaːgama] /rrd/
+Cucurbita maxima	ᎤᎾᏤᏥᏍᏗ	[untseːtshsdi] /rrd/
+Cucurbita spp	ᏩᎩᎦ	[waːgiːga] /rrd/
+Cullowhee, NC	ᎦᎶᎯ	[gaːhlohi] /rrd/
+Cup	ᎦᏄᎱᎵᏗ	[gaːnuhuːhldi] /rrd/
+Curled dock	ᏓᎦᎩ	[daːgki] /rrd/
+Curtains	ᏗᏯᏙᎳᏛᏗ	[diːhyadoːladvːdi] /rrd/
+Cutting a tree	ᎦᎴᏴᏍᏗᎭ	[galeyvːsdiːha] /rrd/
+Cutting his nails	ᏓᏓᏑᎧᎵᎭ	[daːdaːsúkaliha] /rrd/
+Cutting into strips	ᎦᎸᏓᏍᎦ	[galvːdaːsga] /rrd/
+Cutting it off	ᎠᎦᎵᏍᎦ	[agaʔlihsga] (something flexible) /rrd/
+Cutting it off	ᎠᏍᏆᎵᏍᎦ	[ahsgwáʔlihsga] (something long) /rrd/
+Cutting it off	ᎠᎬᎭᎵᎭ	[agv́haliha] (something solid) /rrd/
+Cutting it with a knife	ᎠᏰᎶᎭ	[ahyelhoha] /rrd/
+Cutting it with an axe	ᎦᎷᏱᏍᎦ	[galúʔyhsga] /rrd/
+Cutting someone's hair	ᎠᏍᏙᏰᎭ	[ahsdóːyeha] /rrd/
+Cutting the head off of a cabbage	ᎠᏍᎫᏓᎩᎠ	[asguːdagːiʔa] /rrd/
+Cutting weeds	ᎠᏣᎦᏍᎦ	[atsaːksga] /rrd/
+Cyanocitta cristata	ᏣᏱᎦ	[tsahyga] /rrd/
+Cynoglossum virginianum	ᎤᏂᏍᏕᎴᏍᏗ	[unisdeleːhsdi] /rrd/
+Cypripedium spp	ᎤᎫᏇ ᎤᎳᏑᎳ	[ukgwe ulahsula] /rrd/
+Dancing	ᎠᎵᏍᎩᎠ	[ahlsgíʔa] /rrd/
+Dark	ᎱᎵᏏᎬᎢ	[huːhlsiːgvʔi] (in the) /rrd/
+Dark-eyed junco	ᏚᏘ	[tuːti] /rrd/
+Dart	ᏥᏥ	[tsiːtsi] (for a blow gun) /rrd/
+Daughter-in-law	ᎤᏦᎢ	[uːtsoːʔi] (his) /rrd/
+Dawn	ᏑᎾᎴᎢᏣ	[suːnaːleʔiːtsa] /rrd/
+Day	ᎢᎦ	[iːga] /rrd/
+Day	ᎤᏙᏛᏆᏛ	[udoːdvgwadv] /rrd/
+Dead	ᎤᎵᏬᏨᎯ	[uliwoːtsvhi] /rrd/
+Dead	ᎤᏲᏒᎯ	[uyhoːsvhi] /rrd/
+Deaf	ᏧᎵᎡᏂ	[tsuːliʔeːni] (in both hears) /rrd/
+December	ᎥᏍᎩᏱ	[vːsgiːyi] /rrd/
+Deep	ᎠᏍᏛᎧ	[ahsdv́hga] /rrd/
+Deep	ᎭᏫᏂ	[hawiːni] /rrd/
+Deep	ᎰᏫᏂ	[howiːni] /rrd/
+Deer	ᎠᏫ	[ahwi] /rrd/
+Deer clan	ᎠᏂᎧᏫ	[aniːkawi] /rrd/
+Deer tongue	ᎠᏫ ᎦᏁᎪᎢ	[ahwi gahngoʔi] /rrd/
+Deer-eye	ᎠᏫ ᎠᎦᏔ	[ahwi akta] (black eyed susan) /rrd/
+Defecating	ᏓᏗᎦᏍᎦ	[daːdiːksga] /rrd/
+Degenerant	ᎤᎸᏅᏘᏍᎩ	[uːlvntihsgi] /rrd/
+Delaware Indians	ᎠᎾᏆᏂᎩ	[anaːkwaːnki] /rrd/
+Delegating him to do …	ᎦᏅᏍᎦ	[ganvːsga] /rrd/
+Denying it	ᎠᏕᏱᎭ	[adeːhyiha] /rrd/
+Detiyi	ᎤᏍᎫᏩᏗᎠ	[uːhsgúːwadiʔa] /rrd/
+Devil	ᎠᏍᎩᎾ	[asgiːna] /rrd/
+Dew on the ground	ᎤᏰᏌᏛ	[uhyeːsadv] /rrd/
+Dewberries	ᏌᎶᎵ ᎠᎦᏔ	[saloːli akta] /rrd/
+Diaper	ᎠᏐᏍᏗ	[ahsoːsdi] /rrd/
+Didelphis virginiana	ᎤᏤᏥᏍᏗ	[uːtseːdsdi] /rrd/
+Different	ᎤᏓᎴᎯ	[uːdaleːhi] /rrd/
+Different from	ᏓᏓᎴᎦ	[daːdaleʔga] /rrd/
+Digging	ᎠᏍᎪᏍᎦ	[ahsgohsga] /rrd/
+Dime	ᏍᎪᎯᏎᎾᏏ	[sgoːhiseːnsi] /rrd/
+Diospyros virginiana	ᏌᎵ	[saːli] /rrd/
+Dipping a liquid	ᎠᎫᎩᎠ	[akuːgiːʔa] /rrd/
+Dirt	ᎦᏓ	[gaːhda] /rrd/
+Dirty	ᎦᏓᎭ	[gaːhdaha] /rrd/
+Disciple	ᏗᏕᎶᏆᏍᎩ	[diːdeloːgwaːsgi] /rrd/
+Disease	ᎱᏳᎩ	[huːhyuːgi] /rrd/
+Dish	ᎤᎿᏩ	[uhnawa] /rrd/
+Dislikes him	ᎦᏁᎵᎭ	[ganéːliːha] /rrd/
+Disposing of a body	ᎦᏂᏌᎲᏍᎦ	[ganiːsáhvːsga] /rrd/
+Distance	ᏂᎨᎢ	[nigeːi] (at a) /rrd/
+Distress	ᎡᎯᏍᏗ	[ehihsdi] /rrd/
+Diving	ᎠᎵᎬᏯᏍᎦ	[aligvyhsga] /rrd/
+Doctor	ᎦᎾᎦᏘ	[gaʔnakdi] /rrd/
+Doctoring him	ᎧᏅᏫᎠ	[kanvːwiʔa] /rrd/
+Dog	ᎩᎵ	[giːhli] /rrd/
+Doing it	ᎠᏛᏁᎭ	[aːdvneːha] (something non-specific) /rrd/
+Doing it	ᎾᏛᏁᎭ	[naːdvneːha] (something specific) /rrd/
+Dolichovespula maculata	ᏎᏩᏓ	[seːhwada] /rrd/
+Dollar	ᎠᏕᎸᎢ	[adeːlvʔhi] /rrd/
+Door	ᎠᏍᏙᏗ	[ahsduhdi] /rrd/
+Doorway	ᎦᎶᎯᏍᏗ	[galohisdi] /rrd/
+Dotted	ᎤᏚᎢᏍᎦ	[uduːʔiːsga] /rrd/
+Dough	ᎦᏚᎳᏍᏗ	[gadulaːsdi] /rrd/
+Down	ᎡᎸᏗ	[elvːdi] /rrd/
+Down below	ᎡᎳᏗ	[eːladi] /rrd/
+Downhill	ᎨᏓᎵ	[keːdali] /rrd/
+Downy woodpecker	ᏥᏍᏇᏄᏨ	[tsiːsgwenuːtsv] /rrd/
+Dragging it	ᎦᎾᏏᏂ	[gansíːni] /rrd/
+Drama	ᏗᎾᏛᏁᎵᏍᎬᎢ	[diːnadvːneːlisgvʔi] /rrd/
+Drawing	ᏓᏥᎶᏍᏗᎭ	[daʔtsiːlóːsdiːha] /rrd/
+Dreaming about it	ᎠᏍᎩᏘᏍᎦ	[ahsgíːtshga] /rrd/
+Dreaming of many things	ᎠᏍᎩᏥᏒᏍᎦ	[ahsgiːtshsvʔvhsga] /rrd/
+Dress	ᎠᏌᏃ	[asano] /rrd/
+Dressing	ᏓᎿᏬᎠ	[daːhnawoʔa] /rrd/
+Drinking	ᎠᏗᏔᏍᎦ	[adíhtahsga] /rrd/
+Dripping	ᎦᏍᏉᎸᏍᎦ	[gaːsgwoːlvːsga] /rrd/
+Driving a car	ᎠᏰᎵ	[ahyeːli] /rrd/
+Driving it	ᎦᏅᏫᏍᏗᎭ	[gaːhnvwsdiha] /rrd/
+Driving it in	ᎠᎭᏔᏍᎦ	[aːhatahsga] /rrd/
+Driving recklessly fast on dangerous rural or mountain roads	ᎠᏳᏲᎰᏍᎦ	[aːyuːyohohsga] /rrd/
+Driving recklessly fast on dangerous rural or mountain roads	ᏕᎦᏳᏲᎰᎾᏗᎭ	[deːgayuːyoːhoːhndiha] /rrd/
+Dropping accidentally it	ᎤᏬᎰᏎᎭ	[uːwohóseha] (something solid) /rrd/
+Dropping it	ᎪᎲᎾᏗᎭ	[goːhvːhndiha] (a liquid) /rrd/
+Dropping it	ᎠᏐᎣᏅᏗᎭ	[ahsoʔoːhndiha] (something long) /rrd/
+Dropping it	ᎪᎰᎾᏗᎭ	[goːhóhndiha] (something solid) /rrd/
+Dropping it, knocking off	ᎠᏙᎥᏅᏗᎭ	[adoːʔvhndiha] (something alive) /rrd/
+Dropping it, knocking off	ᎠᏙᎥᏅᏗᎭ	[adoːʔvhndiha] (something flexible) /rrd/
+Drowning	ᎠᎬᎦ	[agvːga] /rrd/
+Drowning	ᎦᏃᏴᎦ	[ganoːyv́ːga] /rrd/
+Drowning him	ᎠᎬᏯᏍᎦ	[agvʔyhsga] /rrd/
+Drum	ᎠᎱᎵ	[ahuʔli] /rrd/
+Drying it	ᎠᎧᏲᏗᎭ	[akahyoʔdiha] /rrd/
+Drying it out	ᎠᎧᏲᏗᎭ	[ahkahyóhdiha] /rrd/
+Dryobates pubescens	ᏥᏍᏇᏄᏨ	[tsiːsgwenuːtsv] /rrd/
+Dryocopus pileatus	ᎨᏉᎬ	[geʔgwoːgv] /rrd/
+Dryopteris spp	ᏲᎾ ᎤᏤᏍᏓ	[yoːna utseːsda] /rrd/
+Duck	ᎧᏬᏄ	[kawoːnu] /rrd/
+Dumetella carolinensis	ᎤᏥᎹ	[uːtsiʔma] /rrd/
+During the year	ᎤᏕᏗᏴᏌᏗᏒᎢ	[uːdehdiːyvːsadiːsvːʔi] /rrd/
+Dwarf chestnut	ᎤᏅᎩᏅ	[uhnvgiːnv] /rrd/
+Dwarf crested iris	ᎤᏍᎦᎢ	[usgaʔhi] /rrd/
+Dwelling	ᎡᎯ	[ehi] /rrd/
+Eager	ᎤᎵᏔᏁᎭ	[uːhlihtáːʔneha] /rrd/
+Eagle	ᎠᏬᎯᎵ	[awohili] /rrd/
+Ear	ᎦᎴᏂ	[galeʔni] (his) /rrd/
+Ear rings	ᏧᎾᏥᎠᏙᎯ	[tsuːnatsiʔadoːhi] /rrd/
+Earache	ᎤᎵᏍᏆᏗᏍᎬᎢ	[uːliːsgwaʔdisgvːʔi] (his) /rrd/
+Earth	ᎡᎶᎯ	[eːlohi] /rrd/
+East	ᎧᎸᎬᎢ	[kaːlvgvʔi] /rrd/
+Easter	ᏧᏪᏥ ᏓᏂᏑᏫᏍᎬᎢ	[tsuweːtsi danisuːwisgvʔi] /rrd/
+Eastern bluebird	ᏣᏉᎳᏕ	[tsaːgwoːlde] /rrd/
+Eastern cottontail	ᏥᏍᏚ	[tsisdu] /rrd/
+Eastern kingbird	ᏗᎴᏆ	[dileːgwa] /rrd/
+Eastern newt	ᏓᎴᏴᏍᎩ	[daleːyvːsgi] /rrd/
+Eastern racer	ᎤᎦᏑᎯ	[uːgsuhi] /rrd/
+Eastern towhee	ᏧᏬᏍᎦ	[tsuwoːsga] /rrd/
+Eastern whip-poor-will. Whip-poor-will	ᏩᎫᎵ	[waguːli] /rrd/
+Eating a meal	ᎠᎵᏍᏓᏴᎲᏍᎦ	[ahlsdáʔyvhvsga] /rrd/
+Eating it	ᎠᏯᎩᎠ	[ayágiʔa] (something flexible) /rrd/
+Eating it	ᎠᏍᏗᎩᎠ	[ahsdíːgiʔa] (something long) /rrd/
+Eating it	ᎠᎩᎠ	[agiʔa] (something solid) /rrd/
+Ectopistes migratorius	ᏬᏱ	[woːyi] /rrd/
+Edge of	ᎠᏍᏛᎢ	[ahsdvːʔi] (at the) /rrd/
+Eel	ᏛᏕᏆ	[tvːdeːgwa] /rrd/
+Egg	ᎤᏪᏥ	[uweːtsi] /rrd/
+Eight	ᏣᏁᎳ	[tsaːneːla] /rrd/
+Eighteen	ᏁᎳᏚᎯ	[neːladuhi] /rrd/
+Eighty	ᏁᎳᏍᎪᎯ	[neːlsgoːhi] /rrd/
+Elastic	ᎠᏣ ᏗᏓᎾᎩᏍᎩ	[aːtsa diːdanagiːsgi] /rrd/
+Elbowing him	ᎠᎪᏍᎩᏍᏗᎭ	[aːkohsgiːsdiha] /rrd/
+Elderberry	ᎪᏒᎦ	[goːsvʔga] /rrd/
+Electricity	ᎠᎾᎦᎵᏍᎩ	[anaʔgalihsgi] /rrd/
+Elephant	ᎧᎹᎹ	[kamaːma] /rrd/
+Eleven	ᏐᏚᎯ	[soʔduhi] /rrd/
+Elk	ᎠᏩ ᎤᏔᎾ	[ahwa uːtana] /rrd/
+Elm	ᏧᎩᏅ	[tsuʔgiːnv] /rrd/
+Emitting body gas	ᎠᏌᎩᎠ	[aːsahgiːʔa] /rrd/
+Empidonax minimus	ᏥᎪᏱᏙᏍᏗ	[dsgoːyiʔdosdi] /rrd/
+End	ᎠᏍᏛᎢ	[ahsdvːʔi] /rrd/
+End	ᎣᏂ	[ohni] /rrd/
+Ending it	ᏓᏍᏆᏗᎠ	[daːsgwaːdía] /rrd/
+Enemy	ᎤᏍᎦᎩ	[uːsgaːgi] (his) /rrd/
+Englishmen	ᎠᏂᎩᎵᏏ	[aniːgilihsi] /rrd/
+Enough	ᏰᎵᏉ	[yeːliːgwo] /rrd/
+Entering it	ᎠᏴᎯᎭ	[ayvhiha] /rrd/
+Equus asinus x Equus caballus	ᏔᏁᏆ	[taneːgwa] /rrd/
+Equus ferus caballus	ᏐᏈᎵ	[soːgwili] /rrd/
+Equus spp	ᏧᏂᎶᏗ ᏐᏈᎵ	[tsuːniːloːhdi soːgwili] /rrd/
+Erasing it	ᎪᏪᎳᎩᎠ	[gohweːlagiʔa] /rrd/
+Eriophorum spp	ᏥᏍᏚ ᏍᎩᏓᏘ	[tsiːsdu sgiːdati] /rrd/
+Eupetorium spp	ᎪᎳᎧᎩᏍᏗ	[koːlakagiːsdi] /rrd/
+Evaporated	ᎤᎶᏐᏅ	[uloʔsohnv] /rrd/
+Evening	ᎤᎵᏏᏂᏕᎾ	[uːlsihniːdeːna] /rrd/
+Evening star	ᎠᎾᏓᏥ	[andaːtsi] /rrd/
+Everywhere	ᏂᎬᎢ	[nikvʔi] /rrd/
+Examining it	ᎠᎪᎵᏰᎠ	[agoːlíːyeʔa] /rrd/
+Exiting	ᎦᏄᎪᎦ	[ganuːgóːga] /rrd/
+Eye	ᎠᎦᏙᎵ	[aktoːli] (his) /rrd/
+Eye	ᎠᎧᏅᎢ	[akaːnvːʔi] (his) /rrd/
+Eye ball	ᎠᎦᏔ	[akta] /rrd/
+Eyebrow	ᎤᎦᏘᏳᏩᏅᎢ	[uːktiyuːwanvːʔi] (his) /rrd/
+Eyelash	ᎤᎧᏛᎢ	[uːkadvʔi] (his) /rrd/
+Eyelid	ᎤᎦᏔᏄᎶᏓ	[uːktanuːloʔda] (his) /rrd/
+Face	ᎤᎧᏛᎢ	[uːkadvʔi] (his) /rrd/
+Fading	ᎠᏍᎪᎸᎦ	[ahsgoːlvga] /rrd/
+Fading clothes	ᏓᏍᎪᎸᎢᏍᏗᎭ	[daːsgolvʔisdiha] /rrd/
+Fagus grandifolia	ᎫᏏ	[kuːsi] /rrd/
+Failing	ᎤᏄᎸᎲᏍᎦ	[uːnúːlvhvhsga] /rrd/
+Fainting	ᎤᎸᏖᎭ	[uːlvːteha] /rrd/
+Falco columbarius	ᏌᎾᏩ	[saːnawa] /rrd/
+Falco sparverius	ᎩᎩ	[giːgi] /rrd/
+Fall	ᎤᎶᎪᎰᏍᏗ	[uloːgohosdi] (season) /rrd/
+Falling	ᎦᎶᎣᏍᎦ	[galoʔǒːhsga] /rrd/
+Falling	ᎪᎰᏍᎦ	[goːhoːsga] /rrd/
+Falling	ᎦᏙᎣᏍᎦ	[gadoʔoːsga] (a liquid) /rrd/
+Falling	ᎦᏄᎪᎣᏍᎦ	[ganuːgoʔosga] (multiple falls) /rrd/
+Falling	ᎦᏙᎣᏍᎦ	[gadoʔoːsga] (something flexible) /rrd/
+Falling	ᎠᏐᎣᏍᎦ	[ahsoʔohsga] (something long) /rrd/
+Falling	ᎪᎰᏍᎦ	[goːhoːsga] (something solid) /rrd/
+Falling to the ground	ᎦᏅᎦ	[ganv́ːga] /rrd/
+False hellebore	ᎠᏍᏋᏁᏓ	[asgwvneːda] /rrd/
+False rhubarb	ᏧᏂᏦᏴᏍᏗ	[tsuːhnitsoːhysdi] /rrd/
+False solomon's seal	ᎤᏗᎵᏍᏗ	[udihlisdi] /rrd/
+Family	ᏚᎵᏗᎾᎥᎢ	[duːldiːnaʔvʔi] (his) /rrd/
+Family Anatidae	ᎧᏬᏄ	[kawoːnu] /rrd/
+Family Aphididae	ᏘᎾ	[tiːna] /rrd/
+Family Scincidae	ᏣᏁᏅ	[tsaneːnv] /rrd/
+Family Soricidae	ᏔᎳᏍᎨᏫ	[taːhlsgeːwi] /rrd/
+Family Tettigoniidae	ᏥᎩᎩ	[tsigiːgi] /rrd/
+Family Vespertilionidae	ᏣᎹᎭ	[tsaːmaha] /rrd/
+Far	ᎢᎾ	[iːna] /rrd/
+Far far away	ᎢᏅᎯᏳ	[iːnvhiːyu] /rrd/
+Farting	ᎠᏌᎩᎠ	[aːsahgiːʔa] /rrd/
+Fast	ᎤᎵᏍᏓ	[uhlihsda] /rrd/
+Fast	ᎦᏨᏄᎳ	[gaːtsvnuːla] /rrd/
+Fastening	ᎠᏍᏓᏱᏗᎠ	[ahsdáːʔyiːdiʔa] /rrd/
+Fat	ᎦᎵᏦᎯᏓ	[gaːhltsoːhiːda] /rrd/
+Father	ᎤᏙᏓ	[uːdoːda] /rrd/
+Father's brother	ᎤᏙᏓ	[uːdoːda] /rrd/
+Father's brother's wife	ᎤᏘᎾᎢ	[uːtinaʔi] (his) /rrd/
+Father's father	ᎤᏂᏏ	[uːniːsi] (his) /rrd/
+Father's sister	ᎤᎶᎩ	[uːhloːgi] (his) /rrd/
+Fearless	ᏍᎦᏎᏅ	[sgaseːhnv] /rrd/
+Feather	ᎤᎩᏓᎵ	[ugiːdahli] /rrd/
+February	ᎦᎵᎦᎵ	[gaːhlgaːli] /rrd/
+Federal government officials	ᎠᏂᏩᏥᏂ	[aniːwaːtsiːni] /rrd/
+Feeding him, it	ᎨᎶᎭ	[gehloːha] /rrd/
+Feeling it	ᎠᏒᏂᎭ	[ahsv́hniha] /rrd/
+Felis silvestris catus	ᏪᏌ	[weːhsa] /rrd/
+Female rattlesnake	ᏓᎶᏂᎨ ᎤᏦᏅᏗ	[daloːnige utsoːnvdi] /rrd/
+Fen orchid	ᎤᏲᏓᎵᏳᏍᏗ	[uyodaːhliyusdi] /rrd/
+Fence	ᎠᏦᏴᎢ	[aʔtsoːhyvːʔi] /rrd/
+Fence lizard	ᏔᏳᎭᎵ	[tayuːhaːli] /rrd/
+Festival	ᏗᎾᏛᏁᎵᏍᎬᎢ	[diːnadvːneːlisgvʔi] /rrd/
+Fetching, getting it	ᎦᏁᎩᏏ	[ganeːgiːsi] (a liquid) /rrd/
+Fetching, getting it	ᎦᎾᎩᏏ	[ganagiːsi] (something alive) or (something flexible) /rrd/
+Fetching, getting it	ᎠᏱᎠ	[ayíːʔa] (something long) /rrd/
+Fetching, getting it	ᎠᎩᏏ	[agiːsi] (something solid) /rrd/
+Fever	ᎤᏗᎴᎩ	[udileːgi] /rrd/
+Feverish	ᎤᏗᎴᎲᏍᎦ	[uːdileːhvhsga] /rrd/
+Field	ᏦᎨᏏ	[tsogeːsi] /rrd/
+Fifteen	ᎯᏍᎦᏚᎯ	[hiːsgaduhi] /rrd/
+Fifty	ᎯᎩᏍᎪᎯ	[hiːksgoːhi] /rrd/
+Fighting	ᎠᎵᎭ	[ahliha] /rrd/
+Filling it	ᎠᎧᎵᎢᎭ	[ahkaliːʔiha] /rrd/
+Finally	ᎤᎵᏍᏆᎸᏗ	[uːhlsgwáːldi] /rrd/
+Finding it	ᎦᏁᏫᏗᎭ	[ganéhwdiha] (a liquid) /rrd/
+Finding it	ᎦᎾᏫᏘᎭ	[ganáːhwtiha] (something alive) or (something flexible) /rrd/
+Finding it	ᎠᏴᏫᏘᎭ	[ayv́hwtiha] (something long) /rrd/
+Finding it	ᎠᏩᏘᎭ	[ahwáhtiha] (something solid) /rrd/
+Finger	ᎠᏰᏌᏛᎢ	[ahyeːsadvːʔi] /rrd/
+Fingernail	ᎤᏰᏑᎧᎸᎢ	[uhyeːsuhgahlvːʔi] (his) /rrd/
+Finishing	ᎠᏍᏛᏍᎦ	[ahstvhsga] /rrd/
+Fire	ᎠᏥᎳ	[atsiːla] /rrd/
+Fire	ᎬᏓ	[gvːda] (in a) /rrd/
+Fire, uncontrolled	ᎦᎵᎬ	[galiːgv] /rrd/
+Firearm	ᎦᎶᏇ	[galogwe] /rrd/
+Firecracker plant	ᎤᏍᏆᏙ	[uhsgwado] /rrd/
+Fireplace	ᎠᏥᎳᎯ	[atsiːlaːhi] /rrd/
+Fireside	ᎠᏥᎳᏳᎶᏗ	[atsiːlaːyuhldi] /rrd/
+Firing a gun	ᎠᏍᏓᏲᎯᎭ	[ahsdayoːhiha] /rrd/
+First	ᎠᎬᏱ	[agvːyi] /rrd/
+Fish	ᎠᏣᏗ	[atsadiʔi] /rrd/
+Fish hawk	ᎧᏅᏧᏩ	[kanvːtsuːhwa] /rrd/
+Fish hook	ᎠᏧᏗ	[atsúʔdi] /rrd/
+Fishing	ᎠᏧᎲᏍᎦ	[ahtshúhvhsga] /rrd/
+Fishing pole	ᎦᏛᏗ	[gadvːdi] /rrd/
+Fist	ᎤᏍᏇᏅᎯ	[uhsgweːnvhi] (his) /rrd/
+Fist fighting	ᏓᏓᏛᏂᎭ	[daːdaːdvːhniha] /rrd/
+Five	ᎯᏍᎩ	[hiːsgi] /rrd/
+Flag	ᎦᏓᏘ	[gaːdati] /rrd/
+Flashlight	ᎠᏨᏍᏙᏗ	[atsvhstdi] /rrd/
+Flat	ᎠᏯᏖᎾ	[ayaːteːna] /rrd/
+Flea	ᏧᎧ	[tsuːka] /rrd/
+Flesh	ᎤᏇᏓᎸᎢ	[uːgweːdahlvːʔi] (his) /rrd/
+Flint	ᏚᏫᏍᎦᎵ	[duwisgali] /rrd/
+Flipping it	ᎦᎸᏛᏂᎭ	[galvːdv́ʔniːha] /rrd/
+Flipping it with his finger	ᎠᏆᏲᎯᎭ	[agwayohiha] (something alive) /rrd/
+Flirting with her	ᎠᏥᏚᎥᏍᎦ	[atshtuːʔvhsga] /rrd/
+Floating	ᎧᏄᎯ	[kanuhi] /rrd/
+Floating it	ᎧᏄᎲᏗᎭ	[kanuhv́hdiha] /rrd/
+Flooding	ᎦᏅᎱᎩᎠ	[ganvːhuːgiʔa] /rrd/
+Floor	ᎠᏲᏓᏌᎲᎢ	[aːyodʔasahvʔi] /rrd/
+Floor	ᎡᎳᏗ	[eːladi] (on the) /rrd/
+Florida	ᏧᎦᏃᏮᎢ	[tsugaːnowvʔi] /rrd/
+Flour	ᎤᏣᎴᏍᏗ	[uːtsaleːsdi] /rrd/
+Flour corn	ᏎᎷᏯᎯ	[seːluːyahi] /rrd/
+Flower	ᎠᏥᎸᏍᎩ	[atsilvhsgi] /rrd/
+Flower is falling off	ᎠᏥᎳᏙᎣᏍᎦ	[atsiːladoʔohsga] /rrd/
+Flowing	ᎠᎨᏯ	[ageːʔya] /rrd/
+Flowing	ᎨᏯ	[geʔya] /rrd/
+Flute	ᎦᏤᎷᎩᏍᏙᏗ	[gaːtseːhlukiːsdoːhdi] /rrd/
+Flying	ᎦᏃᎯᎵ	[ganoːhíːli] /rrd/
+Flying away	ᎠᎳᏫᏗᎭ	[ahlawíːdiha] /rrd/
+Flying squirrel	ᏕᏩ	[deːwa] /rrd/
+Foam	ᎤᏬᎩᎵ	[uwoːgili] /rrd/
+Foaming	ᎦᏬᎩᎳᏍᎦ	[gawóːkilaːsga] /rrd/
+Fog	ᎤᎧᎭᏗ	[ukahaːdi] /rrd/
+Folding it	ᎠᏴᏈᏛᎥᏍᎦ	[ayvgwidv́ːʔvhsga] /rrd/
+Following	ᎠᏍᏓᏩᏗ	[ahsdáʔwadi] /rrd/
+Food	ᎤᎵᏍᏓᏴᏗ	[uːhlsdahydi] /rrd/
+Foot	ᎤᎳᏏᏕᏂ	[uːhlasihdeːni] (his) /rrd/
+For the duration of	ᎢᎪᎯᏛ	[iːgohiːdv] /rrd/
+Forehead	ᎠᎬᏗᎨᏂ	[agvːdigeːni] (his) /rrd/
+Forgetting it	ᎤᏩᎨᏫᏍᎦ	[uːwaːhkéːwhsga] /rrd/
+Fork	ᏴᎩ	[yvːgi] /rrd/
+Fork in the branch of a tree	ᎤᎶᏥᎬ	[uːloːdskvː] /rrd/
+Forming	ᎪᏒᏍᎦ	[gósvːsga] /rrd/
+Forty	ᏅᎩᏍᎪᎯ	[nvːksgoːhi] /rrd/
+Foul ball	ᏬᏰ	[woːye] (stickball) /rrd/
+Four	ᏅᎩ	[nvːki] /rrd/
+Fourteen	ᏅᎦᏚᎯ	[nvːgaduhi] /rrd/
+Fox	ᏧᎳ	[tsuːla] /rrd/
+Fox grapes	ᎤᏂᏖᎸᎳᏗ	[unitelvːlahdi] /rrd/
+Fox grapes	ᏖᎸᎳᏗ	[telv́laːdi] /rrd/
+Fox squirrel	ᏌᎶᎵ ᏬᏗ	[saloːli woːhdi] /rrd/
+Fragaria virginiana	ᎠᏂ	[aːni] /rrd/
+Fraxinus L	ᏧᎦᏃᏅ	[tsuːganoːnv] /rrd/
+Freckles	ᎤᏁᏘ	[uneːti] /rrd/
+Free labor company	ᎦᏚᎩ	[gaːduːgi] /rrd/
+Freeing	ᎤᏲᏍᎦ	[uːyoːsga] /rrd/
+Freezer	ᎠᏴᏣᏗᏍᏗᏍᎩ	[ahyvːtsadʔisdihsgi] /rrd/
+Freezer	ᎤᏁᏍᏓᎵ ᎪᏒᏍᎩ	[unehsdahl gohsvhsgi] /rrd/
+Freezing	ᎤᏁᏍᏓᎳᏗᎠ	[uːnehsdaːldiʔa] /rrd/
+Frenchmen	ᎠᏂᎦᎸᏥ	[aniːgalvːhtsi] /rrd/
+Friday	ᏧᏂᎩᎶᏍᏗ	[tsuːhnigiloːsdi] /rrd/
+Friend	ᎤᎾᎵᎢ	[uːnaːli̋ʔi] (his) /rrd/
+Friends	ᎤᎾᎵᎢ	[uːnaːli̋ʔi] (they are) /rrd/
+Friendship	ᎠᎵᎢ	[aːliʔi] /rrd/
+Frightening him	ᎠᏖᏍᏗᎭ	[ateːsdiha] /rrd/
+Frog	ᎦᎵᏉᎩ	[gaːhlgwoːgi] /rrd/
+Frog	ᏕᎧ	[deːka] /rrd/
+From	ᎬᏗ	[gvːhdi] /rrd/
+From ….	ᏓᏳᎶᏒᎯ	[dayulóːsvhi] (place name) /rrd/
+Frost on ground	ᎤᏯᏛᎲ	[uhyahtvhv] (white) /rrd/
+Frost on the ground	ᎤᎾᏄᏍᏗ	[uːnaːʔnuhsdi] (ice) /rrd/
+Frying it	ᎬᎿᏬᏗᎭ	[gvːhnawóhdiha] /rrd/
+Frying meat	ᏕᎬᏣᎳᏍᎦ	[deːgvːtshalǎːhsga] /rrd/
+Full	ᎤᏑᎵᎭ	[uːhsuːliha] /rrd/
+Full moon	ᎧᎵ ᏅᏓ	[kali nvːda] /rrd/
+Funny	ᎤᏬᏥᏗ	[uːwotsdi] /rrd/
+Gall bladder	ᏓᎶᏂ	[daloːni] /rrd/
+Gallon	ᎢᏳᏥᎶᏓ	[iːyuːtsiːloːda] /rrd/
+Gallon	ᏑᏥᎶᏓ	[sutsiloːda] /rrd/
+Gallus gallus domesticus	ᏥᏓᎦ	[tsidaːga] /rrd/
+Gap in the mountain	ᎤᏴᎳᏛ	[uyvlatv] /rrd/
+Garden	ᎠᏫᏒᏗᏳ	[ahwiːsvdiːyu] /rrd/
+Garden hose	ᎠᎹ ᎤᏪᏓᏍᏗ	[am uwedʔasdi] /rrd/
+Garden snake	ᎣᏛᎳᏘᎢ	[odvːhlaʔtiʔi] /rrd/
+Garter snake	ᎣᏛᎳᏘᎢ	[odvːhlaʔtiʔi] /rrd/
+Gasoline	ᎪᎢ	[goʔi] /rrd/
+Gasteroid fungi	ᏃᏈᏏ ᎤᏍᏗ	[noːkwisi uːsdi] /rrd/
+Gastropod - family helicidae	ᎡᎶᏆ	[eːlogwa] /rrd/
+Gathering things	ᎦᎩᏍᎭ	[gagiːsha] /rrd/
+Gathering together	ᎠᎾᏓᏥᎩᎭ	[anadadsgiha] (they are) /rrd/
+Gaylussacia baccata	ᎧᏩᏯ	[kaːwaya] /rrd/
+Gaylussacia ursina	ᎡᎶᏘᏍᎩ	[eloːtisgi] /rrd/
+Georgia	ᏣᏥᏯ	[tsatsiya] /rrd/
+Germans	ᎠᏂᏓᏥ	[aniːdaːtsi] /rrd/
+Getting it	ᎠᎩᎠ	[agíːʔa] (something solid) /rrd/
+Getting onto it	ᎠᎩᎸᎥᏍᎦ	[ahkilvʔvhsga] /rrd/
+Getting ready	ᎠᏛᏅᎢᏍᏗᎭ	[advːnvːʔihsdiha] /rrd/
+Getting shallow	ᎦᏅᏬᎦ	[ganvːwoʔga] /rrd/
+Getting something in his eye	ᎤᎦᏑᎲᏍᎦ	[uːksuːhvːhsga] /rrd/
+Getting there	ᎦᎷᎦ	[gaʔluhga] /rrd/
+Getting up	ᎠᏗᏗᎠ	[adiːdiʔa] (from bed) /rrd/
+Getting well	ᎠᏗᏫᏍᎦ	[adiːhwsga] /rrd/
+Ghost	ᏥᎩᎵ	[tsgiːli] /rrd/
+Giant ragweed	ᎤᏆᏍᏓᎷᏱᏓ	[ugwasdaːluhyda] /rrd/
+Ginseng, American	ᎣᏓᎵᎦᎵ	[oːdaligaʔli] /rrd/
+Girl, preteen	ᎠᏳᏣ	[ahyutsa] /rrd/
+Girl, teenage	ᎠᏔ	[aːta] /rrd/
+Giving birth	ᎠᎷᎸᎥᏍᎦ	[aluːlv́ːʔvʔhsga] /rrd/
+Giving birth	ᎦᎧᎲᏍᎦ	[gahkahv̌ːhsga] /rrd/
+Giving it	ᎦᏁᏁᎭ	[ganeːneha] (a liquid) to him /rrd/
+Giving it	ᎦᏅᏁᎭ	[ganvːneha] (something flexible) to him /rrd/
+Giving it	ᎠᏁᎭ	[aːhneha] (something solid). (alternate) /rrd/
+Giving it	ᎠᏓᏁᎭ	[adahneha] (something solid). (older form of verb) /rrd/
+Giving it to him	ᎠᎧᏁᎭ	[akaːneha] (something alive) /rrd/
+Giving it to him.	ᎠᏕᎭ	[adeːha] (something long) /rrd/
+Giving thanks	ᎠᎵᎮᎵᎦ	[alihéːliʔga] /rrd/
+Giving up	ᎠᏓᏲᏍᎦ	[adahyohsga] /rrd/
+Glass	ᎤᏁᏍᏓᎵ	[uːnehsdahli] /rrd/
+Glaucomys volans	ᏕᏩ	[deːwa] /rrd/
+Gleditsia triacanthos	ᎧᎵᏎᏥ	[kaːhlseːtsi] /rrd/
+Glorifying it	ᎦᎸᏉᏗᎭ	[galvːkwoːhdiha] /rrd/
+Gloves	ᎠᎵᏰᏑᎶ	[aliyésuloː] /rrd/
+Gloves	ᏗᎴᏰᏑᎶ	[diːleːyeːsuʔlo] /rrd/
+Gnats	ᏙᏌ	[dosa] /rrd/
+Gnawing	ᎠᏍᎪᎩᎠ	[ahsgoːgiʔa] /rrd/
+Goat	ᏧᎦᏍᏆᎾᎩᏓ	[tsuːksgwanagiːda] /rrd/
+Gobbler	ᎦᎳᎩᎾ	[galagiːna] /rrd/
+God	ᎤᏁᎳᏅᎯ	[uneːhlanvːhi] /rrd/
+Going	ᎡᎦ	[eːga] /rrd/
+Going across a hill	ᏕᎦᎶᎨᎵ	[deːgaloːkeːli] /rrd/
+Going after	ᎤᏯᎵ	[uːyhali] /rrd/
+Going back	ᎢᎡᎦ	[íːʔeːga] /rrd/
+Going down hill	ᎠᎦᏐᏗᎭ	[agaʔsóhdiha] /rrd/
+Going in a circle	ᎠᏕᏲᎭ	[aːdeːhyoha] /rrd/
+Going on a trip	ᎠᏁᎳᏗᎠ	[ahneːladiʔa] /rrd/
+Going out	ᎬᏓᎶᏍᎦ	[gvdaloːsga] (fire, light) /rrd/
+Going out of it	ᎦᏄᎪᎦ	[ganuːgóːga] /rrd/
+Going out of sight	ᎤᏕᎵᎦ	[uːdeːliga] /rrd/
+Going over a hill	ᎦᏬᎯᎶᏍᎦ	[gawohiloːsga] /rrd/
+Going somewhere	ᏩᎦᏘ	[wakti] /rrd/
+Going then turning and coming back	ᎠᎪᎸᎠ	[agoːʔlvːʔa] /rrd/
+Going there and lying down	ᎠᏏᏂ	[ahsíːhni] /rrd/
+Going through	ᎠᎦᏛᎴᎭ	[aktv́ʔleːha] /rrd/
+Going to eat	ᎠᎵᏍᏓᏴᏅᏍᎦ	[ahlsdaːhyvhnsga] /rrd/
+Going to go visit someone	ᎠᏩᏛᎯ	[ahwatvhi] /rrd/
+Going to the bathroom	ᎠᏨᎠ	[atsvːʔa] /rrd/
+Going up a hill or mountain	ᎧᎿᎷᏍᎦ	[kanalǔːhsga] /rrd/
+Golden-club	ᎦᏁᏏ	[ganeːsi] /rrd/
+Goldfinch	ᏩᏓᎬ	[wadaːgv] /rrd/
+Good	ᎣᏍᏓ	[oːsda] /rrd/
+Good	ᎣᏏ	[oːsi] /rrd/
+Goose	ᏌᏌ	[sasa] /rrd/
+Gourd	ᎦᎸᎾ	[galvʔna] /rrd/
+Gourd dipper	ᎦᎸᎾ	[galvʔna] /rrd/
+Graduating	ᏓᏍᏆᏗᎠ	[daːsgwaːdía] /rrd/
+Granddaughter	ᎤᎵᏏ	[uːliːsi] (his) /rrd/
+Grandmother	ᎤᎵᏏ	[uːliːsi] (his) /rrd/
+Grandson	ᎤᏂᏏ	[uːniːsi] (his) /rrd/
+Grass	ᎦᏄᎸᎯ	[ganuːlvhi] /rrd/
+Grasshopper	ᏙᎯᏥᏆ	[toːhitsgwa] /rrd/
+Grasshopper	ᏙᎳᏥ	[toːlatsi] /rrd/
+Graty blue heron	ᎧᏂᏍᎦᏩ	[kanisgawa] /rrd/
+Grave	ᎦᏂᏌᎲᎢ	[ganiːsahvʔi] /rrd/
+Gravy	ᎤᎦᎹ	[uːgama] /rrd/
+Gray	ᏌᎪᏂᎨ ᎤᏍᎪᎸᎢ	[sakoːnige usgoːlvʔi] /rrd/
+Gray catbird	ᎤᏥᎹ	[uːtsiʔma] /rrd/
+Gray fox	ᏧᎳ ᏌᎪᏂᎨ	[tsuːla sakoːnige] /rrd/
+Gray squirrel	ᏌᎶᎵ	[saloːli] /rrd/
+Grazing	ᎠᏂᏛᎿᏗᎠ	[andvːhnadiʔa] /rrd/
+Grease	ᎪᎢ	[goʔi] /rrd/
+Great bulrush	ᎦᎾᎦᏥ ᎤᏔᎾ	[ganaːgatsi utana] /rrd/
+Great deal of	ᏥᏍᏈᏍᏓ	[tsgwisda] /rrd/
+Green	ᎠᏤᎯ	[atseːhi] (of plants) /rrd/
+Green amaranth	ᏩᏥᎦ	[watsga] /rrd/
+Greeting him	ᎠᏲᎵᎭ	[ayóːʔliha] /rrd/
+Grifola frondosa	ᏫᏏ	[wiːsi] /rrd/
+Grinding it	ᎠᏍᏙᎠ	[ahsdoːʔa] /rrd/
+Gritter	ᎠᏑᎪᏍᏗ	[asuːgosdi] /rrd/
+Ground	ᎡᎳᏗ	[eːladi] (on the) /rrd/
+Ground bean	ᏚᏯ ᎢᎾᎨᎢ	[tuːya inageʔi] /rrd/
+Ground lemon	ᎤᏂᏍᏇᏚᎦ	[unisgweːduːga] /rrd/
+Ground snake	ᎪᎢ	[goʔi] /rrd/
+Groundcherry	ᎤᏅᏚᎯᏍᏓ	[unvːduhiːsda] /rrd/
+Groundhog	ᎣᎦᏅ	[oːganv] /rrd/
+Group	ᎤᏂᏣᏛ	[uːniːtsadv] /rrd/
+Group	ᎱᎾᏓᏥᎬ	[huːndaːdsgv] /rrd/
+Group	ᎡᎳ	[ehla] (in a) /rrd/
+Growing	ᎠᏛᏍᎦ	[atvhsga] /rrd/
+Growing	ᎠᎵᏰᎲᏍᎦ	[aliyeːhvhsga] (a plant) /rrd/
+Grown-up	ᎤᏔᎾ	[uːtana] /rrd/
+Grus americana	ᎧᎾᏍᎦᏫ	[kansgawi] /rrd/
+Gryllus assimilis	ᏔᎳᏚ	[talaːdu] /rrd/
+Guineafowl	ᎫᏇ ᏗᎦᎾᏌᎢ	[guːgwe digaːnasaʔi] /rrd/
+Gun	ᎦᎶᏇ	[galogwe] /rrd/
+Gyrinus spp	ᏙᏳᏂᏏ	[doːyuniːsi] /rrd/
+Haemorhous purpureus	ᎤᏦᏁᏗ	[utsoːneːdi] /rrd/
+Hailing	ᎦᏁᏐᎣᏍᎦ	[ganeːsoʔosga] /rrd/
+Hair on the head	ᏍᏗᏰᎬᎢ	[sdiyekvʔi] /rrd/
+Hairy	ᎤᏳᏩᎾ	[uːyuwaʔna] /rrd/
+Half	ᎠᏰᎵ	[ayehli] /rrd/
+Haliaeetus leucocephalus	ᎠᏬᎯᎵ	[awohili] /rrd/
+Ham	ᎦᎦᎶ	[gaːgalo] (whole) /rrd/
+Ham, portion of	ᎦᎦᎶ ᎠᎦᎭᎸᏓ	[gaːgalo agahalvːda] /rrd/
+Ham, sliced	ᎦᎦᎶ ᎠᎦᎭᎸᏓ	[gaːgalo agahalvːda] /rrd/
+Hamamelis virginiana	ᎦᎾᏑᏛᎶ	[gansuːdvlo] /rrd/
+Hammer	ᎦᏅᏆᎶᏍᏗ	[ganvːgwaloːsdi] /rrd/
+Hammer	ᎦᏅᏆᎶᏍᏗ	[ganvːkwalosdi] /rrd/
+Hammer	ᎬᏂᎵᏓᏍᏙᏗ	[gvːniliːdaːsdoʔdi] /rrd/
+Hammering it in	ᎠᎭᏔᏍᎦ	[aːhatahsga] /rrd/
+Hand	ᎤᏬᏰᏂ	[uːwoʔyeːni] (his) /rrd/
+Handing it to him	ᎠᎥᏏ	[aʔv́hsi] (something solid) /rrd/
+Handkerchief	ᎭᏯᏦᎯ	[hayaːtsoːhi] /rrd/
+Hanging it up	ᎦᏛᎥᏍᎦ	[gadv́ʔvːsga] (something alive) /rrd/
+Hanging it up	ᎦᏛᎥᏍᎦ	[gadv́ʔvːsga] (something flexible) /rrd/
+Hanging it up	ᎠᏙᏌᏗᎠ	[ahtoːsádiʔa] (something long) /rrd/
+Hanging it up	ᎠᏔᏍᎦ	[atáhsga] (something solid) /rrd/
+Happens	ᏂᎦᎵᏍᏗᎭ	[nigaːlsdiha] /rrd/
+Happy	ᎠᎵᎮᎵᎦ	[alihéːliʔga] /rrd/
+Hard	ᎠᏍᏓᏱ	[aʔsdaːyi] /rrd/
+Hard	ᏍᏓᏯ	[sdaːya] /rrd/
+Hard corn	ᏧᏍᏓᏱ	[tsusdaːyi] (past roasting stage) /rrd/
+Harelip	ᏧᏚᎶᏗ	[tsuduːloːdi] /rrd/
+Harness	ᎠᏯᏨᏗ	[ahyatsvhdi] /rrd/
+Has a birthday	ᎤᏕᏘᏱᎭ	[uːdehtiːyiha] /rrd/
+Has a family	ᏚᎵᏘᎿᎠ	[duːltiːhnaʔa] /rrd/
+Has a fever	ᎤᏗᎴᎲᏍᎦ	[uːdileːhvhsga] /rrd/
+Has a sore	ᎤᏥᏓᎳᏗᎠ	[uːtsdaladiʔa] /rrd/
+Has a tail	ᎦᏂᏓᏓ	[ganiːdada] /rrd/
+Has a toothache	ᎤᏳᏆᏗᎠ	[ùːhyúgwadiʔa] /rrd/
+Has an earache	ᎤᎵᏍᏆᏗᎠ	[uːlíːsgwadiʔa] /rrd/
+Has an inclination to	ᎤᏚᎵᏗᎭ	[uːduːhldiha] /rrd/
+Has an itch	ᎬᎩᏣᎴᎠ	[gv́ːgitsaleʔa] /rrd/
+Has chills	ᎤᏅᏩᏍᏗᎭ	[uːnvːwahsdiha] /rrd/
+Has diarrhea	ᎤᏍᏉᎳᏗᎠ	[uːhsgwoːladiʔa] /rrd/
+Has his mouth open	ᎤᏔᎶᎦ	[uːtaloːga] /rrd/
+Has it	ᎤᏁᎭ	[uːneha] (a liquid) /rrd/
+Has it	ᎤᏩᎧᎭ	[uːwaːkaha] (something alive) /rrd/
+Has it	ᎤᎾᎠ	[uːnaʔa] (something flexible) /rrd/
+Has it	ᎤᏩᏯ	[uːwaːya] (something long) /rrd/
+Has it	ᎤᎭ	[uːha] (something solid) /rrd/
+Has livestock or animals	ᎤᎧᎿᎠ	[uːhkáhnaʔa] /rrd/
+Hat	ᎤᎵᏍᏇᏔᏬᎯ	[uːhlsgweːtawohi] (his) /rrd/
+Hating him	ᎦᏂᏆᏘᎭ	[ganigwátiːha] /rrd/
+Having a holiday	ᎤᏙᏓᏆᎠ	[uːdóːdagwaʔa] /rrd/
+Hawk	ᏔᏬᏗ	[tawoːdi] /rrd/
+Hay	ᎧᏁᏍᎦ	[kaneːsga] /rrd/
+Hazel alder	ᎠᏤᏓ	[aːhtseːhd] /rrd/
+Hazelnut	ᎠᏳᎩᏓ	[ahyugiːda] /rrd/
+He/she/it is becoming	ᏂᎦᎵᏍᏗᎭ	[nigaːlsdiha] /rrd/
+Head	ᎠᏍᎪᎵ	[asgoːli] (his) /rrd/
+Healing up	ᎠᏗᏫᏍᎦ	[adiːhwsga] /rrd/
+Hearing it	ᎠᏛᎩᎠ	[ahtvːgiʔa] /rrd/
+Hearse	ᏧᏂᏲᎱᏒ ᏗᎦᎾᎩᏏᏙᎯ	[tsuniːyohusv diganagiːsiːdoːhi] /rrd/
+Heart	ᎦᎾᏫᎯ	[ganaːhwihi] /rrd/
+Heart	ᎤᏓᏅᏙ	[uːdaːndo] (his) /rrd/
+Heartleaf	ᎤᏂᏍᏆᎵ	[uniːsgwaːli] /rrd/
+Heat	ᎤᏗᎴᎬᎢ	[udileːgvʔi] /rrd/
+Heater	ᎠᎦᎾᏬᎯᏍᏗ	[agaːnawohisdi] /rrd/
+Heaven	ᎦᎸᎳᏗ	[galv́ːladi] /rrd/
+Heavy coat	ᎤᎭᎨᏗ ᎦᏌᎴᎾ	[uːhageːdi gaːsaleːna] /rrd/
+Heel of the foot	ᎦᏗᎨᏂ	[gadiːgeːni] (his) /rrd/
+Height	ᎢᎦᏗ	[iːgadi] /rrd/
+Held erect	ᎤᏎᎳᏘ	[uːselaːti] /rrd/
+Helianthus	ᏅᏓᏗᎧᏂ	[nvːdaːdiːkaːni] /rrd/
+Hello	ᎣᏏᏳ	[oːsiːyu] /rrd/
+Hello	ᏏᏲ	[siːyo] /rrd/
+Helmitheros vermivorum	ᎩᏳᎬ	[kiyuːgv] /rrd/
+Helping	ᎠᏍᏕᎵᎭ	[ahsdéːliha] /rrd/
+Hemlock	ᏃᏄ	[noːnu] (tree) /rrd/
+Hemming it	ᎠᏴᏈᏛᎥᏍᎦ	[ayvgwidv́ːʔvhsga] /rrd/
+Hen Harrier	ᎠᎪᏕᎯ	[agodʔehi] /rrd/
+Hen-of-the-woods	ᏫᏏ	[wiːsi] /rrd/
+Here, this	ᎭᏂ	[hani] /rrd/
+Hers	ᎤᏤᎵ	[uːtseːli] /rrd/
+Herself	ᎤᏩᏌ	[uːwahsa] /rrd/
+Hiccup	ᎤᏩᎫᏩᏍᏗ	[uwaːguwahsdi] /rrd/
+Hickory	ᏩᏁᎢ	[waneʔi] /rrd/
+Hickory nut	ᏐᎯ	[soːhi] /rrd/
+Hickory nut soup	ᎧᏅᏥ	[kanvːtsi] /rrd/
+Hiding	ᎠᏗᏍᎦᎳᏍᎦ	[adiːhsgahláhsga] /rrd/
+Hiding it	ᎬᏍᎦᎸᎥᏍᎦ	[gvhsgalv́ʔvːsga] (something flexible or living) /rrd/
+Hiding it	ᎬᏍᎦᎳᏗᎠ	[gvːsgaːldiʔa] (something long) /rrd/
+Hiding it	ᎬᏍᎦᎳᏍᎦ	[gvːsgaːhlǎːhsga] (something solid) /rrd/
+Him too	ᎯᏍᏉ	[hiːsgwo] /rrd/
+Himself	ᎤᏩᏌ	[uːwahsa] /rrd/
+Hinge, hinges	ᎦᏙᏌᏗᏍᏙᏗ	[gaːtoːsadisdoːhdi] /rrd/
+Hip	ᎠᎧᏍᎨᏂ	[akaːsgeːni] (his) /rrd/
+Hirundo rustica	ᏧᏗᏆᏅᏥ	[tsuːdigwaːntsi] /rrd/
+His	ᎤᏤᎵ	[uːtseːli] /rrd/
+Hitting someone in the head with it	ᎠᏍᏆᎸᎢᎭ	[ahsgwalv́ːʔiha] (something long) /rrd/
+Hoar frost	ᎤᎾᏄᏍᏗ	[uːnaːʔnuhsdi] /rrd/
+Hoe	ᎦᎶᎪᏗ	[galoːgoːhdi] /rrd/
+Hoeing	ᎦᎶᎩᎠ	[galóːgiʔa] /rrd/
+Hog	ᏏᏆ	[sikwa] /rrd/
+Hog sucker	ᏓᎶᎨ	[daloːge] (plant) /rrd/
+Hog-peanut	ᏚᏯ ᎢᎾᎨᎢ	[tuːya inageʔi] /rrd/
+Holding it	ᎦᎾᏤᎭ	[gánhtseha] (a liquid) /rrd/
+Holding it	ᎦᏁᏤᎭ	[ganhtseːha] (a liquid) /rrd/
+Holding it	ᎦᏁᎭ	[gáhneha] (something flexible) /rrd/
+Holding it	ᎦᏁᎭ	[ganeːha] (something long) /rrd/
+Holding it	ᎦᏰᎭ	[gàːhyeːha] (something solid) /rrd/
+Holding it in hand	ᎤᏩᏂᏯ	[uːwaníːyha] (something alive) /rrd/
+Hole	ᎠᏔᎳᎦᏒᎢ	[atalaksvʔi] /rrd/
+Hollering	ᎠᏙᎯᎠ	[atoːhiːʔa] /rrd/
+Hollering	ᎤᏪᎷᎦ	[uːwehluhga] /rrd/
+Hollow	ᎤᏒᏙᏂ	[uhsvdoːni] /rrd/
+Hollow	ᎤᏂᏒᏙᏂ	[uːnihsvːdoni] (they are) /rrd/
+Hollow mushrooms	ᎤᏂᏒᏙᏂ	[uːnihsvːdoni] /rrd/
+Home	ᎤᏬᎳ	[uːwohla] (at) /rrd/
+Home	ᎤᏪᏅᏒᎢ	[uːweːnvːsvːʔi] (his) /rrd/
+Homesick	ᎠᎱᎳᎨᎦ	[ahuːlagoga] /rrd/
+Hominy grits	ᎦᏃᎮᏂ	[ganoheːni] /rrd/
+Hominy soup	ᎠᎹᎨᎢ	[amageʔi] /rrd/
+Honey	ᏩᏚᎵᏏ	[waːduːliːsi] /rrd/
+Honey locust	ᎧᎵᏎᏥ	[kaːhlseːtsi] /rrd/
+Honey mushroom	ᎤᏂᎶᏇ	[uniloːgwe] /rrd/
+Honey mushroom	ᏧᏂᎶᎩ	[tsuniːhlogi] /rrd/
+Honey mushroom	ᏧᏂᎶᏇ	[tsuːniːhloːgwe] /rrd/
+Honeysuckle bush	ᎬᏅᎩᎵᎩ	[kvːnvgiːhlgi] /rrd/
+Honoring it	ᎦᎸᏉᏗᎭ	[galvːkwoːhdiha] /rrd/
+Hoot howl	ᎤᎫᎫ	[uguːku] /rrd/
+Horn	ᎦᏤᎷᎩᏍᏙᏗ	[gaːtseːhlukiːsdoːhdi] /rrd/
+Horn of an animal	ᎤᏲᎾ	[uːhyoːna] /rrd/
+Hornet	ᏎᏩᏓ	[seːhwada] /rrd/
+Horse	ᏐᏈᎵ	[soːgwili] /rrd/
+Horse	ᎤᎩᎳ	[uːhkiʔla] (on a) /rrd/
+Horse corn	ᎠᏂᏒᏅᎯᏓ	[aniːsvnvhiːda] /rrd/
+Hospital	ᎦᎾᎦᏙ	[gaʔnakdo] /rrd/
+Hot	ᎤᏗᎴᎬᎢ	[udileːgvʔi] /rrd/
+Hot	ᎦᎴᏴᏍᎦ	[galéːyvːsga] /rrd/
+Hot pepper	ᎤᏥᎸ	[uːtsiʔlv] /rrd/
+Hot water	ᎠᎹ ᎤᏗᎴᎩ	[am uːdihlehgi] /rrd/
+Hour	ᎢᏳᏪᏅᏍᏗ	[iːyuweːnvːsdi] /rrd/
+House	ᎦᎵᏦᏕ	[gaːhltsoːde] /rrd/
+House	ᎦᎾᎩᎸᎢ	[ganagilvʔi] (his) /rrd/
+House sparrow	ᏥᏍᏆᏯ	[tsiːsgwaːya] /rrd/
+Housefly	ᏛᎧ	[dvka] /rrd/
+How	ᎲᎦ	[hvːga] /rrd/
+Huckleberry	ᎧᏩᏯ	[kaːwaya] /rrd/
+Huckleberry bread	ᎧᏩᏯ ᎠᏑᏱ	[kawaːya asuʔyi] /rrd/
+Hugging him	ᎠᏄᎩᏣᏍᎦ	[ahnuːgitshahsga] /rrd/
+Humblehead	ᏥᏍᏆᎸᎾ	[tsisgwalvːna] (fish) /rrd/
+Hummingbird	ᏩᎴᎳ	[waːlela] /rrd/
+Hungry	ᎤᏲᏏᎭ	[uːyóːsiːha] /rrd/
+Hunting animals	ᎦᏃᎵᏙᎠ	[ganóhliːdoʔha] /rrd/
+Hurry	ᎤᎵᏍᏓ	[uhlihsda] /rrd/
+Hurry	ᎤᏩᏅᎦ	[uːwaːnvːga] (in a) /rrd/
+Hurry	ᎦᏨᏄᎳ	[gaːtsvnuːla] (in a) /rrd/
+Hurrying	ᎤᏅᎦ	[uːnvːga] /rrd/
+Hurrying	ᎤᏩᏅᎦ	[uːwaːnvːga] /rrd/
+Husband	ᎤᏰᎯ	[uːhyehi] (her) /rrd/
+Hydrangea arborescens	ᎦᎵᏉᎩ ᏧᏯᏍᏚ	[gaːhlkwoːgi tsuːyaːsdu] /rrd/
+Hylocichla mustelina	ᎧᏬᎬ	[kawoːgv] /rrd/
+Hymn book	ᏗᎧᏃᎩᏍᏙᏗ	[dikanogiːsdoːhdi] /rrd/
+Hymnal	ᎪᏪᎵ ᏗᎧᏃᎩᏍᏗ	[goːhweːli dikanoːgiːsdi] /rrd/
+Hypentelium nigricans	ᏓᎶᎨ	[daloːge] /rrd/
+I	ᎠᏴ	[ayvː] /rrd/
+Ice	ᎤᏁᏍᏓᎵ	[uːnehsdahli] /rrd/
+Ice plant	ᎤᏁᏍᏓᎵ ᎪᏒᏍᎩ	[unehsdahl gohsvhsgi] /rrd/
+Ictaluridae spp	ᏧᎵᏍᏓᎾᎵ	[tsuliːsdanaːli] /rrd/
+Icteria virens	ᎱᎱ	[huːhu] /rrd/
+Igniting it	ᎠᏥᏍᏓᎳᏍᎦ	[atsíːsdahlahsga] /rrd/
+Ilex mucronata	ᎤᏍᏓᏍᏗ	[uhsdahsdi] /rrd/
+Imitator bird	ᏩᏚᏰᎳ	[waduyeːla] /rrd/
+Impatiens capensis	ᏩᎴᎷ ᎤᏂᎦᎴᎩᏍᏗ	[waleːlu unigalegisdi] /rrd/
+Imposed restriction	ᎦᎦᏛᏓ	[gaktvːda] /rrd/
+In	ᎬᏗ	[gvːhdi] (a language). Derived from ᎬᏗᎭ /rrd/
+In a liquid	ᎬᎦ	[gvʔga] (something flexible) /rrd/
+In something	ᎦᎳᎠ	[galaʔa] (something flexible) /rrd/
+In something	ᎦᎳ	[gala] (something long) /rrd/
+Inch	ᎢᏯᏏᏔᏛᎯ	[iyaːsiːtadvhi] /rrd/
+Including	ᏓᏁᏥᏗᎭ	[daːnehdsdiha] /rrd/
+Income	ᎤᏓᎶᏒ	[udaːloːsvː] /rrd/
+Indian beads	ᎠᏕᏗᏯᏍᏗ	[adeːdiyaːʔsdi] /rrd/
+Indian hellebore	ᎠᏍᏋᏁᏓ	[asgwvneːda] /rrd/
+Indian Paint	ᏬᏗ	[woːdi] /rrd/
+Indian poke	ᎠᏍᏋᏁᏓ	[asgwvneːda] /rrd/
+Indigo bunting	ᎠᎵᏣᏃᏍᎦ	[aliːtsanoːsga] /rrd/
+Infection	ᎤᏰᎶᎯᏎᎲᎢ	[uyeːloːhiseːhvʔi] /rrd/
+Initially	ᎠᎬᏱ	[agvːyi] /rrd/
+Ink pen	ᎬᏁᎯ	[gvneːhi] /rrd/
+Insect	ᏥᎪᏱ	[dsgoːyi] /rrd/
+Inside	ᎠᏯᎠ	[ayaʔa] /rrd/
+Inside	ᎭᏫᏂ	[hawiːni] /rrd/
+Inside	ᎰᏫᏂ	[howiːni] /rrd/
+Intending	ᎤᏰᎸᎭ	[uːyéːlvːha] /rrd/
+Interpreter	ᎦᏁᏥᏗᏍᎩ	[gaːhnetsdisgi] /rrd/
+Interpreting it	ᎠᏁᏥᏗᎭ	[aːhneːtsdiha] /rrd/
+Intoxicated	ᎤᏴᏍᏓᎩᎠ	[ùːyvsdágiʔa] /rrd/
+Investigating, examining, checking, exploring it	ᎤᎦᏛᎲᏍᎦ	[uːkdv́hvhsga] /rrd/
+Ipomoea batatas	ᏄᎾ ᎤᏂᎦᎾᏍᏓ	[nuna uniːganasda] /rrd/
+Iris cristata	ᎤᏍᎦᎢ	[usgaʔhi] /rrd/
+Iron	ᏗᏖᏍᏗ	[ditesdi] (to iron clothes with) /rrd/
+Iron pot	ᏧᎳᏍᎩ	[tsuːlasgi] /rrd/
+Ironing clothes	ᏓᏖᏍᏗᎭ	[daːhteːsdiha] /rrd/
+Iroquois	ᎠᏂᏅᏓᏪᎩ	[aniːnvːdaweːgi] /rrd/
+Island	ᎠᎹ ᎠᏰᎵ	[am ayehli] /rrd/
+Isn't that right?	ᎭᏩᎦ	[hawaːga] /rrd/
+Itching	ᎤᏲᏓᎩᎠ	[uːyóːdagiʔa] /rrd/
+Itching	ᎬᎩᏣᎴᎠ	[gv́ːgitsaleʔa] /rrd/
+Jack-in-the-pulpit	ᏙᏒᎾ ᎢᎾᎨ ᎡᎯ	[doːsvna inage ehi] /rrd/
+Jack-in-the-pulpit	ᏚᏯᏍᏗ	[duyasdi] /rrd/
+Jacket	ᎦᏌᎴᎾ	[gaːsaleːna] /rrd/
+Jacket	ᏌᎧ ᎦᏌᎴᏂ	[saka gasaleːni] /rrd/
+Jacket lining	ᎭᏯᎦᎸᏛᎢ	[hayaːgalvːdvʔi] /rrd/
+Jail	ᏗᏓᏍᏚᏗᏳ	[didasduːdiyu] /rrd/
+January	ᏚᏃᎸᏓᏂ	[dunolvːdani] /rrd/
+Jaw	ᎠᏳᎪᎢ	[aːhyugoʔi] /rrd/
+Jewelweed	ᏩᎴᎷ ᎤᏂᎦᎴᎩᏍᏗ	[waleːlu unigalegisdi] /rrd/
+Job's tears	ᏎᎷ ᎤᏂᏥ	[seːlu uniːtsi] /rrd/
+Joining	ᎠᏖᎳᏕᎭ	[atéldeha] /rrd/
+Jug	ᎦᏓᎫᎦ	[gadaguːga] /rrd/
+Juglans cinerea	ᎪᎯ	[koːhi] /rrd/
+Juglans nigra	ᎬᏂᎨ ᏎᏘ	[gvːnige seːti] /rrd/
+Juglans nigra	ᏎᏗ	[seːdi] /rrd/
+July	ᎫᏰᏉᏂ	[guyegwoːni] /rrd/
+Jumping	ᎠᎵᏔᏕᎦ	[ahltadéːga] /rrd/
+Jumping forward	ᎠᏓᎾᏫᏗᎭ	[aːdanáːwidiha] /rrd/
+Jumping up and down	ᏓᎵᏔᏕᎦ	[daːlitadega] /rrd/
+Junco hyemalis	ᏚᏘ	[tuːti] /rrd/
+Juncus tenuis	ᎧᏁᏍᎦ	[kaneːsga] /rrd/
+June	ᏕᎷᏱ	[deːhluːyi] /rrd/
+Jury	ᎠᏂᏑᎵ	[aniːsuːli] /rrd/
+Just	ᏚᏳᎦᏔ	[duyuːkta] /rrd/
+Just a little	ᏍᏗᎧᏓ	[sdiːkada] /rrd/
+Just like that	ᏍᎩᏈᏳᏍᏗ	[sgigwiːyusdi] /rrd/
+Kalmia angustifolia	ᏚᏑᎦ ᏧᎾᏍᏗ	[duːsuːg tsuːnsdi] /rrd/
+Katydid	ᏥᎩᎩ	[tsigiːgi] /rrd/
+Kentucky	ᎬᏅᏛᎩ	[kvːndvːgi] /rrd/
+Kettle	ᎤᏔᎶᎩ	[utaloːgi] /rrd/
+Key	ᏍᏚᎩᏍᏗ	[sdugiːsdi] /rrd/
+Kicking him	ᎠᎶᏕᎯᎭ	[aːlóːʔdehiha] /rrd/
+Kicking up his leg	ᎠᏣᏯᎧᎩᎠ	[atsaʔyakgiːʔa] /rrd/
+Killer	ᎠᏓᎯ	[adáhi] /rrd/
+Killing him	ᎠᎯᎭ	[ahiha] /rrd/
+King	ᎤᎬᏫᏳᎯ	[uːgvːwiyuhi] /rrd/
+Kingbird	ᏗᎴᏆ	[dileːgwa] /rrd/
+Kingfisher	ᏣᎶᎯ	[tsaːlohi] /rrd/
+Kinosternon subrubrum	ᏌᎵᎫᎩ	[salígúːgi] /rrd/
+Kissing	ᎠᏍᏆᏄᏥᎦ	[ahsgwanúːʔtsga] (sucking) /rrd/
+Kissing her	ᎠᏔᏪᏙᏍᎦ	[atawéːdosga] /rrd/
+Kitchen	ᎠᏓᏍᏓᏴᏗ	[adasdahydi] /rrd/
+Kitten	ᏪᏌ ᎠᏓᎯ	[wesa adahi] /rrd/
+Knee	ᎦᏂᎨᏂ	[ganiːgeːni] (his) /rrd/
+Kneeling	ᏓᎵᏂᏆᏅᎥᏍᎦ	[daːhliníːgwanvʔvːsga] /rrd/
+Knife	ᎭᏰᎳᏍᏗ	[hayeːlasdi] /rrd/
+Knocking it	ᎪᎲᎾᏗᎭ	[goːhvːhndiha] (a liquid) off /rrd/
+Knocking it off	ᎪᎰᎾᏗᎭ	[goːhóhndiha] (something solid) /rrd/
+Knocking over a stack of objects	ᎠᏌᏙᎥᏗᎭ	[ahsadoːʔvdiha] /rrd/
+Knowing it	ᎠᎦᏔᎭ	[aktaha] /rrd/
+Knoxville, TN	ᎪᎲᏓᏓᎳ	[kohvdaːdaːhla] /rrd/
+Laboring	ᏚᎸᏫᏍᏓᏁᎭ	[duːhlvwiːsdaʔneːha] /rrd/
+Lace	ᎠᎦᏖᎾ	[agateːna] /rrd/
+Lacking	ᎤᎷᎳ	[uːluːʔla] /rrd/
+Lacking	ᎤᏂᎬᎦ	[uːhniːgvʔga] /rrd/
+Lactuca sativa	ᎠᎪᏍᏓᎩᏍᏗ	[agoːsdahgʔisdi] /rrd/
+Lady's slipper orchids	ᎤᎫᏇ ᎤᎳᏑᎳ	[ukgwe ulahsula] /rrd/
+Lagenaria siceraria	ᎦᎸᎾ	[galvʔna] /rrd/
+Lake	ᎠᎹ ᏗᏍᏚᎲᎢ	[am dihsduhvːʔi] /rrd/
+Lamp	ᎠᏨᏍᏙᏗ	[atsvhstdi] /rrd/
+Lard	ᎪᎢ	[goʔi] /rrd/
+Large	ᎡᏆ	[eːgwa] /rrd/
+Largemouth bass	ᎤᏃᎧ	[uhnohga] /rrd/
+Last	ᎣᏂ	[ohni] /rrd/
+Late	ᎤᎪᏂᏲᎦ	[uːgoːniːyoʔga] /rrd/
+Late	ᎤᎪᏂᏲᎦ	[uːgóhniːyoːga] /rrd/
+Later	ᎪᎯᏳ	[gohiːyu] /rrd/
+Laurel	ᏚᏑᎦ ᏧᎾᏍᏗ	[duːsuːg tsuːnsdi] /rrd/
+Lawyer	ᏗᏘᏲᎯᎯ	[ditiyoːhihi] /rrd/
+Laying it	ᎦᎮᎲᏍᎦ	[gaːhehvːsga] (a liquid) down /rrd/
+Laying it down	ᎠᏗᎠ	[aʔdiʔa] (something long) /rrd/
+Laying it down	ᎠᎲᏍᎦ	[ahvhsga] (something solid) /rrd/
+Lazy	ᎠᏓᏄᎸᎭ	[adaːnúːlvha] /rrd/
+Lead	ᎦᏂ	[gaʔni] /rrd/
+Leading him	ᎨᎵᏏᏂ	[geːlisiːni] /rrd/
+Leaf	ᎤᏆᎶᎦ	[uːgwaloːga] /rrd/
+Leaf is falling	ᎦᏍᏗᏬᎣᏍᎦ	[gasdiwoʔoːsga] /rrd/
+Leaf is turning	ᎦᎳᎪᎰᏍᎦ	[galaːgoːhoːsga] /rrd/
+Learning	ᎠᏕᎶᏆᎠ	[adeːhlóhgwaʔa] /rrd/
+Learning	ᎠᏙᎴᏈᎠ	[adoːhlehgwiʔa] /rrd/
+Least flycatcher	ᏥᎪᏱᏙᏍᏗ	[dsgoːyiʔdosdi] (bird) /rrd/
+Leaves are turning	ᎦᎶᎪᎰᏍᎦ	[galogohoːsga] /rrd/
+Leaving it	ᎠᎧᎯᏱᎠ	[akahiːyiʔa] (something alive) /rrd/
+Leaving it	ᎦᏂᏱᎠ	[ganíːyiʔa] (something flexible) /rrd/
+Leaving it	ᎠᏗᏏᏯ	[adiʔsiːya] (something long) /rrd/
+Leaving it	ᎠᎯᏱᎠ	[aːhiːyiʔa] (something solid) or it (a liquid) /rrd/
+Leech	ᏣᏄᏏ	[tsaːnuːsi] /rrd/
+Left	ᎠᎦᏍᎬᏂᏓ	[ahksgvniːda] (his) /rrd/
+Left-handedness	ᎠᎦᏍᎬᏂᏓ	[ahksgvniːda] /rrd/
+Leg	ᎦᏅᏍᎨᏂ	[ganvːsgeːni] (his) /rrd/
+Lending	ᎠᏓᏙᎵᏍᏗᎭ	[adatoːlsdiha] /rrd/
+Letter	ᎪᏪᎵ	[goːhweːli] /rrd/
+Lettuce	ᎠᎪᏍᏓᎩᏍᏗ	[agoːsdahgʔisdi] /rrd/
+Lice	ᏘᎾ	[tiːna] /rrd/
+Lichen	ᎤᏣᎳ	[uːtsala] (s) /rrd/
+Lifting it	ᎠᏌᎳᏓ	[ahsalaːdʔa] /rrd/
+Lifting it	ᎠᏌᎳᏗᎠ	[ahsáʔldiʔa] /rrd/
+Light	ᎠᏨᏍᏙᏗ	[atsvhstdi] /rrd/
+Lightening	ᎠᎾᎦᎵᎭ	[anáʔgaliha] /rrd/
+Lightening	ᎠᎾᎦᎵᏍᎩ	[anaʔgalihsgi] /rrd/
+Lighting it	ᎠᏨᏍᏔᏍᎦ	[atsvːhstáhsga] /rrd/
+Lightweight	ᎠᏌᎧᎠ	[aːhsaːkaʔa] /rrd/
+Lightweight	ᏌᎧ	[saka] /rrd/
+Ligusticum canadense	ᏩᏁᎩᏓ	[waneːgida] /rrd/
+Like	ᎢᏳᏍᏗ	[iːyuhsdi] /rrd/
+Like sourwood	ᏅᏙᏇᏯ ᎢᏳᏍᏗ	[nvːdoːgweːhya iːyusdi] (plant) /rrd/
+Lilium superbum	ᎧᎾᎫᏣᏘ	[kaːhnguːtsati] /rrd/
+Lima bean	ᏚᏯᏁᏆ	[tuːyaneːgwa] /rrd/
+Limb	ᎤᏩᏂᎦᎳᏅ	[uwaːnigaːhlanv] /rrd/
+Lindera benzoin	ᏃᏓᏥ	[noːhdatsi] /rrd/
+Linen	ᎠᎬᎯᏓ	[akvhida] /rrd/
+Liparis loeselii	ᎤᏲᏓᎵᏳᏍᏗ	[uyodaːhliyusdi] /rrd/
+Liquid	ᎫᎭ	[guha] (in a) /rrd/
+Liquid	ᎠᏯᎠ	[ayaːʔa] (something alive) (in a) /rrd/
+Liquid	ᎫᎭ	[guha] (something solid) (in a) /rrd/
+Liriodendron tulipifera	ᏥᏳ	[tsiːyu] /rrd/
+Listening	ᎠᏛᏓᏍᏗᎭ	[atvːdaːsdiha] /rrd/
+Literally: {|Wild bean|}	ᏚᏯ ᎢᎾᎨᎢ	[tuːya inageʔi] /rrd/
+Little	ᎤᏍᏗ	[uhsdi] /rrd/
+Little	ᎦᏲᎵ	[gaːyoːhli] /rrd/
+Little people	ᏴᏫ ᏧᎾᏍᏗᎢ	[yvːwi tsuːnsdiʔi] (mythological) /rrd/
+Little while	ᏎᎦ	[seːga] /rrd/
+Liver	ᎤᏪᎳ	[uweːla] /rrd/
+Living	ᎡᎭ	[eha] /rrd/
+Living at	ᎡᎯ	[ehi] /rrd/
+Loafing	ᎡᏙᎵᏙᎭ	[eːdoʔlíːdoːha] /rrd/
+Loft	ᎦᎸᎳᏗ	[galv́ːladi] /rrd/
+Log	ᎠᏒᏓᏆᎶᏍᏗ	[ahsvdagwaloːsdi] /rrd/
+Lonesome	ᎠᏑᎳᎪᎦ	[ahsuːlagoːga] /rrd/
+Long	ᎦᏅᎯᏓ	[ganvhiːda] /rrd/
+Long hair clan	ᎠᏂᎩᎶᎯ	[aniːgilohi] (twister) /rrd/
+Long tailed sharp-shinned hawk	ᏗᎦᎦᏛᎾᎯᏛ	[digaːgdvnahiːdv] /rrd/
+Long-eared owl	ᏥᎩᎵ	[tsgiːli] /rrd/
+Long-tailed weasal	ᏓᎶᏂᎨ ᏥᏍᏕᏥ	[daloːnige tsisdeːtsi] /rrd/
+Lonicera spp	ᎬᏅᎩᎵᎩ	[kvːnvgiːhlgi] /rrd/
+Lontra canadensis	ᏥᏲ	[tsiːyo] /rrd/
+Look!	Ꮒ	[ni] /rrd/
+Looking	ᏓᎧᏂᎭ	[daːkaniha] /rrd/
+Looking at it	ᎠᎦᏙᏍᏗᎭ	[aːktoːsdiha] /rrd/
+Looking at it	ᏓᎧᎿ	[daːkaːhna] /rrd/
+Looking for	ᎤᏯᎵ	[uːyhali] /rrd/
+Looks like	ᏂᎬᏫᏍᏗ	[nigvːwhsdi] /rrd/
+Losing it	ᎤᏲᎱᏎᎭ	[uːyoːhúseha] /rrd/
+Lost	ᎠᏲᎣᏍᎦ	[ayoʔohsga] (die) /rrd/
+Lots	ᎤᏂᏣᏛ	[uːniːtsadv] /rrd/
+Lovage	ᏩᏁᎩᏓ	[waneːgida] /rrd/
+Loving	ᎤᏓᎨᏳᎭ	[uːdagéːyuha] /rrd/
+Loving it	ᎦᎸᏉᏗᎭ	[galvːgwdiːha] /rrd/
+Lower	ᎡᎳᏗ	[eːladi] /rrd/
+Lower back	ᎠᏖᏍᎨᏂ	[atehsgeːni] /rrd/
+Loyal	ᎤᏬᎯᏳᎯ	[uwoːhiyuhi] /rrd/
+Lumbricus terrestris	ᎤᏂᏥᏯ	[unitsiyaː] /rrd/
+Lunatic	ᎤᎸᏅᏘᏍᎩ	[uːlvntihsgi] /rrd/
+Lycopus virginicus	ᎠᏂᏬᏂᏍᎩ	[aniːwoʔnihsgi] /rrd/
+Lying	ᎠᏥᎪᎥᏍᎦ	[atshsgoʔvhsga] /rrd/
+Lying down	ᎦᎾᎠ	[ganaʔa] /rrd/
+Lynx rufus	ᎬᎮ	[kvːhe] /rrd/
+Magnolia acuminata	ᏧᏆᎶᎦ ᏤᏆ	[tsuːgwaloːga tseːgwa] /rrd/
+Magpie	ᏩᏘᏰᎵ	[waːtiyeːli] /rrd/
+Maianthemum racemosum	ᎤᏗᎵᏍᏗ	[udihlisdi] /rrd/
+Mailman	ᎪᏪᎵᏗᎦᏂᏙᎯ	[goːhweːlidiːgaːhnidoːhi] /rrd/
+Making a hole	ᎠᏔᎳᎦᏍᎦ	[atalaːksga] /rrd/
+Making a noise	ᎤᏃᏴᎦ	[uːnohyvʔga] /rrd/
+Making fast	ᎠᏍᏓᏱᏗᎠ	[ahsdáːʔyiːdiʔa] /rrd/
+Making fun of	ᏛᏐᏨᏤᎭ	[dvːsotsvːtsheːha] /rrd/
+Making fun of him	ᎠᏙᏥᏗᎭ	[adóːtsdiha] /rrd/
+Making him fall	ᎦᎶᎣᏅᏗᎭ	[galoʔoːhndiha] /rrd/
+Making himself attractive	ᎠᏓᏙᏚᎢᏍᏗᎭ	[adadoːduːʔisdiha] /rrd/
+Making it	ᏂᎬᏁᎭ	[nigvːneːha] /rrd/
+Making it deep	ᎠᏍᏛᎯᏍᏗᎭ	[ahsdv́ːhiːsdiha] /rrd/
+Making it shallow	ᎦᏅᏬᏗᎭ	[ganvwóːdiːha] /rrd/
+Making pottery	ᏕᎦᏔᏆᎴᏍᎦ	[deːktágwaleːsga] /rrd/
+Making smoke. It is smoking	ᏓᎦᏒᏍᏗᎭ	[daːksvːsdiha] /rrd/
+Making something for him	ᏂᎬᏁᎭ	[nigv́hneːha] /rrd/
+Man	ᎠᏍᎦᏯ	[ahsgaːya] /rrd/
+Man, elderly	ᎤᏛᏐᏅ	[uːtvːsonv] /rrd/
+Manager	ᎠᏍᎦᏰᎬᏍᏗ	[aːsgayeːgvːsdi] /rrd/
+Many	ᎤᏂᏣᏛ	[uːniːtsadv] /rrd/
+Many	ᏥᏍᏈᏍᏓ	[tsgwisda] /rrd/
+Maple	ᏧᏩᎩ	[tsuːwaːgi] /rrd/
+Marble	ᎦᏓᏲᏍᏗ	[gadaːyosdi] /rrd/
+March	ᎠᏅᏱ	[anvhyi] (month) /rrd/
+Margarine	ᎪᏒᏅ	[gosvːnv] /rrd/
+Marmota monax	ᎣᎦᏅ	[oːganv] /rrd/
+Marsh hawk	ᎠᎪᏕᎯ	[agodʔehi] /rrd/
+Maryville, TN	ᎤᎾᏆᎸ	[unagwahlv] /rrd/
+Mashing it	ᎦᏙᏫᏗᎭ	[gadowiːdiːha] /rrd/
+Mask	ᎠᎬᏚᎶ	[agvːduʔlo] /rrd/
+Mass of people	ᎤᏂᏣᏘ	[uːniːtsati] /rrd/
+Matches	ᎠᏨᏍᏙᏗ	[atsvhstdi] /rrd/
+Mattress	ᎠᏤᏍᏙ	[atsesdo] /rrd/
+May	ᎠᏂᏍᎬᏘ	[ahnsgvːti] /rrd/
+Mayapple	ᎤᏂᏍᏇᏚᎦ	[unisgweːduːga] /rrd/
+Maybe	ᏙᏗ	[doːdi] /rrd/
+Maypop	ᎤᏩᎦ	[uːwaga] /rrd/
+Me too	ᎠᏴᏍᏉ	[ayhsgwo] /rrd/
+Meadowlark, eastern	ᏃᏈᏏ	[nokwisi] /rrd/
+Mean	ᎤᏁᎫᎭ	[uːneːguːha] /rrd/
+Meander	ᎤᏪᏴᎢ	[uweːyvʔi] /rrd/
+Meaning	ᎤᏰᎸᎭ	[uːyéːlvːha] /rrd/
+Measles	ᎦᏁᏬᏗᏍᎩ	[ganeːwodisgi] /rrd/
+Measuring it	ᎠᏥᎶᎠ	[atsiːhloʔa] /rrd/
+Meat	ᎭᏫᏯ	[hawiːya] /rrd/
+Medicine	ᏅᏬᏗ	[nvwoːhdi] /rrd/
+Meeting	ᏗᎦᎳᏫᎢᏍᏗ	[digalaːwiʔisdi] /rrd/
+Megaceryle alcyon	ᏣᎶᎯ	[tsaːlohi] /rrd/
+Megascops asio	ᏩᎱᎱ	[wahuhu] /rrd/
+Melanerpes erythrocephalus	ᏓᎳᎳ	[dalaːla] /rrd/
+Meleagris gallopavo	ᎬᎾ	[kvːna] /rrd/
+Meleagris gallopavo	ᎬᎾ ᎢᎾᎨᎡᎯ	[kvːna iːnageːehi] /rrd/
+Mellow bug	ᏙᏳᏂᏏ	[doːyuniːsi] /rrd/
+Melospiza melodia	ᏥᎦᏣ	[tsiːgtsa] /rrd/
+Mephitis mephitis	ᏗᎵ	[diːli] /rrd/
+Merlin	ᏌᎾᏩ	[saːnawa] (bird) /rrd/
+Micropterus salmoides	ᎤᏃᎧ	[uhnohga] /rrd/
+Middle	ᎠᏰᎵ	[ayehli] (in the) /rrd/
+Mile	ᎢᏳᏥᎶᏓ	[iːyuːtsiːloːda] /rrd/
+Mile	ᏑᏥᎶᏓ	[sutsiloːda] /rrd/
+Milk	ᎤᏅᏗ	[unvːdi] /rrd/
+Milking it	ᎦᏁᎩᎡᎭ	[ganeːgíʔeːha] /rrd/
+Mingling	ᎨᎳᏗᏙᎭ	[keladíːdoha] /rrd/
+Mink	ᏒᎩ	[svːki] /rrd/
+Minnow	ᎠᏨᏗᏯ	[atsvːdiːya] /rrd/
+Minute	ᎢᏯᏔᏬᏍᏓᏅᎯ	[iyhtawoːsdanvhi] (s) /rrd/
+Mirror	ᎠᏓᎨᏗ	[adaːkeːhdi] /rrd/
+Mirror	ᎠᏓᎨᏙᏗ	[adakedodi] /rrd/
+Misbehaving	ᎠᏍᎦᏅᎦ	[ahsganvːga] /rrd/
+Mischievious	ᎤᏁᎫᏣᏔ	[uːneːgúhtsata] /rrd/
+Mistletoe	ᎤᏓᎵ	[udaːhli] /rrd/
+Mixing it	ᎠᏑᎨᎭ	[ahsúːgeha] /rrd/
+Mixing it together	ᎠᏑᏰᎭ	[ahsúʔyeha] /rrd/
+Mixing liquids	ᎫᏍᏗᎭ	[gúsdiha] /rrd/
+Moccasin	ᎤᏧᏬᏗ	[utsuːwodi] /rrd/
+Moccasin flower	ᎤᎫᏇ ᎤᎳᏑᎳ	[ukgwe ulahsula] /rrd/
+Mocking him	ᎠᏰᎵᎠ	[àhyeːliʔa] /rrd/
+Mockingbird	ᏩᏚᏰᎳ	[waduyeːla] /rrd/
+Molasses	ᏩᏚᎵᏏ	[waːduːliːsi] /rrd/
+Mole	ᎤᏪᏘ	[uweːti] (on the flesh) /rrd/
+Moment	ᏏᎸᎢ	[silvʔi] /rrd/
+Monarda didyma	ᏩᎴᎷ ᎤᏂᏣᎩᏍᏗ	[waleːlu unitsagiːsdi] /rrd/
+Monday	ᏙᏓᏉᏅᎯ	[doːdagwoːnvhi] /rrd/
+Money	ᎠᏕᎳ	[adeːla] /rrd/
+Monkey	ᏓᎴᏍᎩᏍᎩ	[daleːsgiːsgi] /rrd/
+Month	ᏏᏅᏓ	[siːnvːda] /rrd/
+Moon	ᏒᏃ ᎡᏙ ᏅᏓ	[svːno eːdo nvːda] /rrd/
+Morchella esculenta	ᎤᏂᏒᏙᏂ	[uːnihsvːdoni] /rrd/
+More	ᏏᏉ	[sigwo] /rrd/
+Morel	ᎤᏂᏒᏙᏂ	[uːnihsvːdoni] /rrd/
+Morus rubra	ᎫᏩ	[kuːwa] /rrd/
+Moth	ᎠᏛᏙᏩ	[advːtowa] /rrd/
+Mother	ᎤᏥ	[uːtsi] (his) /rrd/
+Mother's brother	ᎤᏚᏥ	[uːduːtsi] (his) /rrd/
+Mother's brother's wife	ᎤᎳᎾ	[uːlana] (his) /rrd/
+Mother's father	ᎤᏚᏚ	[uːduːdu] (his) /rrd/
+Mother's sister	ᎤᏥ	[uːtsi] (his) /rrd/
+Mountain	ᎣᏓᎵ	[oːdaːli] /rrd/
+Mountain	ᎤᏅᏓᏒᎢ	[uːnvːdʔasvʔi] /rrd/
+Mountain cane	ᎦᏂ	[gaʔni] /rrd/
+Mountain holly	ᎤᏍᏓᏍᏗ	[uhsdahsdi] /rrd/
+Mountain lion	ᏨᏓᏥ	[tsvːdatsi] /rrd/
+Mountain oak	ᏓᏑᏓᏆᎴᏆ	[dahsuːdagwaleːgwa] /rrd/
+Mountain willow	ᏗᎳᎦᎵᏍᎩ ᎤᏍᏗ	[dilaːgalisgi uːsdi] /rrd/
+Mounting it	ᎠᎩᎸᎥᏍᎦ	[ahkilvʔvhsga] /rrd/
+Mourning dove	ᎫᎴᏗᏍᎪᏂᎯ	[guːleːhdisgoːhnihi] /rrd/
+Mouse	ᏥᏍᏕᏥ	[tsiːsdeːtsi] /rrd/
+Mouth	ᎠᎰᎵ	[ahoːli] (his) /rrd/
+Movie projector	ᏗᎦᎸᏌᏓᏗᏍᏗᏍᎩ	[digalvsadadisdihsgi] /rrd/
+Moving	ᎠᎵᏰᎵ	[ahliyéːli] (himself) /rrd/
+Moving his household from …	ᎠᏓᏅᎠ	[adáʔnvːʔa] /rrd/
+Moving house	ᎠᏓᏅᎠ	[adáʔnvːʔa] /rrd/
+Moving it	ᎠᎧᎲᎠ	[aːkahvʔa] (something alive) /rrd/
+Moving it	ᎠᎬᎠ	[ahkv́ʔa] (something alive) /rrd/
+Moving it	ᎦᎾᎬᎠ	[ganáʔgvʔa] (something flexible) off /rrd/
+Moving it	ᎠᎧᎲᎠ	[akahvʔa] (something solid) /rrd/
+Moving it	ᎠᎬᎠ	[ahkv́ʔa] (something solid) /rrd/
+Mowing	ᎠᏣᎦᏍᎦ	[ahtsáksga] /rrd/
+Moxostoma carinatum	ᎣᎵᎦ	[oːliga] /rrd/
+Much	ᎠᎦᏓ	[agaːda] /rrd/
+Much	ᎤᏣᏘ	[utsaːti] /rrd/
+Mud flutter fish	ᏧᏂᎩᏥᏴᏍᏗ	[tsuniːgiːtsiyvːsdi] /rrd/
+Mud turtle	ᏌᎵᎫᎩ	[salígúːgi] (eastern) /rrd/
+Mudpuppy	ᏧᏩ	[tshuːwa] /rrd/
+Mulberry	ᎫᏩ	[kuːwa] /rrd/
+Mule	ᏔᏁᏆ	[taneːgwa] (animal) /rrd/
+Mulligan blanket	ᎤᏍᏆᏅᏂ	[uhsgwanvːhni] /rrd/
+Mumps	ᎠᏓᏴᏦᏗᏍᎩ	[adayvːtsodisgi] /rrd/
+Murphy, N.C	ᏣᏄᏏ	[tsanuːsi] /rrd/
+Musca domestica	ᏛᎧ	[dvka] /rrd/
+Muscadine grapes	ᏆᎷᏏ	[kwalúsi] /rrd/
+Muscovy duck	ᏙᎦᏏ	[doːgsi] /rrd/
+Mushroom	ᏚᏬᎵ	[duwoːhli] /rrd/
+Musical instrument	ᎧᏃᎩᏍᏙᏗ	[kanoːgiːsdoːhdi] (of any kind) /rrd/
+Muskrat	ᏎᎵᎦᏍᏉ	[seːliːksgwo] /rrd/
+Mussel	ᎤᏯᏍᎦ	[uhyaːsga] /rrd/
+Mustard	ᎠᏥᎳ	[aʔtsiːla] /rrd/
+Mustard greens	ᎠᏲᏍᎩ	[aʔyohsgi] /rrd/
+Mustela frenata	ᏓᎶᏂᎨ ᏥᏍᏕᏥ	[daloːnige tsisdeːtsi] /rrd/
+Mythical hawk like bird	ᏌᏅᏬ	[sanvwo] /rrd/
+Nail	ᏴᎩ	[yvːgi] /rrd/
+Naked	ᎤᏰᎳᎭ	[uyeːlaha] /rrd/
+Naming him	ᏕᎪᎠ	[deːgoʔa] /rrd/
+Narrowleaf plantain	ᎪᏍᏓᏂᏍᏗ	[goːsdáːnisdi] /rrd/
+Nasturtium officinale	ᎠᎼ ᎤᎵᏏ	[amo uliːsi] /rrd/
+Natchez	ᎠᏂᏃᏥ	[aniːnoːtsi] /rrd/
+Native American	ᎠᏴᏫᏯ	[ayvːwiya] /rrd/
+Near	ᎾᎥᏂ	[naʔv́ʔni] /rrd/
+Neck, front of	ᎠᏴᏤᏂ	[ayvhtseːni] (his) /rrd/
+Neck, the back of	ᎦᎩᎵᎨᏂ	[gagiːhlgeːni] (his) /rrd/
+Necklace	ᎠᏯᏨᏗ	[ahyatsvhdi] /rrd/
+Necktie	ᎠᏯᏨᏗ	[ahyatsvhdi] /rrd/
+Necturus spp	ᏧᏩ	[tshuːwa] /rrd/
+Need	ᎤᏂᎬᎦ	[uːniːgvʔga] (in) /rrd/
+Needing	ᎤᏂᎬᎦ	[uːhniːgvʔga] /rrd/
+Neovison vison	ᏒᎩ	[svːki] /rrd/
+Nest	ᎤᏁᏍᎩᎸᎢ	[uhneːsgilvʔi] /rrd/
+Never	ᎭᏃ	[haːhno] /rrd/
+New	ᎠᏤᎯ	[atseːhi] /rrd/
+New moon	ᎠᏤ ᏅᏙ	[atseː nvːdo] /rrd/
+New year	ᎠᏤ ᎤᎾᏕᏘᏱᏍᎬᎢ	[atseː unadeːtiyisgvːʔi] /rrd/
+New York	ᏄᏯᎩ	[nuyaːgi] /rrd/
+Next to	ᎤᎵᏗᏨ	[uhldiːtsv] /rrd/
+Nicotiana tabacum	ᏦᎳ	[tsoːla] /rrd/
+Nicotina rustica	ᏦᎳ ᎠᎦᏴᎵ	[tsoːla agayvːli] /rrd/
+Night	ᎤᏒᎯ	[usvːhi] (at) /rrd/
+Night hawk	ᏓᎳᏍᏙᎬ	[daːhlsdoːgv] /rrd/
+Night traveler	ᏥᎩᎵ	[tsgiːli] /rrd/
+Nightcrawlers	ᎤᏂᏥᏯ	[unitsiyaː] /rrd/
+Nine	ᏐᎣᏁᎳ	[soʔoneːla] /rrd/
+Nineteen	ᏐᎣᏁᎳᏚᎯ	[soʔoneːladuhi] /rrd/
+Ninety	ᏐᎣᏁᎳᏍᎪᎯ	[soʔoneːlsgoːhi] /rrd/
+No	ᎭᏗ	[hadi] /rrd/
+No	ᏣᏃ	[tsaːhno] /rrd/
+Nodding his head yes	ᎠᎵᏍᎫᏩᏍᎦ	[ahlsgúwhsga] /rrd/
+None	ᎧᏂᎩᏓ	[kaniːgida] /rrd/
+Noon	ᎢᎦ	[iːga] /rrd/
+North	ᏧᏴᏨᎢ	[tsuːhyvːtsvʔi] /rrd/
+North American bamboo	ᎢᏯ	[iːhya] /rrd/
+North American newt	ᏚᏪᎧ	[duweːka] /rrd/
+North Carolina	ᎦᏯᎴᎾ	[gaːyaleːna] /rrd/
+Northern bobwhite	ᎤᎫᏇᎯ	[ukgweːhi] /rrd/
+Nose	ᎠᏴᏐᎵ	[ayvhsoːli] (his) /rrd/
+Not	ᎨᏍᏗ	[gesdi] /rrd/
+Not any	ᎧᏂᎩᏓ	[kaniːgida] /rrd/
+Nothing	ᎧᏂᎩᏓ	[kaniːgida] /rrd/
+Nothing	ᎨᏍᏗ ᎪᎱᏍᏗ	[gesd gohusdi] /rrd/
+Noticing it	ᎠᏕᎶᎰᏍᎦ	[adeːlohoːhsga] /rrd/
+Notophthalmus spp	ᏚᏪᎧ	[duweːka] /rrd/
+Notophthalmus viridescens	ᏓᎴᏴᏍᎩ	[daleːyvːsgi] /rrd/
+November	ᏅᏓᏕᏆ	[nvdadeːgwa] /rrd/
+Now	ᎾᏉ	[naːgwo] /rrd/
+Now	ᏃᎢ	[noʔi] /rrd/
+Now	ᏃᏗ	[noːdi] /rrd/
+Nude	ᎤᏰᎳᎭ	[uyeːlaha] /rrd/
+Numbers	ᏗᏎᏍᏗ	[diseːsdi] /rrd/
+Numida meleagris	ᎫᏇ ᏗᎦᎾᏌᎢ	[guːgwe digaːnasaʔi] /rrd/
+Oak	ᎠᏓᏯᎯ	[adayahi] /rrd/
+Oak	ᏔᎳ	[tala] /rrd/
+Oarlock	ᎤᎶᏥᎬ	[uːloːdskvː] /rrd/
+Oatmeal	ᏐᏈᎢ ᎤᏂᎩᏍᏗ	[soːgwiʔi uːnigisdi] /rrd/
+Obedient	ᎤᏬᎯᏳᎯ	[uwoːhiyuhi] /rrd/
+Ocean	ᎠᎹ ᎡᏉᎯ	[am eːgwoːhi] /rrd/
+October	ᏚᏂᏅᏗ	[duniːnvdi] /rrd/
+Odocoileus virginianus	ᎠᏫ	[ahwi] /rrd/
+Oenothera biennis	ᎠᎾᏓᏥ	[andaːtsi] /rrd/
+Office	ᏧᏃᏪᎶᏗᏳ	[tsuːnoːhweːloːdiːyu] /rrd/
+Offspring	ᎤᏪᏥ	[uweːtsi] (his) /rrd/
+Okay	ᎭᏩ	[hawa] /rrd/
+Oklahoma	ᏭᏕᎵᎬ	[wuːdeːligv] /rrd/
+Old	ᎤᏪᏗ	[uweːdi] (inanimate only) /rrd/
+Old	ᎠᎬᏴᎵᎨᎢ	[ahgvyvːligeʔi] (something alive) /rrd/
+Older brother	ᎤᏂᎵ	[uːnili] (male ego) (his) /rrd/
+Oncorhynchus mykiss	ᏧᏂᎶᎸᏗ	[tsuːniːloːhldi] /rrd/
+Ondatra zibethicus	ᏎᎵᎦᏍᏉ	[seːliːksgwo] /rrd/
+One	ᏐᏊ	[soːgwu] /rrd/
+One foot	ᎢᏯᎳᏏᏅᎯ	[iːyaʔlahsihnvhi] (12 inches) /rrd/
+One hundred	ᏍᎪᎯᏥᏆ	[sgoːhiːtsgwa] /rrd/
+One thing	ᏑᏓᎴᎦ	[suːdaleːga] /rrd/
+One thousand	ᎠᎦᏴᎵ	[agayvːli] /rrd/
+One who sews	ᎦᏰᏫᏒᎥᏍᎩ	[gaːyeːwhsvʔvsgi] /rrd/
+Onion	ᏒᎩ	[svːgi] /rrd/
+Only thing	ᏍᎩᏊᏩᏌ	[sgigwuwasa] /rrd/
+Onopordum acanthium	ᏥᏥ	[tsiːtsi] /rrd/
+Open mouth	ᎤᏔᎶᎩ	[utaloːgi] (his) /rrd/
+Opening eyes	ᏓᎧᏂᎭ	[daːkaniha] /rrd/
+Opening it	ᎠᏍᏚᎩᎠ	[ahsdúgiʔa] (ex. a door) /rrd/
+Opossum	ᎤᏤᏥᏍᏗ	[uːtseːdsdi] /rrd/
+Or	ᎠᎴ	[aleː] /rrd/
+Or it is drying out	ᎠᎧᏲᏍᎦ	[ahkahyohsga] /rrd/
+Orange	ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ	[daloːnige usgoːlvʔi] (color) /rrd/
+Order Hymenoptera	ᎧᎾᏥᏍᏕᏥ	[kaːntsisdeːtsi] /rrd/
+Order Orthoptera	ᏙᎯᏥᏆ	[toːhitsgwa] /rrd/
+Order Orthoptera	ᏙᎳᏥ	[toːlatsi] /rrd/
+Order Siphonaptera	ᏧᎧ	[tsuːka] /rrd/
+Orontium aquaticum	ᎦᏁᏏ	[ganeːsi] /rrd/
+Osage	ᎠᏂᏆᏌᏏ	[aniːkwaːsaːsi] /rrd/
+Osprey	ᎧᏅᏧᏩ	[kanvːtsuːhwa] /rrd/
+Other one	ᏄᏓᎴᎯ	[nuːdalehi] /rrd/
+Otter	ᏥᏲ	[tsiːyo] /rrd/
+Out of sight	ᏭᏕᎵ	[wuːdeʔli] /rrd/
+Outside	ᏙᏱ	[doːyi] /rrd/
+Outside of	ᏙᏱᏨ	[doyiːtsv] /rrd/
+Outwitting him	ᎦᎶᏅᎡᎭ	[galoːnvʔeːha] /rrd/
+Oven bird	ᏧᏦᎵᏛ	[tsutsoːldv] /rrd/
+Over there	ᏂᎨᎢ	[nigeːi] /rrd/
+Over yonder	ᏂᎨᎢ	[nigeːi] /rrd/
+Overalls	ᎤᏤᏌᏗ	[utseːsaːdi] /rrd/
+Overeating	ᎤᏯᎶᏘᎭ	[uːyaloːtiha] /rrd/
+Overnight	ᏑᏒᎯᏓ	[susvhiːda] /rrd/
+Ovis aries	ᎤᏃᏕᎾ	[unodeːna] /rrd/
+Owes someone	ᎤᏚᎦ	[uːtuːga] /rrd/
+Ownership	ᎤᏤᎵ	[uːtseːli] /rrd/
+Oxydendrum arboreum	ᏅᏙᏇᏯ	[nvːdokweːhya] /rrd/
+Oyster	ᏛᎬᎾ	[dvgvːna] /rrd/
+Pacing back and forth	ᎠᏨᏏᏰᎠ	[atsvːsiːyeʔa] /rrd/
+Paddling him	ᎠᏆᎸᏂᎭ	[agwalvːʔníha] /rrd/
+Padlock	ᏓᎦᏏ	[daːgsi] /rrd/
+Pain	ᎡᎯᏍᏗ	[ehihsdi] /rrd/
+Paint clan	ᎠᏂᏬᏗ	[aniːwoːdi] /rrd/
+Painting	ᏓᏑᏫᏍᎦ	[daːhsúhwiːsga] /rrd/
+Pair of pants	ᎠᏑᎶ	[aːsuːlo] /rrd/
+Pale	ᎤᏍᎪᎸ	[usgoːlv] /rrd/
+Panax quinquefolius	ᎣᏓᎵᎦᎵ	[oːdaligaʔli] /rrd/
+Pandion haliaetus	ᎧᏅᏧᏩ	[kanvːtsuːhwa] /rrd/
+Panic grass	ᎧᏁᏍᎦ	[kaneːsga] /rrd/
+Panicum spp	ᎧᏁᏍᎦ	[kaneːsga] /rrd/
+Panther	ᏨᏓᏥ	[tsvːdatsi] /rrd/
+Pantherophis obsoletus	ᎦᎴᎩ	[gaʔleːgi] /rrd/
+Paper	ᎪᏪᎵ	[goːhweːli] /rrd/
+Parent-in-law	ᎤᎾᏥ	[uːnaːtsi] (his) /rrd/
+Parrot	ᏥᏍᏆᎦᏬᏂᏍᎩ	[tsiːsgwaːgawoʔnisgi] /rrd/
+Passenger pigeon	ᏬᏱ	[woːyi] /rrd/
+Passer domesticus	ᏥᏍᏆᏯ	[tsiːsgwaːya] /rrd/
+Passerina cyanea	ᎠᎵᏣᏃᏍᎦ	[aliːtsanoːsga] /rrd/
+Passiflora incarnata	ᎤᏩᎦ	[uːwaga] /rrd/
+Passing a bill	ᎦᎶᎯᏍᏗᎭ	[galóhisdiha] (legislation) /rrd/
+Passing a grade	ᎠᎦᏛᎴᎭ	[aktv́ʔleːha] /rrd/
+Passing by	ᎦᎶᎯᏎᎭ	[galóhiseːha] /rrd/
+Passing gas	ᎠᏌᎩᎠ	[aːsahgiːʔa] /rrd/
+Passion flower	ᎤᏩᎦ	[uːwaga] /rrd/
+Patchwork	ᏗᎬᎴᏲᏍᏗ	[digvleːyosdi] (for quilt) /rrd/
+Path	ᎡᏓᏍᏗ	[eːdʔasdi] /rrd/
+Patriarch	ᎤᏛᏐᏅ	[uːtvːsonv] /rrd/
+Paying	ᎠᏈᏱᎭ	[agwihyiha] /rrd/
+Paying him	ᎠᏈᏴᎡᎭ	[agwihyvːʔeha] /rrd/
+Peach	ᏆᎾ	[kwaːna] /rrd/
+Peacock	ᏧᏗᏆᏍᏗ	[tsudigwaːsdi] /rrd/
+Peanuts	ᏚᏯ ᎠᏂᎳᏗᏍᎩ	[tuya aniːladiːsgi] /rrd/
+Pear	ᏎᏗᏳᏍᏗ	[seːdiyusdi] /rrd/
+Peas	ᎤᏂᏨᎾᏓᎵ	[untsvːndali] /rrd/
+Pedicularis canadensis	ᎤᎫᎫᏍᏙ	[uguːkuːsdo] /rrd/
+Pee wee	ᏥᎪᏱᏙᏍᏗ	[dsgoːyiʔdosdi] (bird) /rrd/
+Peeking	ᎠᎧᏘᎭ	[akátiha] /rrd/
+Peeling	ᎠᏯᎨᏨᎯ	[ahyahgeːtsvhi] /rrd/
+Peeling	ᎤᏁᎦᎸᏅ	[uːneʔgalvʔnv] /rrd/
+Peeling	ᏓᏯᎨᎦᏍᎦ	[daːyaːkeːksga] /rrd/
+Pen	ᏗᎪᏪᎶᏗ	[digoːhweːloʔdi] /rrd/
+Pencil	ᏗᎪᏪᎶᏗ	[digoːhweːloʔdi] /rrd/
+Penetrating it	ᎠᏔᎳᎦᏍᎦ	[atalaːksga] /rrd/
+Penis	ᎤᏩᏙᎵ	[uːwatoːli] (his) /rrd/
+People with no clan affiliation	ᎠᏂᎩᏍᎩ	[aniːksgi] /rrd/
+Pepper	ᏗᎪᏓᎳᏗ	[dikoːdaldi] (black) /rrd/
+Pepper on a vine	ᎤᏂᏥᎸᎢ	[unitsiːlvːʔi] /rrd/
+Perching on it	ᎠᎩᎸᎥᏍᎦ	[ahkilvʔvhsga] /rrd/
+Performing the scratching ritual	ᏓᏓᏄᎪᏍᎦ	[daːdaːhnuːgǒːhsga] /rrd/
+Persimmon	ᏌᎵ	[saːli] /rrd/
+Person	ᏴᏫ	[yvːwi] /rrd/
+Perspiring	ᎦᎵᎠᎦᎢᎭ	[gaʔliʔaːgaʔiːha] /rrd/
+Persuading him	ᎠᏍᏗᏰᏗᎭ	[ahsdiːyeʔdiha] /rrd/
+Pestle	ᏍᏙᏍᏗ	[sdoːsdi] /rrd/
+Phaseolus lunatus	ᏚᏯᏁᏆ	[tuːyaneːgwa] /rrd/
+Pheasant	ᏛᏗᏍᏗ	[tvːdisdi] /rrd/
+Pheucticus ludovicianus	ᎦᏴᏍᏆᎴᏅ	[gayvːsgwaleːnv] /rrd/
+Photograph	ᏗᏥᎶᏍᏓᏅᎯ	[ditsilosdanvːhi] /rrd/
+Photographer	ᏗᏓᏥᎶᏍᏗᏍᎩ	[didatsiːloːsdiːsgi] /rrd/
+Physalis spp	ᎤᏅᏚᎯᏍᏓ	[unvːduhiːsda] /rrd/
+Phytolacca americana	ᏣᏱᎦ	[tsaːhyiga] /rrd/
+Picea rubra	ᏃᏥ ᎢᏳᏍᏗ	[noːtsi iyusdi] /rrd/
+Picking it	ᎠᏱᎠ	[ayíːʔa] (something long) up from the ground /rrd/
+Picking it up	ᎦᏁᎩᎠ	[ganeːgíʔa] (a liquid) /rrd/
+Picking it up	ᎠᏓᎾᎩᎠ	[aːdáːnagíʔa] (something alive) /rrd/
+Picking it up	ᎦᏁᎠ	[ganeʔa] (something flexible) /rrd/
+Picking it up	ᎠᏯ	[ayʔa] (something long) /rrd/
+Picking it up	ᎠᎩᎠ	[agíːʔa] (something solid) /rrd/
+Picking it up from the ground	ᎦᎾᎩᎠ	[ganagiʔa] (something alive) /rrd/
+Picking it up from the ground	ᎦᎾᎩᎠ	[ganagiʔa] (something flexible) /rrd/
+Picking it up from the ground	ᎫᏔᎩᎠ	[guʔtagiʔa] (something solid) /rrd/
+Picking on him	ᎠᎵᏌᎵᎭ	[ahlsaliha] /rrd/
+Pickling	ᏕᎦᎾᏦᏍᏗᎭ	[deːgaːntsoːsdiːha] /rrd/
+Picture	ᏗᏥᎶᏍᏓᏅᎯ	[ditsilosdanvːhi] /rrd/
+Pie	ᎨᎵᏥᎩ	[geːliːdsgi] /rrd/
+Pig	ᏏᏆ	[sikwa] /rrd/
+Pigeon grapes	ᏆᎷᏏ	[kwalúsi] /rrd/
+Pigeon hawk	ᏌᎾᏩ	[saːnawa] /rrd/
+Pileated woodpecker	ᎨᏉᎬ	[geʔgwoːgv] /rrd/
+Pillow	ᎤᎦᏍᏙᎯ	[uːhksdohi] (his) /rrd/
+Pillow case	ᎠᏈᏍᏙᎯ ᎦᎸᏙᏗ	[ahksdohi galvːdohdi] /rrd/
+Pin	ᏴᎩ	[yvːgi] /rrd/
+Pinching him	ᎠᏇᏄᎩᎠ	[agwenuːgiʔa] /rrd/
+Pine lizard	ᏔᏳᎭᎵ	[tayuːhaːli] /rrd/
+Pine tree	ᏃᏥ	[noːtsi] (all varieties) /rrd/
+Pink	ᎩᎦᎨ ᎤᏍᎪᎸᎢ	[gigage usgoːlvʔi] /rrd/
+Pinus spp	ᏃᏥ	[noːtsi] /rrd/
+Pinus Strobus L	ᏙᏥ	[doʔtsi] /rrd/
+Pipe used for smoking	ᎦᏅᏃᏩ	[ganvːnowa] /rrd/
+Pipilo erythrophthalmus	ᏧᏬᏍᎦ	[tsuwoːsga] /rrd/
+Piranga olivacea	ᏦᎳ	[tsoːhla] /rrd/
+Pistol	ᏍᏆᏔ ᎦᎶᏇᎯ	[sgwala galoːgwehi] (gun) /rrd/
+Pitcher	ᏧᏕᎩ	[tsudeːgi] (baseball) /rrd/
+Pitchfork	ᏴᎩ	[yvːgi] /rrd/
+Pituophis catenifer sayi	ᎢᎾᏓ ᏐᎸᎨᎢ	[iːnada solvgeʔi] /rrd/
+Place for receiving	ᎤᎷᎯᏗ	[uːʔluhihsdi] /rrd/
+Place of work	ᏗᎦᎸᏫᏍᏓᏁᏗ	[digalvːhwisdandi] /rrd/
+Place to look	ᎤᏍᏗᏳ	[uːsdiːyu] (his) /rrd/
+Placing	ᏓᏁᎦ	[daːneːga] (solid) things in a row /rrd/
+Placing flexible things into a row	ᏓᏅᏁᎦ	[daːnvneːga] /rrd/
+Placing it into a fire	ᎬᏔᏍᎦ	[gvːtǎːhsga] (something solid) /rrd/
+Placing it on a raised surface	ᎦᎾᎥᏍᎦ	[ganaʔvːsga] (something alive) /rrd/
+Placing it on a table, chair, shelf	ᎦᎾᎥᏍᎦ	[ganaʔvːsga] (something alive) /rrd/
+Placing it on the ground	ᎦᏅᎥᏍᎦ	[ganv́ʔvːhsga] (something alive) /rrd/
+Placing it on the ground	ᎦᏅᎥᏍᎦ	[ganv́ʔvːhsga] (something flexible) /rrd/
+Placing it on the ground	ᎠᏗᎠ	[aʔdiʔa] (something long) /rrd/
+Placing it on the ground	ᎠᎲᏍᎦ	[ahvhsga] (something solid) /rrd/
+Placing living things in a row	ᏓᎧᏁᎦ	[daːkanega] /rrd/
+Placing long things into a row	ᏓᏕᎦ	[daːdeːga] /rrd/
+Plaid	ᎤᎾᎶᎢᏓ	[unaloʔida] /rrd/
+Planning	ᎠᏓᏅᏖᎭ	[adahnteha] /rrd/
+Plantago lanceolata	ᎪᏍᏓᏂᏍᏗ	[goːsdáːnisdi] /rrd/
+Plantago major	ᎾᎾ ᎤᏕᏱᏘ	[naːn udeːhyti] /rrd/
+Plantain, broadleaf	ᎾᎾ ᎤᏕᏱᏘ	[naːn udeːhyti] /rrd/
+Planting	ᎠᏫᏍᎦ	[ahwíhsga] /rrd/
+Planting seeds	ᏓᏫᏍᎦ	[daːwiːsga] /rrd/
+Platanthera ciliaris	ᎠᏣᏗ ᎠᏂᏆᏔ	[atsaːdi aniːgwaːta] /rrd/
+Platanus occidentalis	ᎫᏫᏳᎦᏍᏗ	[kuːhwiːyugsdi] /rrd/
+Plate	ᎠᏖᎵᏙ	[ahteːliːdo] /rrd/
+Plate	ᎦᏄᎯᎵᏗ	[ganuhiːhldi] /rrd/
+Playing a game	ᏓᏁᎶᎲᏍᎦ	[daʔneːloːhvːsga] /rrd/
+Playing ball	ᎠᏁᏦᎥᏍᎦ	[ahneːtsoːʔvhsga] /rrd/
+Playing cards	ᎠᏆᎾᏲᎯᎭ	[aːhkwanayóhiha] /rrd/
+Playing marbles	ᎦᏓᏲᎯᎭ	[gadáːyoːhiha] /rrd/
+Playing music	ᎧᏃᎩᏍᏗᎭ	[kanoːgiːsdiha] /rrd/
+Playing with	ᏓᏁᎶᏗᎭ	[daʔnéhldiha] /rrd/
+Plowing	ᎦᏓᎷᎩᎠ	[gaːdalúːgiʔa] /rrd/
+Plucking a bird	ᎫᏯᎩᎠ	[guyagiʔa] /rrd/
+Plugging it in	ᎫᏓᎸᎥᏍᎦ	[guːdaːlvʔvsga] /rrd/
+Plum	ᏆᏄᎾᏍᏗᎢ	[gwanuːnsdiʔi] /rrd/
+Pneumonia	ᎤᏍᎦᏎᏗ ᎤᏗᎴᎩ	[uhsgaseːd udileːgi] /rrd/
+Pocket	ᎭᏦᏩᏛ	[hatsoːwadv] /rrd/
+Pocket knife	ᎤᏍᏗ ᎭᏰᎳᏍᏗ	[uhsdi hayeːlahsdi] /rrd/
+Podophyllum peltatum	ᎤᏂᏍᏇᏚᎦ	[unisgweːduːga] /rrd/
+Poecile carolinensis	ᏥᎩᎵᎵ	[tsigiliːli] /rrd/
+Pointing at him	ᎠᏎᎯᎭ	[ahséhiha] /rrd/
+Pointing for him	ᎠᏎᎮᎭ	[ahséheha] /rrd/
+Poison ivy	ᎤᎸᏗ	[uːlvːdʔi] /rrd/
+Poison oak	ᎤᎸᏗ	[uːlvːdʔi] /rrd/
+Poke	ᏣᏱᎦ	[tsaːhyiga] /rrd/
+Poke salad	ᏣᏱᎦ	[tsaːhyiga] /rrd/
+Pokeweed	ᏣᏱᎦ	[tsaːhyiga] /rrd/
+Policeman	ᏗᏓᏂᏥᏍᎩ	[didaːhnitsisgi] /rrd/
+Pollywog	ᏗᎩᏥ	[digitsi] /rrd/
+Polygonatum biflorum	ᎤᎦᎾᏍᏗ	[uganasdi] /rrd/
+Pond	ᎠᎹ ᎠᏍᏛᎯᏍᏛ	[am aːsdvhiːsdv] /rrd/
+Poor	ᎤᎴᏐᏓ	[uːlehsoːda] /rrd/
+Popcorn	ᎠᎾᏔᏍᎩᏍᎩ	[antaːsgiːsgi] /rrd/
+Popping	ᎠᏔᏍᎩᎠ	[atásgiʔa] /rrd/
+Popping it	ᎠᏔᏍᎩᏍᏗᎭ	[ataːsgisdiha] /rrd/
+Populus sect.  Tacamahaca	ᎾᎨᎢ	[nageʔi] /rrd/
+Populus spp	ᎠᏓ ᎬᏂᎯᏛ	[aʔda gvnihiːdv] /rrd/
+Porch	ᏙᏱᏨᎯ ᎠᏲᏓᏒᎢ	[doːyiːtsvhi ayodasvʔi] /rrd/
+Portion	ᎠᏯᏙᎸᎢ	[ayaːdohlvʔi] /rrd/
+Possession	ᎤᏤᎵ	[uːtseːli] /rrd/
+Possum grapes	ᎨᎳᏗ	[keːladi] /rrd/
+Post	ᏗᎨᏛᏍᏗ	[digeːdvːsdi] /rrd/
+Post oak	ᏧᏍᎪ	[tsuːsgo] /rrd/
+Postage stamp	ᎦᏯᎸᏗ	[gaːyalvːdi] /rrd/
+Pot scrapings	ᎤᏣᎳ	[uːtsala] /rrd/
+Potato	ᏄᎾ	[nuːna] (es) /rrd/
+Pottery	ᎥᎾᏘ	[vːnti] /rrd/
+Pounding block	ᎧᏃᏅ	[kanoːnv] /rrd/
+Pounding it	ᎠᏍᏙᎠ	[ahsdoːʔa] /rrd/
+Pouring it	ᎠᏨᎥᏍᎦ	[aʔtsvʔvhsga] /rrd/
+Pouring it out	ᎠᏨᎥᏍᎦ	[atsv́ʔvːsga] (something liquid) /rrd/
+Pouting	ᎠᎵᏲᏪᏗᎭ	[ahliyoːwéhdiha] /rrd/
+Praying	ᎠᏓᏙᎵᏍᏗᎭ	[adadoːliːsdiha] /rrd/
+Preacher	ᎠᎵᏥᏙᎲᏍᎩ	[ahltsidohvʔsgi] /rrd/
+Preaching	ᎠᎵᏥᏙᎲᏍᎦ	[ahltsdóhvhsga] /rrd/
+Pregnant	ᎦᏁᎳᏗ	[ganelaːdi] /rrd/
+Preserving it	ᎠᎧᏲᏗᎭ	[ahkahyóhdiha] /rrd/
+Preserving it	ᎦᎶᏔᏅᎥᏍᎦ	[gahlohtanv́ʔvːsga] /rrd/
+Prettier	ᏫᏥᏄᏬᏚᎭ	[witsiːnuːwoːduha] /rrd/
+Prettiest	ᏫᏥᏄᏬᏚᎭ	[witsiːnuːwoːduha] /rrd/
+Pretty	ᎤᏬᏚᎭ	[uːwoːduha] /rrd/
+Pretty	ᎤᏬᏚᎯ	[uwoːdúhi] /rrd/
+Pricking it	ᎠᏣᏲᎵᎭ	[degatsayóhliha] /rrd/
+Prize	ᎠᏓᎪᎾᏙᏗ	[adagoːnadoʔdi] /rrd/
+Probably	ᎠᏎᏃ	[ahseːhno] /rrd/
+Process of lying down	ᎦᏅᎦ	[gahnv́ga] (in the) /rrd/
+Procyon lotor	ᎬᎲᎵ	[gvːhvli] /rrd/
+Progne subis	ᏧᏧ	[tsuːtsu] /rrd/
+Pronunciation	ᎢᎪᏪᏍᏗ	[iːgoweːsdi] /rrd/
+Proper	ᏚᏳᎦᏔ	[duyuːkta] /rrd/
+Pruning a tree	ᏕᎬᎾᎦᎳᏬᎠ	[deːgvːnagalawoʔa] /rrd/
+Prunus domestica	ᏆᏄᎾᏍᏗᎢ	[gwanuːnsdiʔi] /rrd/
+Prunus pensylvanica	ᏔᏯ ᎢᎾᎨᎢ	[taːya inageʔi] /rrd/
+Prunus persica	ᏆᎾ	[kwaːna] /rrd/
+Prunus spp	ᏔᏯ	[taːya] /rrd/
+Pseudacris Sp	ᏚᏍᏚ	[duːsdu] /rrd/
+Pseudognaphalium obtusifolium	ᎪᏍᏗᏳᏍᏗ	[kosdiːyusdi] /rrd/
+Puddle	ᎦᏁᎲᎢ	[ganehvʔi] /rrd/
+Puffball	ᏃᏈᏏ ᎤᏍᏗ	[noːkwisi uːsdi] (fungus) /rrd/
+Pull	ᎯᎵᏍᏛᏬᏨ	[hiːlsdvwoːtsv] (corn fodder or blades) /rrd/
+Pulling corn blades	ᎠᎳᏍᏚᏬᎠ	[ahlsdúwoːʔa] /rrd/
+Pulling leaves off of a tree	ᎠᎵᏍᏚᎩᎠ	[ahlsdugiːʔa] /rrd/
+Pulling rocks from the ground	ᏓᎬᏓᎳᎩᎠ	[daːkvːdalagíʔa] /rrd/
+Pulling up weeds	ᎨᏄᎩᎠ	[genuːgiʔa] /rrd/
+Pulling up weeds	ᎬᏄᏯᎩᎠ	[gvːnuːyagiʔa] /rrd/
+Puma concolor	ᏨᏓᏥ	[tsvːdatsi] /rrd/
+Pumpkin	ᎢᏯ	[iːya] /rrd/
+Purple	ᏕᎷᎨ	[deːhluge] /rrd/
+Purple finch	ᎤᏦᏁᏗ	[utsoːneːdi] /rrd/
+Purple martin	ᏧᏧ	[tsuːtsu] /rrd/
+Purple passionflower	ᎤᏩᎦ	[uːwaga] /rrd/
+Pus	ᎠᏔᏍᎩᏍᎬᎢ	[ahtasgiːsgvʔi] /rrd/
+Pushing it	ᎠᏌᏙᏯᏍᎦ	[ashadóyhsga] /rrd/
+Pushing it	ᎧᏅᎠ	[kanvːʔa] (flexible) aside /rrd/
+Pushing it aside	ᎠᎧᎲᎠ	[akahvːʔa] (something alive) /rrd/
+Pushing it aside	ᎠᏏᏴᎠ	[ahsíːyvʔa] (something long) /rrd/
+Pushing it aside	ᎠᏌᎲᎠ	[ahsahvːʔa] (something solid) /rrd/
+Pussywillow	ᏗᎵᎦᎵᏍᎩ	[diːligalisgi] /rrd/
+Putting a ribbon in his hair	ᎠᏇᎷᏍᎦ	[aːgweːluhsga] /rrd/
+Putting it	ᏕᎬᏍᎦ	[deːgvːhsga] (something flexible) into a liquid /rrd/
+Putting it	ᎦᎳᏗᎠ	[galdiʔa] (something long) into a container /rrd/
+Putting it into a container	ᎠᏥᎠ	[atsíʔa] (something liquid) /rrd/
+Putting it into a container	ᎦᎳᏍᎦ	[gaːhlaːsga] (something solid) /rrd/
+Putting it into a fire	ᎠᎲᏔᏍᎦ	[ahvːtáhsga] (something long) /rrd/
+Putting it into a liquid	ᎠᏥᎠ	[atsiʔa] (something liquid) /rrd/
+Putting it into a liquid	ᎠᎱᏗᎠ	[ahuːdiʔa] (something long) /rrd/
+Putting it into a liquid	ᎫᎲᏍᎦ	[guːhvsga] (something solid) /rrd/
+Putting it into something	ᎦᎸᎥᏍᎦ	[galvʔvːsga] (something alive) /rrd/
+Putting it into something	ᎦᎸᎥᏍᎦ	[galvʔvːsga] (something flexible) /rrd/
+Putting it on his shoulder	ᎦᏃᏒᎥᏍᎦ	[ganoːsvʔvːsga] /rrd/
+Putting it up	ᎠᏒᎥᏍᎦ	[ahsv́ːvhsga] (something flexible) /rrd/
+Putting it up on a raised surface or shelf	ᎠᏌᎲᏍᎦ	[ahsahv́hsga] (something solid) /rrd/
+Putting it up.	ᎠᏌᏗᎠ	[ahsáʔdiʔa] (something long) /rrd/
+Putting on a hat	ᎠᎵᏍᏇᏚᏍᎦ	[alsgwéːtuhsga] /rrd/
+Putting on pants	ᎠᏑᎵᎠ	[ahsuːliʔa] /rrd/
+Putting on shoes	ᏓᎳᏑᎳᏍᎦ	[daːlásuːhlaːsga] /rrd/
+Putting on socks	ᏓᎵᏲᎭ	[daːliːhyoːha] /rrd/
+Putting out, extinguishing a fire	ᎬᏓᎵᏗᎠ	[gvdáʔldiʔa] /rrd/
+Putting something into a group	ᎨᎳᏗᎠ	[géhladiʔa] /rrd/
+Putting up a wire	ᎠᏏᎳᏛᎥᏍᎦ	[asiladvːʔvhsga] /rrd/
+Putting, placing it	ᎬᏛᎥᏍᎦ	[gvːhdv́ʔvːsga] (something flexible) into a fire /rrd/
+Pyrus communis	ᏎᏗᏳᏍᏗ	[seːdiyusdi] /rrd/
+Quail	ᎤᎫᏇᎯ	[ukgweːhi] /rrd/
+Quakers	ᎠᏂᏇᎩ	[aniːkweːgi] /rrd/
+Quartz crystal	ᎤᎸᏌᏘ	[uːlvhsati] /rrd/
+Queen of the meadow	ᎠᎹ ᎠᏗᏙᏗ	[am aditoːdi] /rrd/
+Quercus falcata	ᎫᎴᏧᎾᏍᏗ	[guːletsuːnsdi] /rrd/
+Quercus L	ᏔᎳ	[tala] /rrd/
+Quercus nigra	ᏙᎳᏥ	[doːlatsi] /rrd/
+Quercus spp	ᎠᏓᏯᎯ	[adayahi] /rrd/
+Quercus stellata	ᏧᏍᎪ	[tsuːsgo] /rrd/
+Quercus velutina	ᏗᎬᏂᎨᎢ	[digvnigeʔi] /rrd/
+Quick	ᎤᎵᏍᏓ	[uhlihsda] /rrd/
+Quick	ᎦᏨᏄᎳ	[gaːtsvnuːla] /rrd/
+Quiet	ᎡᎶᏪᎯ	[eːloweːhi] /rrd/
+Quilt	ᎠᏰᎧᎵ	[ayehgahli] /rrd/
+Quilt top	ᎠᎬᎭᎴᏫᏓ	[agvhaleːwida] /rrd/
+Quitting	ᎠᏲᎯᏍᏗᎭ	[ayohiːsdiha] /rrd/
+Rabbit	ᏥᏍᏚ	[tsisdu] /rrd/
+Rabbit tobacco	ᎪᏍᏗᏳᏍᏗ	[kosdiːyusdi] /rrd/
+Rabbit's tail	ᏥᏍᏚ ᏍᎩᏓᏘ	[tsiːsdu sgiːdati] /rrd/
+Raccoon	ᎬᎲᎵ	[gvːhvli] /rrd/
+Racing	ᎠᎵᏙᎩᏱᎠ	[ahltogiːyiʔa] /rrd/
+Radio	ᎧᏃᎩᏍᏗ	[kanoːgiːsdi] /rrd/
+Ragweed	ᎤᏆᏍᏓᎷᏱᏓ	[ugwasdaːluhyda] /rrd/
+Railroad train	ᎠᏥᎳ ᏓᏆᎴᎷ	[atsiːla dagwaleːlu] /rrd/
+Rain	ᎠᎦᏍᎩ	[aːgahsgi] /rrd/
+Rain crow	ᏓᎶᎬ	[daloːgv] /rrd/
+Rain raven	ᏓᎶᎬ	[daloːgv] /rrd/
+Rainbow	ᎤᏅᎪᎳᏛ	[uhnvgolaːdv] /rrd/
+Rainbow trout	ᏧᏂᎶᎸᏗ	[tsuːniːloːhldi] /rrd/
+Raising	ᎠᏛᎯᏍᏗᎭ	[atvhíhsdiha] /rrd/
+Raising an arm	ᎠᏐᎸᏔᏍᎦ	[ahsoːlvːtáhsga] /rrd/
+Raising children	ᏓᏛᎯᏍᏗᎭ	[daːtvːhisdiha] /rrd/
+Raising it	ᎠᏌᎳᏓ	[ahsalaːdʔa] /rrd/
+Ramps	ᎤᏩᏍᏗ	[uwahsdi] (plant) /rrd/
+Rana catesbeiana	ᎧᏄᏄ	[kanuːnu] /rrd/
+Rapids	ᎪᎵᏍᏓᏴᎢ	[golisdaːyvʔi] /rrd/
+Raspberries	ᏒᏗᏩᎵ	[svːdiwaʔli] /rrd/
+Rat	ᏥᏍᏕᏥ	[tsiːsdeːtsi] /rrd/
+Rattle	ᎦᎾᏤᏗ	[gantseːhdi] /rrd/
+Rattle wrapped around the leg	ᎤᏅᏌᏗ	[uːnvsaːdi] /rrd/
+Rattlesnake fern	ᎤᏎᎳᏘ	[uːselaːti] /rrd/
+Rattus spp	ᏥᏍᏕᏥ	[tsiːsdeːtsi] /rrd/
+Raven	ᎪᎸᏅ	[koːlvnv] /rrd/
+Raven mocker	ᎪᎸᏅ ᎠᏰᎵᏍᎩ	[koːlvnv aːhyeːliːsgi] /rrd/
+Raven's Place	ᎪᎸᏅᏱ	[koːlvnvːyi] (Big Cove) /rrd/
+Raw	ᎠᎪᏍᏗ	[agoːsdi] /rrd/
+Razor	ᎠᎵᏍᏙᏰᏙᏗ	[ahlsdohydohdi] /rrd/
+Reading it	ᎠᎪᎵᏰᎠ	[agoːlíːyeʔa] /rrd/
+Rearing	ᎠᏛᎯᏍᏗᎭ	[atvhíhsdiha] (a child) /rrd/
+Rearing them	ᏓᏛᎯᏍᏗᎭ	[daːtvːhisdiha] /rrd/
+Receding	ᎦᏅᏬᏍᎦ	[ganvːwoːsga] /rrd/
+Receiving	ᏓᏓᏂᎸᎦ	[daːdaníːlvːga] /rrd/
+Receiving a vaccine	ᏓᏓᏄᎪᏍᎦ	[daːdaːhnuːgǒːhsga] /rrd/
+Receiving place	ᎤᎷᎯᏗ	[uːʔluhihsdi] /rrd/
+Recognizing it	ᎪᎵᎦ	[goːlhga] /rrd/
+Red	ᎩᎦᎨᎢ	[gigageʔi] (color) /rrd/
+Red bird	ᏙᏧᏩ	[toːtsuːwa] /rrd/
+Red buckeye	ᎤᏍᏆᏙ	[uhsgwado] /rrd/
+Red buckeye	ᏧᏆᏆ	[tsuːgwaːgwa] /rrd/
+Red earthworms	ᎤᏂᏥᏯ	[unitsiyaː] /rrd/
+Red fox	ᏧᎳ ᎩᎦᎨ	[tsuːla giːgage] /rrd/
+Red horsemint	ᏩᎴᎷ ᎤᏂᏣᎩᏍᏗ	[waleːlu unitsagiːsdi] /rrd/
+Red maple	ᎩᎦᎨᏨᏩᎩ	[gigageːtsvːhwagi] /rrd/
+Red mulberry	ᎫᏩ	[kuːwa] /rrd/
+Red oak	ᎫᎴᏧᎾᏍᏗ	[guːletsuːnsdi] /rrd/
+Red-eyed vireo	ᏧᏕᏒᎾᎵ	[tsudeːsvnaːli] /rrd/
+Red-headed woodpecker	ᏓᎳᎳ	[dalaːla] /rrd/
+Red-tailed hawk	ᏔᏬᏗ ᎡᏆ	[tawoːdʔ eːgwa] /rrd/
+Redhorse	ᎣᎵᎦ	[oːliga] /rrd/
+Reflecting	ᎤᏔᎷᎩᎠ	[uːhtalúːgiʔa] /rrd/
+Refrigerator	ᎠᏴᏣᏗᏍᏗᏍᎩ	[ahyvːtsadʔisdihsgi] /rrd/
+Refusing to give it	ᎠᎨᏯᏗᎭ	[ageːhydiha] /rrd/
+Remembering it	ᎤᏅᏓᎭ	[uːhndaha] /rrd/
+Removing it from a shelf	ᎠᏌᎩᎠ	[aːhsagiʔa] (something solid) /rrd/
+Removing it from a shelf.	ᎠᏏᎭ	[ahsiha] (something long) /rrd/
+Removing it from something	ᎦᎵᏏᎭ	[galiːsiha] (something long) /rrd/
+Removing it from something	ᎦᎳᎩᎠ	[galagiʔa] (something solid).He is removing it from something (something long).He is removing it from something (something flexible) /rrd/
+Removing liquid from a container	ᎠᎫᎩᎠ	[akuːgiːʔa] /rrd/
+Removing, taking it down from a raised surface or shelf	ᎠᎩᎵᎩᎠ	[akiliːgiːʔa] (something alive) /rrd/
+Requesting	ᎠᏔᏲᎯᎭ	[ahtayohiha] /rrd/
+Residing	ᎦᏁᎳ	[ganela] /rrd/
+Residing, lives in	ᎦᎾᎩᎳ	[ganagila] (a place) /rrd/
+Responsible for or to	ᎤᏚᏓᎳ	[uːdúːdaʔla] /rrd/
+Resting	ᎤᏯᏪᏐᎵᎭ	[uːyawéːsohliha] /rrd/
+Returning	ᎢᎦᎷᎦ	[íːgaluhga] /rrd/
+Returning an animal	ᎠᎧᏂ	[akahni] /rrd/
+Rheum rhaponticum	ᏧᏂᏦᏴᏍᏗ	[tsuːhnitsoːhysdi] /rrd/
+Rheumatism	ᏗᏙᎴᏍᎩ	[didoːleːsgi] /rrd/
+Rheumatism root	ᎠᏨᎩ ᎢᎾᎨ ᎡᎯ	[ahtsvːgi inageː ehi] /rrd/
+Rhinoceros	ᏣᏃᏏ	[tsaːnoːsi] /rrd/
+Rhododendron	ᏚᏐᎦ ᏨᏁᏆ	[dusoːg tsvneːgwa] /rrd/
+Rhododendron ferrugineum L	ᏚᏐᎦ ᏨᏁᏆ	[dusoːg tsvneːgwa] /rrd/
+Rhus spp	ᏆᎶᎦ	[gwaːloːga] /rrd/
+Rib	ᎠᏄᎳᏥᏴᎢ	[anulaːtsiyvʔi] (his) /rrd/
+Ribbon	ᎠᏇᎷᏍᏗ	[agweːhluːsdi] /rrd/
+Rice	ᎦᏃᎮᎾ	[ganoheːna] /rrd/
+Rich	ᎤᏪᏅᎦ	[uːwéhnvːga] (becoming) /rrd/
+Ridiculing	ᏛᏐᏨᏤᎭ	[dvːsotsvːtsheːha] /rrd/
+Ridiculing him	ᎠᏙᏥᏗᎭ	[adóːtsdiha] /rrd/
+Rifle	ᎦᎶᏇ	[galogwe] /rrd/
+Right	ᎠᏘᏍᎩ	[atiːsgi] (his) /rrd/
+Right-handedness	ᎠᏘᏍᎩ	[atiːsgi] /rrd/
+Ring	ᎤᎵᏰᏑᏍᏓᏬ	[uːliyehsuhsdawo] (his) /rrd/
+Ringing it	ᎦᏃᏴᎮᏍᏗᎭ	[gaːhnoyv́hesdiha] (like a bell) /rrd/
+Riparia riparia	ᏦᏯᎦ	[tsoːyaga] /rrd/
+Ripping it	ᎠᎵᎬᎩᎠ	[aligvːgiʔa] /rrd/
+Rising from sitting	ᏓᎴᎲᏍᎦ	[daːleːhvːsga] /rrd/
+River	ᎠᎹᏱ	[amaːyi] /rrd/
+River	ᎡᏉᏂ	[eːgwoːni] /rrd/
+River	ᏂᎳᏛᏱ	[nildvːyi] (small) /rrd/
+River birch	ᎦᏁᏗᏍᎩ	[ganeːdísgi] /rrd/
+River cane	ᎢᏯ	[iːhya] /rrd/
+Road	ᎦᏅᏅ	[ganvːhnv] /rrd/
+Road	ᏅᏃᎯ	[nvːnohi] /rrd/
+Roasting it	ᎠᏒᎾᏔᏍᎦ	[ahsvːnatahsga] /rrd/
+Robbing him	ᎦᏅᏌᎲᏍᎦ	[ganhsahv̌ːhsga] /rrd/
+Robbinsville	ᏥᏲᎯ	[tsiːyohi] /rrd/
+Robin	ᏥᏍᏉᏉ	[tsiːsgwoːgwo] /rrd/
+Robinia pseudoacacia	ᎧᎶᏇᏗ	[kalogweːhdi] /rrd/
+Rock	ᏅᏯ	[nvːya] /rrd/
+Rock armor	ᏅᏯ ᎤᏄᏬ	[nvʔya uːhnuwo] /rrd/
+Rock maple	ᏧᏩᎩ	[tsuːwaːgi] /rrd/
+Rock shelter	ᎤᏍᏓᎦᎸᎢ	[usdaːgalvːʔi] /rrd/
+Rocking a chair	ᏓᎵᎷᎨᏍᎦ	[daːhlilukeːsga] /rrd/
+Rocky	ᏅᏲᎯ	[nvʔyohi] /rrd/
+Rolling	ᎠᎾᏓᏌᏆᎴᎯᎭ	[anadahsagwaléːhiha] (they are) /rrd/
+Rolling along	ᎠᏓᏌᏆᎴᎵ	[adahsagwaléhli] /rrd/
+Rolling it	ᎠᏌᏆᎴᎭ	[ashagwáhleha] /rrd/
+Rolling it along	ᎠᏌᏆᎴᎵ	[ashagwaleːhli] /rrd/
+Rolling it around	ᎠᏌᏆᎴᏍᎦ	[ahsagwalehsga] /rrd/
+Rolling or skidding logs downhill	ᎠᏳᏲᎰᏍᎦ	[aːyuːyohohsga] /rrd/
+Rolling or skidding logs downhill	ᏕᎦᏳᏲᎰᎾᏗᎭ	[deːgayuːyoːhoːhndiha] /rrd/
+Roof	ᎦᏒᎾᎵ	[gaːsvnaːli] /rrd/
+Roofing a house	ᎧᎵᏦᏔᏍᎦ	[kaltsoːtǎːhsga] /rrd/
+Rooster	ᎠᏨᏯᎢ	[atsvːyaʔi] /rrd/
+Root	ᎤᎾᏍᏕᏥ	[unasdeːtsi] /rrd/
+Rope	ᏍᏕᏯᏗ	[sdeːyaːdi] /rrd/
+Rose twisted stalk	ᏧᎯᏥᏆ	[tsuːhiːtsgwa] /rrd/
+Rose-breasted grosbeak	ᎦᏴᏍᏆᎴᏅ	[gayvːsgwaleːnv] /rrd/
+Rough	ᎤᏓᏣᎧᏗ	[udaːtsakdi] /rrd/
+Rubber, pitch, gum	ᎠᏣᎯ	[aːtsahi] /rrd/
+Rubus spp	ᏄᎦᎵ	[nuːgaːhli] /rrd/
+Rubus spp	ᏌᎶᎵ ᎠᎦᏔ	[saloːli akta] /rrd/
+Rubus spp	ᏒᏗᏩᎵ	[svːdiwaʔli] /rrd/
+Rudbeckia hirta	ᏐᏤᎾ	[soːtseːna] /rrd/
+Ruffed grouse	ᏛᏗᏍᏗ	[tvːdisdi] /rrd/
+Ruined	ᎠᏲᎦ	[ayoːga] (becoming) /rrd/
+Ruining it	ᎠᏲᏍᏗᎭ	[ayóːsdiha] /rrd/
+Ruler	ᎠᏥᎶᏍᏗ	[atsiloːsdi] /rrd/
+Ruler	ᎤᎬᏫᏳᎯ	[uːgvːwiyuhi] /rrd/
+Rumex crispus	ᏓᎦᎩ	[daːgki] /rrd/
+Running	ᏓᏍᏆᎵᏗᎭ	[daːsgwaːhldiha] /rrd/
+Running over it	ᎠᏦᎥᏍᏗᎭ	[atsoʔvhsdiha] /rrd/
+Running short of	ᎤᏂᎬᎦ	[uːhniːgvʔga] /rrd/
+Rusting	ᎠᎦᏥᏅᎪᎦ	[agaːtsinvgoːga] /rrd/
+Rusty	ᎤᎦᏥᏅᎪᏥᏛ	[ugaːtsinvgoːtsiːdv] /rrd/
+Saddle	ᎦᏴᎱᎶ	[gaːyvhuːlo] /rrd/
+Safety pin	ᎤᏍᏆᏗ	[uːsgwaːhdi] /rrd/
+Salamander	ᏓᎴᏴᏍᎩ	[daleːyvːsgi] /rrd/
+Salamander	ᏚᏪᎧ	[duweːka] /rrd/
+Salix alba	ᏗᎳᎦᎵᏍᎩ ᎡᏆ	[dilaːgalisgi eːgwa] /rrd/
+Salix babylonica	ᏗᎦᎦᎸᏅᎯᏓ	[digaʔgalvːnvhiːda] /rrd/
+Salix discolor	ᏗᎵᎦᎵᏍᎩ	[diːligalisgi] /rrd/
+Salix eastwoodiae	ᏗᎳᎦᎵᏍᎩ ᎤᏍᏗ	[dilaːgalisgi uːsdi] /rrd/
+Salmo salar	ᏎᎼᏂ	[seːmoːni] /rrd/
+Salmon	ᏎᎼᏂ	[seːmoːni] /rrd/
+Salt	ᎠᎹ	[aːma] /rrd/
+Sambucus canadensis	ᎪᏒᎦ	[goːsvʔga] /rrd/
+Same	ᎤᏐᏱ	[uhsoːyi] /rrd/
+Sand	ᏃᏯ	[noːya] /rrd/
+Sand piper	ᎠᎪᏮ	[aːgowv] /rrd/
+Sandy	ᏃᏯᎭ	[noːyaha] /rrd/
+Sap	ᎠᏔᏍᎩᏍᎬᎢ	[ahtasgiːsgvʔi] /rrd/
+Sassafras	ᎧᎾᏍᏓᏥ	[kansdaːtsi] /rrd/
+Sassafras albidum	ᎧᎾᏍᏓᏥ	[kansdaːtsi] /rrd/
+Satin	ᎤᏔᎷᎩᏍᎩ	[utaːluːgiːsgi] /rrd/
+Saturday	ᏙᏓᏈᏕᏂ	[dodagwideːni] /rrd/
+Saucer	ᎠᏙᎣᎸᏍᏙᏗ	[ahdoʔoːlvsdohdi] /rrd/
+Sausage	ᎭᏫᏯ ᎠᏍᏙᏓ	[hawiːya asdoːda] /rrd/
+Saving it	ᎠᎵᏏᏅᏗᎭ	[ahlsíːhndiha] /rrd/
+Saw	ᎦᏅᏙᎩ	[gaːhndoːgi] /rrd/
+Sawbrier	ᏄᎦᎸ	[nuːgaːhlv] /rrd/
+Saxifraga micranthidifolia	ᎠᎪᏍᏚᎩᏍᏗ	[agoːsdugiːsdi] /rrd/
+Saying it	ᎠᏗᎠ	[adiʔa] /rrd/
+Saying it	ᏂᎦᏪᎠ	[nigaweʔa] /rrd/
+Scab	ᎤᎵᏍᏓᎸᎢ	[uhlsdalvːʔi] /rrd/
+Scald place	ᎤᏓᏁᎳᏬᏓ	[uːdaneːlawoːda] /rrd/
+Scalded	ᎤᏓᏁᎳᏬᏓ	[uːdaneːlawoːda] /rrd/
+Scalding and scraping it	ᎦᏁᎳᏬᎠ	[ganeːlawóʔa] /rrd/
+Scalping him	ᎠᏍᏛᏁᎦᎵᎭ	[asdvneːgaliha] /rrd/
+Scar	ᎤᏁᎸᏒ	[uneːlvːsv] /rrd/
+Scarf	ᎠᎵᏍᏚᎶᎯ	[ahlsduːlohi] /rrd/
+Scarlet tanager	ᏦᎳ	[tsoːhla] /rrd/
+Scattering from a pile	ᎠᏗᎦᎴᏯᎠ	[adiːgaleːyaʔa] /rrd/
+Scattering it	ᎦᎳᎨᏴᏛᎥᏍᎦ	[galagéhydvʔvːsga] /rrd/
+Sceloporus undulatus	ᏔᏳᎭᎵ	[tayuːhaːli] /rrd/
+Schoenoplectus tabernaemontani	ᎦᎾᎦᏥ ᎤᏔᎾ	[ganaːgatsi utana] /rrd/
+School	ᏗᏕᎶᏆᏍᏗ	[diːdelkwasdi] /rrd/
+Scissors	ᏗᎵᏍᏙᏗ	[diːhlsdoːhdi] /rrd/
+Sciurus carolinensis	ᏌᎶᎵ	[saloːli] /rrd/
+Sciurus niger	ᏌᎶᎵ ᏬᏗ	[saloːli woːhdi] /rrd/
+Sciurus spp	ᏌᎶᎵ	[saloːli] /rrd/
+Scotch thistle	ᏥᏥ	[tsiːtsi] /rrd/
+Scotchmen	ᎠᏂᏍᎦᏥ	[aniːsgaːtsi] /rrd/
+Scraping	ᎠᏍᏛᎪᏍᎦ	[ahsdvːgóhsga] (grit corn) /rrd/
+Scratching	ᏓᏣᎪᏍᎦ	[daːtsagoːsga] /rrd/
+Screech owl	ᏩᎱᎱ	[wahuhu] /rrd/
+Seed	ᎤᎦᏔ	[uːkta] /rrd/
+Seeing it	ᎠᎪᏩᏘᎭ	[agóːhwtiha] /rrd/
+Seine, Net	ᎠᎦᏳᎳᏗ	[agaːhyulaːdi] /rrd/
+Seiurus aurocapilla	ᏧᏦᎵᏛ	[tsutsoːldv] /rrd/
+Selecting them	ᏓᏑᏯᎩᎠ	[daːhsuːyagíʔa] /rrd/
+Seller	ᎦᎾᏗᏍᎩ	[gandisgi] /rrd/
+Selling it	ᎤᎾᏕᎦ	[uːndéːga] /rrd/
+Seminole	ᎠᏂᏎᎻᏃᎵ	[aniːseːminoːli] /rrd/
+Seneca	ᎠᏂᏎᏂᎧ	[aniːseːnika] /rrd/
+Separating	ᏓᎦᎴᏂᎠ	[daːgaleːniʔa] /rrd/
+September	ᏚᎵᎢᏍᏗ	[duliʔiːsdi] /rrd/
+Serviceberry	ᎤᏙᎳᏂ	[udoːlani] /rrd/
+Sessile bellwort. Wild oats	ᏧᏍᎦ ᏓᎶᏗ	[tsuːsga dalóːhdi] /rrd/
+Setophaga fusca	ᎦᏅᎩ	[ganvːgi] /rrd/
+Setophaga pensylvanica	ᏚᏯ	[duːya] /rrd/
+Setting a trap	ᎠᏌᏛᎥᏍᎦ	[ahsadvʔvhsga] /rrd/
+Setting it down	ᎠᎲᏍᎦ	[ahvhsga] (something solid) /rrd/
+Setting it on fire	ᎠᏥᏍᏓᎳᏍᎦ	[atsíːsdahlahsga] /rrd/
+Setting out	ᎦᎧᎲᏍᎦ	[gahkahv̌ːhsga] /rrd/
+Setting up	ᎦᎧᎲᏍᎦ	[gahkahv̌ːhsga] /rrd/
+Seven	ᎦᎵᏉᎩ	[gaːhlgwoːgi] /rrd/
+Seven doctorings	ᎦᎵᏉᎩ ᎢᏳᏬᎵᏰᏓ	[gaːhlkwoːgi iyuːwoːhliyeːda] /rrd/
+Seven year locust	ᎥᎴ	[vːle] /rrd/
+Sevenbark	ᎦᎵᏉᎩ ᏧᏯᏍᏚ	[gaːhlkwoːgi tsuːyaːsdu] /rrd/
+Seventeen	ᎦᎵᏆᏚ	[gaːhlgwadu] /rrd/
+Seventy	ᎦᎵᏆᏍᎪᎯ	[gaːhlkwaːsgoːhi] /rrd/
+Several	ᎢᏳᏓᎴᎦ	[iːyuːdaléːga] /rrd/
+Several months ago	ᎢᏯᏅᏓ	[iːyanvːda] /rrd/
+Sevierville, TN	ᏏᏈᏲ	[sigwiːyo] /rrd/
+Sewing	ᎦᏰᏫᏍᎦ	[gayéːwiːsga] /rrd/
+Sewing machine	ᎦᏰᏫᏒᎥᏍᎩ	[gaːyeːwhsvʔvsgi] /rrd/
+Shade	ᎤᏙᏗᏍᎬ	[udoːdiːsgv] (in the) /rrd/
+Shaking his head no	ᎠᎵᏍᏛᏂᎭ	[ahlsdv́ːhniha] /rrd/
+Shaking it	ᎠᏖᎸᎲᏍᎦ	[ahtéːlvhvhsga] /rrd/
+Shaking it off of a tree	ᎦᎳᏐᏰᎭ	[gaːhlsóʔyeːha] /rrd/
+Shampooing	ᎠᎵᏍᏚᎵᎭ	[ahlsduːliha] /rrd/
+Share	ᎠᏯᏙᎸᎢ	[ayaːdohlvʔi] /rrd/
+Sharp-shinned hawk	ᏗᎦᎦᏛᎾᎯᏛ	[digaːgdvnahiːdv] /rrd/
+Shaving someone	ᎠᏍᏙᏰᎭ	[ahsdóːyeha] /rrd/
+Shawnee	ᎠᏂᏌᏩᏄᎩ	[aniːsaːwanuːgi] /rrd/
+Sheep	ᎤᏃᏕᎾ	[unodeːna] /rrd/
+Sheet	ᎠᎬᎯᏓ	[akvhida] /rrd/
+Sheet sling used to carry a baby on one's back	ᎤᏛᏃ	[uːdvno] /rrd/
+Sheets	ᏧᏛᏃᎯᏛ	[tsuːdvnoːhidv] /rrd/
+Shell	ᎤᏯᏍᎦ	[uhyaːsga] /rrd/
+Shelling	ᎬᏙᎩᎠ	[gvːtoːkíʔa] (peas) /rrd/
+Shelling corn	ᏓᎦᏔᎵᎭ	[daːktaliha] /rrd/
+Shepherd	ᏗᎦᏘ	[diːkti] /rrd/
+Shin bone	ᎠᏍᎬᏓᎨᏂ	[asgvːdageːni] (his) /rrd/
+Shingle	ᏒᏓᎷᎩ	[svdaluːgi] /rrd/
+Shining	ᎤᏔᎷᎩᎠ	[uːhtalúːgiʔa] /rrd/
+Shining	ᎠᎦᎵᎭ	[agaːlíha] (the sun) /rrd/
+Shirt	ᎠᏅᏬ	[aːhnvwo] /rrd/
+Shoals	ᎤᏍᏓᎾᎵ	[uhsdanaːli] /rrd/
+Shoe	ᎤᎳᏑᎶ	[uːhlasuːlo] (his) /rrd/
+Shooting	ᎠᏲᎯᎭ	[ayohiha] /rrd/
+Shopping	ᎠᏓᎾᎾᎩᎠ	[adaːnanagíʔa] /rrd/
+Short	ᏍᏆᎳᎯ	[sgwaːlahi] /rrd/
+Short height	ᎡᎳᏗ ᎢᎦᏗ	[eːlad iːgadi] /rrd/
+Shouldering it	ᎦᏃᏒᎥᏍᎦ	[ganoːsvʔvːsga] /rrd/
+Shouting	ᎠᏙᎯᎠ	[atoːhiːʔa] /rrd/
+Shovel	ᎪᏕᏍᎩ	[koːdesgi] /rrd/
+Show	ᏗᎾᏛᏁᎵᏍᎬᎢ	[diːnadvːneːlisgvʔi] /rrd/
+Showing him	ᎠᏎᎮᎭ	[ahséheha] /rrd/
+Shrew	ᏔᎳᏍᎨᏫ	[taːhlsgeːwi] /rrd/
+Shucking corn	ᏕᎦᏄᎳᎩᎠ	[deːganuːlagiʔa] /rrd/
+Shutting it	ᎠᏍᏚᎲᏍᎦ	[ahsduhv́hsga] /rrd/
+Sialia sialis	ᏣᏉᎳᏕ	[tsaːgwoːlde] /rrd/
+Sibling-in-law	ᎤᏪᎳᎦᏏ	[uːwelaːksi] (his) /rrd/
+Sick	ᎤᏨᎦ	[uːhtsvːga] /rrd/
+Sick	ᏍᏗᏯᎯ	[sdiːyahi] /rrd/
+Sickness	ᎤᏨᎬ	[uːhtsvːgv] /rrd/
+Side	ᎠᏍᏆᎨᏂ	[asgwageːni] (his) /rrd/
+Side of a mountain	ᎣᏛᎶᎣᏗ	[oːdvhloʔohdi] (on the) /rrd/
+Side of his body	ᎠᏍᏆᎨᏂ	[asgwageːni] /rrd/
+Sifter	ᎬᎪᏍᏗ	[gvgoːsdi] /rrd/
+Sifting	ᎦᎪᏍᏗᎭ	[gagoːsdiːha] /rrd/
+Sifting flour	ᎠᎪᏛᎥᏍᎦ	[akodvːʔvhsga] /rrd/
+Signing it	ᎠᏍᏓᏱᏗᎠ	[ahsdaʔyíːdiʔa] /rrd/
+Silly	ᎤᏬᏥᏗ	[uːwotsdi] /rrd/
+Simulium meridionale	ᏙᏌ	[dosa] /rrd/
+Singing	ᏕᎧᏃᎩᎠ	[deːkanoːgiʔa] /rrd/
+Sink	ᎠᎹ ᎠᏥᏍᏗ	[am atsihsdi] /rrd/
+Sinking	ᎦᏃᏴᎦ	[ganoːyv́ːga] /rrd/
+Sister	ᎤᎸᎢ	[ulvːʔi] (female ego) (her) /rrd/
+Sister	ᎤᏙᎯ	[uːdoːhi] (male ego) (his) /rrd/
+Sister's daughter	ᎤᏙ	[uːto] (female ego) (her) /rrd/
+Sister's son	ᎤᏫᎾ	[uːwiːna] (male ego) (his) /rrd/
+Sitta carolinensis	ᏗᏪᏓᎶᎯ	[diweːdaloːhi] /rrd/
+Sitting	ᎠᎲᏍᎦ	[ahvhsga] /rrd/
+Sitting	ᎤᏬᎳ	[uːwohla] /rrd/
+Sitting	ᎠᏍᎩᎸᎥᏍᎦ	[ahsgilvːʔvhsga] (on something) /rrd/
+Six	ᏑᏓᎵ	[suːdali] /rrd/
+Sixteen	ᏓᎳᏚᎯ	[dalaːduhi] /rrd/
+Sixty	ᏑᏓᎵᏍᎪᎯ	[suːdaːhlsgoːhi] /rrd/
+Skating	ᏓᎵᎾᏒᏍᏗᎭ	[daːhlinasvsdiha] /rrd/
+Skilled	ᎠᏏᎾᎭ	[ahsíːnaha] /rrd/
+Skilled	ᎠᏏᎾᏌᏅᎦ	[ahsíːnahsanvːga] (becoming) /rrd/
+Skillet	ᎦᏖᏌᏗ	[gateːsadi] /rrd/
+Skin	ᎤᏁᎦᎸᎢ	[uːneːgaʔlvːʔi] (his) /rrd/
+Skink	ᏣᏁᏅ	[tsaneːnv] /rrd/
+Skinned place	ᎤᏓᏁᎦᎸᏓ	[udaneːgalvːda] /rrd/
+Skinning it	ᎦᎮᎦᎵᎭ	[gaːhéːgaliha] /rrd/
+Skinny	ᎤᎴᏐᏓ	[uːlehsoːda] /rrd/
+Skirt	ᎠᏌᏃ	[asano] /rrd/
+Skunk	ᏗᎵ	[diːli] /rrd/
+Sky	ᎦᎸᎶᎢ	[galvːloʔi] /rrd/
+Slapping it	ᎠᏆᎸᏂᎭ	[aːkwalvːʔniha] /rrd/
+Sled	ᏗᏓᎾᏏᏁᎩ	[didaːnsineːgi] /rrd/
+Sleepy	ᎦᎸᏍᎦ	[gaːhlvːsga] /rrd/
+Sleeve	ᎪᏯᏛᎢ	[goːhyadvʔi] /rrd/
+Slender rush	ᎧᏁᏍᎦ	[kaneːsga] /rrd/
+Slicky mushroom	ᎤᏂᎶᏇ	[uniloːgwe] /rrd/
+Slicky mushroom	ᏧᏂᎶᎩ	[tsuniːhlogi] /rrd/
+Slicky mushroom	ᏧᏂᎶᏇ	[tsuːniːhloːgwe] /rrd/
+Sliding	ᎠᏑᏲᎰᏍᎦ	[ahsúːyohohsga] /rrd/
+Sliding it	ᏕᎦᏑᏲᎰᏅᏗᎭ	[deːgasúːyohonhdiha] /rrd/
+Slipper orchids	ᎤᎫᏇ ᎤᎳᏑᎳ	[ukgwe ulahsula] /rrd/
+Slipping up on	ᎦᏃᎵ	[ganóːli] /rrd/
+Slow	ᎠᏍᎦᏃᎳ	[ahsganoːla] /rrd/
+Small amount	ᎦᏲᎵ	[gaːyoːhli] /rrd/
+Small pox	ᎤᏅᏔᏆᎵ	[unvtaːgwali] /rrd/
+Small river	ᎱᏂᎯᎥ	[huniːhiv] /rrd/
+Smelling it	ᎤᏩᏩᏒᎦ	[uːwahwsv́ʔga] /rrd/
+Smells, is smelly	ᎦᏆᏒᎦ	[gaːgwsvːga] /rrd/
+Smelly	ᎦᏆᏒᎦ	[gaːgwsvːga] /rrd/
+Smilax glauca	ᏄᎦᎸ	[nuːgaːhlv] /rrd/
+Smilax herbacea	ᏏᎦᏓᏍᎩ	[siːgadaːsgi] /rrd/
+Smilax rotundifolia	ᎠᏂᏍᎩᎾ ᎤᎾᏁᏌᏓ	[aniːsgina unanehsada] /rrd/
+Smiling	ᎤᏰᏥᏍᎦ	[uːyéːtshga] /rrd/
+Smoking	ᎪᎩᏍᎦ	[gǒːghsga] /rrd/
+Smooth alder	ᎠᏤᏓ	[aːhtseːhd] /rrd/
+Smooth carrionflower	ᏏᎦᏓᏍᎩ	[siːgadaːsgi] /rrd/
+Smooth herbaceous greenbrier	ᏏᎦᏓᏍᎩ	[siːgadaːsgi] /rrd/
+Smooth shadbush	ᎤᏙᎳᏂ	[udoːlani] /rrd/
+Snail	ᎡᎶᏆ	[eːlogwa] /rrd/
+Snake	ᎢᎾᏓ	[iːnada] /rrd/
+Snake, with deer horns	ᎤᎧᏖᎾ	[ukteːna] (mythical) /rrd/
+Snakeroot	ᎪᎳᎧᎩᏍᏗ	[koːlakagiːsdi] /rrd/
+Snapping turtle	ᏌᎵᎫᎩ	[salígúːgi] /rrd/
+Sneaking up on	ᎦᏃᎵ	[ganóːli] /rrd/
+Sneezing	ᏚᏴᏍᏙᏯᏍᎦ	[dùːysdóyhsga] /rrd/
+Sniffling	ᎤᏴᏍᎩᎷᏙᎦ	[ùːyv́sgiluːdoːga] /rrd/
+Snoring	ᏓᏆᎳᎩᎠ	[daːkwalaːgíʔa] /rrd/
+Snow on the ground	ᎤᏅᏥ	[uːntsi] /rrd/
+Snowbird	ᏚᏘ	[tuːti] /rrd/
+Snowbird Community	ᏚᏘᏱ	[tuːtiːyi] /rrd/
+Snowing	ᎫᏘᎭ	[guːtiha] /rrd/
+Snuff	ᏦᎳ ᎤᏬᏍᎩᎵ	[tsoːla uwoːsgili] /rrd/
+So long for now	ᎭᏩᏉ	[hawaːgwo] (idiom) /rrd/
+Soaking it	ᎬᏩᎳᏍᎦ	[gvːhwalǎːhsga] /rrd/
+Soap	ᎣᎳ	[oːhla] /rrd/
+Sochana	ᏐᏤᎾ	[soːtseːna] /rrd/
+Sock	ᎤᎵᏲᎯ	[uːliːyohi] (his) /rrd/
+Soft	ᏩᎾ	[waːna] /rrd/
+Soft corn	ᏧᏩᏂᎨᎢ	[tsuwaniːgeʔi] (roasting stage) /rrd/
+Softstem bulrush	ᎦᎾᎦᏥ ᎤᏔᎾ	[ganaːgatsi utana] /rrd/
+Solanum lycopersicum	ᎤᏂᏁᎫᎯᏍᏗ	[uniːneːguhihsdi] /rrd/
+Solanum tuberosum	ᏄᎾ	[nuːna] /rrd/
+Soldier	ᎠᏲᏍᎩ	[aʔyohsgi] /rrd/
+Sole of his foot	ᎤᏍᏓᏁᎦᎸᎢ	[uːhsdaneːgaʔlvːʔi] (his) /rrd/
+Solid	ᎠᏍᏓᏱ	[aʔsdaːyi] (object) /rrd/
+Solomon's seal	ᎤᎦᎾᏍᏗ	[uganasdi] /rrd/
+Some other time	ᎢᏳᏉ	[iːyuːgwo] /rrd/
+Somebody	ᎩᎶᎢ	[kiloʔi] /rrd/
+Someone	ᎩᎶᎢ	[kiloʔi] /rrd/
+Something	ᎦᎱᏍᏗ	[gahusdi] /rrd/
+Something	ᎠᏯᎠ	[ayaʔa] (something alive) (in) /rrd/
+Something	ᎦᎳᎠ	[gaːhlaːa] (something solid) (in) /rrd/
+Something or things way off in the distance	ᏂᎨᎢᏴᏓ	[nigeʔiːyvːda] /rrd/
+Son-in-law	ᎤᏄᏥ	[uːnuːtsi] /rrd/
+Song	ᎧᏃᎩᏍᏗ	[kanoːgiːsdi] /rrd/
+Song sparrow	ᏥᎦᏣ	[tsiːgtsa] /rrd/
+Songbook	ᎪᏪᎵ ᏗᎧᏃᎩᏍᏗ	[goːhweːli dikanoːgiːsdi] /rrd/
+Soot	ᎤᏦᏅᎯᏓ	[utsoːnvhiːda] /rrd/
+Sore	ᎤᎵᏍᏓᎸᎢ	[uhlsdalvːʔi] /rrd/
+Sore	ᎤᏓᏁᎦᎸᏓ	[udaneːgalvːda] /rrd/
+Sorrel tree	ᏅᏙᏇᏯ	[nvːdokweːhya] /rrd/
+Soul	ᎠᏍᎩᎾ	[asgiːna] /rrd/
+Soup	ᎤᎦᎹ	[uːgama] /rrd/
+Sour	ᏧᏂᏦᏍᏗ	[tsuːhnitsoːsdi] /rrd/
+Sourwood	ᏅᏙᏇᏯ	[nvːdokweːhya] /rrd/
+South	ᏧᎦᏃᏮᎢ	[tsuːgaːnowvʔi] /rrd/
+Spade	ᎪᏕᏍᎩ	[koːdesgi] /rrd/
+Spaniards	ᎠᏂᏍᏆᏂ	[aniːsgwaːni] /rrd/
+Spanking him	ᎠᏆᎸᏂᎭ	[agwalvːʔníha] /rrd/
+Sparrow	ᏥᏍᏆᏯ	[tsiːsgwaːya] /rrd/
+Sparrow hawk	ᎩᎩ	[giːgi] /rrd/
+Speaking	ᎦᏬᏂᎭ	[gawoːniha] /rrd/
+Speaking	ᎧᏁᎦ	[kanéːga] /rrd/
+Speaking to him	ᎠᎵᏃᎮᏗᎭ	[ahlinohéhdiha] /rrd/
+Spear	ᏴᎩ	[yvːgi] /rrd/
+SpearFinger	ᏴᎩ ᎤᏩᏑᎧᎵ	[yvːgi uwaːsukaːhli] (Mythological) /rrd/
+Speckled	ᎤᏅᏣᏗ	[uhnvːtsadi] /rrd/
+Speckled trout	ᎤᏅᏣᏘ	[uːhnvːtsati] /rrd/
+Speech	ᎢᎬᏁᎢᏍᏗ	[iːgvneːʔisdi] /rrd/
+Speeding it up	ᎦᏣᏄᎵᏗᎠ	[gatsanúːldiʔa] /rrd/
+Spelling	ᎠᏍᏇᎵᏰᎠ	[ahsgweːlíːyeʔa] /rrd/
+Sphyrapicus varius	ᏧᎵᎡᎾ	[tsuːliʔeːna] /rrd/
+Spicebush	ᏃᏓᏥ	[noːhdatsi] /rrd/
+Spicewood	ᏃᏓᏥ	[noːhdatsi] /rrd/
+Spicket	ᎠᎹ ᎤᏩᏙᎣᎯᏍᏗ	[am uwaːdoʔohihsdi] /rrd/
+Spider	ᎦᎾᏁᏍᎩ	[ganaːneːsgi] /rrd/
+Spider	ᎧᎾᏁᏍᎩ	[kanaːhneːsgi] /rrd/
+Spiderwort	ᏔᏆᎵ	[taːgwaːli] /rrd/
+Spilling a non-liquid	ᎠᏤᏫᎠ	[atseːwiʔa] /rrd/
+Spilling it	ᎠᏨᎥᏍᎦ	[atsv́ʔvːsga] (a liquid) /rrd/
+Spinus tristis	ᏩᏓᎬ	[wadaːgv] /rrd/
+Spiny amaranth	ᏙᎳᏗᏳᏍᏗ	[toːhldiyusdi] /rrd/
+Spirit	ᎠᏍᎩᎾ	[asgiːna] /rrd/
+Spitting	ᎠᎵᏥᏍᏈᏍᎦ	[ahtsiːskwsga] /rrd/
+Split lip	ᏧᏚᎶᏗ	[tsuduːloːdi] /rrd/
+Sponge morel	ᎤᏂᏒᏙᏂ	[uːnihsvːdoni] /rrd/
+Spoon	ᎠᏗᏙᏗ	[adihtohdi] /rrd/
+Spotted touch-me-not	ᏩᎴᎷ ᎤᏂᎦᎴᎩᏍᏗ	[waleːlu unigalegisdi] /rrd/
+Spotted wintergreen	ᎠᏨᎩ ᎢᎾᎨ ᎡᎯ	[ahtsvːgi inageː ehi] /rrd/
+Spout	ᎠᎹ ᎤᏩᏙᎣᎯᏍᏗ	[am uwaːdoʔohihsdi] /rrd/
+Spraining his ankle, wrist	ᎠᏛᎳᎦ	[advːlaːga] /rrd/
+Spring	ᎠᎹ ᎦᏄᎪᎬᎢ	[am ganuːgoːgvːʔi] (of water) /rrd/
+Spring frog	ᏚᏍᏚ	[duːsdu] /rrd/
+Spring onion	ᎤᏩᏍᏗ	[uwahsdi] /rrd/
+Sprinkling	ᎠᏍᏚᏥᏍᏙᎭ	[ahsduːtsidoha] /rrd/
+Sprinkling it	ᎠᎪᏛᎥᏍᎦ	[akodvːʔvhsga] (a powder or fine granular substance) /rrd/
+Sprouting	ᎠᎵᏰᎲᏍᎦ	[aliyeːhvhsga] /rrd/
+Spruce	ᏃᏥ ᎢᏳᏍᏗ	[noːtsi iyusdi] /rrd/
+Squash	ᏩᎩᎦ	[waːgiːga] /rrd/
+Squirrel	ᏌᎶᎵ	[saloːli] /rrd/
+Stabbing him	ᎦᏣᏲᎯᎭ	[gatsayóhiha] /rrd/
+Stacking it	ᎦᏒᏔᏍᎦ	[gasvːtaːsga] /rrd/
+Stacking them	ᏓᏰᎧᎳᏍᎦ	[daːyekaːhlaːsga] /rrd/
+Stag	ᎦᎳᎩᎾ	[galagiːna] /rrd/
+Standing	ᎦᏙᎦ	[gadoːga] /rrd/
+Star	ᏃᏈᏏ	[nokwisi] /rrd/
+Starting it	ᎠᎴᏂᎠ	[aleːniʔa] /rrd/
+Startling him	ᎠᏖᏍᏗᎭ	[ateːsdiha] /rrd/
+Starvation	ᎠᎪᎾ	[agoːna] /rrd/
+Staying	ᎡᏙᎮᏍᏗᏉᎠ	[eːdoʔheːsdigwoʔa] /rrd/
+Stealing	ᎦᏃᏍᎩᎠ	[ganohsgíʔa] /rrd/
+Stealing from him	ᎦᏅᏌᎲᏍᎦ	[ganhsahv̌ːhsga] /rrd/
+Stem	ᎤᏪᏅᏍᏛᎢ	[uːweːnvːsdvːʔi] /rrd/
+Stem	ᎤᏴᏘᏅᏔ	[uːhyvːtinvːta] /rrd/
+Stepping	ᎠᎳᏍᎬᎠ	[alasgvːʔa] /rrd/
+Stepping on it	ᎠᎳᏍᏛᎥᏍᎦ	[alahsdvʔvhsga] /rrd/
+Stick	ᎠᏓ	[ahda] /rrd/
+Stick pin	ᎤᏍᏆᏗ	[uːsgwaːhdi] /rrd/
+Sticking it	ᎠᏣᏲᎵᎭ	[degatsayóhliha] /rrd/
+Sticking it to something	ᎠᏯᎸᎥᏍᎦ	[ayalvʔvhsga] /rrd/
+Sticking to it	ᎦᏯᎸᏅᎦ	[gayalvːnga] /rrd/
+Sticky	ᏧᏤᏲᏍᏗ	[tsuːtseyoːsdi] /rrd/
+Stinging him	ᎦᏨᏯᏍᎦ	[gaːtsvːhyhsga] /rrd/
+Stirring it	ᎠᏑᎨᎭ	[ahsúːgeha] /rrd/
+Stitch	ᎦᏰᏈᏍᎬᎢ	[gayeːkwsgvʔi] /rrd/
+Stomach	ᎤᏍᏉᎵ	[uːsgwoːhli] /rrd/
+Stone Mountain, GA	ᏦᏓᎸ ᏅᏯ	[tsoːdalv nvʔya] /rrd/
+Stopper	ᏚᏬᎵ	[duwoːhli] /rrd/
+Store	ᎠᏓᎾᏅᎢ	[aːdaʔnanvːʔi] /rrd/
+Store at a distance	ᏗᏓᏅᎢ	[didaːnvʔi] /rrd/
+Storm crow	ᏓᎶᎬ	[daloːgv] /rrd/
+Stove	ᎠᏓᏍᏓᏴᏗ	[adasdahydi] /rrd/
+Straddling it	ᎠᎩᎸᎥᏍᎦ	[ahkilvʔvhsga] /rrd/
+Strainer	ᎦᏁᏐᎸᏍᏙᏗ	[ganesoːlvsdoʔdi] /rrd/
+Strawberry	ᎠᏂ	[aːni] /rrd/
+Stream	ᎱᏂᎯᎥ	[huniːhiv] /rrd/
+Strengthening it	ᎠᏍᏓᏱᏗᎠ	[ahsdaʔyíːdiʔa] /rrd/
+Streptopus lanceolatus	ᏧᎯᏥᏆ	[tsuːhiːtsgwa] /rrd/
+Stretch mouth snake	ᏆᎾᏗᏯ	[gwaːndiya] /rrd/
+Stretching	ᏓᏓᎾᎩᎠ	[daːdanagíʔa] /rrd/
+Stretching	ᏕᎫᏣᎾᎩᎠ	[deːguːtsangíʔa] /rrd/
+Stringing beans	ᏕᎦᏓᏃᎳᎩᎠ	[deːgáːdanoːlagiʔa] /rrd/
+Striped horse	ᏧᏂᎶᏗ ᏐᏈᎵ	[tsuːniːloːhdi soːgwili] /rrd/
+Striped skunk	ᏗᎵ	[diːli] /rrd/
+Striped wintergreen. Wintergreen	ᎠᏨᎩ ᎢᎾᎨ ᎡᎯ	[ahtsvːgi inageː ehi] /rrd/
+Strix varia	ᎤᎫᎫ	[uguːku] /rrd/
+Strong	ᎤᎵᏂᎩᏓ	[uhliniːgiːda] /rrd/
+Student	ᏗᏕᎶᏆᏍᎩ	[diːdeloːgwaːsgi] /rrd/
+Studying	ᎠᎪᎵᏰᎠ	[agoːlíːyeʔa] /rrd/
+Stumbling	ᏚᏙᎨᎯᏙᎭ	[duːdoːgeːhiːdoːha] /rrd/
+Sturnella magna	ᏃᏈᏏ	[nokwisi] /rrd/
+Subtracting	ᎠᏌᎩᏏᏙᎠ	[ahsagiːsidoʔa] /rrd/
+Sucking something.	ᏓᏍᏆᏄᏥᎦ	[daːsgwanuːtsga] (Continously, like his thumb.) /rrd/
+Suffering	ᎠᎩᎵᏲᎦ	[agiːhlíyoʔga] /rrd/
+Sugar	ᎧᎵᏎᏥ	[kaːhlseːtsi] /rrd/
+Sugar maple	ᏧᏩᎩ	[tsuːwaːgi] /rrd/
+Sumac	ᏆᎶᎦ	[gwaːloːga] /rrd/
+Summer	ᎪᎩ	[goːgi] (1st new moon in April to the 1st new moon in October) /rrd/
+Summer grapes	ᏆᎷᏏ	[kwalúsi] /rrd/
+Sun	ᎢᎦ ᎡᏙᏅᏓ	[iːga eːdoːnvːdʔa] /rrd/
+Sun drop	ᎠᎾᏓᏥ	[andaːtsi] /rrd/
+Sun perch	ᎤᎪᎸ	[ugoːlv] /rrd/
+Sunday	ᏙᏓᏆᏍᎬᎢ	[doːdagwaːsgvʔi] /rrd/
+Sunflower	ᏅᏓᏗᎧᏂ	[nvːdaːdiːkaːni] /rrd/
+Surrendering	ᎠᏓᏲᏍᎦ	[adahyohsga] /rrd/
+Surrounding it	ᎠᏯᏕᏴᏍᏗᎭ	[ayaːdehysdiha] /rrd/
+Sus	ᏏᏆ	[sikwa] /rrd/
+Swallowing it	ᎠᎩᏍᎦ	[akiːhsga] /rrd/
+Swamp lily	ᎧᎾᎫᏣᏘ	[kaːhnguːtsati] /rrd/
+Sweater	ᎦᏌᎴᎾ	[gaːsaleːna] /rrd/
+Sweating	ᎦᎵᎠᎦᎢᎭ	[gaʔliʔaːgaʔiːha] /rrd/
+Sweeping	ᎬᏃᏌᏍᎦ	[gvnoːsaːsga] /rrd/
+Sweet birch	ᎠᏨᎩ ᎤᎦᎾᏍᏓ	[aʔtsvːgi uganaːsd] /rrd/
+Sweet bugleweed	ᎠᏂᏬᏂᏍᎩ	[aniːwoʔnihsgi] /rrd/
+Sweet potato	ᏄᎾ ᎤᏂᎦᎾᏍᏓ	[nuna uniːganasda] (es) /rrd/
+Sweet white violet	ᏗᎾᏓᏍᏓᏍᎩ ᎤᏂᏁᎦ	[diːhndaːsdaːsgi unineːga] /rrd/
+Sweetflag	ᎤᏲᏓᎵ	[uyoːdaːhli] /rrd/
+Swelling	ᎪᏘᏍᎦ	[ktiːsga] /rrd/
+Swift water	ᎪᎵᏍᏓᏴᎢ	[golisdaːyvʔi] /rrd/
+Swimming	ᎠᏓᏬᎠ	[adawóːʔa] /rrd/
+Swimming along	ᎠᏳᎢᏂ	[ahyuʔiːni] /rrd/
+Swinging it	ᎠᎵᏖᎸᏂᎭ	[ahlteːlv́ːhniha] /rrd/
+Sycamore	ᎫᏫᏳᎦᏍᏗ	[kuːhwiːyugsdi] /rrd/
+Sylva, NC	ᏏᎳᏉ	[siːlagwo] /rrd/
+Sylvilagus floridanus	ᏥᏍᏚ	[tsisdu] /rrd/
+Table	ᎦᏍᎩᎸᎢ	[gasgilvʔi] /rrd/
+Taboo	ᎦᎦᏛᏓ	[gaktvːda] /rrd/
+Tadpole	ᏗᎩᏥ	[digitsi] /rrd/
+Taking a step	ᎠᎳᏍᎬᎠ	[alasgvːʔa] /rrd/
+Taking it	ᎦᏁᎩᎡᎭ	[ganeːgíʔeːha] (a liquid) from him /rrd/
+Taking it	ᎬᏛᎩᎠ	[gvːtvːgiʔa] (something flexible) from a fire /rrd/
+Taking it down	ᎠᏙᏏᏏᎭ	[ahtoːsiːhsiha] (from a hanger) (something long) /rrd/
+Taking it down	ᎦᏓᎩᎠ	[gadʔagiʔa] (something alive) /rrd/
+Taking it down	ᎦᏓᎩᎠ	[gadʔagiʔa] (something flexible) /rrd/
+Taking it down	ᎦᏓᎩᎠ	[gadʔagiʔa] (something solid) /rrd/
+Taking it from a liquid	ᎠᎱᏱᏏᎭ	[ahuːyísiha] (something long) /rrd/
+Taking it from a liquid	ᎫᎩᎠ	[guːgiʔa] (something solid) /rrd/
+Taking it from him	ᎦᎾᎩᎡᎭ	[ganagiʔeːha] (something flexible) or (something alive) /rrd/
+Taking it from him	ᎠᏴᎡᎭ	[ayvːeha] (something long) /rrd/
+Taking it from him	ᎠᎩᎡᎭ	[agiːʔeha] (something solid) /rrd/
+Taking it off a fire	ᎠᎲᏓᎩᎠ	[ahvːdagíʔa] (something long) /rrd/
+Taking it off of a fire	ᎬᏓᎩᎠ	[gvːdagiʔa] (something solid) /rrd/
+Taking it to him	ᎠᎧᏁᎵ	[akaːneːli] (something alive) /rrd/
+Taking it to him	ᎠᏴᎡᎭ	[ayvːʔeha] (something liquid) /rrd/
+Taking it to him	ᎠᏅᎡᎭ	[aːnvːʔeha] (something solid or something flexible) /rrd/
+Taking it to him	ᎠᏴᎡᎭ	[ayvːʔeha] (something solid) /rrd/
+Taking liquid from liquid	ᎠᎫᎩᎠ	[aguːgiːʔa] /rrd/
+Taking off a ring	ᎠᎵᏰᏑᏍᏓᎩᎠ	[aliːyeːsuːsdagíʔa] /rrd/
+Taking off flying	ᎠᎳᏫᏗᎭ	[ahlawíːdiha] /rrd/
+Taking off his pants	ᎠᏑᎳᎩᎠ	[ahsuːlagiːʔa] /rrd/
+Taking off his shirt	ᎠᎿᏬᎩᎠ	[aːhnawogiʔa] /rrd/
+Taking off running	ᎠᎵᏗᎩᎠ	[ahlidgiʔa] /rrd/
+Taking off shoes	ᏓᎳᏑᎳᎩᎠ	[daːlaːsuːlagíʔa] /rrd/
+Taking off socks	ᏓᎵᏯᎩᎠ	[daːliyagíʔa] /rrd/
+Taking revenge	ᎤᏤᎦ	[uːtséːga] /rrd/
+Taking revenge on him	ᎠᏤᏤᎭ	[atséːtsheha] /rrd/
+Taking someone along	ᎠᏘᏂ	[ahtiːhni] /rrd/
+Talking	ᎦᏬᏂᎭ	[gawoːniha] /rrd/
+Talking to him	ᎨᎷᏂ	[geːlúhni] /rrd/
+Tall	ᎢᎾ ᎢᎦᏗ	[iːn iːgadi] /rrd/
+Tall	ᎢᏂᎦᏗ	[iːniːgadi] /rrd/
+Tall and skinny	ᎦᎸᏙᎵ	[galvːdoːhli] /rrd/
+Tall height	ᎢᏂ ᎢᎦᏗ	[iːn iːgadi] /rrd/
+Tame	ᎦᎾᏌ	[gaʔnasa] /rrd/
+Tamias striatus	ᎩᏳᎦ	[kiyuːga] /rrd/
+Tape recorder	ᎦᏬᏂᏒ ᎠᎩᏍᎩ	[gawoːnisv agiːsgi] /rrd/
+Teacher	ᏗᏕᏲᎲᏍᎩ	[diːdeːhyohvsgi] /rrd/
+Teaching	ᏓᏕᏲᎲᏍᎦ	[daːdeːhyoːhvːsga] /rrd/
+Teaching	ᏕᎨᏲᎲᏍᎦ	[deːgehyohvːsga] /rrd/
+Teasing him	ᎠᎵᏌᎵᎭ	[ahlsaliha] /rrd/
+Telephone	ᏗᎵᏃᎮᏗ	[diːhlinoheːhdi] /rrd/
+Telephoning	ᎧᎸᏛᏂᎠ	[kalvːdvːniʔa] /rrd/
+Telephoning	ᏓᎵᏃᎮᎭ	[daːhlinoheːha] /rrd/
+Telephoning	ᎦᎸᏛᏂᎭ	[galvːdv́ʔniːha] (idiom) /rrd/
+Television	ᎠᎾᏓᏴᏔᏍᎩ	[andayvːtahsgi] /rrd/
+Telling it	ᎧᏃᎮᎭ	[kanoheːha] /rrd/
+Ten	ᏍᎪᎯ	[sgoːhi] /rrd/
+Tennessee	ᏔᎾᏏ	[taːnsi] /rrd/
+Terrapene carolina	ᏓᎦᏏ	[daːgsi] /rrd/
+Terrapin	ᏓᎦᏏ	[daːgsi] /rrd/
+Testicle	ᎤᎪᏅ	[uːkohnv] (his) /rrd/
+Thamnophis spp	ᎣᏛᎳᏘᎢ	[odvːhlaʔtiʔi] /rrd/
+Thanking him	ᎠᎵᎮᎵᏤᎭ	[aliheːliʔtsheha] /rrd/
+Thanks	ᏍᎩ	[sgi] /rrd/
+Thanks	ᏩᏓ	[wada] /rrd/
+That	ᏍᎩ	[sgi] /rrd/
+That much	ᏍᎩᎦ	[sgiːga] /rrd/
+That so?	ᏍᎩᏕᎦ	[sgiːdega] /rrd/
+That's the one	ᏍᎩᎾᏂ	[sginaːhni] /rrd/
+That?	ᏍᎩᏄᏍᏗᎢ	[sgiʔnusdi] /rrd/
+Thawing it out	ᎦᏁᏍᏓᎳᎩᎠ	[ganeːsdalgíʔa] /rrd/
+There	ᎭᎾ	[hana] /rrd/
+There	ᎾᏉ	[naːgwo] /rrd/
+Thick	ᎤᎭᎨᏓ	[uhageːda] /rrd/
+Thicket	ᏌᎷᏱ	[saluːyi] /rrd/
+Thigh	ᎦᎦᎷᎢ	[gagaluʔi] (his) /rrd/
+Thinking	ᎠᏓᏅᏖᎭ	[adahnteha] /rrd/
+Thinking that	ᎡᎵᎠ	[eːliʔa] /rrd/
+Thirsty	ᎤᏔᏕᎩᎠ	[uːhtadeːgiʔa] /rrd/
+Thirteen	ᏦᎦᏚᎯ	[tsoːgaduhi] /rrd/
+Thirteen months	ᏦᎦᏚ ᎢᏯᏅᏓ	[tsogadu iyanvːda] (a traditional year) /rrd/
+Thirty	ᏦᎣᏍᎪᎯ	[tsoʔosgoːhi] /rrd/
+This	ᎯᎠ	[hiʔa] /rrd/
+This is	ᎯᎠᏃᏄᏍᏗ	[hiʔaːhnoʔnusdi] /rrd/
+This much	ᎯᎦ	[hiʔga] /rrd/
+This one	ᎯᎠ	[hiʔa] /rrd/
+This way	ᎯᎢᏨ	[hiʔiːtsv] /rrd/
+Thorny locust	ᎧᎵᏎᏥ	[kaːhlseːtsi] /rrd/
+Threading a needle	ᎦᏌᏁᏅᏛᎥᏍᎦ	[gasanéːndvʔvːsga] /rrd/
+Three	ᏦᎢ	[tsoʔi] /rrd/
+Throat	ᎤᎩᎯᏍᏗᏳ	[uːkihisdiːyu] (his) /rrd/
+Throwing it	ᎤᏕᎦ	[uːdeːga] /rrd/
+Thryothorus ludovicianus	ᎠᎵᏔᎹ	[alihtama] /rrd/
+Thunder	ᎠᏴᏓᏆᎶᏍᎩ	[ahyvːdagwaloʔsgi] /rrd/
+Thundering	ᎠᏴᏓᏆᎶᎠ	[ahyvːdagwalóːʔa] /rrd/
+Thursday	ᏅᎩᏁ ᎢᎦ	[nvːgine iːga] /rrd/
+Tick	ᎫᎫ	[guːgu] /rrd/
+Tickling him	ᏓᏴᎩᎠ	[dàːyv́ːgiʔa] /rrd/
+Tightening it	ᎦᏅᏐᎯᎭ	[ganvːsóhiha] /rrd/
+Timber rattlesnake	ᎤᏦᎾᏗ	[uːtsoːnadi] /rrd/
+Timber rattlesnake, male	ᎠᏨᏯ ᎤᏦᏅᏗ	[atsvya utsoːnvdi] /rrd/
+Time	ᎢᏳᏩᏂᎸᎯ	[iːyuwaːhnilvhi] /rrd/
+Tin	ᏔᎷᎩᏍᎩ	[taluːgiːsgi] /rrd/
+Tin can	ᏔᎷᎩᏍᎩ	[taluːgiːsgi] /rrd/
+Tired	ᏚᏯᏪᎦ	[duːyawéːga] /rrd/
+To be able to	ᏰᎵᏉ	[yeːliːgwo] /rrd/
+Toad	ᏩᎶᏏ	[waloːsi] /rrd/
+Tobacco	ᏦᎳ	[tsoːla] /rrd/
+Tobacco, plug of	ᏦᎳ ᎠᏍᏓᏯᏔᏅᎯ	[tsoːla asdayhtanvhi] /rrd/
+Tobacco, twist of	ᏦᎳ ᎦᏄᏕᏲᎸᎯ	[tsoːla ganuːdeːyoːhlvhi] /rrd/
+Toe	ᎦᎾᏌᏛᎢ	[ganasadvʔi] /rrd/
+Toe nail	ᎤᏑᎧᎸᎢ	[uːsuhgahlvʔi] (his) /rrd/
+Together in a group.	ᎤᎾᎵᎪᎭ	[uːnaːligoha] (Note, this verb can only appear with dual or plural pronouns.) (they are) /rrd/
+Toilet paper	ᎠᏑᎴᏙᏗ	[asuːhldoːhdi] /rrd/
+Tomato	ᎤᏂᏁᎫᎯᏍᏗ	[uniːneːguhihsdi] (es) /rrd/
+Tomorrow	ᏑᎾᎴᎢ	[suːnaːleʔi] /rrd/
+Tomorrow night	ᏑᎾᎴ ᎤᏒᎯ	[suːnaːle usvhi] /rrd/
+Tongue	ᎦᏂᎪᎢ	[gangoʔi] (his) /rrd/
+Tonight	ᎤᏒᎯ	[usvːhi] /rrd/
+Tonight	ᎯᎪ ᎤᏒᎯ	[hiːgo usvhi] /rrd/
+Too hard	ᏍᏓᏱ	[sdaːhyi] /rrd/
+Tooth	ᎦᏅᏙᎦ	[gandohga] (his) /rrd/
+Toothache	ᎤᏳᏍᏆᏗᏍᎬᎢ	[uːyusgwadisgvʔi] (his) /rrd/
+Touching it	ᎠᏒᏂᎭ	[ahsv́hniha] /rrd/
+Towards	ᎢᏣ	[iːtsa] /rrd/
+Towhee	ᏧᏬᏍᎦ	[tsuwoːsga] /rrd/
+Town at a distance	ᏗᎦᏚᎲᏱ	[digaːduhvʔy] /rrd/
+Toxicodendron radicans	ᎤᎸᏗ	[uːlvːdʔi] /rrd/
+Toxostoma rufum	ᏩᏚᏰᎳ	[waduyeːla] /rrd/
+Tracking him	ᎨᎷᏂ	[geːlúhni] /rrd/
+Tradescantia virginiana	ᏔᏆᎵ	[taːgwaːli] /rrd/
+Trading	ᎠᏓᏍᏕᏓᎵᏴᎡᎭ	[adahsdeːdaliyvʔeːha] /rrd/
+Translating it	ᎠᏁᏥᏗᎭ	[aːhneːtsdiha] /rrd/
+Transparent	ᎤᎸᏌᏘ	[uːlvhsati] /rrd/
+Trapping	ᎠᏌᏛᎥᏍᎦ	[ahsadvʔvhsga] /rrd/
+Traveling	ᎠᏁᎳᏗᎠ	[ahneːladiʔa] /rrd/
+Treacleberry	ᎤᏗᎵᏍᏗ	[udihlisdi] /rrd/
+Treating him	ᏄᏮᎾᏕᎦ	[nuːhwvnadeːga] (specify: bad or good) /rrd/
+Treatment	ᏗᏓᏅᏬᏙᏗ	[diːdaːhnvwoːhdoːhdi] (medical) /rrd/
+Trembling	ᎤᎾᏫᎠ	[uːnaːwiʔa] /rrd/
+Try	ᎦᏁᎵᏗᎭ	[ganeːhldiha] /rrd/
+Tsuga caroliniana	ᏃᏄ	[noːnu] /rrd/
+Tuberculosis	ᎤᎬᎲᎣᎵᏗ	[ukvhvohldi] /rrd/
+Tuesday	ᏔᎵᏁ	[taːline] /rrd/
+Tufted titmouse	ᎤᏧᎩ	[utsuːgi] /rrd/
+Tumbling it end over end	ᏕᎦᏁᏍᏆᏘᏗᎭ	[deːganěːhsgwatdiha] /rrd/
+Turdus migratorius	ᏥᏍᏉᏉ	[tsiːsgwoːgwo] /rrd/
+Turk's cap lily	ᎧᎾᎫᏣᏘ	[kaːhnguːtsati] /rrd/
+Turkey	ᎬᎾ	[kvːna] /rrd/
+Turkey vulture	ᏑᎵ	[suːli] /rrd/
+Turning	ᎠᎦᏔᎲᎠ	[aktahvʔa] /rrd/
+Turning it around	ᎠᎪᎸᎠ	[agóːhlvʔa] /rrd/
+Turning loose	ᎤᏲᏍᎦ	[uːyoːsga] /rrd/
+Turning off a light	ᎬᏓᎵᏗᎠ	[gvdáʔldiʔa] /rrd/
+Turning on a light	ᎠᏨᏍᏔᏍᎦ	[atsvːhstáhsga] /rrd/
+Turning on a light	ᏓᏨᏍᏔᏍᎦ	[daːtsvstǎːhsga] /rrd/
+Turnip	ᏙᏌᎾ	[dosana] /rrd/
+Turtle dove	ᎫᎴᏗᏍᎪᏂᎯ	[guːleːhdisgoːhnihi] /rrd/
+Tuscarora	ᎠᏂᏍᎦᎶᎵ	[aniːsgaloːli] /rrd/
+Twelve	ᏔᎳᏚᎯ	[taːhlduhi] /rrd/
+Twenty	ᏔᎵᏍᎪᎯ	[taːhlsgoːhi] /rrd/
+Twenty-one	ᏔᎵᏍᎪ ᏐᏊ	[taːhlsgo soːgwu] /rrd/
+Twins	ᏗᏂᎶᏫ	[diniːhlowi] /rrd/
+Twirling it	ᎦᏗᏆᎸᏕᏗᎭ	[gadiːgwalvdeːhdiha] /rrd/
+Twisting it	ᎦᏄᏖᏲᎭ	[ganuːteʔyoːha] /rrd/
+Two	ᏔᎵ	[taːli] /rrd/
+Two hundred	ᏔᎵᏥᏆ	[taːlitsgwa] /rrd/
+Tying	ᏓᎧᏁᎯᎭ	[daːkaneːhiha] /rrd/
+Tying up	ᎠᎸᎢᎭ	[ahlv́ːiha] /rrd/
+Tyrannus tyrannus	ᏗᎴᏆ	[dileːgwa] /rrd/
+Uganahsda	ᎤᎦᎾᏍᏓ	[uganasda] /rrd/
+Ugly	ᎤᏲ ᏗᎧᎾᏘ	[uyo dikaːhndi] /rrd/
+Ulcer	ᎦᏬᏍᎬ	[gawoːsgv] /rrd/
+Ulmus spp	ᏧᎩᏅ	[tsuʔgiːnv] /rrd/
+Unable to do it	ᎤᏄᎸᎲᏍᎦ	[uːnúːlvhvhsga] /rrd/
+Unable to find	ᎤᏦᎦ	[uːtsoːga] /rrd/
+Uncle	ᎤᏚᏥ	[uːduːtsi] (his) /rrd/
+Uncovering it	ᎫᏌᎩᎠ	[guːsagíʔa] /rrd/
+Under	ᎰᏫᏂᏣ	[howiːniːtsa] /rrd/
+Under the house	ᎦᏂᏒᏱ	[ganíʔsvːyi] /rrd/
+Understanding it	ᎪᎵᎦ	[goːlhga] /rrd/
+Undressing	ᎠᎿᏬᎩᎠ	[aːhnawogiʔa] /rrd/
+Unplugging it	ᎫᏓᎳᎩᎠ	[gudaːlagiʔa] /rrd/
+Unravelling	ᎠᏛᎩᎠ	[aːdvgíʔa] /rrd/
+Unravelling it	ᎬᎩᎠ	[gvgíʔa] /rrd/
+Unripe	ᎠᎪᏍᏗ	[agoːsdi] /rrd/
+Until	ᎢᎪᎯᏛ	[iːgohiːdv] /rrd/
+Unwinding it	ᎦᎸᏪᏯᎩᎠ	[galvːweːyagíʔa] /rrd/
+Up the mountain	ᎦᏚᏏ	[gaːduːsi] /rrd/
+Upper back	ᎦᏐᎯᎢ	[gasohiʔi] (his) /rrd/
+Upstairs	ᎦᎸᎳᏗ	[galv́ːladi] /rrd/
+Upstream	ᏦᎩ	[tsoːgi] /rrd/
+Upward	ᎦᎸᎳᏗᏣ	[galvːladitsa] /rrd/
+Urging him	ᎦᏂᎵᏕᎭ	[ganíːlʔdeːha] /rrd/
+Urging him	ᎦᏅᏫᏍᏗᎭ	[gaːhnvwsdiha] /rrd/
+Urinating	ᎠᏗᎬᎠ	[adíːkvʔa] /rrd/
+Urocyon cinereoargenteus	ᏧᎳ ᏌᎪᏂᎨ	[tsuːla sakoːnige] /rrd/
+Ursus americanus	ᏲᎾ	[yoːna] /rrd/
+Using	ᎬᏗ	[gvːhdi] /rrd/
+Using it	ᎬᏗᎭ	[gvːhdiha] /rrd/
+Uttering it	ᏂᎦᏪᎠ	[nigaweʔa] /rrd/
+Uvularia sessilifolia	ᏧᏍᎦ ᏓᎶᏗ	[tsuːsga dalóːhdi] /rrd/
+Vagina	ᎤᎴᏍᏓᎸᎢ	[uːleːsdahlvːʔi] (her) /rrd/
+Value	ᏧᎬᏩᎶᏗ	[tsuːgvːwaːhldi] /rrd/
+Veins	ᏧᏩᏚᏂ	[tsuwaduːni] (his) /rrd/
+Velvet	ᏛᏁᏈᏳᏍᏗ ᎠᎿᏬ	[tvneːgwiyusdi aːhnawo] /rrd/
+Vendor	ᎦᎾᏗᏍᎩ	[gandisgi] /rrd/
+Venison	ᎠᎭᏫᏯ	[ahawiːya] /rrd/
+Veratrum viride	ᎠᏍᏋᏁᏓ	[asgwvneːda] /rrd/
+Very	ᎤᏙᏳ	[udoːhyuː] /rrd/
+Very good	ᎣᏏᏳ	[oːsiːyu] /rrd/
+Vespula maculifrons	ᏣᎦᏱ	[tsgaːyʔi] /rrd/
+Vial	ᎫᎫ	[guːgu] /rrd/
+Vine, to be on	ᎱᏓ	[huːda] /rrd/
+Viola blanda	ᏗᎾᏓᏍᏓᏍᎩ ᎤᏂᏁᎦ	[diːhndaːsdaːsgi unineːga] /rrd/
+Viola sororia	ᏗᎾᏓᏍᏓᏍᎩ	[diːhndaːsdaːsgi] /rrd/
+Violets	ᎠᎾᏓᏍᏓᏍᎩ	[anadaːsdaːsgi] /rrd/
+Vireo	ᏧᏕᏒᎾᎵ	[tsudeːsvnaːli] /rrd/
+Vireo olivaceus	ᏧᏕᏒᎾᎵ	[tsudeːsvnaːli] /rrd/
+Virginia	ᏩᏥᏂ	[waːtsini] /rrd/
+Virginia spiderwort	ᏔᏆᎵ	[taːgwaːli] /rrd/
+Virginia Strawberry	ᎠᏂ	[aːni] /rrd/
+Virginia water horehound	ᎠᏂᏬᏂᏍᎩ	[aniːwoʔnihsgi] /rrd/
+Virginians	ᎠᏂᏩᏥᏂ	[aniːwaːtsiːni] /rrd/
+Viscum album	ᎤᏓᎵ	[udaːhli] /rrd/
+Visiting	ᎠᏩᏛᎯᏙᎭ	[ahwahtvhiːdoːha] /rrd/
+Vitis aestivalis	ᏆᎷᏏ	[kwalúsi] /rrd/
+Vitis baileyana	ᎨᎳᏗ	[keːladi] /rrd/
+Vitis labrusca	ᎤᏂᏖᎸᎳᏗ	[unitelvːlahdi] /rrd/
+Vitis labrusca	ᏖᎸᎳᏗ	[telv́laːdi] /rrd/
+Vitis rotundifolia	ᏆᎷᏏ	[kwalúsi] /rrd/
+Vote	ᎪᏪᎵ ᏧᏍᏗ	[goːhweːli tsuːsdi] /rrd/
+Vulpes spp	ᏧᎳ	[tsuːla] /rrd/
+Vulpes vulpes	ᏧᎳ ᎩᎦᎨ	[tsuːla giːgage] /rrd/
+Wading	ᎠᏚᎯᏂᏙᎭ	[aduhinidoha] /rrd/
+Wait	Ꮟ	[sih] /rrd/
+Wait a minute	ᏏᎸᎢ	[silvʔi] /rrd/
+Wait a while	ᏏᏎᎦ	[siseːga] /rrd/
+Waiting for him, it	ᎠᎦᏘᏯ	[aktiːya] /rrd/
+Waking up	ᎠᏰᎦ	[ayéːga] /rrd/
+Walking	ᎠᎢ	[aʔi] /rrd/
+Walking about	ᎡᏙᎭ	[eːdoha] /rrd/
+Walking cane	ᎠᏙᎳᏅᏍᏗ	[adoːlanvhsdi] /rrd/
+Walking stick	ᎠᏙᎳᏅᏍᏗ	[adoːlanvhsdi] /rrd/
+Walkway	ᎡᏓᏍᏗ	[eːdʔasdi] /rrd/
+Wall	ᎦᎾᏑᎦᎸᎢ	[gansuːgaːhlvʔi] /rrd/
+Wall paper	ᎭᏯᎦᎸᏛᎢ	[hayaːgalvːdvʔi] /rrd/
+Walnut	ᏎᏗ	[seːdi] /rrd/
+Wanting it	ᎤᏚᎵᎭ	[uːdúːliha] /rrd/
+War	ᎠᏓᏃᏫ	[adaːhnowi] /rrd/
+War dance	ᎠᏓᎿᏩ ᎤᎾᎵᏍᎩᏍᏗ	[adaːhnvwa unaːhlsgiːsdi] /rrd/
+Warts	ᏩᎶᏏ	[waloːsi] /rrd/
+Washing dishes	ᏕᎬᏗᏰᎠ	[deːgvːdíːyeʔa] /rrd/
+Washing hair	ᎠᎵᏍᏚᎵᎭ	[ahlsduːliha] /rrd/
+Washing his face	ᎠᎬᏍᏉᎠ	[agvhsgwoːʔa] /rrd/
+Washing his hands	ᏓᏑᎴᎭ	[daːsúːleːha] /rrd/
+Washing it	ᎬᎩᎶᎠ	[gvgiːloʔa] (something alive) /rrd/
+Washing it	ᎬᎩᎶᎠ	[kv́giːloʔa] (something flexible) /rrd/
+Washing it	ᎫᎢᎶᎠ	[guʔiːloʔa] (something long) /rrd/
+Washing it	ᎫᎯᎶᎠ	[gúhiːloʔa] (something solid) /rrd/
+Washing machine	ᏗᎬᎩᎣᏍᎩ	[digkiʔoːsgi] /rrd/
+Washington, DC	ᎦᎾᏍᏚᎩ	[gaːnsduːgi] /rrd/
+Wasp	ᎧᎾᏥᏍᏕᏥ	[kaːntsisdeːtsi] /rrd/
+Watching for him, it	ᎠᎦᏘᏯ	[aktiːya] /rrd/
+Watching it	ᎠᎧᏎᏍᏗᎭ	[akásehsdiha] /rrd/
+Watching over him, it	ᎠᎦᏘᏯ	[aktiːya] /rrd/
+Water	ᎠᎹ	[amaː] /rrd/
+Water beetle	ᏙᏳᏂᏏ	[doːyuniːsi] /rrd/
+Water birch	ᎦᏁᏗᏍᎩ	[ganeːdísgi] /rrd/
+Water cress	ᎠᎼ ᎤᎵᏏ	[amo uliːsi] /rrd/
+Water fall	ᎠᎹ ᎦᏙᎣᏍᎬᎢ	[am gadoːoʔsgvːʔi] /rrd/
+Water faucet	ᎠᎹ ᎠᏍᏚᎩᏍᏗ	[am ahsdugiʔsdi] /rrd/
+Water moccasin	ᎧᏁᏉᏓ	[kaneːgwoːda] /rrd/
+Water oak	ᏙᎳᏥ	[doːlatsi] /rrd/
+Water pipe	ᎠᎹ ᎤᏪᏓᏍᏗ	[am uwedʔasdi] /rrd/
+Water that is moving swiftly	ᎪᎵᏍᏓᏴᎢ	[golisdaːyvʔi] /rrd/
+Waterdog	ᏧᏩ	[tshuːwa] /rrd/
+Watermelon	ᎬᎩᏍᏗ	[gvgiːsdi] /rrd/
+Way	ᎠᎬᏱᏗᏣ	[agvːyidiːtsa] (in the) /rrd/
+Way off	ᏂᎨᎢ	[nigeːi] /rrd/
+Waynesville, NC	ᏐᎩ	[soʔgi] /rrd/
+We	ᎠᏴ	[ayvː] /rrd/
+Weak	ᎠᏩᏂᎦᎳ	[awaːniːgala] /rrd/
+Weak	ᎤᎵᏍᏗ	[uːliːsdi] /rrd/
+Weasel	ᏓᎶᏂᎨ ᏥᏍᏕᏥ	[daloːnige tsisdeːtsi] /rrd/
+Weaving	ᎬᏍᎦ	[gvːsga] /rrd/
+Wedge	ᎦᎭᏗ	[gahaːdi] /rrd/
+Wednesday	ᏦᎢᏁ ᎢᎦ	[tsoʔine iːga] /rrd/
+Weeds	ᎦᏄᎸᎯ	[ganuːlvhi] /rrd/
+Week	ᏑᎾᏙᏓᏆᏍᏗ	[suːndoːdagwasdi] /rrd/
+Weeping	ᎠᏥᏲᏱᎭ	[aːdsyóhyiha] /rrd/
+Weeping	ᎠᏦᏱᎭ	[atsoːhyiha] /rrd/
+Weeping willow	ᏗᎦᎦᎸᏅᎯᏓ	[digaʔgalvːnvhiːda] /rrd/
+Welcoming	ᏓᏓᏂᎸᎦ	[daːdaníːlvːga] /rrd/
+Well	ᎣᏏ	[oːsi] /rrd/
+West	ᏭᏕᎵᎬᎢ	[wuːdeːliːgvʔi] /rrd/
+Western Indians	ᏭᏕᎵᎬ ᎠᏁᎯ ᎠᏂᏴᏫᏯ	[wuːdeːliːgv anehi aniːyvːwiya] /rrd/
+What	ᎦᏙ	[gado] /rrd/
+What	ᏙᎢᏳᏍᏗ	[doʔiːyuhsdi] /rrd/
+What can it be	ᏙᏗ ᎢᏳᏍᏗ	[doːdi iːyusdi] /rrd/
+Wheat bread	ᎤᏣᎴᏍᏗ	[uːtsaleːsdi] /rrd/
+When	ᎲᎦᎢᏴ	[hvːgaʔiːyv] /rrd/
+Where  NC version  Used for asking questions only	ᎦᏨ	[gatsv] /rrd/
+Where	ᎭᏢ	[hadlv] (Oklahoma) /rrd/
+While ago	ᎪᎯ	[goːhi] /rrd/
+Whirlpool	ᎠᎹ ᎠᏕᏲᎲᎢ	[am adeːhyohvːʔi] /rrd/
+Whiskey	ᏫᏍᎩ	[hwiːsgi] /rrd/
+Whistling	ᎠᏩᏒᎭᏍᎦ	[ahwsvhahsga] /rrd/
+White	ᎤᏁᎦ	[uːneːga] /rrd/
+White pine	ᏙᏥ	[doʔtsi] /rrd/
+White violet	ᏗᎾᏓᏍᏓᏍᎩ ᎤᏂᏁᎦ	[diːhndaːsdaːsgi unineːga] /rrd/
+White walnut	ᎪᎯ	[koːhi] /rrd/
+White willow	ᏗᎳᎦᎵᏍᎩ ᎡᏆ	[dilaːgalisgi eːgwa] /rrd/
+White-breasted nuthatch	ᏗᏪᏓᎶᎯ	[diweːdaloːhi] /rrd/
+White-tailed deer	ᎠᏫ	[ahwi] /rrd/
+Who is it?	ᎧᎩᏳᏍᏗ	[kaːgiyusdi] /rrd/
+Who?	ᎧᎪ	[kaːgo] /rrd/
+Whooping cough	ᎤᏎᏍᎩ	[uhsehsgi] /rrd/
+Whooping crane	ᎧᎾᏍᎦᏫ	[kansgawi] /rrd/
+Why	ᏙᏂ	[doʔni] /rrd/
+Wide	ᎠᏯᏖᎾ	[ayaːteːna] /rrd/
+Wife	ᎤᏍᏓᏴᎲᏍᎩ	[uːsdaːyvhvsgi] (his) /rrd/
+Wife	ᎤᏓᎵᎢ	[uːdaliʔíː] (his) /rrd/
+Wild	ᎢᎾᎨᎢ	[iːnageːʔi] /rrd/
+Wild	ᎨᏯᏔᎯ	[geyatahi] (not tame) /rrd/
+Wild allspice	ᏃᏓᏥ	[noːhdatsi] /rrd/
+Wild cherry	ᎢᎾᎨ ᎡᎯ ᏔᏯ	[iːnageː ehi taːya] /rrd/
+Wild cherry	ᏔᏯ ᎢᎾᎨᎢ	[taːya inageʔi] /rrd/
+Wild comfrey	ᎤᏂᏍᏕᎴᏍᏗ	[unisdeleːhsdi] /rrd/
+Wild grapes	ᎤᏂᏖᎸᎳᏗ	[unitelvːlahdi] /rrd/
+Wild grapes	ᏖᎸᎳᏗ	[telv́laːdi] /rrd/
+Wild hydrangea	ᎦᎵᏉᎩ ᏧᏯᏍᏚ	[gaːhlkwoːgi tsuːyaːsdu] /rrd/
+Wild mandrake	ᎤᏂᏍᏇᏚᎦ	[unisgweːduːga] /rrd/
+Wild passion vine	ᎤᏩᎦ	[uːwaga] /rrd/
+Wild potato clan	ᎠᏂᎪᏓᎨᏫ	[aniːgoːdageːwi] /rrd/
+Wild turkey	ᎬᎾ ᎢᎾᎨᎡᎯ	[kvːna iːnageːehi] /rrd/
+Wild turnip	ᏙᏒᎾ ᎢᎾᎨ ᎡᎯ	[doːsvna inage ehi] /rrd/
+Wild turnip	ᏚᏯᏍᏗ	[duyasdi] /rrd/
+Wind	ᎤᏃᎴᎯ	[unoːlehi] /rrd/
+Wind is blowing	ᎦᏃᎸᎥᏍᎦ	[ganoːlv́ʔvsga] /rrd/
+Winding a clock	ᎦᏅᏐᎮᎭ	[ganvsoːheːha] /rrd/
+Winding it up	ᎦᎸᏪᏯᏍᏗᎭ	[galvːhweysdiha] /rrd/
+Winding thread or yarn	ᎦᎸᏪᎠ	[galvːweʔa] /rrd/
+Window lock	ᎪᏒᎾᎳᏗᏍᏗᏳ	[gosvːhnaldisdiːyu] /rrd/
+Window pane	ᎠᏓᎨᏗ	[adaːkeːhdi] /rrd/
+Window pane	ᏦᎳᏂ	[tsoːlani] /rrd/
+Wing	ᎠᎬᏃᎨᏂ	[akvnoːgeːni] (his) /rrd/
+Winning	ᎠᏔᎶᏍᎦ	[aʔtalohsga] /rrd/
+Winter	ᎪᎳ	[goːla] /rrd/
+Wiping himself	ᎠᏑᎴᎭ	[aːhsuːleha] /rrd/
+Wiregrass	ᎧᏁᏍᎦ	[kaneːsga] /rrd/
+Wiring	ᎠᏏᎳᏛᎥᏍᎦ	[asiladvːʔvhsga] /rrd/
+Wishi mushroom	ᏫᏏ	[wiːsi] /rrd/
+Wishing to accompany	ᎠᎵᎪᏁᎭ	[aːliːgohneha] /rrd/
+Wishing to say	ᎤᏰᎸᎭ	[uːyéːlvːha] /rrd/
+Witch	ᏥᎩᎵ	[tsgiːli] /rrd/
+Witch-hazel	ᎦᎾᏑᏛᎶ	[gansuːdvlo] /rrd/
+Witching	ᎠᏓᏁᏌᎩᎠ	[adahnehsagiʔa] /rrd/
+Witching	ᏓᏙᏂᎭ	[daːdoːniːha] /rrd/
+With	ᎬᏗ	[gvːhdi] /rrd/
+Wolf	ᏩᏯ	[waːhya] /rrd/
+Wolf clan	ᎠᏂᏩᏯ	[aniːhwaya] /rrd/
+Wolftown	ᏩᏲᎯ	[waːhyoːhi] /rrd/
+Woman	ᎠᎨᏯ	[ageːhya] /rrd/
+Woman, Elderly	ᎠᎦᏴᎵᎨᎢ	[agayvːligeʔi] /rrd/
+Wood	ᎠᏓ	[ahda] /rrd/
+Wood betony	ᎤᎫᎫᏍᏙ	[uguːkuːsdo] /rrd/
+Wood thrush	ᎧᏬᎬ	[kawoːgv] /rrd/
+Wood-fern	ᏲᎾ ᎤᏤᏍᏓ	[yoːna utseːsda] /rrd/
+Woodchuck	ᎣᎦᏅ	[oːganv] /rrd/
+Wool	ᎤᏩᏂ	[uːwani] /rrd/
+Word	ᎢᎬᏁᎢᏍᏗ	[iːgvneːʔisdi] /rrd/
+Working	ᏚᎸᏫᏍᏓᏁᎭ	[duːhlvwiːsdaʔneːha] /rrd/
+World	ᎡᎶᎯ	[eːlohi] /rrd/
+Worm	ᏥᎪᏱ	[dsgoːyi] /rrd/
+Worm-eating warbler	ᎩᏳᎬ	[kiyuːgv] /rrd/
+Worrying	ᎤᏓᏅᏖᏗᎭ	[uːdaːnhtéhdiha] /rrd/
+Worth	ᎤᎬᏩᎶᏗ	[uːgvːhwaldi] /rrd/
+Worth	ᏧᎬᏩᎶᏗ	[tsuːgvːwaːhldi] /rrd/
+Wrapping it	ᎠᏓᎳᏒᎲᏍᎦ	[adáhlsvhvhsga] /rrd/
+Wringing it	ᎠᏨᏩᏍᏗᎭ	[atsvwahsdiha] /rrd/
+Wrinkling	ᎦᏁᎪᏳᎦ	[ganeːgoyuga] /rrd/
+Wrist	ᎤᏰᏑᏨᏂ	[uyeːsotsvːni] (his) /rrd/
+Wristwatch	ᏩᏥ	[waːtsi] /rrd/
+Writer	ᏗᎪᏪᎵᏍᎩ	[digoːhweːliːsgi] /rrd/
+Writing	ᎪᏪᎵᎠ	[goːhweːliʔa] /rrd/
+Xyris caroliniana	ᏓᎶᏂᎨ ᎤᎾᏍᏕᏥ	[daloːnige unasdeːtsi] /rrd/
+Yard	ᎢᏳᏥᎶᏓ	[iːyuːtsiːloːda] /rrd/
+Yard	ᏑᏥᎶᏓ	[sutsiloːda] (measurement) /rrd/
+Yardstick	ᎠᏥᎶᏍᏗ	[atsiloːsdi] /rrd/
+Year	ᏑᏕᏘᏴᏓ	[suːdetiːyvːda] /rrd/
+Year	ᎤᏕᏗᏴᏌᏗᏒᎢ	[uːdehdiːyvːsadiːsvːʔi] (in the) /rrd/
+Year, traditional	ᏦᎦᏚ ᎢᏯᏅᏓ	[tsogadu iyanvːda] /rrd/
+Yelling	ᎠᏙᎯᎠ	[atoːhiːʔa] /rrd/
+Yellow	ᏓᎶᏂᎨᎢ	[daloːnigeʔi] /rrd/
+Yellow breasted mockingbird	ᎱᎱ	[huːhu] /rrd/
+Yellow dock	ᏓᎦᎩ	[daːgki] /rrd/
+Yellow fringed orchid	ᎠᏣᏗ ᎠᏂᏆᏔ	[atsaːdi aniːgwaːta] /rrd/
+Yellow fringed orchid	ᎤᎫᎫ ᎤᏍᎪᎵ	[uguku uːskoːli] /rrd/
+Yellow Hill Community	ᎡᎳᏬᏗ	[eːlawohdi] /rrd/
+Yellow jacket	ᏣᎦᏱ	[tsgaːyʔi] /rrd/
+Yellow poplar, aka Tulip tree, Tulip poplar	ᏥᏳ	[tsiːyu] /rrd/
+Yellow root	ᏓᎶᏂᎨ ᎤᎾᏍᏕᏥ	[daloːnige unasdeːtsi] /rrd/
+Yellow shafted flicker	ᎤᏁᎦᏓ	[uneːgaːda] /rrd/
+Yellow widelip orchid	ᎤᏲᏓᎵᏳᏍᏗ	[uyodaːhliyusdi] /rrd/
+Yellow-bellied sapsucker	ᏧᎵᎡᎾ	[tsuːliʔeːna] /rrd/
+Yellow-billed cuckoo	ᏓᎶᎬ	[daloːgv] /rrd/
+Yellow-breasted chat	ᎱᎱ	[huːhu] /rrd/
+Yellowhammer	ᎤᏁᎦᏓ	[uneːgaːda] /rrd/
+Yes	ᎥᎥ	[vːv] /rrd/
+Yesterday	ᎤᏒᎯ	[usvːhi] /rrd/
+You too	ᎢᎯᏍᏉ	[ihiːsgwoː] /rrd/
+Young animal from a litter	ᎠᏓᎯ	[adaːhi] /rrd/
+Younger brother	ᎤᏄᏥ	[uːnuːtsi] (male ego) (his) /rrd/
+Your family	ᏕᏣᎵᏗᎿᎢ	[deːtsaːhldiːhnaʔi] /rrd/
+Yucca flaccida	ᏎᎷᏉᏯ	[seːlugwoya] /rrd/
+Yuchi	ᎠᏂᏳᏥ	[aniːyuːtsi] /rrd/
+Zea Mays	ᏎᎷ	[seːlu] /rrd/
+Zebra	ᏧᏂᎶᏗ ᏐᏈᎵ	[tsuːniːloːhdi soːgwili] /rrd/
+Zenaida macroura	ᎫᎴᏗᏍᎪᏂᎯ	[guːleːhdisgoːhnihi] /rrd/

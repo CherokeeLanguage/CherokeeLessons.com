@@ -1,0 +1,3920 @@
+1
+00:00:02,179 --> 00:00:08,460
+today we're going to demonstrate how to
+
+2
+00:00:05,819 --> 00:00:13,160
+take a public domain comic book
+
+3
+00:00:08,460 --> 00:00:17,160
+take a story out of it clean it up
+
+4
+00:00:13,160 --> 00:00:18,900
+and prayer parrot for re-lettering with
+
+5
+00:00:17,160 --> 00:00:23,279
+Cherokee
+
+6
+00:00:18,900 --> 00:00:26,460
+this purpose of this is to use
+
+7
+00:00:23,279 --> 00:00:28,380
+already existing material to reduce the
+
+8
+00:00:26,460 --> 00:00:32,099
+amount of Labor
+
+9
+00:00:28,380 --> 00:00:35,059
+and how long it takes to produce new
+
+10
+00:00:32,099 --> 00:00:39,239
+educational material for use by students
+
+11
+00:00:35,059 --> 00:00:43,920
+Comics are a real good medium
+
+12
+00:00:39,239 --> 00:00:46,379
+for teaching languages because a lot of
+
+13
+00:00:43,920 --> 00:00:49,920
+the story is done graphically and does
+
+14
+00:00:46,379 --> 00:00:53,640
+not require descriptions in language
+
+15
+00:00:49,920 --> 00:00:55,039
+the only thing that's really
+
+16
+00:00:53,640 --> 00:00:57,719
+um
+
+17
+00:00:55,039 --> 00:00:59,640
+translatable or it needs to be
+
+18
+00:00:57,719 --> 00:01:01,680
+translated and put into the target
+
+19
+00:00:59,640 --> 00:01:03,960
+language is the dialogue which is
+
+20
+00:01:01,680 --> 00:01:06,479
+actually a more important component of
+
+21
+00:01:03,960 --> 00:01:08,580
+language and learning okay the first
+
+22
+00:01:06,479 --> 00:01:10,020
+single thing we need to do is to
+
+23
+00:01:08,580 --> 00:01:12,119
+actually get a
+
+24
+00:01:10,020 --> 00:01:14,280
+comic book and download it so that we
+
+25
+00:01:12,119 --> 00:01:15,720
+can get the images for the pages out of
+
+26
+00:01:14,280 --> 00:01:17,760
+it
+
+27
+00:01:15,720 --> 00:01:19,320
+um in this particular case we are going
+
+28
+00:01:17,760 --> 00:01:20,340
+to be using
+
+29
+00:01:19,320 --> 00:01:23,460
+um
+
+30
+00:01:20,340 --> 00:01:26,159
+a portion of the comic book series Billy
+
+31
+00:01:23,460 --> 00:01:28,979
+and buggy bear
+
+32
+00:01:26,159 --> 00:01:32,700
+um a
+
+33
+00:01:28,979 --> 00:01:36,360
+a group of students and teacher have
+
+34
+00:01:32,700 --> 00:01:39,119
+been translating it into Cherokee so
+
+35
+00:01:36,360 --> 00:01:40,880
+it's a good starting point
+
+36
+00:01:39,119 --> 00:01:43,740
+to
+
+37
+00:01:40,880 --> 00:01:46,740
+demonstrate how to take what they've
+
+38
+00:01:43,740 --> 00:01:48,180
+done as far as translation work goes and
+
+39
+00:01:46,740 --> 00:01:51,180
+to
+
+40
+00:01:48,180 --> 00:01:52,619
+repurpose a comment with re-lettering in
+
+41
+00:01:51,180 --> 00:01:54,240
+Cherokee
+
+42
+00:01:52,619 --> 00:01:56,720
+so the first thing we've got to do is
+
+43
+00:01:54,240 --> 00:01:59,040
+we've got to go do a site such as
+
+44
+00:01:56,720 --> 00:02:00,960
+comicbookplus.com there are other sites
+
+45
+00:01:59,040 --> 00:02:03,840
+available but this one is one of the
+
+46
+00:02:00,960 --> 00:02:07,500
+easier ones that we have found to use
+
+47
+00:02:03,840 --> 00:02:09,799
+so I want to search for Billy and muggie
+
+48
+00:02:07,500 --> 00:02:09,799
+Bear
+
+49
+00:02:10,319 --> 00:02:15,360
+and here it is and it'll actually show
+
+50
+00:02:12,900 --> 00:02:18,599
+multiple
+
+51
+00:02:15,360 --> 00:02:21,300
+um like setups for it so we'll just
+
+52
+00:02:18,599 --> 00:02:24,000
+click on the first one here okay
+
+53
+00:02:21,300 --> 00:02:26,220
+the particular one that they are
+
+54
+00:02:24,000 --> 00:02:28,980
+translating from is Billy and buggy
+
+55
+00:02:26,220 --> 00:02:31,379
+Bearer issue number 10.
+
+56
+00:02:28,980 --> 00:02:33,900
+so we'll go to that so now we have issue
+
+57
+00:02:31,379 --> 00:02:37,620
+number 10 being displayed so what we
+
+58
+00:02:33,900 --> 00:02:39,840
+need to do now is to download the file
+
+59
+00:02:37,620 --> 00:02:41,220
+so I want to place it into a folder I've
+
+60
+00:02:39,840 --> 00:02:43,080
+already created myself a folder called
+
+61
+00:02:41,220 --> 00:02:45,480
+comics and inside that I've been created
+
+62
+00:02:43,080 --> 00:02:50,220
+another folder called Billy and Boogie
+
+63
+00:02:45,480 --> 00:02:53,940
+Bear the file will end with cbz this
+
+64
+00:02:50,220 --> 00:02:58,620
+means compressed comic book zip
+
+65
+00:02:53,940 --> 00:03:01,200
+so we'll go ahead and save it there
+
+66
+00:02:58,620 --> 00:03:05,459
+as soon as it's saved
+
+67
+00:03:01,200 --> 00:03:08,220
+we can close out the web browser
+
+68
+00:03:05,459 --> 00:03:10,920
+and we come over here
+
+69
+00:03:08,220 --> 00:03:13,620
+and so here is the file so now I can
+
+70
+00:03:10,920 --> 00:03:16,879
+right click the file on here and tell it
+
+71
+00:03:13,620 --> 00:03:16,879
+I wish to extract it
+
+72
+00:03:18,180 --> 00:03:21,060
+Windows machines and MAC machines
+
+73
+00:03:20,099 --> 00:03:23,340
+probably do that a little bit
+
+74
+00:03:21,060 --> 00:03:24,959
+differently but it should be very
+
+75
+00:03:23,340 --> 00:03:26,220
+similar to what I'm doing here with my
+
+76
+00:03:24,959 --> 00:03:28,800
+Linux box
+
+77
+00:03:26,220 --> 00:03:33,060
+so now I can go into this folder
+
+78
+00:03:28,800 --> 00:03:36,180
+now so as you can see each page
+
+79
+00:03:33,060 --> 00:03:40,159
+is an image so like for page one
+
+80
+00:03:36,180 --> 00:03:43,260
+or image one is the cover page
+
+81
+00:03:40,159 --> 00:03:44,879
+so image two this is an ad that was in
+
+82
+00:03:43,260 --> 00:03:46,860
+the comic
+
+83
+00:03:44,879 --> 00:03:49,860
+um from based on this they've skipped
+
+84
+00:03:46,860 --> 00:03:51,780
+the inside of the cover because it's
+
+85
+00:03:49,860 --> 00:03:53,940
+probably blank
+
+86
+00:03:51,780 --> 00:03:56,400
+and like here we have the first story in
+
+87
+00:03:53,940 --> 00:03:58,920
+this particular comment Pat and Mike in
+
+88
+00:03:56,400 --> 00:04:01,860
+this clear case we're looking for
+
+89
+00:03:58,920 --> 00:04:03,780
+um specifically salty turtle
+
+90
+00:04:01,860 --> 00:04:04,860
+in this
+
+91
+00:04:03,780 --> 00:04:09,860
+here
+
+92
+00:04:04,860 --> 00:04:09,860
+so let's take a look at the actual page
+
+93
+00:04:10,319 --> 00:04:13,920
+so what you're looking at is the first
+
+94
+00:04:12,180 --> 00:04:16,680
+to keep in mind is that Comics
+
+95
+00:04:13,920 --> 00:04:19,320
+especially in the 40s and 50s
+
+96
+00:04:16,680 --> 00:04:22,380
+and probably all the way up through the
+
+97
+00:04:19,320 --> 00:04:25,380
+90s and even modern Comics to some
+
+98
+00:04:22,380 --> 00:04:29,180
+degree were printed on a thin cream
+
+99
+00:04:25,380 --> 00:04:32,220
+paper so this is why this isn't white
+
+100
+00:04:29,180 --> 00:04:34,680
+aging of the paper additionally has
+
+101
+00:04:32,220 --> 00:04:36,419
+occurred which makes it even darker
+
+102
+00:04:34,680 --> 00:04:38,639
+so that's one of the things we have to
+
+103
+00:04:36,419 --> 00:04:40,139
+correct for
+
+104
+00:04:38,639 --> 00:04:43,680
+um in this particular case we'll be
+
+105
+00:04:40,139 --> 00:04:45,840
+removing all of this paper color right
+
+106
+00:04:43,680 --> 00:04:48,360
+here because we don't want it we want it
+
+107
+00:04:45,840 --> 00:04:50,400
+to be transparent so that it doesn't
+
+108
+00:04:48,360 --> 00:04:52,800
+impact anything we're doing
+
+109
+00:04:50,400 --> 00:04:55,699
+and it's the same thing for here
+
+110
+00:04:52,800 --> 00:04:55,699
+and here
+
+111
+00:04:56,220 --> 00:05:01,680
+for the speech bubbles and
+
+112
+00:04:59,880 --> 00:05:03,360
+things like we know for a factor must be
+
+113
+00:05:01,680 --> 00:05:06,240
+white we normally just remove that and
+
+114
+00:05:03,360 --> 00:05:09,000
+put a white true white in so that it
+
+115
+00:05:06,240 --> 00:05:11,639
+um displays better in modern printing
+
+116
+00:05:09,000 --> 00:05:14,520
+for paper Printing and displays better
+
+117
+00:05:11,639 --> 00:05:16,860
+in ebook readers
+
+118
+00:05:14,520 --> 00:05:17,900
+one other thing that normally has to be
+
+119
+00:05:16,860 --> 00:05:20,820
+handled
+
+120
+00:05:17,900 --> 00:05:24,840
+depending upon your needs is the removal
+
+121
+00:05:20,820 --> 00:05:26,460
+of English writing from various portions
+
+122
+00:05:24,840 --> 00:05:28,440
+of the text
+
+123
+00:05:26,460 --> 00:05:30,139
+this particular case there's English
+
+124
+00:05:28,440 --> 00:05:33,720
+writing
+
+125
+00:05:30,139 --> 00:05:36,600
+in the image on the book that's one
+
+126
+00:05:33,720 --> 00:05:38,720
+thing that has to be corrected
+
+127
+00:05:36,600 --> 00:05:38,720
+um
+
+128
+00:05:40,080 --> 00:05:46,080
+is usually a few but not many this way
+
+129
+00:05:42,900 --> 00:05:47,759
+for example this wanted poster also has
+
+130
+00:05:46,080 --> 00:05:49,259
+English writing on it that will need to
+
+131
+00:05:47,759 --> 00:05:52,080
+be removed
+
+132
+00:05:49,259 --> 00:05:54,240
+and I'll show you how one way of doing
+
+133
+00:05:52,080 --> 00:05:56,699
+that there's not a
+
+134
+00:05:54,240 --> 00:05:59,520
+set way but there is a way and I can
+
+135
+00:05:56,699 --> 00:06:05,160
+show you how I go about doing it so I
+
+136
+00:05:59,520 --> 00:06:05,160
+have a program called [ __ ] installed and
+
+137
+00:06:05,520 --> 00:06:10,259
+I use it
+
+138
+00:06:07,860 --> 00:06:13,080
+for
+
+139
+00:06:10,259 --> 00:06:15,919
+um Graphics manipulation so this is the
+
+140
+00:06:13,080 --> 00:06:15,919
+main program here
+
+141
+00:06:16,080 --> 00:06:23,100
+and I will go ahead and open up
+
+142
+00:06:19,620 --> 00:06:24,660
+number 29 which is the first image of
+
+143
+00:06:23,100 --> 00:06:25,979
+the story we're wanting to do here I can
+
+144
+00:06:24,660 --> 00:06:27,360
+have a preview so now I'm looking at the
+
+145
+00:06:25,979 --> 00:06:30,000
+right one
+
+146
+00:06:27,360 --> 00:06:34,080
+and I can hit open
+
+147
+00:06:30,000 --> 00:06:37,139
+now [ __ ] normally saves things in a
+
+148
+00:06:34,080 --> 00:06:39,300
+format called xcf so that's the first
+
+149
+00:06:37,139 --> 00:06:42,960
+thing we need to do is to save this as
+
+150
+00:06:39,300 --> 00:06:44,940
+xcf so I just hit file save as it's
+
+151
+00:06:42,960 --> 00:06:46,139
+already going to put the xcf on the end
+
+152
+00:06:44,940 --> 00:06:48,660
+and the rest of the name is going to be
+
+153
+00:06:46,139 --> 00:06:50,340
+the same so I can do that it's going to
+
+154
+00:06:48,660 --> 00:06:52,979
+be in the same location that I'm pulling
+
+155
+00:06:50,340 --> 00:06:54,660
+from which is fine for now and I can hit
+
+156
+00:06:52,979 --> 00:06:57,560
+save
+
+157
+00:06:54,660 --> 00:07:01,560
+so now I have a way to save my changes
+
+158
+00:06:57,560 --> 00:07:04,919
+as a work in progress okay the first
+
+159
+00:07:01,560 --> 00:07:08,039
+thing we need to do is to apply what's
+
+160
+00:07:04,919 --> 00:07:10,139
+called level adjustments
+
+161
+00:07:08,039 --> 00:07:13,020
+um
+
+162
+00:07:10,139 --> 00:07:13,979
+it's kind of the black really isn't
+
+163
+00:07:13,020 --> 00:07:16,020
+black
+
+164
+00:07:13,979 --> 00:07:18,539
+and we would like to get a better
+
+165
+00:07:16,020 --> 00:07:20,220
+contrast in the intensity of the colors
+
+166
+00:07:18,539 --> 00:07:24,660
+before we start
+
+167
+00:07:20,220 --> 00:07:27,060
+so we go to so we go to colors
+
+168
+00:07:24,660 --> 00:07:29,580
+levels
+
+169
+00:07:27,060 --> 00:07:31,380
+so what we're going to look at is the
+
+170
+00:07:29,580 --> 00:07:35,099
+input levels we're going to leave the
+
+171
+00:07:31,380 --> 00:07:36,900
+output levels to 0 and 255.
+
+172
+00:07:35,099 --> 00:07:39,360
+what we're going to need to do is if you
+
+173
+00:07:36,900 --> 00:07:42,860
+look at this waveform right here this
+
+174
+00:07:39,360 --> 00:07:46,919
+represents where
+
+175
+00:07:42,860 --> 00:07:48,479
+the visual range of the images so if I
+
+176
+00:07:46,919 --> 00:07:50,280
+can sit here and I can grab this one and
+
+177
+00:07:48,479 --> 00:07:51,960
+I can move it over
+
+178
+00:07:50,280 --> 00:07:53,759
+like that
+
+179
+00:07:51,960 --> 00:07:55,560
+and if you notice the black actually
+
+180
+00:07:53,759 --> 00:07:57,780
+turns black
+
+181
+00:07:55,560 --> 00:07:59,639
+and gives in all the colors actually
+
+182
+00:07:57,780 --> 00:08:01,560
+become enhanced
+
+183
+00:07:59,639 --> 00:08:03,599
+then we can move this one down just a
+
+184
+00:08:01,560 --> 00:08:07,400
+little bit
+
+185
+00:08:03,599 --> 00:08:07,400
+to get rid of the washout some
+
+186
+00:08:08,160 --> 00:08:12,199
+and we can probably move this up a
+
+187
+00:08:09,660 --> 00:08:12,199
+little bit more
+
+188
+00:08:15,180 --> 00:08:20,099
+say about there so make a note of these
+
+189
+00:08:18,539 --> 00:08:22,699
+numbers because we want to apply the
+
+190
+00:08:20,099 --> 00:08:27,960
+exact same settings
+
+191
+00:08:22,699 --> 00:08:31,440
+to any future pages from the same scan
+
+192
+00:08:27,960 --> 00:08:34,140
+of the same comic book each comic book
+
+193
+00:08:31,440 --> 00:08:35,459
+that you do will have to be this will
+
+194
+00:08:34,140 --> 00:08:37,740
+have to be recalculated each time as
+
+195
+00:08:35,459 --> 00:08:39,599
+each version of the comic book was going
+
+196
+00:08:37,740 --> 00:08:41,580
+to be slightly different due to aging
+
+197
+00:08:39,599 --> 00:08:44,279
+Etc so in this particular case I
+
+198
+00:08:41,580 --> 00:08:46,880
+selected 45 and here right here you can
+
+199
+00:08:44,279 --> 00:08:49,740
+see where you can actually
+
+200
+00:08:46,880 --> 00:08:52,140
+pick a collar that you want to be
+
+201
+00:08:49,740 --> 00:08:55,080
+treated as black and here you can pick a
+
+202
+00:08:52,140 --> 00:08:56,399
+colors you want to treat as white so
+
+203
+00:08:55,080 --> 00:08:58,260
+let's go ahead and do that so you can
+
+204
+00:08:56,399 --> 00:08:59,040
+see how that works we'll click this one
+
+205
+00:08:58,260 --> 00:09:02,279
+here
+
+206
+00:08:59,040 --> 00:09:03,420
+well first we'll um zoom in so we can
+
+207
+00:09:02,279 --> 00:09:06,540
+see better
+
+208
+00:09:03,420 --> 00:09:07,080
+what we're doing and then we're going to
+
+209
+00:09:06,540 --> 00:09:09,120
+um
+
+210
+00:09:07,080 --> 00:09:12,440
+tell I want
+
+211
+00:09:09,120 --> 00:09:12,440
+this to be my black
+
+212
+00:09:12,540 --> 00:09:19,200
+and then I want to tell it I want
+
+213
+00:09:15,959 --> 00:09:20,640
+this to be my white
+
+214
+00:09:19,200 --> 00:09:24,740
+Zoom back out
+
+215
+00:09:20,640 --> 00:09:24,740
+and I can see what and see how it looks
+
+216
+00:09:27,540 --> 00:09:32,459
+so that actually does improve it a
+
+217
+00:09:29,760 --> 00:09:34,860
+little bit better now you can see where
+
+218
+00:09:32,459 --> 00:09:37,140
+the paper was original color the paper
+
+219
+00:09:34,860 --> 00:09:39,360
+most likely was probably like this and
+
+220
+00:09:37,140 --> 00:09:42,899
+here you can see the Aging of the paper
+
+221
+00:09:39,360 --> 00:09:45,000
+whereas the darker areas
+
+222
+00:09:42,899 --> 00:09:45,839
+so let's go ahead and use these values
+
+223
+00:09:45,000 --> 00:09:47,360
+then
+
+224
+00:09:45,839 --> 00:09:49,080
+um which would be
+
+225
+00:09:47,360 --> 00:09:53,040
+58
+
+226
+00:09:49,080 --> 00:09:53,040
+and 217.
+
+227
+00:09:56,040 --> 00:10:01,620
+okay now that that's done
+
+228
+00:09:58,260 --> 00:10:04,100
+the next thing we need to do is begin
+
+229
+00:10:01,620 --> 00:10:06,600
+removing
+
+230
+00:10:04,100 --> 00:10:09,000
+portions that need to become transparent
+
+231
+00:10:06,600 --> 00:10:11,220
+okay the next step we need to do is we
+
+232
+00:10:09,000 --> 00:10:12,660
+need to add a transparency layer the
+
+233
+00:10:11,220 --> 00:10:15,000
+reason we need to add a transparency
+
+234
+00:10:12,660 --> 00:10:18,300
+layer is because to remove this stuff
+
+235
+00:10:15,000 --> 00:10:20,339
+and have it become transparent so that
+
+236
+00:10:18,300 --> 00:10:23,399
+it's not anything not even you know
+
+237
+00:10:20,339 --> 00:10:26,540
+neither white nor black nor anything
+
+238
+00:10:23,399 --> 00:10:29,600
+it allows anything below it to show up
+
+239
+00:10:26,540 --> 00:10:33,060
+we have to add a special layer for that
+
+240
+00:10:29,600 --> 00:10:35,820
+jpegs by default do not
+
+241
+00:10:33,060 --> 00:10:38,820
+work with transparency options you have
+
+242
+00:10:35,820 --> 00:10:40,920
+to add it okay for the transparency uh
+
+243
+00:10:38,820 --> 00:10:43,640
+that's a two-step process first we need
+
+244
+00:10:40,920 --> 00:10:47,279
+to select this which is the image
+
+245
+00:10:43,640 --> 00:10:50,160
+this is a layer of You by the way so we
+
+246
+00:10:47,279 --> 00:10:52,200
+hit layer and the first thing we're
+
+247
+00:10:50,160 --> 00:10:55,500
+going to do is add what's called an
+
+248
+00:10:52,200 --> 00:10:58,380
+alpha Channel this allows this
+
+249
+00:10:55,500 --> 00:11:00,899
+particular component to be see-through
+
+250
+00:10:58,380 --> 00:11:02,880
+to the layer below it so we're going to
+
+251
+00:11:00,899 --> 00:11:05,220
+first hit add Alpha Channel
+
+252
+00:11:02,880 --> 00:11:07,140
+then we're going to hit the add layer
+
+253
+00:11:05,220 --> 00:11:09,000
+button we don't need to worry about
+
+254
+00:11:07,140 --> 00:11:11,600
+naming it we just need to make sure the
+
+255
+00:11:09,000 --> 00:11:14,459
+fill width says transparency
+
+256
+00:11:11,600 --> 00:11:16,440
+and then hit OK then we need to change
+
+257
+00:11:14,459 --> 00:11:19,500
+the order so this layer needs to get
+
+258
+00:11:16,440 --> 00:11:22,200
+moved down below this layer
+
+259
+00:11:19,500 --> 00:11:24,740
+so once we've done this as a
+
+260
+00:11:22,200 --> 00:11:24,740
+demonstration
+
+261
+00:11:25,380 --> 00:11:30,959
+you can now make it transparent method
+
+262
+00:11:27,720 --> 00:11:32,519
+of removing things from this image it's
+
+263
+00:11:30,959 --> 00:11:34,500
+important to have the layer you're
+
+264
+00:11:32,519 --> 00:11:36,540
+working with selected in this case in
+
+265
+00:11:34,500 --> 00:11:37,860
+every case it's going to be the jpeg
+
+266
+00:11:36,540 --> 00:11:41,459
+layer
+
+267
+00:11:37,860 --> 00:11:43,560
+so now I can select the um
+
+268
+00:11:41,459 --> 00:11:46,920
+fuzzy select tool
+
+269
+00:11:43,560 --> 00:11:52,320
+which will allow me to select areas for
+
+270
+00:11:46,920 --> 00:11:55,459
+removal based upon similar colors
+
+271
+00:11:52,320 --> 00:11:59,160
+um and I can increase the amount of area
+
+272
+00:11:55,459 --> 00:12:01,440
+being selected for removable by
+
+273
+00:11:59,160 --> 00:12:03,839
+pulling the mouse down and I can reduce
+
+274
+00:12:01,440 --> 00:12:06,540
+the amount of area selected for removal
+
+275
+00:12:03,839 --> 00:12:09,720
+by moving the mouse up this is while I
+
+276
+00:12:06,540 --> 00:12:11,160
+have the left Mouse button clicked so
+
+277
+00:12:09,720 --> 00:12:14,040
+when I do this what I'm going to be
+
+278
+00:12:11,160 --> 00:12:16,260
+doing is I'm going to click and hold
+
+279
+00:12:14,040 --> 00:12:19,399
+and then I'm going to pull down
+
+280
+00:12:16,260 --> 00:12:19,399
+and I'm going to watch
+
+281
+00:12:19,579 --> 00:12:25,079
+for any areas that get removed I don't
+
+282
+00:12:23,100 --> 00:12:26,519
+want remove as soon as I see that which
+
+283
+00:12:25,079 --> 00:12:28,200
+is like right here I'm seeing areas that
+
+284
+00:12:26,519 --> 00:12:30,060
+I want removed
+
+285
+00:12:28,200 --> 00:12:33,800
+I need to go back up
+
+286
+00:12:30,060 --> 00:12:33,800
+to where they're put back
+
+287
+00:12:34,560 --> 00:12:40,820
+something like that then I need to hit
+
+288
+00:12:37,079 --> 00:12:46,019
+delete button and now you can see where
+
+289
+00:12:40,820 --> 00:12:49,260
+the paper uh will go the cream paper has
+
+290
+00:12:46,019 --> 00:12:51,420
+been removed from the image now I need
+
+291
+00:12:49,260 --> 00:12:53,220
+to zoom in
+
+292
+00:12:51,420 --> 00:12:54,420
+because here we have some more areas
+
+293
+00:12:53,220 --> 00:12:57,779
+that need to be removed so I'm going to
+
+294
+00:12:54,420 --> 00:12:59,579
+click and hold I'm going to pull down
+
+295
+00:12:57,779 --> 00:13:02,600
+then I'm going to hit delete button and
+
+296
+00:12:59,579 --> 00:13:02,600
+I will repeat here
+
+297
+00:13:03,240 --> 00:13:07,519
+and I can repeat here
+
+298
+00:13:09,240 --> 00:13:13,639
+zoom out make sure I didn't mess
+
+299
+00:13:11,100 --> 00:13:13,639
+anything up
+
+300
+00:13:14,459 --> 00:13:19,560
+it all looks good
+
+301
+00:13:16,380 --> 00:13:21,240
+now if you look you'll you'll see little
+
+302
+00:13:19,560 --> 00:13:22,800
+spots like that
+
+303
+00:13:21,240 --> 00:13:24,480
+and one of the things that can be done
+
+304
+00:13:22,800 --> 00:13:26,700
+is I can click right here
+
+305
+00:13:24,480 --> 00:13:30,980
+and then I can start pulling down
+
+306
+00:13:26,700 --> 00:13:30,980
+and it will get more spots that way
+
+307
+00:13:37,200 --> 00:13:40,399
+that is not what I wanted
+
+308
+00:13:46,500 --> 00:13:51,060
+there's whenever that becomes a problem
+
+309
+00:13:48,959 --> 00:13:52,860
+I'm hitting Ctrl shift a to deselect
+
+310
+00:13:51,060 --> 00:13:54,600
+everything whenever that becomes a
+
+311
+00:13:52,860 --> 00:13:57,180
+problem where when you're trying to
+
+312
+00:13:54,600 --> 00:13:59,519
+remove it and it just won't let you
+
+313
+00:13:57,180 --> 00:14:01,980
+um most of the work's already done with
+
+314
+00:13:59,519 --> 00:14:05,220
+what I was wanting removed so what I'm
+
+315
+00:14:01,980 --> 00:14:07,980
+going to do now is I'm going to take
+
+316
+00:14:05,220 --> 00:14:11,100
+the rectangle selection tool
+
+317
+00:14:07,980 --> 00:14:13,740
+and I'm going to select
+
+318
+00:14:11,100 --> 00:14:16,760
+up to next to the image there
+
+319
+00:14:13,740 --> 00:14:16,760
+I want to hit delete
+
+320
+00:14:17,160 --> 00:14:21,839
+and I'm going to go
+
+321
+00:14:19,740 --> 00:14:23,700
+do the same thing on this side I'm going
+
+322
+00:14:21,839 --> 00:14:27,260
+to get as close as I can
+
+323
+00:14:23,700 --> 00:14:27,260
+without actually touching anything
+
+324
+00:14:31,680 --> 00:14:37,519
+and I'm going to hit the delete button
+
+325
+00:14:34,440 --> 00:14:37,519
+onto the bottom
+
+326
+00:14:42,420 --> 00:14:45,560
+and I'm going to repeat
+
+327
+00:14:55,800 --> 00:15:00,740
+I don't want to do it for this section
+
+328
+00:14:57,540 --> 00:15:00,740
+here like this
+
+329
+00:15:05,820 --> 00:15:09,720
+and this doesn't have to be perfect by
+
+330
+00:15:07,860 --> 00:15:10,980
+the way it has got to be good enough to
+
+331
+00:15:09,720 --> 00:15:13,320
+help with
+
+332
+00:15:10,980 --> 00:15:16,160
+the next steps which is just getting it
+
+333
+00:15:13,320 --> 00:15:16,160
+mostly cleaned up
+
+334
+00:15:17,220 --> 00:15:21,540
+all right so the next thing I need to do
+
+335
+00:15:18,959 --> 00:15:23,040
+is now we have all this extra space at
+
+336
+00:15:21,540 --> 00:15:25,620
+the bottom
+
+337
+00:15:23,040 --> 00:15:26,639
+now that we really don't need
+
+338
+00:15:25,620 --> 00:15:29,160
+um
+
+339
+00:15:26,639 --> 00:15:31,620
+but we'll take care of this
+
+340
+00:15:29,160 --> 00:15:34,040
+um later we need to kind of keep the
+
+341
+00:15:31,620 --> 00:15:37,199
+page size consistent
+
+342
+00:15:34,040 --> 00:15:38,579
+and we can we'll look at how to do that
+
+343
+00:15:37,199 --> 00:15:41,579
+later
+
+344
+00:15:38,579 --> 00:15:44,120
+all right so I'm going to save my work
+
+345
+00:15:41,579 --> 00:15:44,120
+so far
+
+346
+00:15:44,639 --> 00:15:48,959
+It's always important to do that
+
+347
+00:15:47,100 --> 00:15:50,100
+then we're going to go to the speech
+
+348
+00:15:48,959 --> 00:15:52,079
+bubbles
+
+349
+00:15:50,100 --> 00:15:54,680
+so I'm going to go back to my fuzzy
+
+350
+00:15:52,079 --> 00:15:54,680
+select tool
+
+351
+00:15:56,459 --> 00:16:00,480
+and then I'm going to be like that you
+
+352
+00:15:58,199 --> 00:16:02,820
+can see now that most of the speech
+
+353
+00:16:00,480 --> 00:16:04,680
+bubble has been cleared out then I can
+
+354
+00:16:02,820 --> 00:16:06,720
+go to here to this one which is called
+
+355
+00:16:04,680 --> 00:16:08,639
+the free select tool and I can actually
+
+356
+00:16:06,720 --> 00:16:11,660
+draw
+
+357
+00:16:08,639 --> 00:16:11,660
+like this
+
+358
+00:16:11,699 --> 00:16:15,019
+very carefully
+
+359
+00:16:15,480 --> 00:16:20,399
+not to go back to where it started from
+
+360
+00:16:17,639 --> 00:16:21,180
+it'll dot will light up then I can let
+
+361
+00:16:20,399 --> 00:16:23,880
+go
+
+362
+00:16:21,180 --> 00:16:26,399
+I'm going to press delete
+
+363
+00:16:23,880 --> 00:16:27,899
+and then I can press Ctrl shift a to
+
+364
+00:16:26,399 --> 00:16:30,000
+make the selection go away to see if
+
+365
+00:16:27,899 --> 00:16:31,980
+there's any spots left there is
+
+366
+00:16:30,000 --> 00:16:34,260
+do like that
+
+367
+00:16:31,980 --> 00:16:37,440
+remove that final spot
+
+368
+00:16:34,260 --> 00:16:39,180
+so now I have a clear speech bubble
+
+369
+00:16:37,440 --> 00:16:43,100
+which I can then
+
+370
+00:16:39,180 --> 00:16:43,100
+use to re-letter later
+
+371
+00:16:44,100 --> 00:16:46,800
+we'll repeat
+
+372
+00:16:45,600 --> 00:16:49,699
+um
+
+373
+00:16:46,800 --> 00:16:49,699
+same thing here
+
+374
+00:16:52,920 --> 00:16:57,199
+zoom in so I can see what we're doing
+
+375
+00:16:54,959 --> 00:16:57,199
+better
+
+376
+00:17:11,459 --> 00:17:15,020
+control day
+
+377
+00:17:17,160 --> 00:17:21,620
+oops
+
+378
+00:17:18,480 --> 00:17:21,620
+Fuzzy's leg
+
+379
+00:17:26,520 --> 00:17:29,780
+free select
+
+380
+00:17:53,880 --> 00:17:59,640
+so the speech bubble has been totally
+
+381
+00:17:56,100 --> 00:18:02,340
+cleared out next up is actually optional
+
+382
+00:17:59,640 --> 00:18:04,440
+I have a tendency to want to remove any
+
+383
+00:18:02,340 --> 00:18:06,900
+English from the
+
+384
+00:18:04,440 --> 00:18:09,080
+um Comics I'm re-lettering which
+
+385
+00:18:06,900 --> 00:18:12,059
+includes things like the title
+
+386
+00:18:09,080 --> 00:18:13,980
+and again seeing English where it's
+
+387
+00:18:12,059 --> 00:18:17,100
+feasible sometimes it's just really not
+
+388
+00:18:13,980 --> 00:18:20,160
+very feasible and then later we can put
+
+389
+00:18:17,100 --> 00:18:22,640
+in a different font in Cherokee for the
+
+390
+00:18:20,160 --> 00:18:25,440
+title and the same thing for here
+
+391
+00:18:22,640 --> 00:18:27,240
+we'll be using inkscape to do the second
+
+392
+00:18:25,440 --> 00:18:30,500
+part the first part here which we're
+
+393
+00:18:27,240 --> 00:18:34,559
+using with just [ __ ] is strictly
+
+394
+00:18:30,500 --> 00:18:36,900
+for cleaning up the images
+
+395
+00:18:34,559 --> 00:18:38,340
+so as you can see we're going to have
+
+396
+00:18:36,900 --> 00:18:40,520
+two sections that are going to need
+
+397
+00:18:38,340 --> 00:18:43,320
+adjustment
+
+398
+00:18:40,520 --> 00:18:44,880
+and there's two ways to go about doing
+
+399
+00:18:43,320 --> 00:18:47,640
+this I can either do it totally in
+
+400
+00:18:44,880 --> 00:18:50,940
+inkscape or I can do it
+
+401
+00:18:47,640 --> 00:18:54,059
+or I can remove the text using in what
+
+402
+00:18:50,940 --> 00:18:55,919
+they call endpaint functions and like
+
+403
+00:18:54,059 --> 00:18:58,020
+the same thing for here
+
+404
+00:18:55,919 --> 00:19:00,120
+so that I have a clean template to work
+
+405
+00:18:58,020 --> 00:19:01,740
+with in inkscape and that's what we're
+
+406
+00:19:00,120 --> 00:19:03,299
+going to do on this one because and it's
+
+407
+00:19:01,740 --> 00:19:05,520
+mainly because of the
+
+408
+00:19:03,299 --> 00:19:08,160
+um the amount of texture to be easier
+
+409
+00:19:05,520 --> 00:19:10,679
+when we put it in inkscape to re-letter
+
+410
+00:19:08,160 --> 00:19:13,740
+when we uh if we don't have all this up
+
+411
+00:19:10,679 --> 00:19:15,240
+here that we have to hide using inkscape
+
+412
+00:19:13,740 --> 00:19:17,039
+if this actually does not end the image
+
+413
+00:19:15,240 --> 00:19:19,020
+at all so what we're going to do is
+
+414
+00:19:17,039 --> 00:19:23,419
+we're going to go to here
+
+415
+00:19:19,020 --> 00:19:23,419
+and we're going to go to clone
+
+416
+00:19:23,840 --> 00:19:28,740
+smudge clone tool so what we're going to
+
+417
+00:19:26,640 --> 00:19:31,100
+do is we select what we want to clone
+
+418
+00:19:28,740 --> 00:19:31,100
+from
+
+419
+00:19:31,260 --> 00:19:40,100
+okay you have to control click
+
+420
+00:19:35,340 --> 00:19:40,100
+and you can see over there on the right
+
+421
+00:19:41,400 --> 00:19:44,179
+that
+
+422
+00:19:44,400 --> 00:19:49,440
+the button where I control clicked is
+
+423
+00:19:46,860 --> 00:19:52,260
+right there and where I'm painting over
+
+424
+00:19:49,440 --> 00:19:54,120
+everything is literally just duplicating
+
+425
+00:19:52,260 --> 00:19:56,460
+from over there and the reason I want to
+
+426
+00:19:54,120 --> 00:20:00,000
+do that because it maintains the um
+
+427
+00:19:56,460 --> 00:20:02,280
+coloration the same and the dots of the
+
+428
+00:20:00,000 --> 00:20:05,280
+way the ink hit the paper is largely the
+
+429
+00:20:02,280 --> 00:20:08,700
+same enough to where you can't it
+
+430
+00:20:05,280 --> 00:20:10,980
+becomes less obvious this was done
+
+431
+00:20:08,700 --> 00:20:13,860
+um this is actually a photo shoot
+
+432
+00:20:10,980 --> 00:20:15,059
+Photoshop technique by the way
+
+433
+00:20:13,860 --> 00:20:17,600
+even though I've never really used
+
+434
+00:20:15,059 --> 00:20:17,600
+Photoshop
+
+435
+00:20:19,260 --> 00:20:23,360
+so I'll get this cleared up here
+
+436
+00:20:31,919 --> 00:20:37,320
+so now I actually can set my thing over
+
+437
+00:20:35,160 --> 00:20:41,660
+here now it'll have more black area to
+
+438
+00:20:37,320 --> 00:20:41,660
+work from and I can now do this
+
+439
+00:20:45,179 --> 00:20:48,299
+I need someone let go this is going to
+
+440
+00:20:46,740 --> 00:20:50,340
+go back to beginning so I can do it like
+
+441
+00:20:48,299 --> 00:20:54,419
+a little bit and then it gets too close
+
+442
+00:20:50,340 --> 00:20:59,660
+to the letter A I can let go
+
+443
+00:20:54,419 --> 00:20:59,660
+repeat P repeat repeat
+
+444
+00:21:07,740 --> 00:21:11,340
+and as you can see this actually works
+
+445
+00:21:09,360 --> 00:21:13,679
+out pretty well
+
+446
+00:21:11,340 --> 00:21:15,200
+um I have to do something similar but
+
+447
+00:21:13,679 --> 00:21:17,760
+different
+
+448
+00:21:15,200 --> 00:21:21,140
+selections over for the next set of
+
+449
+00:21:17,760 --> 00:21:21,140
+words our next word
+
+450
+00:21:26,220 --> 00:21:30,419
+and if you're on Windows and Mac [ __ ] is
+
+451
+00:21:28,260 --> 00:21:33,200
+available to download and install you
+
+452
+00:21:30,419 --> 00:21:33,200
+have to um
+
+453
+00:21:33,679 --> 00:21:36,980
+look it up
+
+454
+00:21:40,620 --> 00:21:43,159
+White
+
+455
+00:21:52,860 --> 00:21:56,039
+now if I were to look at this really
+
+456
+00:21:54,360 --> 00:21:57,720
+close which I'll do just a second so you
+
+457
+00:21:56,039 --> 00:21:59,940
+can see
+
+458
+00:21:57,720 --> 00:22:00,539
+um it's not a perfect
+
+459
+00:21:59,940 --> 00:22:02,820
+um
+
+460
+00:22:00,539 --> 00:22:04,860
+it's usually flaws of some sort or
+
+461
+00:22:02,820 --> 00:22:06,900
+another in it but that's fine
+
+462
+00:22:04,860 --> 00:22:09,000
+see there's actually little spots of red
+
+463
+00:22:06,900 --> 00:22:11,760
+stuff let's find this totally harmless
+
+464
+00:22:09,000 --> 00:22:14,880
+because of my goal is just to get rid of
+
+465
+00:22:11,760 --> 00:22:16,679
+the English text while still maintaining
+
+466
+00:22:14,880 --> 00:22:18,659
+a general appearance of what the
+
+467
+00:22:16,679 --> 00:22:21,179
+original Comet looks like
+
+468
+00:22:18,659 --> 00:22:23,580
+now this one is a little bit differently
+
+469
+00:22:21,179 --> 00:22:25,260
+what I'll have to do over here is I'll
+
+470
+00:22:23,580 --> 00:22:26,820
+have to select
+
+471
+00:22:25,260 --> 00:22:31,280
+background
+
+472
+00:22:26,820 --> 00:22:31,280
+and then I'll have to do like this
+
+473
+00:22:31,440 --> 00:22:35,760
+very carefully
+
+474
+00:22:33,900 --> 00:22:37,200
+here you can see where it's actually
+
+475
+00:22:35,760 --> 00:22:39,059
+disappearing where it actually makes it
+
+476
+00:22:37,200 --> 00:22:42,440
+takes totally disappear
+
+477
+00:22:39,059 --> 00:22:42,440
+as if it never was there
+
+478
+00:22:48,780 --> 00:22:53,520
+yeah and I do have to periodically let
+
+479
+00:22:50,700 --> 00:22:55,559
+go of the mouse then press it back down
+
+480
+00:22:53,520 --> 00:22:57,840
+again
+
+481
+00:22:55,559 --> 00:23:01,100
+so that it keeps going back to the area
+
+482
+00:22:57,840 --> 00:23:01,100
+I'm trying to clone from
+
+483
+00:23:02,580 --> 00:23:05,280
+now this over here will probably work
+
+484
+00:23:04,140 --> 00:23:07,200
+out better
+
+485
+00:23:05,280 --> 00:23:08,039
+if I were to clone
+
+486
+00:23:07,200 --> 00:23:12,120
+um
+
+487
+00:23:08,039 --> 00:23:14,100
+the line itself so I'll line up here and
+
+488
+00:23:12,120 --> 00:23:16,860
+I'll control click to set the new clone
+
+489
+00:23:14,100 --> 00:23:20,640
+from point and then what I can do is
+
+490
+00:23:16,860 --> 00:23:24,600
+then I can just go up following the line
+
+491
+00:23:20,640 --> 00:23:27,980
+and keep letting go periodically
+
+492
+00:23:24,600 --> 00:23:27,980
+we need to do this lower
+
+493
+00:23:30,000 --> 00:23:36,620
+as you can see it's actually
+
+494
+00:23:32,520 --> 00:23:36,620
+allow me to do a line
+
+495
+00:23:41,340 --> 00:23:45,500
+I got to keep letting go periodically
+
+496
+00:23:54,659 --> 00:23:58,980
+and if I zoom in I can now get rid of
+
+497
+00:23:56,700 --> 00:24:01,440
+the stuff over here
+
+498
+00:23:58,980 --> 00:24:04,080
+get the um
+
+499
+00:24:01,440 --> 00:24:08,240
+free select tool we'll zoom in pretty
+
+500
+00:24:04,080 --> 00:24:08,240
+good so that we can draw better
+
+501
+00:24:10,860 --> 00:24:16,679
+all right so now we do not have any
+
+502
+00:24:14,640 --> 00:24:19,080
+English text the only thing I'm
+
+503
+00:24:16,679 --> 00:24:21,419
+interested in doing is I can see these
+
+504
+00:24:19,080 --> 00:24:23,220
+coloration variation which I a little
+
+505
+00:24:21,419 --> 00:24:27,140
+two more than I would like
+
+506
+00:24:23,220 --> 00:24:27,140
+so I'll go back to cloning
+
+507
+00:24:31,860 --> 00:24:36,500
+your adjustments there try to get it to
+
+508
+00:24:33,600 --> 00:24:36,500
+blend a little bit better
+
+509
+00:24:36,679 --> 00:24:44,940
+yes that'll work better all right
+
+510
+00:24:41,820 --> 00:24:48,679
+so now we gotta work on the book so file
+
+511
+00:24:44,940 --> 00:24:48,679
+save just in case things crash
+
+512
+00:24:49,559 --> 00:24:54,440
+so we need to do the same thing here so
+
+513
+00:24:51,840 --> 00:24:57,720
+I'll go ahead and
+
+514
+00:24:54,440 --> 00:25:00,780
+select let's see here
+
+515
+00:24:57,720 --> 00:25:04,140
+let's do here select as my source
+
+516
+00:25:00,780 --> 00:25:05,460
+and I can do a little bit at a time
+
+517
+00:25:04,140 --> 00:25:07,200
+because I don't have that much out of
+
+518
+00:25:05,460 --> 00:25:09,240
+the area I'm cloning from is not that
+
+519
+00:25:07,200 --> 00:25:11,840
+large I have to keep doing this a little
+
+520
+00:25:09,240 --> 00:25:11,840
+bit at a time
+
+521
+00:25:12,600 --> 00:25:15,720
+release in the mouse and clicking it
+
+522
+00:25:14,280 --> 00:25:17,820
+back
+
+523
+00:25:15,720 --> 00:25:19,140
+and here you can see it really doesn't
+
+524
+00:25:17,820 --> 00:25:21,120
+you really can't tell there was
+
+525
+00:25:19,140 --> 00:25:23,039
+something really there unless you really
+
+526
+00:25:21,120 --> 00:25:26,360
+look for any kind of minor distortions
+
+527
+00:25:23,039 --> 00:25:26,360
+in the background
+
+528
+00:25:43,200 --> 00:25:49,340
+in fact I don't need this black box at
+
+529
+00:25:45,240 --> 00:25:49,340
+all let's get rid of the whole Black Box
+
+530
+00:25:50,279 --> 00:25:54,360
+putting in a black box we can always add
+
+531
+00:25:52,140 --> 00:25:57,080
+it back we really don't have to have a
+
+532
+00:25:54,360 --> 00:25:57,080
+black box there
+
+533
+00:25:59,520 --> 00:26:04,440
+main thing we want to do is get a book
+
+534
+00:26:01,260 --> 00:26:07,700
+with a cover that we can then re-letter
+
+535
+00:26:04,440 --> 00:26:07,700
+using inkscape
+
+536
+00:26:14,279 --> 00:26:19,860
+so now we have a empty area for
+
+537
+00:26:19,200 --> 00:26:22,020
+um
+
+538
+00:26:19,860 --> 00:26:23,520
+putting new letter in this is kind of
+
+539
+00:26:22,020 --> 00:26:26,640
+lighter here on it I really don't want
+
+540
+00:26:23,520 --> 00:26:29,240
+to be more the same or you
+
+541
+00:26:26,640 --> 00:26:29,240
+a little bit
+
+542
+00:26:33,480 --> 00:26:37,340
+use a little bit more uniform feel
+
+543
+00:26:42,419 --> 00:26:45,779
+all right so this is the first page of
+
+544
+00:26:44,400 --> 00:26:47,700
+the comic
+
+545
+00:26:45,779 --> 00:26:51,020
+um
+
+546
+00:26:47,700 --> 00:26:51,020
+so I'm going to save it again
+
+547
+00:26:53,120 --> 00:27:00,360
+and then I'm going to go ahead and do
+
+548
+00:26:55,799 --> 00:27:03,740
+the remaining pages in a and you can see
+
+549
+00:27:00,360 --> 00:27:03,740
+it happen in fast mode
+
+550
+00:27:09,480 --> 00:27:12,080
+haha
+
+551
+00:29:25,020 --> 00:29:32,100
+okay now that we have the pages cleaned
+
+552
+00:29:28,620 --> 00:29:35,640
+up we need to crop them all
+
+553
+00:29:32,100 --> 00:29:37,380
+um based upon the visual information on
+
+554
+00:29:35,640 --> 00:29:39,720
+each page
+
+555
+00:29:37,380 --> 00:29:42,020
+so I'll go ahead and open them up one at
+
+556
+00:29:39,720 --> 00:29:42,020
+a time
+
+557
+00:29:45,539 --> 00:29:49,559
+and we'll pause away again works I go
+
+558
+00:29:47,580 --> 00:29:51,919
+ahead and open the rest of them up one
+
+559
+00:29:49,559 --> 00:29:51,919
+by one
+
+560
+00:29:56,100 --> 00:30:00,120
+so pretty much what we want is we're
+
+561
+00:29:58,380 --> 00:30:01,679
+wanting to get rid of all this Blank
+
+562
+00:30:00,120 --> 00:30:04,880
+Space
+
+563
+00:30:01,679 --> 00:30:07,919
+um so we're going to go to image
+
+564
+00:30:04,880 --> 00:30:11,640
+crop to content
+
+565
+00:30:07,919 --> 00:30:14,100
+you can see here it now has removed all
+
+566
+00:30:11,640 --> 00:30:16,200
+the extraneous blank space from around
+
+567
+00:30:14,100 --> 00:30:21,200
+the common
+
+568
+00:30:16,200 --> 00:30:21,200
+so I can save that close it and repeat
+
+569
+00:30:22,679 --> 00:30:26,880
+now here you will see like right here it
+
+570
+00:30:25,200 --> 00:30:28,320
+couldn't crop all the way it takes to
+
+571
+00:30:26,880 --> 00:30:29,820
+the Box because the gun is sticking
+
+572
+00:30:28,320 --> 00:30:33,440
+outside the box that's
+
+573
+00:30:29,820 --> 00:30:33,440
+happens a lot with comics
+
+574
+00:30:54,360 --> 00:30:57,899
+okay the next thing I'm going to do is
+
+575
+00:30:56,580 --> 00:31:00,720
+I'm going to create
+
+576
+00:30:57,899 --> 00:31:03,679
+um move all the xcf files
+
+577
+00:31:00,720 --> 00:31:03,679
+out of here
+
+578
+00:31:08,520 --> 00:31:13,220
+and I'm going to put them into a new
+
+579
+00:31:10,679 --> 00:31:13,220
+folder
+
+580
+00:31:13,919 --> 00:31:18,840
+call The Salty turtle
+
+581
+00:31:16,919 --> 00:31:21,179
+and because this is from issue 10 we're
+
+582
+00:31:18,840 --> 00:31:22,919
+going to put a 10 at the end
+
+583
+00:31:21,179 --> 00:31:24,960
+and then we're going to paste them into
+
+584
+00:31:22,919 --> 00:31:29,340
+here
+
+585
+00:31:24,960 --> 00:31:32,640
+okay so now these are the original hcfs
+
+586
+00:31:29,340 --> 00:31:34,799
+they still contain the transparency as
+
+587
+00:31:32,640 --> 00:31:36,779
+layers and other things needed for a
+
+588
+00:31:34,799 --> 00:31:38,940
+bitmap manipulation we need to convert
+
+589
+00:31:36,779 --> 00:31:41,460
+these into a format that we can load
+
+590
+00:31:38,940 --> 00:31:44,960
+into the inkscape program so I'm going
+
+591
+00:31:41,460 --> 00:31:44,960
+to open them back up again
+
+592
+00:31:47,700 --> 00:31:50,299
+um all of them
+
+593
+00:31:55,620 --> 00:32:02,399
+and I need to do a file
+
+594
+00:31:58,860 --> 00:32:05,940
+export as which is Ctrl shift e
+
+595
+00:32:02,399 --> 00:32:07,919
+and then I'm warning PNG right here so
+
+596
+00:32:05,940 --> 00:32:10,200
+it's got I gotta change it to dot PNG
+
+597
+00:32:07,919 --> 00:32:12,860
+and you make sure it's in my working
+
+598
+00:32:10,200 --> 00:32:12,860
+folder
+
+599
+00:32:13,200 --> 00:32:19,039
+and I'm going to hit export
+
+600
+00:32:16,020 --> 00:32:19,039
+and explore again
+
+601
+00:32:23,760 --> 00:32:28,340
+I do this for each of the images
+
+602
+00:32:58,500 --> 00:33:06,419
+all right so now we have
+
+603
+00:33:01,940 --> 00:33:08,940
+pngs for each of these images now
+
+604
+00:33:06,419 --> 00:33:12,240
+um keep things simpler one I'm going to
+
+605
+00:33:08,940 --> 00:33:16,519
+go ahead and create subfolders
+
+606
+00:33:12,240 --> 00:33:16,519
+this is going to be the um
+
+607
+00:33:16,880 --> 00:33:20,880
+uh Raw
+
+608
+00:33:21,360 --> 00:33:23,840
+images
+
+609
+00:33:25,679 --> 00:33:29,640
+we're gonna move everything into there
+
+610
+00:33:27,299 --> 00:33:32,039
+and I'll show you why in just a second
+
+611
+00:33:29,640 --> 00:33:35,360
+this way we're not confused so we got
+
+612
+00:33:32,039 --> 00:33:35,360
+all the raw images are in here
+
+613
+00:33:48,240 --> 00:33:54,120
+all right so here's I have the xcf
+
+614
+00:33:51,000 --> 00:33:56,760
+images I started off with that I cleaned
+
+615
+00:33:54,120 --> 00:34:00,539
+up this is the PNG versions which I need
+
+616
+00:33:56,760 --> 00:34:03,240
+the PNG versions for the generating the
+
+617
+00:34:00,539 --> 00:34:04,740
+actual uh for look for importing into
+
+618
+00:34:03,240 --> 00:34:06,840
+inkscape
+
+619
+00:34:04,740 --> 00:34:08,879
+and
+
+620
+00:34:06,840 --> 00:34:11,040
+um so I'm calling this raw images
+
+621
+00:34:08,879 --> 00:34:12,480
+because this is before I do any
+
+622
+00:34:11,040 --> 00:34:15,480
+lettering
+
+623
+00:34:12,480 --> 00:34:18,659
+so now
+
+624
+00:34:15,480 --> 00:34:21,540
+I need to activate inkscape inkscape is
+
+625
+00:34:18,659 --> 00:34:24,480
+also available for Windows and Mac
+
+626
+00:34:21,540 --> 00:34:27,859
+okay now the first thing I need to do is
+
+627
+00:34:24,480 --> 00:34:27,859
+change the paper size
+
+628
+00:34:27,899 --> 00:34:32,580
+um it's defaults to us letter for me I
+
+629
+00:34:31,200 --> 00:34:34,220
+mean it might be different for you so
+
+630
+00:34:32,580 --> 00:34:37,500
+you need to double check
+
+631
+00:34:34,220 --> 00:34:40,740
+as a general rule of thumb Comics are
+
+632
+00:34:37,500 --> 00:34:42,899
+not eight and a half by eleven even
+
+633
+00:34:40,740 --> 00:34:44,280
+though I put them away and have both of
+
+634
+00:34:42,899 --> 00:34:46,740
+them part of the time but if they're
+
+635
+00:34:44,280 --> 00:34:50,000
+Standalone I generally try to stick with
+
+636
+00:34:46,740 --> 00:34:50,000
+like six by nine
+
+637
+00:34:50,399 --> 00:34:54,899
+because it gets I mean it's not really
+
+638
+00:34:53,040 --> 00:34:56,460
+the correct aspiration for a true
+
+639
+00:34:54,899 --> 00:34:58,800
+comment which I think is like seven by
+
+640
+00:34:56,460 --> 00:35:02,339
+ten or something like that
+
+641
+00:34:58,800 --> 00:35:04,440
+um but this is close enough and and if
+
+642
+00:35:02,339 --> 00:35:06,720
+you're planning on doing print on demand
+
+643
+00:35:04,440 --> 00:35:08,880
+this is an available paper size you can
+
+644
+00:35:06,720 --> 00:35:11,040
+use for print on demand
+
+645
+00:35:08,880 --> 00:35:13,619
+so we're going to change the units back
+
+646
+00:35:11,040 --> 00:35:16,740
+to pixels
+
+647
+00:35:13,619 --> 00:35:18,440
+and then we can close this and so now we
+
+648
+00:35:16,740 --> 00:35:21,560
+have the 6x9
+
+649
+00:35:18,440 --> 00:35:21,560
+sheet and
+
+650
+00:35:24,119 --> 00:35:28,940
+internal this is going to be
+
+651
+00:35:26,940 --> 00:35:28,940
+um
+
+652
+00:35:30,000 --> 00:35:35,240
+page
+
+653
+00:35:32,220 --> 00:35:35,240
+189 I believe
+
+654
+00:35:50,640 --> 00:35:55,680
+okay so we got page 29. now I can go to
+
+655
+00:35:54,480 --> 00:35:58,680
+here
+
+656
+00:35:55,680 --> 00:35:58,680
+and
+
+657
+00:35:58,859 --> 00:36:03,320
+port and image doc
+
+658
+00:36:03,540 --> 00:36:06,320
+ument comics
+
+659
+00:36:06,660 --> 00:36:11,940
+I don't want the raw images and I want
+
+660
+00:36:08,880 --> 00:36:14,460
+to go ahead and get the first raw image
+
+661
+00:36:11,940 --> 00:36:17,040
+and so here it is and I'm going to hit
+
+662
+00:36:14,460 --> 00:36:19,400
+Ctrl shift a and we're going to center
+
+663
+00:36:17,040 --> 00:36:19,400
+it
+
+664
+00:36:25,320 --> 00:36:30,780
+actually does not fit the page so I need
+
+665
+00:36:28,920 --> 00:36:32,640
+to adjust this and I need them and I'll
+
+666
+00:36:30,780 --> 00:36:33,480
+need to record these numbers that I
+
+667
+00:36:32,640 --> 00:36:35,339
+adjust
+
+668
+00:36:33,480 --> 00:36:37,440
+so first thing we want to do is go and
+
+669
+00:36:35,339 --> 00:36:39,960
+change this to zero for the x coordinate
+
+670
+00:36:37,440 --> 00:36:41,579
+changes to zero for the y coordinate so
+
+671
+00:36:39,960 --> 00:36:43,740
+that it lines up with the top left
+
+672
+00:36:41,579 --> 00:36:44,460
+corner of the paper
+
+673
+00:36:43,740 --> 00:36:45,540
+[Music]
+
+674
+00:36:44,460 --> 00:36:50,579
+um
+
+675
+00:36:45,540 --> 00:36:53,160
+and then we need to add a margin
+
+676
+00:36:50,579 --> 00:36:55,680
+for the printing process
+
+677
+00:36:53,160 --> 00:36:59,400
+um 0.5 inches is usually pretty safe to
+
+678
+00:36:55,680 --> 00:37:00,960
+add so I'm adding 0.5 and 0.5 this way
+
+679
+00:36:59,400 --> 00:37:02,640
+and this way you can see how it moves
+
+680
+00:37:00,960 --> 00:37:03,420
+down
+
+681
+00:37:02,640 --> 00:37:07,740
+um
+
+682
+00:37:03,420 --> 00:37:10,260
+so this right here because it's uh six
+
+683
+00:37:07,740 --> 00:37:13,160
+what first I need to lock this
+
+684
+00:37:10,260 --> 00:37:17,400
+keep these two numbers mathematically
+
+685
+00:37:13,160 --> 00:37:19,940
+corrected with each other so six minus
+
+686
+00:37:17,400 --> 00:37:19,940
+one inch
+
+687
+00:37:21,420 --> 00:37:26,640
+so this would give a half an inch here
+
+688
+00:37:24,119 --> 00:37:28,320
+and a half an inch here and I can tell
+
+689
+00:37:26,640 --> 00:37:30,780
+it to recenter again so it's on the
+
+690
+00:37:28,320 --> 00:37:33,240
+centered on the paper so as you can see
+
+691
+00:37:30,780 --> 00:37:36,240
+it comic books
+
+692
+00:37:33,240 --> 00:37:38,460
+um don't exactly fit 6x9 but this is a
+
+693
+00:37:36,240 --> 00:37:39,660
+pretty uh close and this actually gives
+
+694
+00:37:38,460 --> 00:37:42,240
+you an option if you wanted to do extra
+
+695
+00:37:39,660 --> 00:37:44,700
+things at the top of the bottom you can
+
+696
+00:37:42,240 --> 00:37:47,700
+Okay so
+
+697
+00:37:44,700 --> 00:37:49,700
+now what we need to do is get the
+
+698
+00:37:47,700 --> 00:37:52,800
+document
+
+699
+00:37:49,700 --> 00:37:54,980
+contains the
+
+700
+00:37:52,800 --> 00:37:54,980
+um
+
+701
+00:37:56,339 --> 00:38:01,980
+um Cherokee language
+
+702
+00:37:58,980 --> 00:38:04,520
+translations
+
+703
+00:38:01,980 --> 00:38:07,079
+Okay so
+
+704
+00:38:04,520 --> 00:38:10,079
+amaha nadoxi
+
+705
+00:38:07,079 --> 00:38:12,900
+now doxy is really Terrapin and is not a
+
+706
+00:38:10,079 --> 00:38:17,460
+generic term for turtle
+
+707
+00:38:12,900 --> 00:38:20,400
+um just as an FYI so this is the title
+
+708
+00:38:17,460 --> 00:38:22,440
+which goes there so what I need to do
+
+709
+00:38:20,400 --> 00:38:25,400
+then is I need to go here I need to tell
+
+710
+00:38:22,440 --> 00:38:25,400
+I want to do text
+
+711
+00:38:25,560 --> 00:38:30,960
+then I need to tell it I want
+
+712
+00:38:29,099 --> 00:38:34,280
+um
+
+713
+00:38:30,960 --> 00:38:34,280
+Cherokee hand one
+
+714
+00:38:34,380 --> 00:38:38,460
+and I'm going to set this as my default
+
+715
+00:38:36,540 --> 00:38:40,320
+font
+
+716
+00:38:38,460 --> 00:38:41,700
+and they won't close that then we'll go
+
+717
+00:38:40,320 --> 00:38:44,040
+over here where it says the letter A
+
+718
+00:38:41,700 --> 00:38:45,420
+which is creating edit text boxes or
+
+719
+00:38:44,040 --> 00:38:47,400
+text objects
+
+720
+00:38:45,420 --> 00:38:48,359
+and I want to click here and I'm going
+
+721
+00:38:47,400 --> 00:38:50,420
+to write
+
+722
+00:38:48,359 --> 00:38:50,420
+um
+
+723
+00:38:51,420 --> 00:38:54,440
+in Cherokee
+
+724
+00:38:56,940 --> 00:38:59,839
+my writing
+
+725
+00:39:07,980 --> 00:39:10,520
+foreign
+
+726
+00:39:16,040 --> 00:39:22,680
+okay so this is going to be a fancy
+
+727
+00:39:20,339 --> 00:39:25,940
+graphic right here so I need to actually
+
+728
+00:39:22,680 --> 00:39:25,940
+use a different font
+
+729
+00:39:26,700 --> 00:39:31,440
+so okay so I'm looking at the different
+
+730
+00:39:28,560 --> 00:39:33,300
+font options we have available on the
+
+731
+00:39:31,440 --> 00:39:35,700
+cherokeelescence.com website so I can
+
+732
+00:39:33,300 --> 00:39:37,740
+see them all real quickly
+
+733
+00:39:35,700 --> 00:39:41,700
+and
+
+734
+00:39:37,740 --> 00:39:44,099
+let me see the Donnie said
+
+735
+00:39:41,700 --> 00:39:46,280
+might be decent let's take a look at
+
+736
+00:39:44,099 --> 00:39:46,280
+that
+
+737
+00:39:49,079 --> 00:39:52,460
+let's go down take a look
+
+738
+00:39:54,420 --> 00:39:59,480
+so what I want to do a fuse I want to
+
+739
+00:39:56,700 --> 00:39:59,480
+make sure you're
+
+740
+00:40:01,980 --> 00:40:06,500
+fill is white for the moment
+
+741
+00:40:07,380 --> 00:40:10,400
+cheer outline
+
+742
+00:40:11,940 --> 00:40:19,820
+in the stroked is black okay
+
+743
+00:40:16,140 --> 00:40:19,820
+so we'll move this over here
+
+744
+00:40:26,280 --> 00:40:32,359
+so the original one had text here and
+
+745
+00:40:29,760 --> 00:40:32,359
+text here
+
+746
+00:40:33,720 --> 00:40:35,839
+um
+
+747
+00:40:36,420 --> 00:40:40,920
+but we're not going to do it that way
+
+748
+00:40:37,859 --> 00:40:43,020
+we're going to do a like this
+
+749
+00:40:40,920 --> 00:40:45,000
+so we're going to click it again so I
+
+750
+00:40:43,020 --> 00:40:47,280
+get a little turning arrows I want to
+
+751
+00:40:45,000 --> 00:40:48,720
+rotate it
+
+752
+00:40:47,280 --> 00:40:51,320
+and then we'll click again and get the
+
+753
+00:40:48,720 --> 00:40:51,320
+stretchers
+
+754
+00:40:58,680 --> 00:41:02,660
+so I won't duplicate it
+
+755
+00:41:06,920 --> 00:41:10,099
+all that
+
+756
+00:41:22,380 --> 00:41:28,800
+Okay so
+
+757
+00:41:25,680 --> 00:41:30,980
+the original comic book
+
+758
+00:41:28,800 --> 00:41:30,980
+foreign
+
+759
+00:41:34,020 --> 00:41:37,160
+red and yellow
+
+760
+00:41:38,820 --> 00:41:44,160
+that seems decent
+
+761
+00:41:41,280 --> 00:41:47,820
+so we'll take this one
+
+762
+00:41:44,160 --> 00:41:50,520
+a little set to feel red
+
+763
+00:41:47,820 --> 00:41:53,900
+I'll take this one
+
+764
+00:41:50,520 --> 00:41:53,900
+let's set the fill to Yellow
+
+765
+00:42:05,640 --> 00:42:09,420
+now one of the things you have to be
+
+766
+00:42:07,260 --> 00:42:11,339
+really care about when you're doing
+
+767
+00:42:09,420 --> 00:42:14,540
+these translations is not to overflow
+
+768
+00:42:11,339 --> 00:42:17,579
+the text box with Cherokee text
+
+769
+00:42:14,540 --> 00:42:21,900
+sometimes this requires adjusting the
+
+770
+00:42:17,579 --> 00:42:23,960
+dialogue to fit the text the balloon
+
+771
+00:42:21,900 --> 00:42:23,960
+um
+
+772
+00:42:24,060 --> 00:42:29,940
+so again we're in Cherokee him one right
+
+773
+00:42:26,160 --> 00:42:32,220
+now we normally pick a fixed font size
+
+774
+00:42:29,940 --> 00:42:34,320
+for this
+
+775
+00:42:32,220 --> 00:42:37,859
+um so
+
+776
+00:42:34,320 --> 00:42:40,619
+the stroke I need to be nothing so I
+
+777
+00:42:37,859 --> 00:42:44,240
+want to set the stroke to nothing
+
+778
+00:42:40,619 --> 00:42:44,240
+set the field to be black
+
+779
+00:42:45,660 --> 00:42:51,680
+I'm gonna go here
+
+780
+00:42:48,300 --> 00:42:51,680
+I'm going to click right there
+
+781
+00:42:53,940 --> 00:43:00,540
+and it goes to go
+
+782
+00:42:57,540 --> 00:43:00,540
+the
+
+783
+00:43:02,700 --> 00:43:05,720
+D ski
+
+784
+00:43:06,960 --> 00:43:08,960
+um
+
+785
+00:43:10,680 --> 00:43:13,280
+yo
+
+786
+00:43:17,099 --> 00:43:20,720
+I'm not sure about you you old
+
+787
+00:43:32,940 --> 00:43:37,700
+okay let's do this again I don't want
+
+788
+00:43:38,160 --> 00:43:44,060
+true I don't want I want to feel
+
+789
+00:43:41,339 --> 00:43:44,060
+okay
+
+790
+00:43:46,859 --> 00:43:51,380
+and you can see this is a lot of texture
+
+791
+00:43:48,720 --> 00:43:51,380
+I stick in here
+
+792
+00:43:51,480 --> 00:43:54,920
+so I'm going to change the font
+
+793
+00:43:56,280 --> 00:44:00,420
+and it's usually best to try to keep the
+
+794
+00:43:58,319 --> 00:44:01,619
+font size consistent between
+
+795
+00:44:00,420 --> 00:44:05,000
+um
+
+796
+00:44:01,619 --> 00:44:05,000
+for the entire comic
+
+797
+00:44:37,859 --> 00:44:40,700
+all right
+
+798
+00:45:04,920 --> 00:45:07,920
+foreign
+
+799
+00:45:40,740 --> 00:45:46,319
+okay so there's the first page with the
+
+800
+00:45:44,099 --> 00:45:48,960
+Cherokee lettering added including the
+
+801
+00:45:46,319 --> 00:45:51,980
+book title and pretty much
+
+802
+00:45:48,960 --> 00:45:56,400
+all of the um
+
+803
+00:45:51,980 --> 00:45:58,619
+boxes of speech bubbles filled in now
+
+804
+00:45:56,400 --> 00:46:01,440
+one thing we do need to do is because
+
+805
+00:45:58,619 --> 00:46:04,200
+this is a transparency and this is a
+
+806
+00:46:01,440 --> 00:46:06,480
+transparency we need to add a white
+
+807
+00:46:04,200 --> 00:46:08,579
+background
+
+808
+00:46:06,480 --> 00:46:10,920
+um so that when we export this as an
+
+809
+00:46:08,579 --> 00:46:13,440
+image it has white
+
+810
+00:46:10,920 --> 00:46:16,619
+in the correct spots if we don't these
+
+811
+00:46:13,440 --> 00:46:20,119
+will turn transparent in the exported
+
+812
+00:46:16,619 --> 00:46:23,819
+image which is not what we want so
+
+813
+00:46:20,119 --> 00:46:29,579
+we know the size of the paper
+
+814
+00:46:23,819 --> 00:46:29,579
+which is 576 by 864.
+
+815
+00:46:30,180 --> 00:46:34,980
+in pixels
+
+816
+00:46:32,700 --> 00:46:37,440
+so what we want to do is we'll go over
+
+817
+00:46:34,980 --> 00:46:40,619
+here to box create rectangle square
+
+818
+00:46:37,440 --> 00:46:41,400
+we'll draw a rectangle
+
+819
+00:46:40,619 --> 00:46:43,560
+um
+
+820
+00:46:41,400 --> 00:46:45,359
+pretty much if you look at the bottom
+
+821
+00:46:43,560 --> 00:46:48,119
+you see where it says click to set fill
+
+822
+00:46:45,359 --> 00:46:49,859
+shift click to set stroke we don't want
+
+823
+00:46:48,119 --> 00:46:52,500
+a stroke
+
+824
+00:46:49,859 --> 00:46:55,560
+we want the field to be white
+
+825
+00:46:52,500 --> 00:46:58,319
+and then up here it's going to give you
+
+826
+00:46:55,560 --> 00:46:59,819
+some various options for the box but
+
+827
+00:46:58,319 --> 00:47:01,380
+these are not the options we want to
+
+828
+00:46:59,819 --> 00:47:04,560
+change what we need to do is hit the
+
+829
+00:47:01,380 --> 00:47:06,660
+select and transform option here
+
+830
+00:47:04,560 --> 00:47:08,940
+and this change as you can see the it
+
+831
+00:47:06,660 --> 00:47:11,040
+changes like this and then this becomes
+
+832
+00:47:08,940 --> 00:47:13,079
+the x coordinate and y coordinate on the
+
+833
+00:47:11,040 --> 00:47:14,280
+paper starting at the top left so zero
+
+834
+00:47:13,079 --> 00:47:16,260
+zeros here
+
+835
+00:47:14,280 --> 00:47:18,420
+so let's go ahead and move it there we
+
+836
+00:47:16,260 --> 00:47:19,859
+want to move the zero and zero so it's
+
+837
+00:47:18,420 --> 00:47:24,180
+at the top
+
+838
+00:47:19,859 --> 00:47:27,480
+and then we know the paper is
+
+839
+00:47:24,180 --> 00:47:29,760
+uh well first one okay this right here
+
+840
+00:47:27,480 --> 00:47:31,380
+um with this turned on if this number
+
+841
+00:47:29,760 --> 00:47:33,300
+changes this number changes the
+
+842
+00:47:31,380 --> 00:47:35,040
+proportional faction if you change this
+
+843
+00:47:33,300 --> 00:47:37,020
+number this number will change the
+
+844
+00:47:35,040 --> 00:47:39,720
+proportional fashion that's how you
+
+845
+00:47:37,020 --> 00:47:41,760
+prevent uh incorrect aspect ratio
+
+846
+00:47:39,720 --> 00:47:43,500
+stretching as you have this turned on if
+
+847
+00:47:41,760 --> 00:47:45,720
+you turn this off which is what we need
+
+848
+00:47:43,500 --> 00:47:48,960
+to do right now then it doesn't and then
+
+849
+00:47:45,720 --> 00:47:53,579
+it only uh impacts which one we type
+
+850
+00:47:48,960 --> 00:47:59,520
+into so we know that the paper is 576.
+
+851
+00:47:53,579 --> 00:47:59,520
+exactly and the height is exactly 864.
+
+852
+00:47:59,579 --> 00:48:04,500
+so now we have a a white box which is
+
+853
+00:48:02,700 --> 00:48:07,440
+the exact size of the paper
+
+854
+00:48:04,500 --> 00:48:09,300
+now I'm going to press the uh end button
+
+855
+00:48:07,440 --> 00:48:12,240
+while I got it highlighted
+
+856
+00:48:09,300 --> 00:48:14,400
+and that sends it to the background and
+
+857
+00:48:12,240 --> 00:48:17,359
+lets everything else be on the front
+
+858
+00:48:14,400 --> 00:48:17,359
+so now
+
+859
+00:48:18,119 --> 00:48:21,380
+I didn't type that right
+
+860
+00:48:21,980 --> 00:48:30,260
+576 864. yes so that's all right
+
+861
+00:48:27,720 --> 00:48:30,260
+is that
+
+862
+00:48:33,480 --> 00:48:40,020
+okay anyway that's the correct size so
+
+863
+00:48:36,240 --> 00:48:40,920
+now we have the complete image now when
+
+864
+00:48:40,020 --> 00:48:41,579
+you're
+
+865
+00:48:40,920 --> 00:48:44,160
+um
+
+866
+00:48:41,579 --> 00:48:48,119
+so the inkscape format cannot be
+
+867
+00:48:44,160 --> 00:48:49,619
+directly used in most programs and for
+
+868
+00:48:48,119 --> 00:48:52,560
+type setting and things you'll need to
+
+869
+00:48:49,619 --> 00:48:56,819
+change the formatting so what we'll need
+
+870
+00:48:52,560 --> 00:48:58,980
+to do is for ebooks and for print
+
+871
+00:48:56,819 --> 00:49:01,440
+generally they
+
+872
+00:48:58,980 --> 00:49:03,839
+generally prefer jpeg
+
+873
+00:49:01,440 --> 00:49:06,960
+but we have to do this as a two-step
+
+874
+00:49:03,839 --> 00:49:10,619
+process because inkscape only exports as
+
+875
+00:49:06,960 --> 00:49:13,140
+PNG so we'll export the PNG
+
+876
+00:49:10,619 --> 00:49:14,460
+first we want to do the entire page so
+
+877
+00:49:13,140 --> 00:49:16,319
+we get the page button right here that's
+
+878
+00:49:14,460 --> 00:49:18,420
+very very important you double check
+
+879
+00:49:16,319 --> 00:49:21,960
+that it's actually doing the page
+
+880
+00:49:18,420 --> 00:49:26,300
+then right here we have the DPI
+
+881
+00:49:21,960 --> 00:49:26,300
+um generally 300 DPI is good
+
+882
+00:49:26,339 --> 00:49:30,660
+um though it takes up more space
+
+883
+00:49:29,640 --> 00:49:33,660
+um
+
+884
+00:49:30,660 --> 00:49:36,180
+it's up here the exporting it's not down
+
+885
+00:49:33,660 --> 00:49:38,160
+here like I was expecting it
+
+886
+00:49:36,180 --> 00:49:39,540
+I guess now I can close that and I can
+
+887
+00:49:38,160 --> 00:49:41,400
+close this
+
+888
+00:49:39,540 --> 00:49:43,020
+now it's going to ask me to say to SVG
+
+889
+00:49:41,400 --> 00:49:44,520
+because I exported them go ahead and
+
+890
+00:49:43,020 --> 00:49:49,099
+save that too that way it keeps track of
+
+891
+00:49:44,520 --> 00:49:49,099
+the volume I used so here's the original
+
+892
+00:49:49,319 --> 00:49:56,040
+and I go to here right here all right so
+
+893
+00:49:53,460 --> 00:49:58,859
+this is the SVG we created this is the
+
+894
+00:49:56,040 --> 00:50:01,079
+inkscape file
+
+895
+00:49:58,859 --> 00:50:05,060
+and this PNG is what we exported out of
+
+896
+00:50:01,079 --> 00:50:05,060
+inkscape and as you can see
+
+897
+00:50:06,119 --> 00:50:10,160
+we now have an image of the comic
+
+898
+00:50:10,500 --> 00:50:14,180
+about the lettering put in place
+
+899
+00:50:22,200 --> 00:50:26,280
+now the only catch is because the amount
+
+900
+00:50:24,839 --> 00:50:27,540
+of text we're trying to fit into the
+
+901
+00:50:26,280 --> 00:50:30,240
+speech bubbles
+
+902
+00:50:27,540 --> 00:50:33,359
+we're using a slightly smaller than
+
+903
+00:50:30,240 --> 00:50:35,579
+desired font and it's a little bit light
+
+904
+00:50:33,359 --> 00:50:37,800
+on the type that's the only way to
+
+905
+00:50:35,579 --> 00:50:40,020
+really make it fit for this particular
+
+906
+00:50:37,800 --> 00:50:43,280
+translation
+
+907
+00:50:40,020 --> 00:50:43,280
+um and dialogue selection
+
+908
+00:50:45,420 --> 00:50:54,319
+so that pretty much covers how to take
+
+909
+00:50:51,540 --> 00:50:57,480
+images from an existing comic
+
+910
+00:50:54,319 --> 00:51:01,260
+and adjust it and clean it up a little
+
+911
+00:50:57,480 --> 00:51:04,619
+bit and then reloader it using [ __ ] and
+
+912
+00:51:01,260 --> 00:51:07,980
+inkscape when it comes to actually doing
+
+913
+00:51:04,619 --> 00:51:11,339
+the type setting it really depends on
+
+914
+00:51:07,980 --> 00:51:13,440
+what you're trying to accomplish
+
+915
+00:51:11,339 --> 00:51:16,680
+um if you're going through whether it's
+
+916
+00:51:13,440 --> 00:51:17,760
+ebook or paper you have to have a cover
+
+917
+00:51:16,680 --> 00:51:20,940
+image
+
+918
+00:51:17,760 --> 00:51:23,760
+which is appropriate to the content so
+
+919
+00:51:20,940 --> 00:51:25,980
+it's usually recommended to do most or
+
+920
+00:51:23,760 --> 00:51:28,440
+all of a complete comic depending upon
+
+921
+00:51:25,980 --> 00:51:30,540
+the how complex the content is that's
+
+922
+00:51:28,440 --> 00:51:32,579
+why you can use the original artwork and
+
+923
+00:51:30,540 --> 00:51:34,920
+adjust it with Cherokee writing from the
+
+924
+00:51:32,579 --> 00:51:35,819
+original cover
+
+925
+00:51:34,920 --> 00:51:39,180
+um
+
+926
+00:51:35,819 --> 00:51:40,740
+as far as software goes there are
+
+927
+00:51:39,180 --> 00:51:42,800
+different options if you're only wanting
+
+928
+00:51:40,740 --> 00:51:45,720
+to say go to Kindle
+
+929
+00:51:42,800 --> 00:51:47,520
+there's actually a special Kindle editor
+
+930
+00:51:45,720 --> 00:51:50,040
+which allows you to lay out fixed
+
+931
+00:51:47,520 --> 00:51:51,960
+formats like comic books you can
+
+932
+00:51:50,040 --> 00:51:54,300
+actually have it set up if you don't
+
+933
+00:51:51,960 --> 00:51:55,740
+mind doing all the extra work having it
+
+934
+00:51:54,300 --> 00:51:58,520
+where you can zoom into the individual
+
+935
+00:51:55,740 --> 00:52:01,619
+boxes and things like that in the Kindle
+
+936
+00:51:58,520 --> 00:52:05,400
+but it takes a bit of extra effort when
+
+937
+00:52:01,619 --> 00:52:08,280
+it comes to print format one program as
+
+938
+00:52:05,400 --> 00:52:11,280
+you can look at using is scribus as
+
+939
+00:52:08,280 --> 00:52:11,280
+c-r-i-b-u-s
+
+940
+00:52:11,760 --> 00:52:17,280
+um it's a page layout program designed
+
+941
+00:52:14,220 --> 00:52:18,960
+for laying things out on paper it's
+
+942
+00:52:17,280 --> 00:52:22,020
+really good it's supposed to be
+
+943
+00:52:18,960 --> 00:52:26,940
+professional grade and it's available at
+
+944
+00:52:22,020 --> 00:52:28,800
+no charge for multiple platforms as well
+
+945
+00:52:26,940 --> 00:52:31,680
+um another option depending upon your
+
+946
+00:52:28,800 --> 00:52:34,859
+needs is
+
+947
+00:52:31,680 --> 00:52:39,059
+um LibreOffice which can actually you
+
+948
+00:52:34,859 --> 00:52:40,800
+can actually use to create uh epubs with
+
+949
+00:52:39,059 --> 00:52:42,900
+um though I've never done that for
+
+950
+00:52:40,800 --> 00:52:45,720
+Comics to see whether it's how good or
+
+951
+00:52:42,900 --> 00:52:47,339
+bad the results are for like smash words
+
+952
+00:52:45,720 --> 00:52:49,760
+because smashwords has an automatic
+
+953
+00:52:47,339 --> 00:52:52,940
+conversion process where they'll convert
+
+954
+00:52:49,760 --> 00:52:54,960
+Microsoft Office docs to
+
+955
+00:52:52,940 --> 00:52:56,540
+ePub for you anything you can download
+
+956
+00:52:54,960 --> 00:52:59,760
+it and take a look at it
+
+957
+00:52:56,540 --> 00:53:02,240
+it also can handle the Libre office
+
+958
+00:52:59,760 --> 00:53:05,660
+which is a free product as well
+
+959
+00:53:02,240 --> 00:53:08,700
+there are various options including
+
+960
+00:53:05,660 --> 00:53:10,500
+typesetting languages like latex which
+
+961
+00:53:08,700 --> 00:53:13,020
+is what I generally use in combination
+
+962
+00:53:10,500 --> 00:53:14,300
+with a program called licks but that's
+
+963
+00:53:13,020 --> 00:53:18,720
+generally
+
+964
+00:53:14,300 --> 00:53:22,920
+for the more computer savvy individual
+
+965
+00:53:18,720 --> 00:53:25,440
+whereas a program like scribus
+
+966
+00:53:22,920 --> 00:53:28,460
+um and LibreOffice and things like that
+
+967
+00:53:25,440 --> 00:53:32,040
+are more oriented to
+
+968
+00:53:28,460 --> 00:53:34,040
+uh less technically Savvy when it comes
+
+969
+00:53:32,040 --> 00:53:36,720
+to actually needing to
+
+970
+00:53:34,040 --> 00:53:38,520
+do specific types of layout that are
+
+971
+00:53:36,720 --> 00:53:39,980
+actually needed in latex which is what I
+
+972
+00:53:38,520 --> 00:53:43,380
+use for
+
+973
+00:53:39,980 --> 00:53:46,559
+my general books it has lots of text in
+
+974
+00:53:43,380 --> 00:53:48,240
+them because I find the results better
+
+975
+00:53:46,559 --> 00:53:50,819
+than trying to do it manually because it
+
+976
+00:53:48,240 --> 00:53:52,680
+has a lot of automatic stuff you can use
+
+977
+00:53:50,819 --> 00:53:54,200
+but it's not really appropriate for
+
+978
+00:53:52,680 --> 00:53:58,200
+Comics per se
+
+979
+00:53:54,200 --> 00:54:01,339
+well I hope this helps and uh
+
+980
+00:53:58,200 --> 00:54:01,339
+don't let that go huh
+
