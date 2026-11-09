@@ -1,4 +1,6 @@
 # Spec — itch.io page for Cherokee Numbers Maze: create the page and deploy the published artifacts (itch migration, phase 1)
+Paired spec: **CherokeeLanguage/NumbersMaze.godot#3** — the NumbersMaze.godot repo's side of this app's migration (its deploy-target conversion). This spec owns the cherokeelessons.com side: the itch page and the initial deployment of the currently-published artifacts.
+
 
 ## Problem
 
@@ -60,3 +62,11 @@ Alternatives weighed (2026-11-09): CI-driven pushes — rejected, this is a one-
 One public itch.io page appears under the `cherokee-language` account. No site page content changes; the NumbersMaze.godot repo is untouched; other apps unaffected. Risk is low: new external state only, no destructive operation (a mis-configured page can be edited or deleted dashboard-side; butler pushes to a channel are idempotent and re-pushable).
 
 🤖 Co-authored with AI: OpenCode (huggingface/zai-org/GLM-5.3-Flash)
+
+> Full spec and plan artifacts: https://github.com/CherokeeLanguage/CherokeeLessons.com/tree/issues-data/25/
+>
+> AI-facing artifacts pointer: `.issues/25/`
+
+> Full spec and plan artifacts: https://github.com/CherokeeLanguage/CherokeeLessons.com/tree/issues-data/25/
+>
+> AI-facing artifacts pointer: `.issues/25/`
