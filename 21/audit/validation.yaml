@@ -92,3 +92,11 @@ app-repo-remote-only:
     containment:
       scope: PASS
       home: PASS
+  - round: 7
+    date: '2026-11-09'
+    verdict: PASS
+    reviewer: fresh-context subagent (ses_e3de59db1ffeNy9A5dEE4DLP9J) — umbrella-focused re-review; artifacts 22-25 and the three remote-only app-repo specs stood verdict-clean from round 6 and were unchanged
+    findings: []
+    containment:
+      scope: PASS
+      home: PASS
