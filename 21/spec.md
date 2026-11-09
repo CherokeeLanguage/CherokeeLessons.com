@@ -19,7 +19,7 @@ Four paired spec sets, one per app:
 | Cherokee Language Lessons 1 | CherokeeLessons.com#24 | CherokeeLanguage/cll1-gdx#4 |
 | Cherokee Numbers Maze | CherokeeLessons.com#25 | CherokeeLanguage/NumbersMaze.godot#3 |
 
-Each part's spec reads standalone and carries its own requirements, success criteria, and provenance. The app-repo specs' full specs live in their remote tracker records (those repos hold no local issue stores reachable from this workspace; `CherokeeLanguage/Animals#11`'s local mirror is left to an Animals-repo session per the mirror-repair rule).
+Each part's spec reads standalone and carries its own requirements, success criteria, and provenance. The app-repo specs' full specs live in their remote tracker records. `CherokeeLanguage/Animals` holds its own local issue store (maintained from Animals-repo sessions; not reachable through this workspace's store tooling): mirroring `CherokeeLanguage/Animals#11` there is left to an Animals-repo session per the mirror-repair rule; the other three repos hold no local stores.
 
 ## Seams
 

@@ -38,7 +38,7 @@ Desktop-channel-only launch: the site never hosted a CLL1 APK (its Android build
 | SC-5 | The repo-local push script + gitignored `itch.conf` exist, carry the BoundPronouns-pattern guards (REPLACE_ME, butler resolution), and encode this app's channel-table row | structural | Read the script and config | R-5 |
 | SC-6 | The pushes carry no version claims | structural | Script read (`--userversion` absent); butler push output shows auto-numbered builds only | R-4 |
 
-Traceability note: R-7 and R-8 are procedural/boundary requirements whose satisfaction is verified by the work's own record (ordering of steps taken) and the diff scope respectively; they carry no standalone SC.
+Traceability note: R-7 is a procedural requirement whose satisfaction is verified by the work's own record (ordering of steps taken); it carries no standalone SC. The site-pages boundary is carried by this spec's Scope section.
 
 ## Approach
 
@@ -62,6 +62,3 @@ One public itch.io page appears under the `cherokee-language` account. No site p
 >
 > AI-facing artifacts pointer: `.issues/24/`
 
-> Full spec and plan artifacts: https://github.com/CherokeeLanguage/CherokeeLessons.com/tree/issues-data/24/
->
-> AI-facing artifacts pointer: `.issues/24/`

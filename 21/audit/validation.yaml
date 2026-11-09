@@ -51,3 +51,27 @@ spec:
     containment:
       scope: PASS
       home: PASS
+  - round: 5
+    date: '2026-11-09'
+    verdict: FAIL
+    reviewer: fresh-context subagent (ses_e3df66a1effeA8zI82BTPm4zc9) — combined nine-artifact review of the recomposed umbrella + parts
+    findings:
+      - class: fabricated-claims (analysis family; internal-contradiction facet)
+        detail: Parts section asserted the app repos hold no local issue stores reachable from this workspace — false for CherokeeLanguage/Animals (a live local store exists at /home/muksihs/git/Animals/.issues/, issues-data worktree); the same sentence contradicted itself about #11's mirror
+        classification: finding
+        remediation: sentence corrected — Animals' own local store acknowledged as maintained from Animals-repo sessions and unreachable through this workspace's store tooling; #11's mirror left to an Animals-repo session per the mirror-repair rule
+    containment:
+      scope: PASS
+      home: PASS
+app-repo-remote-only:
+  - artifact: CherokeeLanguage/Animals#11
+    round: 1
+    date: '2026-11-09'
+    verdict: FAIL
+    reviewer: fresh-context subagent (ses_e3df66a1effeA8zI82BTPm4zc9) — combined nine-artifact review
+    findings:
+      - class: fabricated-claims (factual defect; feasibility + internal-contradiction facets)
+        detail: R-1/SC-3 premised the push tooling on "current libgdx-era build outputs" — the Animals repo has no such build surface (no desktop/android modules; gradle files are IDE stubs per the repo's own AGENTS.md); contradicted the spec's own Godot-era deferral
+        classification: finding
+        remediation: R-1/SC-3 restructured — tooling carries the pattern's guards and target binding only; the artifact/channel mapping explicitly deferred to the Godot-ready release work with the verified grounds (remote body edited in place)
+    note: remote-tracker record — no local store; verdict recorded here as the loop's trail

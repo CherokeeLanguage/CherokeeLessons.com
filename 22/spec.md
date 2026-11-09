@@ -37,7 +37,7 @@ Phase 1 of the two-phase migration, for this app: create its itch.io project pag
 | SC-5 | The repo-local push script + gitignored `itch.conf` exist, carry the BoundPronouns-pattern guards (REPLACE_ME, butler resolution), and encode this app's channel-table rows | structural | Read the script and config | R-5 |
 | SC-6 | The pushes carry no version claims | structural | Script read (`--userversion` absent); butler push output shows auto-numbered builds only | R-4 |
 
-Traceability note: R-7 and R-8 are procedural/boundary requirements whose satisfaction is verified by the work's own record (ordering of steps taken) and the diff scope respectively; they carry no standalone SC.
+Traceability note: R-7 is a procedural requirement whose satisfaction is verified by the work's own record (ordering of steps taken); it carries no standalone SC. The site-pages boundary is carried by this spec's Scope section.
 
 ## Approach
 

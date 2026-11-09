@@ -43,7 +43,7 @@ Platform-specific Godot binaries need per-platform channels for correct butler a
 | SC-6 | The pushes carry no version claims | structural | Script read (`--userversion` absent); butler push output shows auto-numbered builds only | R-4 |
 | SC-7 | The page offers the playable browser build | behavioral | Page fetch shows the HTML5 playable embed | R-6 |
 
-Traceability note: R-7 and R-8 are procedural/boundary requirements whose satisfaction is verified by the work's own record (ordering of steps taken) and the diff scope respectively; they carry no standalone SC.
+Traceability note: R-7 is a procedural requirement whose satisfaction is verified by the work's own record (ordering of steps taken); it carries no standalone SC. The site-pages boundary is carried by this spec's Scope section.
 
 ## Approach
 
@@ -67,6 +67,3 @@ One public itch.io page appears under the `cherokee-language` account. No site p
 >
 > AI-facing artifacts pointer: `.issues/25/`
 
-> Full spec and plan artifacts: https://github.com/CherokeeLanguage/CherokeeLessons.com/tree/issues-data/25/
->
-> AI-facing artifacts pointer: `.issues/25/`
