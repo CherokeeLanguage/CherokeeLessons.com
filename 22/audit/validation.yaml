@@ -23,3 +23,10 @@ deployment:
     pushes: butler first builds win-linux-mac (6.69 MiB) + android (52.65 MiB), auto-numbered, no version labels
     cover: R-1/R-3 cover clause revised in place — developer-created itch cover (Animals Artwork.Source/itch-io-CherokeeAnimals-promo.png, 630×500) shipped as page cover (og:image verified 630×500); was static/images/CherokeeAnimals-promo.jpg
     remaining: SC-4 dashboard paste by developer
+removal:
+  - round: 2
+    date: '2026-11-09'
+    trigger: developer — "the windows dist version appears to be defective. remove it from the deployed artifacts on the itch.io site" + "missing the entire game engine and supporting graphics"
+    diagnosis: verified against dist/Animals-5.12.jar — engine fully present (com/badlogic 1219 classes, org/lwjgl 759, natives for win/mac/linux, valid DesktopLauncher main-class); game content entirely absent (2 data files, both libGDX's built-in arial-15 font; zero game graphics/audio; the repo's 71MB assets/ tree is not packaged). The jar as shipped (site download since 2021 and the itch deployment) launches into no content. APK unaffected (Android packaging inlines assets).
+    disposition: itch.conf jar line commented out with no-repush warning (script fails loudly); dashboard deletion of the win-linux-mac upload slot is the developer's step (no butler/API delete path); desktop channel's future (rebuild a proper fat jar from the pre-Godot surface — new artifacts, new work) pending developer direction
+    pending: dashboard jar deletion; SC-2 re-verification after deletion (page should list the apk only); channel-table revision decision
