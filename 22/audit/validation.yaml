@@ -30,3 +30,20 @@ removal:
     diagnosis: verified against dist/Animals-5.12.jar — engine fully present (com/badlogic 1219 classes, org/lwjgl 759, natives for win/mac/linux, valid DesktopLauncher main-class); game content entirely absent (2 data files, both libGDX's built-in arial-15 font; zero game graphics/audio; the repo's 71MB assets/ tree is not packaged). The jar as shipped (site download since 2021 and the itch deployment) launches into no content. APK unaffected (Android packaging inlines assets).
     disposition: itch.conf jar line commented out with no-repush warning (script fails loudly); dashboard deletion of the win-linux-mac upload slot is the developer's step (no butler/API delete path); desktop channel's future (rebuild a proper fat jar from the pre-Godot surface — new artifacts, new work) pending developer direction
     pending: dashboard jar deletion; SC-2 re-verification after deletion (page should list the apk only); channel-table revision decision
+removal:
+  - round: 3
+    date: '2026-11-09'
+    event: developer deleted the Animals-5.12.jar upload slot dashboard-side
+    verified: live page now lists only Animals-5.12-release.apk (52 MB, android-tagged); win-linux-mac file gone
+    spec_revision: channel table row struck with removal note + Animals#12 pointer; SC-2 verified against the revised (apk-only) table state
+deployment:
+  - round: 2
+    date: '2026-11-09'
+    sc_results:
+      SC-1: PASS — re-verified post-removal (HTTP 200, title correct)
+      SC-2: PASS — apk-only per revised channel table: Animals-5.12-release.apk, 52 MB (= 55,207,351 B), android-tagged; jar slot gone
+      SC-3: PASS — "Name your own price"
+      SC-4: PASS — live description matches the supplied block verbatim; every claim traces to content/apps/animals/index.md prose (release notes list 1:1, no invented claims)
+    r1_completion: Genre Educational confirmed in live page metadata; cover og:image 630×500 (developer-created itch cover); published
+    spec_revision: channel-table note corrected in place — removed a stale "Animals#12" citation (ticket never existed; the fat-jar-rebuild question is unfiled, awaiting direction)
+    verdict: all four SCs PASS — #22's deployment is complete

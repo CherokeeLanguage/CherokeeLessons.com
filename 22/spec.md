@@ -23,8 +23,8 @@ Phase 1 of the two-phase migration, for this app: create its itch.io project pag
 
 | App | itch project (slug) | Channel | Source artifact (this repo) |
 |---|---|---|---|
-| Animals | `cherokee-language-animals` | `win-linux-mac` | `content/apps/animals/Animals-5.12.jar` |
-| Animals | `cherokee-language-animals` | `android` | `content/apps/animals/Animals-5.12-release.apk` |
+| Animals | `cherokee-language-animals` | `win-linux-mac` | ~~`content/apps/animals/Animals-5.12.jar`~~ — **removed 2026-11-09**: the jar was judged defective by the developer after deployment (verified: engine present, game content absent — the 71MB assets tree was never packaged) and deleted from the page; the channel's future (a proper fat-jar rebuild from the pre-Godot gradle surface — new artifacts, new work) awaits developer direction, unfiled |
+| Animals | `cherokee-language-animals` | `android` | `content/apps/animals/Animals-5.12-release.apk` — deployed and verified live |
 
 ## Success criteria
 
