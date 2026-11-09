@@ -31,3 +31,15 @@ spec:
     containment:
       scope: PASS
       home: PASS
+  - round: 3
+    date: '2026-11-09'
+    verdict: FAIL
+    reviewer: fresh-context subagent (ses_e3e077e50ffeRClq4q0NKx0Lyi)
+    findings:
+      - class: ambiguous-criterion (defect class 4; incapable-instrument facet for the html row)
+        detail: SC-2's filename clause had no defined satisfaction condition for the html channel row — its source is a directory "(zipped)" with no zip filename bound anywhere in the spec
+        classification: finding
+        remediation: html channel row and R-6 bind the zip filename as NumbersMaze-html.zip, making the filename clause decidable for all eight rows
+    containment:
+      scope: PASS
+      home: PASS
