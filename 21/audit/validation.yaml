@@ -1,0 +1,17 @@
+spec:
+  - round: 1
+    date: '2026-11-09'
+    verdict: FAIL
+    reviewer: fresh-context subagent (ses_e3e148203ffeyt174EvTKQRw5C)
+    findings:
+      - class: fabricated-claims (analysis family; feeding feasibility in R-1/R-3)
+        detail: featured-image sourcing asserted "static/images/ copies" for all four pages; Cherokee Numbers Maze's featured image is a page-bundle asset (android-store-tv-banner.png) inside its own content directory with no static/images/ copy
+        classification: finding
+        remediation: observed-facts line and R-3 corrected in place to state the actual per-page sourcing
+      - class: incapable-instrument (defect class 5)
+        detail: SC-2 demanded byte-size match verified by page fetch; itch pages expose only rounded human-readable size strings (verified live), so the instrument could not in principle detect the failure
+        classification: finding
+        remediation: SC-2 revised to filenames matching the channel table plus displayed-size consistency at the page's rounding granularity — the deliverable-owned observables; byte-identity of transit is butler's toolchain obligation, never an SC subject
+    containment:
+      scope: PASS
+      home: PASS
