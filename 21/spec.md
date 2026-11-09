@@ -2,7 +2,7 @@
 
 ## Recomposition grounds
 
-This issue was filed as a single phase-1 spec covering all four apps and reached a zero-finding validation PASS (round 4, `.issues/21/audit/validation.yaml`). The developer directed the split on 2026-11-09: "it should be one spec per app" and "(or paired specs as cherokeelessons.com needs separate specs from the app repo specific specs)". Recomposed per the issues card's recomposition protocol into four paired spec sets — the recomposition occurred during the spec phase, before any implementation or PR authorization, so no authorization is void; the parts await the developer's approval individually or together.
+This issue was filed as a single phase-1 spec covering all four apps and reached a zero-finding validation PASS (round 4, `.issues/21/audit/validation.yaml`). The developer directed the split on 2026-11-09: "it should be one spec per app" and "(or paired specs as cherokeelessons.com needs separate specs from the app repo specific specs)". Recomposed per the issues card's recomposition protocol into four paired spec sets — the recomposition occurred during the spec phase, before any implementation or PR authorization, so no authorization is void.
 
 ## Problem
 
@@ -28,10 +28,6 @@ Each part's spec reads standalone and carries its own requirements, success crit
 - **Shared push tooling (cherokeelessons.com side).** One repo-local push script plus gitignored `itch.conf` serve all four cherokeelessons.com-side specs; each spec's tooling criterion scopes to its own channel-table rows.
 - **Shared conventions.** All eight specs mirror the BoundPronouns precedent: "Name your own price" pricing; descriptions adapted from the site pages' prose with no new factual claims; no version claims (metadata is not trusted — butler auto-numbering stands); the BoundPronouns tooling pattern (butler resolution PATH→vendored, `REPLACE_ME` guard, gitignored `itch.conf`, no secrets in repos).
 - **Ordering.** Each app's dashboard project creation precedes its butler pushes; app-repo conversion work proceeds independently (no production push involved).
-
-## Review shape
-
-Per the PR contract: issues the developer authorizes together share one branch and one PR carrying one squashed commit per part; a part never opens its own branch or PR outside the authorization scope that names it.
 
 ## Closure order
 

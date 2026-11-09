@@ -75,3 +75,20 @@ app-repo-remote-only:
         classification: finding
         remediation: R-1/SC-3 restructured — tooling carries the pattern's guards and target binding only; the artifact/channel mapping explicitly deferred to the Godot-ready release work with the verified grounds (remote body edited in place)
     note: remote-tracker record — no local store; verdict recorded here as the loop's trail
+  - round: 6
+    date: '2026-11-09'
+    verdict: FAIL
+    reviewer: fresh-context subagent (ses_e3dee9d21ffe03IOPZWZoFCC6U) — combined nine-artifact re-review
+    findings:
+      - class: self-containment violation (defect class 6 — process content outside the byline footer)
+        detail: the body's "Review shape" section restated PR-contract process mechanics; the recomposition protocol assigns the umbrella to record parts, seams, and grounds only
+        classification: finding
+        remediation: Review shape section deleted; the PR contract owns that content
+      - class: self-containment violation (defect class 6 — approval-state marker outside the byline footer)
+        detail: "the parts await the developer's approval individually or together" duplicated approval-state tracking the needs-approval labels already carry
+        classification: finding
+        remediation: sentence deleted; the void-check outcome stands as grounds, the labels own the approval state
+    note: artifacts 22-25 and the three remote-only app-repo specs carried zero findings this round; Animals#11's revised body verified clean
+    containment:
+      scope: PASS
+      home: PASS
