@@ -11,3 +11,15 @@ spec:
     containment:
       scope: PASS
       home: PASS
+deployment:
+  - round: 1
+    date: '2026-11-09'
+    verifier: primary session (inline execution, Animals-side tooling itch-push.sh)
+    sc_results:
+      SC-1: PASS — page HTTP 200, title "Cherokee Language Animals by Cherokee Lessons"
+      SC-2: PASS — Animals-5.12.jar 6.6 MB (7,012,912 B) + Animals-5.12-release.apk 52 MB (55,207,351 B), filenames exact per channel table, platform icons win/linux/mac + android
+      SC-3: PASS — "Name your own price" on page
+      SC-4: PENDING — description field empty; dashboard paste pending (runbook block ready)
+    pushes: butler first builds win-linux-mac (6.69 MiB) + android (52.65 MiB), auto-numbered, no version labels
+    cover: R-1/R-3 cover clause revised in place — developer-created itch cover (Animals Artwork.Source/itch-io-CherokeeAnimals-promo.png, 630×500) shipped as page cover (og:image verified 630×500); was static/images/CherokeeAnimals-promo.jpg
+    remaining: SC-4 dashboard paste by developer
