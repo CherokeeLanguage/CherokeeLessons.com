@@ -15,3 +15,19 @@ spec:
     containment:
       scope: PASS
       home: PASS
+  - round: 2
+    date: '2026-11-09'
+    verdict: FAIL
+    reviewer: fresh-context subagent (ses_e3e0dd72dffeCNqifYbh26OJtD)
+    findings:
+      - class: fabricated-claims (factual accuracy)
+        detail: observed-facts line asserted "four site app pages" under content/apps/; the directory holds five (the four covered here plus bound-pronouns)
+        classification: finding
+        remediation: observed-facts line corrected to five pages with the bound-pronouns page named and routed to .issues/20
+      - class: cross-reference sufficiency (factual accuracy)
+        detail: BoundPronouns#59's description work cited as merged in PR #61; it merged as PR #60 (PR #61 is the follow-up blockquote fix)
+        classification: finding
+        remediation: citation corrected to PR #60 with PR #61 named as the follow-up
+    containment:
+      scope: PASS
+      home: PASS
