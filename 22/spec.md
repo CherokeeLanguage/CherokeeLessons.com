@@ -23,7 +23,7 @@ Phase 1 of the two-phase migration, for this app: create its itch.io project pag
 
 | App | itch project (slug) | Channel | Source artifact (this repo) |
 |---|---|---|---|
-| Animals | `cherokee-language-animals` | `win-linux-mac` | **restored 2026-11-09** (Animals#13): content-complete `Animals-5.12.jar` rebuilt from the `hotfix/5.12` line (commit 36720a1 — the packaging fix; originally struck 2026-11-09 as defective: engine-only, the 71MB assets were never packaged) — deployed and verified live (56 MB display = 59,642,607 B, win/linux/mac icons) |
+| Animals | `cherokee-language-animals` | `win-linux-mac` | **restored 2026-11-09** (Animals#13; **display fix redeployed 2026-11-09, Animals#15** — the instructions-screen overflow fix, hotfix/5.12 commit 2afef8e): content-complete `Animals-5.12.jar` rebuilt from the `hotfix/5.12` line (commit 36720a1 — the packaging fix; originally struck 2026-11-09 as defective: engine-only, the 71MB assets were never packaged) — deployed and verified live (56 MB display ≈ 59,642,525 B after the #15 redeploy, win/linux/mac icons) |
 | Animals | `cherokee-language-animals` | `android` | `content/apps/animals/Animals-5.12-release.apk` — deployed and verified live |
 
 ## Success criteria
