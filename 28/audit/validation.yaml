@@ -1,0 +1,66 @@
+spec:
+- round: 1
+  date: '2026-11-11T04:15:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: fabricated-claims, cross-reference-sufficiency, internal-contradiction
+    finding: Dead-key file count stated as 9 (provenance, scope table, R-4.3) while SC-6's instrument demands all content cleaned — actual `grep -rl insert_anchorLinks content` is 10 (content/_index.md missing from the evidence list; it had been fixed in the throwaway clone before the 9-file listing was captured), plus an 11th inert occurrence at static/CherokeeFonts/_index.md (zola never parses static files).
+    remediation: Count corrected to 10 content files everywhere (provenance, scope table, R-4.3, impact); the static occurrence named in provenance and Out of scope as inert; research/anchor-typo-files.txt regenerated against the real repo (10 content paths + labeled static note).
+  - id: F-2
+    classes: incapable-instrument
+    finding: SC-6 config instrument `grep -nE "generate_rss\|highlight_code" config.toml` — in ERE `\|` is a literal pipe, so the pattern matches only the literal string and can never fail on the current config.
+    remediation: Instrument corrected to ERE alternation `grep -nE "generate_rss|highlight_code" config.toml`.
+  - id: F-3
+    classes: incapable-instrument
+    finding: SC-8 README instrument had the same ERE literal-pipe defect.
+    remediation: Instrument split into two plain greps (`grep -n "ZOLA_VERSION" README.md`, `grep -n "build\.sh" README.md`), each required to find matches.
+  - id: F-4
+    classes: internal-contradiction
+    finding: SC-2/SC-3 required a version-reporting line in the build log, but R-2's mechanism never specified printing the version — an implementation conforming exactly to R-2 would fail SC-2/SC-3.
+    remediation: R-2 now requires build.sh to print the resolved binary's version (`./zola --version`) before building.
+  - id: F-5
+    classes: fabricated-claims
+    finding: Sibling comparison claimed the two vendored Zulma copies differ "only in templates/index.html, screenshots, and JS source maps" — the actual diff also includes static/js/zulma_switchcss.js (a shipped bundle, not a map), a sibling-only javascript/ source tree, and the theme .gitignore.
+    remediation: Sentence rewritten to enumerate the actual diff set; clarified that the load-bearing compatibility evidence is this repo's own Zulma copy building at 0.22.1 (research/min-0.22.1b.log).
+  - id: F-6
+    classes: cross-reference-sufficiency, fabricated-claims
+    finding: Provenance header cited "logs in research/" for the seven-version build matrix, but research/ held only four logs — the five as-is config-parse failures (0.19.2–0.23.6) were unarchived.
+    remediation: All as-is failure logs archived (build-0.19.2/0.20.0/0.21.0/0.22.1/0.23.6.log) plus the supporting iteration logs (min-0.22.1.log front-matter failure, build19-0.19.2.log, build23-iter4.log, hl-0.22.1.log, hl2-0.22.1.log).
+  - id: F-7
+    classes: fabricated-claims
+    finding: "(minor) The 0.22.1 BUILD OK claim attributed '(1292 tracked files)' to the vendored Zulma copy; 1292 is the whole repository's tracked-file count (the theme copy is 112 files)."
+    remediation: Parenthetical replaced with "(full-site build)".
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo (path prefix "."), home store .issues/28
+- round: 2
+  date: '2026-11-11T04:40:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: research-adequacy, cross-reference-sufficiency
+    finding: The load-bearing "latest theme-compatible = 0.22.1" conclusion rested on endpoint testing only — intermediate 0.23.x releases (which exist) were neither enumerated nor ruled out, and no source was cited for which zola version removed Tera `{% import %}`.
+    remediation: Executed test added at zola 0.23.0 (earliest 0.23.x) — identical theme failure, log archived (research/min-0.23.0.log); zola CHANGELOG 0.23.0 excerpt archived (Tera v2 breaking change, research/zola-changelog-0.23.0-excerpt.md); provenance and Out-of-scope now state the closure — no release between 0.22.1 (2026-01-22) and 0.23.0 (2026-08-05), both 0.23 endpoints fail identically.
+  - id: F-2
+    classes: incapable-instrument
+    finding: SC-4's instrument (`grep -n zola publish.sh`) cannot evidence the `./build.sh` conjunct — a conforming build line contains no `zola` substring, so the grep output is empty for both conforming and build-step-deleted implementations.
+    remediation: Instrument split — `grep -n "./build\.sh" publish.sh` must find the build-step line, `grep -n "zola build" publish.sh` must find nothing.
+  - id: F-3
+    classes: gap-analysis
+    finding: R-3's preservation constraints (hostname gate, rm -rf public, .htaccess copy, rsync) and R-4's minimality carried no verifying criterion — a silent regression in publish.sh's deployment-critical lines or config.toml's surviving keys would pass every criterion as written.
+    remediation: Added SC-8 (publish.sh deployment-critical surfaces verified present/unchanged via targeted greps + diff shape) and SC-9 (diff minimality — git diff against the pre-change tree shows exactly the declared surfaces and nothing else).
+  - id: F-4
+    classes: incapable-instrument
+    finding: SC-8 (README) checked two of R-5's three documentation targets — `./publish.sh` was not checked, so a README omitting it would pass.
+    remediation: Instrument extended with `grep -n "publish\.sh" README.md`.
+  - id: F-5
+    classes: decomposition
+    finding: SC-7 (migrated tree builds cleanly from fresh clone) is subsumed by SC-2 — per R-2, ./build.sh's fresh-clone run already performs and evidences exactly that build, so SC-7 could never fail independently.
+    remediation: SC-7 removed; README criterion renumbered to SC-7; preservation criteria appended as SC-8/SC-9.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo (path prefix "."), home store .issues/28
+- round: 3
+  date: '2026-11-11T05:05:00Z'
+  verdict: PASS
+  findings: []
+  notes: fresh-context dispatch on the round-2-revised spec; reviewer independently re-verified all load-bearing claims (repo surfaces, 10-file dead-key list, full build matrix logs, 0.23.0+0.23.6 theme failures, changelog excerpt, release-list currency via live re-query, sibling comparison details, no-feed-artifact history) and ran the proactive repo-boundary containment check — pass on both prongs

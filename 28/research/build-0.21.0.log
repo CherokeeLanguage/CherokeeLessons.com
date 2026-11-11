@@ -1,0 +1,8 @@
+Building site...
+Error: Failed to build the site
+Error: TOML parse error at line 7, column 1
+  |
+7 | generate_rss = true
+  | ^^^^^^^^^^^^
+unknown field `generate_rss`, expected one of `base_url`, `theme`, `title`, `description`, `default_language`, `languages`, `translations`, `generate_feeds`, `feed_limit`, `feed_filenames`, `hard_link_static`, `taxonomies`, `author`, `compile_sass`, `minify_html`, `build_search_index`, `ignored_content`, `ignored_static`, `mode`, `output_dir`, `preserve_dotfiles_in_output`, `link_checker`, `slugify`, `search`, `markdown`, `extra`, `generate_sitemap`, `generate_robots_txt`, `exclude_paginated_pages_in_sitemap`
+

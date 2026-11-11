@@ -1,0 +1,7 @@
+Building site...
+ERROR Failed to build the site
+ERROR error: Unknown tag
+ --> Zulma/templates/taxonomy_single.html:3:4
+  |
+3 | {% import "post_macros.html" as post_macros %}
+  |    ^^^^^^

@@ -1,0 +1,9 @@
+Building site...
+ERROR Failed to build the site
+ERROR Error when parsing front matter of section `/tmp/opencode/matrix-site-19plus/content/virtual-classrooms/_index.md`
+ERROR Reason: TOML parse error at line 4, column 1
+  |
+4 | insert_anchorLinks = "right"
+  | ^^^^^^^^^^^^^^^^^^
+unknown field `insert_anchorLinks`, expected one of `title`, `description`, `sort_by`, `weight`, `draft`, `template`, `paginate_by`, `paginate_reversed`, `paginate_path`, `insert_anchor_links`, `render`, `redirect_to`, `in_search_index`, `transparent`, `page_template`, `aliases`, `generate_feeds`, `extra`
+

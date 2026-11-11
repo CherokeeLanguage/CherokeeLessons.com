@@ -1,9 +1,11 @@
-content/virtual-classrooms/_index.md
-content/lessons/Syllabary-Dictation/_index.md
-content/lessons/Michaels-Grammar-Notes/_index.md
-content/lessons/Cherokee-Language-Lessons-Volume-1/_index.md
-content/lesson-audio/_index.md
-content/html-books/_index.md
-content/content/_index.md
-content/books/_index.md
 content/apps/_index.md
+content/books/_index.md
+content/content/_index.md
+content/html-books/_index.md
+content/_index.md
+content/lesson-audio/_index.md
+content/lessons/Cherokee-Language-Lessons-Volume-1/_index.md
+content/lessons/Michaels-Grammar-Notes/_index.md
+content/lessons/Syllabary-Dictation/_index.md
+content/virtual-classrooms/_index.md
+# (inert, unparsed by zola — out of scope): static/CherokeeFonts/_index.md
