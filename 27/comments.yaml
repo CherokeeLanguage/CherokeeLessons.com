@@ -39,3 +39,9 @@ comments:
 
     🤖 OpenCode (huggingface/zai-org/GLM-5.3-Flash)'
   timestamp: '2026-11-11T03:55:02+00:00'
+- type: internal
+  body: '2026-11-10: developer direction — the posted closure comment carries only
+    the rename resolution; the follow-up paragraph and validation-round narration
+    were removed from the remote comment (edited in place). This local record preserves
+    what was originally issued.'
+  timestamp: '2026-11-11T03:58:17+00:00'
