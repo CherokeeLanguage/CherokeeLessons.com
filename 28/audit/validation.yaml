@@ -70,3 +70,9 @@ implementation:
   scope: full implementation of SC-1..SC-9 on feature/28-pin-zola (4 commits over a3662da)
   instruments-executed: SC-1/4/5/6/7/8 structural greps+diffs; SC-2 fresh-clone ./build.sh run (download+build, exit 0, public/index.html; /tmp/opencode/cl28-run1.log); SC-3 cached re-run (no fetch, zola 0.22.1; cl28-run2.log); SC-9 diff --stat exact-surface match
   verify-verdict: PASS (fresh-context reviewer, zero findings; SC-1..SC-9 all PASS; release-URL and zola-0.22.1 config-key usage confirmed)
+implementation:
+- round: 1
+  date: '2026-11-11T15:10:00Z'
+  verdict: PASS
+  findings: []
+  notes: on-demand audit of the delivered implementation (PR #29, merge 789a7f8; implementation commit 1abf4dd vs baseline a3662da). Auditing session executed all nine SC instruments against trunk, including fresh-clone behavioral runs of ./build.sh (download+build exit 0; cached re-run without re-download); fresh-context reviewer independently re-executed both behavioral instruments and verified the release-asset URL against the live GitHub API. Zero findings; repo-boundary containment intact (16 files, exactly the declared surfaces). Ticket reconciled: remote closed by merge keyword, needs-approval label removed, local store closed (completed).
