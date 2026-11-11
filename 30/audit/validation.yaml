@@ -141,3 +141,21 @@ spec:
   verdict: PASS
   findings: []
   notes: fresh-context dispatch on the round-11-revised spec; reviewer independently verified all counts, link forms, instrument patterns, assignment yaml, baselines, limits, and live surfaces (itch.io 4 projects, oEmbed spot-checks, TTS source repos, LPT presets, gate figures); explicitly examined R-5 build-safety (tex md draft front matter; loose non-index md precedent) and SC-10 satisfiability; containment pass both prongs.
+revision-2-itch-only:
+- round: 0
+  date: '2026-11-12T00:00:00Z'
+  note: developer directives supersede the pre-revision approval — "only itch-io is the new release platform", "pre-existing store links are all dead", "file a spec to ... migrate to itch-io and to publish the latest version with the cll1-gdx repo", and the cross-repo filing rule ("all specs must be filed in the correct repos and not have work which crosses repo boundaries. proper interdependencies must be declared between specs"; "the agent for the cll1-gdx repo is a separate agent..."). Revision applied both surfaces: store-link removal (R-1, SC-1 = 0 counts, SC-12 = 0, Impact, approach alternative, scope rows), CLL-1 page-link + build/publish work separated into the correct repos (CherokeeLessons#32 page link; CherokeeLanguage/cll1-gdx#5 build/publish — that repo's agent triages), Interdependencies section added, store-link probe matrix recorded at research/store-link-probe.txt. Validation restarts fresh below.
+- round: 1
+  date: '2026-11-12T00:10:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incapable-instrument
+    finding: SC-12's NumbersMaze page path was codepoint-corrupted by the patch author's hand-typed Cherokee (U+13A3-class substitutions, single hyphen) — the instrument cannot run; the store spec (previously validated with a byte-verified path) had inherited a bad copy.
+    remediation: Path extracted programmatically from the filesystem in the remediation script (never hand-typed).
+  - id: F-2
+    classes: cross-reference-sufficiency, fabricated-claims, internal-contradiction
+    finding: The probe bullet claimed "all 13 probed / 11 of 13 dead" while the recorded matrix held 12 links (10 dead + 2 live) and contradicted the Problem's own parenthetical — and the matrix had genuinely missed the BoundPronouns page's live Amazon link (B00TCP955U).
+    remediation: Matrix re-executed with the 13th link (now 503); bullet and Problem parenthetical restated to the artifact's exact counts (13 probed, 11 dead — 404×7/503×4, 2 live, removed by policy).
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30; cross-repo work correctly absent from SCs (cll1-gdx#5 dependency only)
