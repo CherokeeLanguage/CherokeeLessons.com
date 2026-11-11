@@ -1,4 +1,5 @@
 /.git/
+/zola
 /public/
 /static/processed_images/
 *.mp4

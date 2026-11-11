@@ -1,6 +1,5 @@
 +++
 paginate_by = 3
-insert_anchorLinks = "right"
 title="Online Books"
 description="HTML Book Versions for Online Reading"
 

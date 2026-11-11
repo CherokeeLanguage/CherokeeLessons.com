@@ -4,7 +4,7 @@ description = "Various resources for learning the Cherokee Language."
 default_language = "en"
 theme = "Zulma"
 
-generate_rss = true
+generate_feeds = true
 build_search_index = true
 
 taxonomies = [
@@ -17,8 +17,6 @@ compile_sass = true
 
 hard_link_static = false
 
-[markdown]
-highlight_code = true
 
 [slugify]
 paths = "safe"

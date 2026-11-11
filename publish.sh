@@ -10,7 +10,7 @@ if [ "$(hostname)" != "omen-desktop" ]; then echo "WRONG MACHINE"; exit -1; fi
 cd "$(dirname "$0")"
 
 rm -rf public
-zola build
+./build.sh
 
 FROM="./public/"
 
