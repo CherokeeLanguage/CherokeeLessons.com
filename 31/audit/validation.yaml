@@ -81,3 +81,106 @@ spec:
     remediation: SC-5 extended — the CSP line must carry both giscus.app and youtube (the shortcode embeds www.youtube.com/embed/, verified in templates/shortcodes/youtube.html).
   preferences-adjudicated: []
   repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 5
+  date: '2026-11-12T00:35:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: gap-analysis
+    finding: R-1's most design-defining clause (no Worker script, no bindings — assets-only) was stated in requirement position but exercised by no criterion; a manifest carrying main/bindings passes SC-1..SC-13.
+    remediation: SC-1 extended with absence checks (no "main" entry, no "bindings" key) — consistent with the spec's own convention of instrumenting SHALL-prohibitions (R-4/R-5).
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 6
+  date: '2026-11-12T01:00:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: gap-analysis
+    finding: R-2's "override wins in both modes" was exercised only in preview mode (SC-13) — an override honored only in the non-production branch passes every SC while violating the requirement.
+    remediation: SC-14 added — production-path build with the override, override URL present in the built feed.
+  - id: F-2
+    classes: gap-analysis
+    finding: R-4's "exactly"/only-entry constraint was unverified — SC-4 checks presence, not the entry count; the brainstorm record itself lists candidate extra entries (a live drift vector, and stray _redirects entries shadow real paths on this platform).
+    remediation: SC-4 extended with the non-comment entry count = 1.
+  - id: F-3
+    classes: blast-radius
+    finding: The README's existing publish.sh/vhost paragraph was never required to go — a passing deliverable ships contradictory deploy docs, contradicting the Impact's "the publish.sh era ends".
+    remediation: R-6 scope wording extended; SC-6 gains the publish.sh-mention-absence check.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 7
+  date: '2026-11-12T01:25:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incapable-instrument, ambiguous-criterion
+    finding: SC-14's "(no branch env — production path)" premise was not guaranteed — the git fallback resolves to the checkout's branch, so on a feature-branch checkout the identical command exercises preview mode (SC-13's evidence) and the criterion passes without production-mode evidence.
+    remediation: Production path made deterministic — WORKERS_CI_BRANCH=master is set explicitly in the instrument.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 8
+  date: '2026-11-12T02:00:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incapable-instrument
+    finding: SC-6's README enumeration omitted two of R-6's named elements — "Workers Builds" (the deploy trigger itself) and the Worker-creation step — a README omitting either passes.
+    remediation: Enumeration completed (Workers Builds, worker creation).
+  - id: F-2
+    classes: incapable-instrument
+    finding: SC-4 could not detect the quoting regression R-4's unquoted-form requirement guards against — the presence grep and the curl -I substring both match a quoted (malformed) target equally.
+    remediation: Instrument anchored to the documented full-line unquoted form (quoted target fails the anchored match); entry-count and curl -I checks retained.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 9
+  date: '2026-11-12T02:30:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: gap-analysis
+    finding: The deploy path's build step was configured nowhere — the Workers Builds build command is optional (unset = no build) and is NOT read from the Wrangler config; the ops sequence left it unset so the first production deploy would fail or deploy nothing.
+    remediation: Build-command configuration (./build.sh, dashboard-side) added to the sequenced ops and R-6's documented ops sequence; SC-6 gains the build-command documentation check.
+  - id: F-2
+    classes: ambiguous-criterion, gap-analysis
+    finding: R-2's git fallback had no defined terminal behavior for the no-detection case (detached HEAD) — two satisfying implementations with different output; no criterion exercised the boundary.
+    remediation: R-2 states the resolution (no detectable branch → production-safe, the sibling precedent's documented behavior); SC-15 added (detached-HEAD build yields production output).
+  - id: F-3
+    classes: incapable-instrument
+    finding: SC-1 verified not_found_handling's presence but not its value — a manifest with "none" (the platform default) passes while changing the site's 404 behavior.
+    remediation: Value-level check (grep '"not_found_handling": "404-page"').
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 10
+  date: '2026-11-12T03:00:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: cross-reference-sufficiency
+    finding: The doc-attributed status-code enumeration omitted 303 (the cited redirects doc lists 301/302/303/307/308).
+    remediation: Enumeration corrected.
+  - id: F-2
+    classes: cross-reference-sufficiency, internal-contradiction
+    finding: The provenance called the one needed rule "a literal path" — R-4/SC-4 mandate a splat rule (/CherokeeLemmatizerGwt*), a distinct documented feature class.
+    remediation: Reworded to "a single splat rule".
+  - id: F-3
+    classes: gap-analysis
+    finding: The builds name-match precondition was relied on but unstated — the dashboard Worker name must equal the manifest name or builds fail; the ops sequence omitted it.
+    remediation: Ops sequence and README enumeration now include Worker-created-with-the-manifest-name.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 11
+  date: '2026-11-12T03:25:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: fabricated-claims
+    finding: The "~1 h before this filing" elapsed-time gloss misstates fact — the migration commits are ~1h57m before the store filing commit (~3h before last write); the same-day migration, commit identities, and precedent status all verified true.
+    remediation: Restated as "earlier the same day (~2 h before filing)".
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 12
+  date: '2026-11-12T04:00:00Z'
+  verdict: PASS
+  findings: []
+  notes: fresh-context dispatch on the round-11-revised spec; reviewer verified all repo-state claims, gate evidence, sibling facts (including michael-conrad.com's same-day Workers migration), live DNS/HTTP probes, platform docs, and probed the one evidence gap (Zola 0.22.1 --base-url / behavior) from source — resolves in the spec's favor; boundary matrix SC-12–15 examined; containment pass both prongs.
