@@ -1,0 +1,74 @@
+# Page-to-video assignment — derived mechanically 2026-11-11 from each page's
+# current embeds ({{video}}/{{audio}}) joined to research/youtube-video-id-map.txt
+# by track numbering (Dictation NN-NN; CLL track N -> [N]; Animals track N -> [N]).
+# This file is SC-4's assignment evidence: each migrated page's youtube(id=) set
+# must equal its recorded set.
+---
+content/lesson-audio/animal-names/index.md:
+  - {from: "animals-0001.mp3", id: "14Mj1DvB8E4"}
+  - {from: "animals-0002.mp3", id: "fwfaDKrshc8"}
+  - {from: "animals-0003.mp3", id: "4COL-q1JiCs"}
+  - {from: "animals-0004.mp3", id: "QOtxqbPYhU0"}
+  - {from: "animals-0005.mp3", id: "_okBojOCFZI"}
+  - {from: "animals-0006.mp3", id: "53hcLdlx96c"}
+  - {from: "animals-0007.mp3", id: "qZVwtwefvnw"}
+  - {from: "animals-0008.mp3", id: "klYhIUCW8ME"}
+  - {from: "animals-0009.mp3", id: "0yksgRw-1XU"}
+content/lesson-audio/cherokee-language-lessons-1---audio-exercises/index.md:
+  - {from: "cll1-v3-0001.mp3", id: "nzmszHioYFw"}
+  - {from: "cll1-v3-0002.mp3", id: "H0qiSag-C3c"}
+  - {from: "cll1-v3-0003.mp3", id: "H05lkwvQx_8"}
+  - {from: "cll1-v3-0004.mp3", id: "1kY5MtIwB1o"}
+  - {from: "cll1-v3-0005.mp3", id: "CXoyu71yL08"}
+  - {from: "cll1-v3-0006.mp3", id: "75DX_gvMKaw"}
+  - {from: "cll1-v3-0007.mp3", id: "4i54MUfDuxA"}
+  - {from: "cll1-v3-0008.mp3", id: "y1a8-T6iCLs"}
+  - {from: "cll1-v3-0009.mp3", id: "Ep-a2SuLwDo"}
+  - {from: "cll1-v3-0010.mp3", id: "w6LRDFeMqzc"}
+  - {from: "cll1-v3-0011.mp3", id: "yl0t7rCHEEo"}
+  - {from: "cll1-v3-0012.mp3", id: "hS-K1u2_H5o"}
+  - {from: "cll1-v3-0013.mp3", id: "w18vxutJG4Y"}
+  - {from: "cll1-v3-0014.mp3", id: "W-l7YIa0dqU"}
+  - {from: "cll1-v3-0015.mp3", id: "2KEV5HWRh4k"}
+  - {from: "cll1-v3-0016.mp3", id: "CTd9kp0beL4"}
+  - {from: "cll1-v3-0017.mp3", id: "jf6yMyOE-3k"}
+  - {from: "cll1-v3-0018.mp3", id: "O5bxgMU2fnQ"}
+  - {from: "cll1-v3-0019.mp3", id: "JVQYIIZp7_A"}
+  - {from: "cll1-v3-0020.mp3", id: "Aw7g0hB7fhw"}
+  - {from: "cll1-v3-0021.mp3", id: "gd8raCUgLdc"}
+  - {from: "cll1-v3-0022.mp3", id: "GD3clKOi4yY"}
+  - {from: "cll1-v3-0023.mp3", id: "_xYPDwI-ZI8"}
+content/lessons/Syllabary-Dictation/day-1-pt1/index.md:
+  - {from: "Dictation 01-00 Introduction.mp4", id: "2YKVivrICpk"}
+  - {from: "Dictation 01-01 How to do a dictation exercise.mp4", id: "T7IunFbpT-0"}
+  - {from: "Dictation 01-02 - Ꭰ-Ꭶ - Cherokee Syllabary - Cherokee Language - ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ.mp4", id: "s9_EzsxWqw8"}
+content/lessons/Syllabary-Dictation/day-1-pt2/index.md:
+  - {from: "Dictation 02-01 Lecture Ꭷ-Ꭽ.mp4", id: "amlmYypzsEk"}
+  - {from: "Dictation 02-02 - Ꭷ-Ꭽ - Cherokee Syllabary - ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ.mp4", id: "VRTVUX7E6Bc"}
+content/lessons/Syllabary-Dictation/day-2-pt1/index.md:
+  - {from: "Dictation 03-01 Lecture Ꭾ-Ꮄ.mp4", id: "Fhi7le-MjPY"}
+  - {from: "Dictation 03-02 - Ꭾ-Ꮄ.mp4", id: "ikH2luvhEtM"}
+content/lessons/Syllabary-Dictation/day-2-pt2/index.md:
+  - {from: "Dictation 04-01 Lecture Ꮅ-Ꮋ.mp4", id: "oB9ndFaDA5c"}
+  - {from: "Dictation 04-02 - Ꮅ-Ꮋ.mp4", id: "TA4nXtc0bBU"}
+content/lessons/Syllabary-Dictation/day-3-pt1/index.md:
+  - {from: "Dictation 05-01 Lecture Ꮌ-Ꮒ.mp4", id: "BBla_a1icGU"}
+  - {from: "Dictation 05-02 - Ꮌ-Ꮒ.mp4", id: "SdcnjNAE3YM"}
+content/lessons/Syllabary-Dictation/day-3-pt2/index.md:
+  - {from: "Dictation 06-02.mp4", id: "cOK6Uoho2eM"}
+content/lessons/Syllabary-Dictation/day-4-pt1/index.md:
+  - {from: "Dictation 07-02.mp4", id: "z9C4ao2wQT8"}
+content/lessons/Syllabary-Dictation/day-4-pt2/index.md:
+  - {from: "Dictation 08-02.mp4", id: "W9x1BsYDcEY"}
+content/lessons/Syllabary-Dictation/day-5-pt1/index.md:
+  - {from: "Dictation 09-02.mp4", id: "q7-9LIw07kI"}
+content/lessons/Syllabary-Dictation/day-5-pt2/index.md:
+  - {from: "Dictation 10-02.mp4", id: "mReSSIzD92o"}
+content/lessons/Syllabary-Dictation/day-6-pt1/index.md:
+  - {from: "Dictation 11-02.mp4", id: "kAQ3kyPYUWM"}
+content/lessons/Syllabary-Dictation/day-6-pt2/index.md:
+  - {from: "Dictation 12-02.mp4", id: "0bMU41cOzOM"}
+content/lessons/Syllabary-Dictation/day-6-pt3/index.md:
+  - {from: "Dictation 13-02.mp4", id: "fDwDs61wlE8"}
+content/lessons/Syllabary-Dictation/day-7/index.md:
+  - {from: "Dictation 15-02.mp4", id: "VuaQB_4knZg"}

@@ -3,70 +3,79 @@
 # The 53 IDs below are the ones this spec's R-2 consumes. Cross-verified against
 # local track-info.json titles (CLL 1 series: titles match verbatim; durations
 # consistently local+5s) and local mp4/mp3 filename conventions (Dictation NN-NN).
+
+# YouTube-side durations below were observed during the same rendered-channel
+# extraction (2026-11-11). Correspondence evidence: stable title prefixes
+# (track numbering) + duration pattern (local track-info.json durations vs YT:
+# CLL 1: 13:45->13:50, 18:22->18:27, 46:58->47:03 — consistent ~5s offset).
+# Title correspondence is PREFIX-level: YouTube appends album suffixes
+# ("(Cherokee Language Lessons 1 - 3rd Edition)") and uses ASCII "..." where
+# local metadata uses Unicode "…".
+
 # Page→video assignment is derived at plan time from each page's current
 # {{audio}}/mp4 references (built-HTML reference resolution, same method as the
 # asset-review resolver).
 
 ## Syllabary-Dictation (21 videos ↔ 21 local mp4s, all confirmed on channel)
-Dictation 01 00 Introduction                       https://youtu.be/2YKVivrICpk
-Dictation 01 01 How to do a dictation exercise     https://youtu.be/T7IunFbpT-0
-Dictation 01 02 Ꭰ Ꭶ Cherokee Syllabary             https://youtu.be/s9_EzsxWqw8
-Dictation 02 01 Lecture Ꭷ Ꭽ                        https://youtu.be/amlmYypzsEk
-Dictation 02 02 Ꭷ Ꭽ                                https://youtu.be/VRTVUX7E6Bc
-Dictation 03 01 Lecture Ꭾ Ꮄ                        https://youtu.be/Fhi7le-MjPY
-Dictation 03 02 Ꭾ Ꮄ                                https://youtu.be/ikH2luvhEtM
-Dictation 04 01 Lecture Ꮅ Ꮋ                        https://youtu.be/oB9ndFaDA5c
-Dictation 04 02 Ꮅ Ꮋ                                https://youtu.be/TA4nXtc0bBU
-Dictation 05 01 Lecture Ꮌ Ꮒ                        https://youtu.be/BBla_a1icGU
-Dictation 05 02 Ꮌ Ꮒ                                https://youtu.be/SdcnjNAE3YM
-Dictation 06 02 Ꮓ-Ꮙ                                https://youtu.be/cOK6Uoho2eM
-Dictation 07 02 Ꮚ-Ꮠ                                https://youtu.be/z9C4ao2wQT8
-Dictation 08 02 Ꮡ-Ꮧ                                https://youtu.be/W9x1BsYDcEY
-Dictation 09 02 Ꮨ-Ꮮ                                https://youtu.be/q7-9LIw07kI
-Dictation 10 02 Ꮯ-Ꮵ                                https://youtu.be/mReSSIzD92o
-Dictation 11 02 Ꮶ-Ꮼ                                https://youtu.be/kAQ3kyPYUWM
-Dictation 12 02 Ꮽ-Ᏻ                                https://youtu.be/0bMU41cOzOM
-Dictation 13 02 Ᏼ Ꮗ Ꮚ Ꮿ Ꭶ Ꮥ Ꮪ                      https://youtu.be/fDwDs61wlE8
-Dictation 14 02 Ꮆ Ꮐ Ꮯ Ꮳ Ꮸ Ꮹ Ᏻ                      https://youtu.be/pNOCN-6abhk
-Dictation 15 02 Ꭰ-Ᏼ | FINAL REVIEW                 https://youtu.be/VuaQB_4knZg
+Dictation 01 00 Introduction                       https://youtu.be/2YKVivrICpk  [YT 11:01]
+Dictation 01 01 How to do a dictation exercise     https://youtu.be/T7IunFbpT-0  [YT 5:05]
+Dictation 01 02 Ꭰ Ꭶ Cherokee Syllabary             https://youtu.be/s9_EzsxWqw8  [YT 23:56]
+Dictation 02 01 Lecture Ꭷ Ꭽ                        https://youtu.be/amlmYypzsEk  [YT 9:45]
+Dictation 02 02 Ꭷ Ꭽ                                https://youtu.be/VRTVUX7E6Bc  [YT 24:04]
+Dictation 03 01 Lecture Ꭾ Ꮄ                        https://youtu.be/Fhi7le-MjPY  [YT 10:47]
+Dictation 03 02 Ꭾ Ꮄ                                https://youtu.be/ikH2luvhEtM  [YT 24:19]
+Dictation 04 01 Lecture Ꮅ Ꮋ                        https://youtu.be/oB9ndFaDA5c  [YT 12:19]
+Dictation 04 02 Ꮅ Ꮋ                                https://youtu.be/TA4nXtc0bBU  [YT 24:28]
+Dictation 05 01 Lecture Ꮌ Ꮒ                        https://youtu.be/BBla_a1icGU  [YT 15:35]
+Dictation 05 02 Ꮌ Ꮒ                                https://youtu.be/SdcnjNAE3YM  [YT 24:32]
+Dictation 06 02 Ꮓ-Ꮙ                                https://youtu.be/cOK6Uoho2eM  [YT 24:29]
+Dictation 07 02 Ꮚ-Ꮠ                                https://youtu.be/z9C4ao2wQT8  [YT 24:34]
+Dictation 08 02 Ꮡ-Ꮧ                                https://youtu.be/W9x1BsYDcEY  [YT 24:36]
+Dictation 09 02 Ꮨ-Ꮮ                                https://youtu.be/q7-9LIw07kI  [YT 24:25]
+Dictation 10 02 Ꮯ-Ꮵ                                https://youtu.be/mReSSIzD92o  [YT 24:27]
+Dictation 11 02 Ꮶ-Ꮼ                                https://youtu.be/kAQ3kyPYUWM  [YT 24:34]
+Dictation 12 02 Ꮽ-Ᏻ                                https://youtu.be/0bMU41cOzOM  [YT 24:30]
+Dictation 13 02 Ᏼ Ꮗ Ꮚ Ꮿ Ꭶ Ꮥ Ꮪ                      https://youtu.be/fDwDs61wlE8  [YT 24:20]
+Dictation 14 02 Ꮆ Ꮐ Ꮯ Ꮳ Ꮸ Ꮹ Ᏻ                      https://youtu.be/pNOCN-6abhk  [YT 24:15]
+Dictation 15 02 Ꭰ-Ᏼ | FINAL REVIEW                 https://youtu.be/VuaQB_4knZg  [YT 36:04]
 
 ## CLL 1 — Cherokee Language Lessons 1, 3rd Edition (23 tracks ↔ 23 local mp3s
 ## content/lesson-audio/cherokee-language-lessons-1---audio-exercises/cll1-v3-0001..0023.mp3)
-CLL 1 [01] O:síyo … Tò:hi̋:ju                       https://youtu.be/nzmszHioYFw
-CLL 1 [02] Tò:hi̋:sgo ... Go:hű:sdi                 https://youtu.be/H0qiSag-C3c
-CLL 1 [03] Donada:go:hv:ɂi ... Taɂli dide:hlohgwà:sdi https://youtu.be/H05lkwvQx_8
-CLL 1 [04] Aya:do:hlv̋:ɂi ... Tatv:dà:sda           https://youtu.be/1kY5MtIwB1o
-CLL 1 [05] Hisgi:ne̋:ɂi agě:hya ... Nvhgi wahaya    https://youtu.be/CXoyu71yL08
-CLL 1 [06] Hisgi do:ya ... Gi:hli ale wě:sa        https://youtu.be/75DX_gvMKaw
-CLL 1 [07] Gadō jű:sdi nǔ:na … Wahaya ga:hi:gowhtíha https://youtu.be/4i54MUfDuxA
-CLL 1 [08] Di:sadv́:di de:higowhtíha … Dì:jo:hwe:lv̀:ga https://youtu.be/y1a8-T6iCLs
-CLL 1 [09] Gawó:ni:sgv́:ʔi à:ktahv́:ʔi … Hla agě:hya yi̋:gi. asgaya https://youtu.be/Ep-a2SuLwDo
-CLL 1 [10] Hla asgaya yi̋:gi. agě:hya … A:niwahaya   https://youtu.be/w6LRDFeMqzc
-CLL 1 [11] Awě:sa … Dě:hlʔgv̋:ʔi dà:nigowhtíha      https://youtu.be/yl0t7rCHEEo
-CLL 1 [12] Sa:ʔdu … Sǔ:dálsgǒ:hi                   https://youtu.be/hS-K1u2_H5o
-CLL 1 [13] Gahlgwǎ:sgǒ:hi … Lí:nida ale ma:gá:li dò:gi:nadó:ʔa https://youtu.be/w18vxutJG4Y
-CLL 1 [14] Má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:ʔa … Ani:yv:wi:ya̋:ʔi https://youtu.be/W-l7YIa0dqU
-CLL 1 [15] Si … Na a:nijoʔi yǒ:na ù:hna̋            https://youtu.be/2KEV5HWRh4k
-CLL 1 [16] Si! na a:nijoʔi yǒ:na áhani … Dě:jádó:ʔasgo dé:widi ji:sdu https://youtu.be/CTd9kp0beL4
-CLL 1 [17] Nihi na u:yő:ʔi ji:sdu … Ani:sakǒ:níge̋ salǒ:li https://youtu.be/jf6yMyOE-3k
-CLL 1 [18] Ani:dalǒ:níge̋ sǒ:gwíli … Hla yǒ:na yijagowhtíha https://youtu.be/O5bxgMU2fnQ
-CLL 1 [19] Hla na gu:le yǔ:ha … Ahawi dù:wa:káha   https://youtu.be/JVQYIIZp7_A
-CLL 1 [20] Do:ya dù:ni:káha … Gè:hv̌:gi             https://youtu.be/Aw7g0hB7fhw
-CLL 1 [21] Gè:hé:ʔi … Ahawisgo ga:hi:ya:du:líha    https://youtu.be/gd8raCUgLdc
-CLL 1 [22] Tǔ:yasgo de:jadu:líha … Na u:niyő ani:yv:wi gè:sv̌:gi https://youtu.be/GD3clKOi4yY
-CLL 1 [23] Ha:dlv à:nő:sda yv:wi … Nà:sgi ga:ji:ya:du:lí https://youtu.be/_xYPDwI-ZI8
+CLL 1 [01] O:síyo … Tò:hi̋:ju                       https://youtu.be/nzmszHioYFw  [YT 13:50]
+CLL 1 [02] Tò:hi̋:sgo ... Go:hű:sdi                 https://youtu.be/H0qiSag-C3c  [YT 18:27]
+CLL 1 [03] Donada:go:hv:ɂi ... Taɂli dide:hlohgwà:sdi https://youtu.be/H05lkwvQx_8  [YT 21:53]
+CLL 1 [04] Aya:do:hlv̋:ɂi ... Tatv:dà:sda           https://youtu.be/1kY5MtIwB1o  [YT 25:14]
+CLL 1 [05] Hisgi:ne̋:ɂi agě:hya ... Nvhgi wahaya    https://youtu.be/CXoyu71yL08  [YT 24:34]
+CLL 1 [06] Hisgi do:ya ... Gi:hli ale wě:sa        https://youtu.be/75DX_gvMKaw  [YT 32:38]
+CLL 1 [07] Gadō jű:sdi nǔ:na … Wahaya ga:hi:gowhtíha https://youtu.be/4i54MUfDuxA  [YT 37:01]
+CLL 1 [08] Di:sadv́:di de:higowhtíha … Dì:jo:hwe:lv̀:ga https://youtu.be/y1a8-T6iCLs  [YT 41:10]
+CLL 1 [09] Gawó:ni:sgv́:ʔi à:ktahv́:ʔi … Hla agě:hya yi̋:gi. asgaya https://youtu.be/Ep-a2SuLwDo  [YT 42:51]
+CLL 1 [10] Hla asgaya yi̋:gi. agě:hya … A:niwahaya   https://youtu.be/w6LRDFeMqzc  [YT 40:20]
+CLL 1 [11] Awě:sa … Dě:hlʔgv̋:ʔi dà:nigowhtíha      https://youtu.be/yl0t7rCHEEo  [YT 47:03]
+CLL 1 [12] Sa:ʔdu … Sǔ:dálsgǒ:hi                   https://youtu.be/hS-K1u2_H5o  [YT 48:49]
+CLL 1 [13] Gahlgwǎ:sgǒ:hi … Lí:nida ale ma:gá:li dò:gi:nadó:ʔa https://youtu.be/w18vxutJG4Y  [YT 49:55]
+CLL 1 [14] Má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:ʔa … Ani:yv:wi:ya̋:ʔi https://youtu.be/W-l7YIa0dqU  [YT 59:49]
+CLL 1 [15] Si … Na a:nijoʔi yǒ:na ù:hna̋            https://youtu.be/2KEV5HWRh4k  [YT 52:28]
+CLL 1 [16] Si! na a:nijoʔi yǒ:na áhani … Dě:jádó:ʔasgo dé:widi ji:sdu https://youtu.be/CTd9kp0beL4  [YT 44:45]
+CLL 1 [17] Nihi na u:yő:ʔi ji:sdu … Ani:sakǒ:níge̋ salǒ:li https://youtu.be/jf6yMyOE-3k  [YT 56:41]
+CLL 1 [18] Ani:dalǒ:níge̋ sǒ:gwíli … Hla yǒ:na yijagowhtíha https://youtu.be/O5bxgMU2fnQ  [YT 59:42]
+CLL 1 [19] Hla na gu:le yǔ:ha … Ahawi dù:wa:káha   https://youtu.be/JVQYIIZp7_A  [YT 59:41]
+CLL 1 [20] Do:ya dù:ni:káha … Gè:hv̌:gi             https://youtu.be/Aw7g0hB7fhw  [YT 1:00:00]
+CLL 1 [21] Gè:hé:ʔi … Ahawisgo ga:hi:ya:du:líha    https://youtu.be/gd8raCUgLdc  [YT 59:40]
+CLL 1 [22] Tǔ:yasgo de:jadu:líha … Na u:niyő ani:yv:wi gè:sv̌:gi https://youtu.be/GD3clKOi4yY  [YT 59:53]
+CLL 1 [23] Ha:dlv à:nő:sda yv:wi … Nà:sgi ga:ji:ya:du:lí https://youtu.be/_xYPDwI-ZI8  [YT 58:43]
 
 ## Animals — animal-names audio (9 tracks ↔ 9 local mp3s
 ## content/lesson-audio/animal-names/animals-0001..0009.mp3)
-Animals [01] Áɂni ... Gv́:na                       https://youtu.be/14Mj1DvB8E4
-Animals [02] Kv̌:hli ... Tina                      https://youtu.be/fwfaDKrshc8
-Animals [03] Do:sa ... E:logwa                    https://youtu.be/4COL-q1JiCs
-Animals [04] Ǐ:náda ... Sǒ:gwíli                  https://youtu.be/QOtxqbPYhU0
-Animals [05] Daksi ... Wá:so:hla                  https://youtu.be/_okBojOCFZI
-Animals [06] Yansa ... Aji:lv̋:sgi                 https://youtu.be/53hcLdlx96c
-Animals [07] U:ni:nò:de̋:na ... Sǒ:gwíli di:niɂlě:nv́:hi:da https://youtu.be/qZVwtwefvnw
-Animals [08] Do:ya ... Do:sv̌:dáɂli                https://youtu.be/klYhIUCW8ME
-Animals [09] U:ji:ya ... Kawǒ:nu                  https://youtu.be/0yksgRw-1XU
+Animals [01] Áɂni ... Gv́:na                       https://youtu.be/14Mj1DvB8E4  [YT 14:04]
+Animals [02] Kv̌:hli ... Tina                      https://youtu.be/fwfaDKrshc8  [YT 21:21]
+Animals [03] Do:sa ... E:logwa                    https://youtu.be/4COL-q1JiCs  [YT 25:09]
+Animals [04] Ǐ:náda ... Sǒ:gwíli                  https://youtu.be/QOtxqbPYhU0  [YT 29:05]
+Animals [05] Daksi ... Wá:so:hla                  https://youtu.be/_okBojOCFZI  [YT 31:05]
+Animals [06] Yansa ... Aji:lv̋:sgi                 https://youtu.be/53hcLdlx96c  [YT 31:09]
+Animals [07] U:ni:nò:de̋:na ... Sǒ:gwíli di:niɂlě:nv́:hi:da https://youtu.be/qZVwtwefvnw  [YT 31:09]
+Animals [08] Do:ya ... Do:sv̌:dáɂli                https://youtu.be/klYhIUCW8ME  [YT 25:46]
+Animals [09] U:ji:ya ... Kawǒ:nu                  https://youtu.be/0yksgRw-1XU  [YT 15:34]
 
 ## Not consumed by this spec (channel inventory completeness): C.E.D. Examples
 ## [01]-[10], Beginning Cherokee [01]-[05], the public-domain-comics talk

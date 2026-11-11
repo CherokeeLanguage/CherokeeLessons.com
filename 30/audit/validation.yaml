@@ -1,0 +1,143 @@
+spec:
+[]
+- round: 2
+  date: '2026-11-11T18:05:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incapable-instrument
+    finding: SC-3's page path used a single hyphen after "maze"; the actual directory name has three (cherokee-numbers-maze---…) — the instrument cannot run.
+    remediation: Path corrected to the triple-hyphen form.
+  - id: F-2
+    classes: incapable-instrument
+    finding: SC-4's video-half absence-grep used the spaced form `video (video=` — the actual embed form is `video(video=` (20 occurrences); vacuous check.
+    remediation: Instrument uses the actual unspaced form.
+  - id: F-3
+    classes: incapable-instrument
+    finding: SC-1's positive grep (slug substring) is already satisfied on two pages by unrelated occurrences (Apple store URL; featured_image path) — cannot detect a missing itch reference there.
+    remediation: Positive conjunct requires the full itch project URL (cherokee-language.itch.io/<slug>).
+  - id: F-4
+    classes: gap-analysis, traceability
+    finding: Three stated SHALLs had no verifying criterion — the CLL-1 desktop-link drop, the NumbersMaze web-build link replacement, and all untracked working-tree deletions (app bins, NumbersMaze build, migrated media) — while R-3's equivalent IS verified (inconsistent coverage).
+    remediation: SC-12 (page-level link removals) and SC-13 (working-tree absence of the retired untracked surfaces) added.
+  - id: F-5
+    classes: fabricated-claims
+    finding: Current-state misstatements — ~514 MB attributed to the NumbersMaze build alone (actual 43.9 MB; ~514 MB is the combined bucket); "four app dirs" with colocated binaries (actual three; syllabary-app.md has none); "3 per-dir .gitignore files in the TTS demo dirs" (actual one tracked; the others must be created).
+    remediation: Numbers and dir counts corrected in R-1, scope table, and R-4 mechanics (edit-one/create-others verified at plan time).
+  - id: F-6
+    classes: fabricated-claims, cross-reference-sufficiency
+    finding: Provenance claimed cherokee-audio-data contains ims-toucan-*.txt — the repo's complete tree has none (they are untracked local generator outputs).
+    remediation: Bullet corrected to the tracked contents (ced-mco.txt, voice-ids.txt, generators) with the ims-toucan files noted as local untracked outputs.
+  - id: F-7
+    classes: cross-reference-sufficiency
+    finding: The stand-up-gate numbers were cited to research/standup-gate-build.log, which holds only the zola output — the counts/size/list live in the work record's gate section.
+    remediation: Citation split — work-record gate section for the numbers, the log for the build output.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 3
+  date: '2026-11-11T18:30:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incapable-instrument, gap-analysis
+    finding: SC-4's "untouched" conjunct instrumented only the espeak page sentinel — the three TTS demo pages (12/9/8 audio embeds, the exact form R-2 targets) and the here-is-why page (5 embeds, no-space `audio(file=` form) were named but unobserved; an over-broad rewrite would ship silently.
+    remediation: SC-4 instrument extended with per-page unchanged-count baselines for all five untouched pages (including the here-is-why page's differing literal form).
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 4
+  date: '2026-11-11T18:55:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: gap-analysis
+    finding: SC-4's untouched-set baseline list covered five of the repo's seven real {{audio}} users — cherokee-tts-update--2--ims-toucan- (3 embeds) and tacotron2-and-cherokee-tts (18 embeds) were unobserved; an over-broad rewrite clobbering either would pass.
+    remediation: Baseline list completed to all seven users with their measured counts and embed forms.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 5
+  date: '2026-11-11T19:20:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: gap-analysis, traceability
+    finding: R-1 states the CLL-1 page keeps its store links and the Impact asserts "correct store links retained", but no criterion tests store-link retention on any edited app page — deleting the store-link lines during the rewrite would pass every SC (silent-regression shape, same family as the SC-4 rounds).
+    remediation: Measured baselines added (grep-verified this session) — SC-1 gains the retention conjunct (animals 3, bound-pronouns 3, numbers-maze 1 post-removal of the two commented wrong links, syllabary 3); SC-12 gains the CLL-1 page's 3-link retention.
+  - id: F-2
+    classes: cross-reference-sufficiency, fabricated-claims
+    finding: The zero-references bullet cited a nonexistent asset-review research dir and a work-record summary that does not exist; the 428-page resolution count was asserted without available evidence (the underlying conclusion is independently true and SC-11 re-checks it).
+    remediation: Citation replaced with the reproducible source-grep verification (independently re-confirmed by the round-5 reviewer) plus SC-11's structural re-check.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 6
+  date: '2026-11-11T19:45:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: cross-reference-sufficiency, fabricated-claims
+    finding: The "title verbatim" claim overstated the correspondence — CLL-1 YouTube titles carry an album suffix and ASCII ellipsis (prefix-level match, not verbatim); the Dictation 01 02 YT title carries trailing segments the map omits; the YT-side durations (13:50/18:27/47:03) appeared in no evidence artifact (map records titles/IDs only). Materiality bounded — 6/6 oEmbed spot-checks resolved correctly.
+    remediation: Map artifact extended with the observed YT durations (rendered-channel extraction, 2026-11-11); provenance and Problem restated to prefix-level correspondence + duration pattern; oEmbed spot-checks cited.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 7
+  date: '2026-11-11T20:10:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: internal-contradiction, blast-radius
+    finding: The CLL-1 audio page carries a live "Download all files as a single zip" link to cll1-v3-audio.zip; R-2's rewrite kept it while SC-13 deletes the zip's constituent mp3s — post-change the rewritten page ships a dead link in every fresh-clone/CI build, contradicting the Impact's "omissions disappear" claim and the Out-of-scope "irrelevant to CI builds" characterization.
+    remediation: R-2 now removes the dead zip link with the embeds (its target leaves the build; the zip's own disposition stays deferred); SC-4 extended (zip count = 0 on the CLL-1 page); Out-of-scope corrected (exit status vs built-page completeness); Impact qualified with the deferred-class exception.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 8
+  date: '2026-11-11T20:35:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: internal-contradiction
+    finding: R-2's zip sentence gave a false causal basis ("its target is deleted by this requirement's media-class deletion" — the zip is neither mp3 nor mp4 and no requirement deletes it) conflicting with its own retention clause and the Impact section; the link-removal action itself is sound (dead on the fresh-clone platform of record).
+    remediation: Causal basis corrected to the actual mechanism (untracked zip never deploys — gate build omitted it; dead link on the platform of record).
+  - id: F-2
+    classes: safety, blast-radius
+    finding: The rollback enumeration named no recovery source for the ~514 MB already-on-itch class (11 app binaries + NumbersMaze web build) and cited "TTS generation pipelines" for a class the spec never deletes (R-4 tracks that audio).
+    remediation: Rollback restated per class — LPT from private repos, media from YouTube, already-on-itch from the itch projects/NumbersMaze.godot repo; TTS audio noted as added, not deleted.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 9
+  date: '2026-11-11T21:00:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: blast-radius, gap-analysis
+    finding: The two tracked process_end_notes.py generator scripts (CLL-1 + animal-names dirs) were unaccounted — they carry the dead zip-link text and old embed form, are served verbatim by the build (zola copies non-md content files), and re-running them post-migration would overwrite the migrated pages and fail on deleted mp3s (a one-command regression vector).
+    remediation: R-2 now deletes both tracked scripts (regenerate-the-old-form rationale; history-recoverable); scope row and SC-14 added.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 10
+  date: '2026-11-11T21:30:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incapable-instrument
+    finding: ERE literal-pipe defect (same class as spec #28's rounds) — SC-1's second and third instruments, SC-11's instrument, and SC-12's second instrument used \\\| inside grep -E patterns, which matches only the literal joined string: the empty-result checks verify nothing and the count checks are unreachable (always 0).
+    remediation: All four -E patterns corrected to unescaped alternation.
+  - id: F-2
+    classes: gap-analysis
+    finding: SC-4's ID-in-map check cannot detect a scrambled page→video assignment (any mapped ID satisfies it on any page) — R-2's assignment requirement went unexercised.
+    remediation: research/page-video-assignment.yaml generated mechanically from the current pages' embeds joined to the map by track numbering (16 pages, 52 embeds, 0 unresolved; map entry Dictation 15-02 has no current page reference and is noted unassigned); SC-4 now requires each page's youtube(id=) set to equal its recorded assignment.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 11
+  date: '2026-11-11T21:55:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: fabricated-claims, internal-contradiction
+    finding: SC-4's parenthetical misstated which map entry lacks a page reference — it named Dictation 15-02, but the spec's own assignment yaml records 15-02 → day-7 (the page embeds it); the genuinely unassigned entry is Dictation 14-02.
+    remediation: Parenthetical corrected to Dictation 14-02 in both surfaces.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 12
+  date: '2026-11-11T22:20:00Z'
+  verdict: PASS
+  findings: []
+  notes: fresh-context dispatch on the round-11-revised spec; reviewer independently verified all counts, link forms, instrument patterns, assignment yaml, baselines, limits, and live surfaces (itch.io 4 projects, oEmbed spot-checks, TTS source repos, LPT presets, gate figures); explicitly examined R-5 build-safety (tex md draft front matter; loose non-index md precedent) and SC-10 satisfiability; containment pass both prongs.
