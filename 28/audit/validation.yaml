@@ -64,3 +64,9 @@ spec:
   verdict: PASS
   findings: []
   notes: fresh-context dispatch on the round-2-revised spec; reviewer independently re-verified all load-bearing claims (repo surfaces, 10-file dead-key list, full build matrix logs, 0.23.0+0.23.6 theme failures, changelog excerpt, release-list currency via live re-query, sibling comparison details, no-feed-artifact history) and ran the proactive repo-boundary containment check — pass on both prongs
+implementation:
+- round: 1
+  date: '2026-11-11T00:00:00Z'
+  scope: full implementation of SC-1..SC-9 on feature/28-pin-zola (4 commits over a3662da)
+  instruments-executed: SC-1/4/5/6/7/8 structural greps+diffs; SC-2 fresh-clone ./build.sh run (download+build, exit 0, public/index.html; /tmp/opencode/cl28-run1.log); SC-3 cached re-run (no fetch, zola 0.22.1; cl28-run2.log); SC-9 diff --stat exact-surface match
+  verify-verdict: PASS (fresh-context reviewer, zero findings; SC-1..SC-9 all PASS; release-URL and zola-0.22.1 config-key usage confirmed)
