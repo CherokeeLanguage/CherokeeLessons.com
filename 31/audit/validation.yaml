@@ -1,0 +1,83 @@
+spec:
+[]
+spec:
+- round: 1
+  date: '2026-11-11T22:50:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: fabricated-claims, feasibility
+    finding: Production branch named "main" — the repo's branch of record is master (verified via symref); the sibling's main was transplanted without checking, and no criterion exercised the Workers Builds production-branch configuration.
+    remediation: R-2/R-6/Impact corrected to master; SC-2 gains a master-presence grep; README documents the production branch of record.
+  - id: F-2
+    classes: traceability, gap-analysis
+    finding: The lemmatizer item's retirement half (static/CherokeeLemmatizerGwt, 194 tracked files/30 MB) was silently dropped — the work record and #30's out-of-scope both assign the item whole to this spec; only the redirect carried.
+    remediation: R-4 now carries retirement + redirect with the ordering note; scope row added; SC-11 added.
+  - id: F-3
+    classes: fabricated-claims, cross-reference-sufficiency
+    finding: michael-conrad.com characterized as "Pages generation" — it migrated to Workers Static Assets on 2026-11-11 itself (commits 0c1c626/6cebbe9, ~1h before filing).
+    remediation: Provenance and Approach corrected — it is now a second assets-only precedent.
+  - id: F-4
+    classes: fabricated-claims, feasibility
+    finding: The quoted-target mandate was an Apache mechanic transplanted to _redirects — the cited docs document unquoted fragment destinations and comments only as lines starting with #; the mandated format would produce a malformed Location.
+    remediation: Quoting mandate dropped; rule written in the documented format; behavioral curl -I verification retained.
+  - id: F-5
+    classes: cross-reference-sufficiency
+    finding: R-7 cited packageManager as the wrangler pin mechanism — the docs state Workers Builds uses the wrangler version set in package.json (a dependency entry); packageManager pins the package manager.
+    remediation: Mechanism corrected to a wrangler dependency entry with an exact version.
+  - id: F-6
+    classes: incapable-instrument
+    finding: SC-7's instrument checked only packageManager presence — a package.json without wrangler passes.
+    remediation: Instrument requires an exact-version "wrangler" entry.
+  - id: F-7
+    classes: incapable-instrument
+    finding: SC-1 verified 3 of R-1's 5 required keys (name, compatibility_date unchecked).
+    remediation: Instrument extended to all five keys.
+  - id: F-8
+    classes: incapable-instrument
+    finding: SC-5 verified 1 of 4 required headers and never the CSP.
+    remediation: Instrument extended to all four headers plus CSP presence with giscus.app on the CSP line.
+  - id: F-9
+    classes: gap-analysis
+    finding: R-2's preview-mode behavior (domain-neutral builds) and SITE_BASE_URL override were never exercised by any criterion — presence greps pass regardless of logic correctness.
+    remediation: SC-12 (preview domain-neutrality, behavioral) and SC-13 (override wins, behavioral) added.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 2
+  date: '2026-11-11T23:15:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: internal-contradiction
+    finding: R-4's unquoted-target correction (round 1) left SC-4 titled/instrumented "quoted-fragment" and the scope table "target quoted" — the requirement's own exemplar fails its own criterion; mutually unsatisfiable.
+    remediation: SC-4 retitled to documented-format with the not-a-comment + curl -I instruments; scope row aligned (unquoted per docs' example).
+  - id: F-2
+    classes: internal-contradiction
+    finding: Round 1's R-7 fix left the scope table saying "wrangler pin via packageManager" while R-7/SC-7 demand an exact-version wrangler entry — packageManager pins the package manager, not wrangler.
+    remediation: Scope row aligned to the exact-version wrangler entry.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 3
+  date: '2026-11-11T23:45:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incapable-instrument
+    finding: SC-6's README instrument (any "wrangler" mention ≥1) answers a weaker question than R-6's enumerated documentation duty — a stray mention passes while the deploy-path/ops-sequence documentation is undelivered.
+    remediation: Instrument extended to the enumerated elements (npx wrangler deploy, wrangler preview, GitHub App, custom domain, R2, master).
+  - id: F-2
+    classes: gap-analysis
+    finding: The deploy trigger depends on the Workers Builds production branch being master, but the builds default is main and the ops list nowhere stated the production-branch selection step — on the stated path production builds silently become previews and the site never deploys.
+    remediation: Production-branch selection (set to master) added to the sequenced ops and R-6's documented ops sequence.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 4
+  date: '2026-11-12T00:10:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incapable-instrument
+    finding: SC-5's CSP check asserted giscus.app but could not detect a CSP omitting the YouTube origin — precisely the failure R-5 guards (broken post-#30 embeds); the plan-time network observation was disclosed but not carried into any criterion.
+    remediation: SC-5 extended — the CSP line must carry both giscus.app and youtube (the shortcode embeds www.youtube.com/embed/, verified in templates/shortcodes/youtube.html).
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
