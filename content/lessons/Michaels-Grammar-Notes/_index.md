@@ -1,6 +1,5 @@
 +++
 paginate_by = 5
-insert_anchorLinks = "right"
 title="Grammar Notes"
 description="Grammar Notes"
 

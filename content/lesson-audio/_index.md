@@ -1,6 +1,5 @@
 +++
 paginate_by = 8
-insert_anchorLinks = "right"
 title="Online Books"
 description="Lesson Audio"
 
