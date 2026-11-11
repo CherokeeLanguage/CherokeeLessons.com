@@ -1,0 +1,22 @@
+# Store-link probe matrix — executed live 2026-11-11
+# Developer verification ("pre-existing store links are all dead") + itch-only policy support.
+# Status codes: curl -L, 20s timeout. itch project page = control.
+--- CLL-1 page links (content/apps/cherokee-language-lessons-1.md) ---
+404  https://play.google.com/store/apps/details?id=com.cherokeelessons.cll2ev1
+404  https://apps.apple.com/us/app/cherokee-lessons-1/id1498995127?ls=1
+503  https://www.amazon.com/gp/product/B073GD4LL9
+--- Animals page links ---
+404  https://play.google.com/store/apps/details?id=com.cherokeelessons.vocab.animals.one
+503  https://www.amazon.com/gp/product/B006RMX16U
+200  https://play.google.com/apps/testing/com.cherokeelessons.vocab.animals.one
+--- Bound Pronouns page links ---
+404  https://play.google.com/store/apps/details?id=com.cherokeelessons.bp.android
+404  https://apps.apple.com/us/app/cherokee-bound-pronouns/id966667496?ls=1
+--- Syllabary page links ---
+404  https://play.google.com/store/apps/details?id=com.cherokeelessons.syllabary.one
+200  https://apps.apple.com/us/app/cherokee-language-syllabary/id995556856?ls=1
+500  https://www.amazon.com/gp/product/B006WQDSPA
+--- NumbersMaze page live link ---
+404  https://play.google.com/store/apps/details?id=com.cherokeelessons.maze
+--- itch control (expect 200) ---
+200  https://cherokee-language.itch.io/cherokee-language-animals
