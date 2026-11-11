@@ -1,6 +1,6 @@
 # Spec — rename repository slug CherokeeLessons.com → CherokeeLessons (remote + local clone)
 
-Remote issue: https://github.com/CherokeeLanguage/CherokeeLessons.com/issues/27
+Remote issue: https://github.com/CherokeeLanguage/CherokeeLessons/issues/27
 
 ## Problem
 
