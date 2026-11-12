@@ -1,0 +1,10 @@
+[project]
+name = "email-forwarder"
+version = "0.1.0"
+description = "Forwarding Worker for ia@cherokeedictionary.net — CherokeeLessons#46"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = ["workers-py", "workers-runtime-sdk"]
