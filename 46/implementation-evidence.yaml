@@ -1,0 +1,25 @@
+# Implementation evidence (2026-11-12, CherokeeLessons.com#46)
+spec_sc_results:
+  SC-1: partial-on-record
+  # Email Routing records LIVE off-box (dig capture archived: research/email-routing-dig-2026-11-12.md);
+  # the Settings Locked view is the operator-side remaining half
+  SC-2: operator-attested
+  # destination verification confirmed by the developer (chat 2026-11-12: "emails already verified");
+  # the dashboard Verified view is the remaining visual half
+  SC-3: implemented
+  # tracked source committed 0d69001 on feature/46-email-forwarder (pushed) — worker.py byte-identical
+  # to the Approach source (executed identity check: MATCH); the deployed Worker is operator-attested
+  # (chat 2026-11-12: "the worker is already deployed")
+  SC-4: pending-operator
+  # the ia@ rule's dashboard/API state is not agent-observable without account access
+  SC-5: pending-operator
+  # the end-to-end receipts await the operator-side test and confirmations
+evidence:
+  - artifact: "email-forwarder/ (feature/46-email-forwarder, commit 0d69001, pushed)"
+    check: "identity check — email-forwarder/worker.py == the spec Approach source (executed 2026-11-12: MATCH — byte-identical)"
+  - artifact: research/email-routing-dig-2026-11-12.md
+    check: "off-box dig outputs showing the Cloudflare Email Routing records live on the zone (executed 2026-11-12)"
+notes:
+  - "wrangler.jsonc name 'ia-forwarder' — must match the deployed Worker's name for later reconciliation; flagged for PR review (the operator's deployed name is unknown to the agent)"
+  - "no build/lint ran: the build-tooling exclusivity rule binds (parent repo has no build framework; the new directory sits outside the Zola build inputs; the repo has no test suite per its AGENTS.md)"
+  - "work record: the CherokeeLessons git dir work-record.md (full path, scope statement, provenance)"
