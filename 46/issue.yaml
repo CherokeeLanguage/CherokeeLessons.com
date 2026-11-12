@@ -1,9 +1,11 @@
 title: 'Spec: execute the email routing setup — onboard cherokeedictionary.net, ia@
   forwarding, verification set'
-status: open
+status: closed
 labels:
 - needs-approval
 body: ''
 created_at: '2026-11-12T20:18:39+00:00'
-updated_at: '2026-11-12T20:18:41+00:00'
+updated_at: '2026-11-12T23:45:04+00:00'
 github_url: https://github.com/CherokeeLanguage/CherokeeLessons/issues/46
+closed_at: '2026-11-12T23:45:04+00:00'
+close_reason: completed
