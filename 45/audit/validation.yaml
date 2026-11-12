@@ -1,0 +1,18 @@
+# Spec validation loop (2026-11-12, artifact spec.md)
+rounds:
+  - round: 1
+    date: 2026-11-12
+    reviewer: fresh-context subagent dispatch (session ses_e2ebc7d63ffeXYAnZOmdYw0yH6)
+    verdict: FAIL
+    findings:
+      - class: incapable instrument (SC-1)
+        ground: the ls-files grep used the literal space form ("Archive email runbook") — GitHub wiki filenames are gollum-canonicalized with spaces as hyphens, so a delivered page lands as `Archive-email-runbook.md` and the instrument's negative branch cannot distinguish absence from platform naming
+        remediation: SC-1's instrument rewritten to the separator-wildcard pattern ("Archive.email.runbook")
+      - class: blast radius (enabling edit unowned — index join)
+        ground: the spec asserts the runbook joins the operator-runbook set indexed by CherokeeLessons.com#44's `Runbooks` page, but no plan of record owned the index-line edit; #44's SC-3 enumerates only the ebook-delivery runbook, so the composed delivery would leave the archive email runbook unlisted in the index whose policy states it is listed
+        remediation: R-3 added — the delivered wiki state has the `Runbooks` index listing `[[Archive email runbook]]` (edit by this spec's change where the index exists, or riding #44's R-2 general listing where it does not — both routes converge on the same outcome); SC-7 added checking the composed state; out-of-scope and blast-radius lines amended to own the one index line
+    note: containment both prongs PASS; all grounding verified live by the reviewer (zone pre-state rows for 2026-11-02, Cloudflare doc claims at all three cited URLs with matching last-updated dates, siblings, wiki state)
+  - round: 2
+    date: 2026-11-12
+    reviewer: pending — fresh-context re-validation of the round-1-revised spec
+    verdict: pending

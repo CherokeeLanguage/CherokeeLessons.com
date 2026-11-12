@@ -26,5 +26,14 @@ rounds:
     note: containment both prongs HOLDS (scope and home) per the reviewer; all other load-bearing claims verified (PDFs/sizes/links/README/commits/spec texts/DNS/wiki/50-item threshold/Community-Webs quotes/derive timing/identifier rules/XML hazard)
   - round: 2
     date: 2026-11-12
-    reviewer: pending — fresh-context re-validation of the revised spec
+    reviewer: fresh-context subagent dispatch (session ses_e2eb8b7aeffe59mudSufdSdsz9)
+    verdict: FAIL
+    findings:
+      - class: gap analysis / traceability (element set exercised by no instrument)
+        ground: R-1's five element sets — only four were mapped (SC-2→R-1.1, SC-3→R-1.2, SC-4→R-1.3, SC-5→R-1.4); R-1.5's verification set (five enumerated check elements incl. the Content-Length/byte-length guarantee behind R-2's unchanged-artifacts claim) had no criterion whose instrument enumerates it
+        remediation: SC-8 added, mapping R-1.5 with an instrument enumerating all five verification-set elements; SC-1's instrument also corrected to the gollum-hyphenation-capable pattern (same defect class as #45 finding 1 — space-grep incapable against hyphenated wiki filenames)
+    note: reviewer verified every other section clean, all factual claims accurate against live evidence; containment both prongs CONTAINED
+  - round: 3
+    date: 2026-11-12
+    reviewer: pending — fresh-context re-validation of the round-2-revised spec
     verdict: pending

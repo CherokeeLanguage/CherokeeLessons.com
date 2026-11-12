@@ -27,13 +27,14 @@ Create the operator-usage runbook in the CherokeeLessons wiki documenting the ar
 
 | ID | Criterion | Class | Instrument |
 |---|---|---|---|
-| SC-1 | The wiki carries the runbook page `Ebook delivery runbook` | structural | wiki checkout: `git -C <wiki-checkout> ls-files \| grep "Ebook delivery runbook"` finds the page file |
+| SC-1 | The wiki carries the runbook page `Ebook delivery runbook` | structural | wiki checkout: `git -C <wiki-checkout> ls-files \| grep "Ebook.delivery.runbook"` finds the page file (gollum canonicalizes spaces to hyphens in wiki filenames, so the pattern matches both forms) |
 | SC-2 | R-1.1's prerequisite and custody elements are present | content | structured read: the account element; `ia configure` with the `$XDG_CONFIG_HOME/internetarchive/ia.ini` default path and the legacy-checks-only fact; the environment-variable alternative; both custody rules (never committed/echoed) |
 | SC-3 | R-1.2's stand-up elements are present | content | structured read: the tracked item-definition files; the `ia upload` form with repeatable `--metadata='KEY:VALUE'`; the mediatype-must-set warning; the Community-Texts default; the bulk `ia metadata --spreadsheet` path; the identifier rules |
 | SC-4 | R-1.3's recurring-operation elements are present, each closing with a verification line | content | structured read: the `ia metadata` family (including the spreadsheet path), `ia upload` addition, `ia delete` with the `history/files/` backup note, and delete-then-upload replacement; the metadata-via-CLI note with the form-hazard citation |
 | SC-5 | R-1.4's account-model and shared-maintenance elements are present | content | structured read: the single-dedicated-account pattern with key custody; item administration belonging to the uploader; the collection multiple-admins mechanism and the 50-item custom-collection threshold; the Community-Texts default | 
 | SC-6 | R-3's syllabary handling and verification posture are present | content | structured read: the CLI UTF-8 path; the first-item inspection; the documented derive intervals; the check-settles-availability posture with the escalation path |
 | SC-7 | R-2's disposition and boundary statements are present | content | structured read: the delivery-URL form; the unchanged-artifact statement; the AGENTS.md ruling cross-reference for R2/files.cherokeelessons.org |
+| SC-8 | R-1.5's verification-set elements are present | content | structured read: the page's verification set enumerates (i) the direct-download URL 200 check with Content-Length equal to the tracked file's byte length, (ii) the item-page resolution check, (iii) the metadata-render-with-syllabary-intact check, (iv) the `ia tasks` observability element including `--follow-task-log`, and (v) the `ia list <identifier>` file-listing element |
 
 ## Out of scope
 

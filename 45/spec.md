@@ -16,35 +16,37 @@ One new wiki page in the CherokeeLessons wiki (`Archive email runbook`) document
   3. **Destinations** — `m.conrad.202@gmail.com` and `standtrooper@gmail.com` added under **Destination Addresses** (account-level, reusable across domains) and each verified by the **Verify email address** click Cloudflare mails to it; destinations are added and verified before the routing rule (a routing rule pointing at an unverified destination stays disabled).
   4. **Forwarding path** — a minimal email-handler Worker deployed to the account whose handler forwards each message to **both** verified destinations (one `forward()` per destination — the dashboard routing rule carries a single destination, so the two-recipient fan-out is the Worker route); the routing rule created under **Routing Rules** with Email pattern `archive` on `cherokeedictionary.net`, Action **Send to a Worker** → the forwarding Worker; only one rule for the pattern (duplicate patterns: only the first-listed rule processes).
   5. **Verification set** — Email Routing > Settings > DNS records shows the three auto-added records (MX, SPF, DKIM at `cf2024-1._domainkey`) with **Locked** status; `dig MX cherokeedictionary.net`, `dig TXT cherokeedictionary.net | grep spf`, and `dig TXT cf2024-1._domainkey.cherokeedictionary.net` resolve per the domain-configuration doc's own checks; a test message sent from an external account (different from the destinations) to `archive@cherokeedictionary.net` arrives at **both** destinations (spam-folder check if delayed); routing activity is observable in the dashboard.
+- **R-3** — The delivered wiki state SHALL have the `Runbooks` index page (CherokeeLessons.com#44's deliverable surface) listing `[[Archive email runbook]]` — the index whose policy promisingly lists new operator-usage runbooks carries the line this spec's page earns. Implementation note: where #44's `Runbooks` page exists at this spec's implementation, the listing is added by this spec's change; where it does not yet exist, #44's R-2 (which lists operator-usage runbooks generally) delivers the index with the listing included, and SC-7's check runs against the composed state — both routes converge on the same delivered outcome.
 - **R-2** — The runbook SHALL state the boundary statements: manual DNS setup is not used — the automatic configuration of record (records are unlockable only for provider migration, out of scope); no catch-all rule is part of this runbook (address-specific rule only); once the MX records point to Cloudflare, mail to unmatched addresses is rejected ("Address does not exist" behavior) — the zone carries no prior email addresses (no MX in the pre-state export), so no existing mail flow is at risk; Email Sending (outbound, the separate `cf-bounce` surface) is not touched by this runbook.
 
 ## Success criteria
 
 | ID | Criterion | Class | Instrument |
 |---|---|---|---|
-| SC-1 | The wiki carries the runbook page `Archive email runbook` | structural | wiki checkout: `git -C <wiki-checkout> ls-files \| grep "Archive email runbook"` finds the page file |
+| SC-1 | The wiki carries the runbook page `Archive email runbook` | structural | wiki checkout: `git -C <wiki-checkout> ls-files \| grep "Archive.email.runbook"` finds the page file (gollum canonicalizes spaces to hyphens in wiki filenames, so the pattern matches both forms) |
 | SC-2 | R-1.1/.2's prerequisite and onboarding elements are present | content | structured read: the Cloudflare-DNS prerequisite, the clean-path pre-state (2026-11-02 export citation), the Onboard Domain flow, the three auto-added record classes, the Locked status, and the no-manual-DNS statement |
 | SC-3 | R-1.3's destination elements are present | content | structured read: both destination addresses named, account-level management, the verification click, and the destinations-before-rule ordering with the stays-disabled fact |
 | SC-4 | R-1.4's forwarding elements are present | content | structured read: the minimal forwarding Worker (one forward per destination, both named), the routing rule (pattern `archive`, domain, Send to a Worker), and the single-rule-per-pattern note with the duplicate-pattern fact |
 | SC-5 | R-1.5's verification set is present | content | structured read: the Settings DNS-records Locked check, the three dig commands, and the external-sender dual-destination test incl. the spam-folder note |
 | SC-6 | R-2's boundary statements are present | content | structured read: no-manual-DNS with the unlock-is-provider-migration note, the no-catch-all statement, the unmatched-address rejection with the no-prior-email pre-state fact, and the Email Sending exclusion |
+| SC-7 | The `Runbooks` index page lists the archive email runbook | content | checked after both this spec's and CherokeeLessons.com#44's deliverables have landed: structured read of the `Runbooks` page finds the `[[Archive email runbook]]` listing |
 
 ## Out of scope
 
 - Executing the setup: the dashboard onboarding, destination verifications, Worker deployment, and rule creation — separate work under its own authorization; this spec's deliverable is the runbook document.
 - Email Sending (outbound) configuration — a separate product surface.
 - Any catch-all rule or any other zone DNS change; manual DNS setup (excluded by the directive of record).
-- The ebook delivery execution (CherokeeLessons.com#43's out-of-scope item) and any other wiki page beyond this new one.
+- The ebook delivery execution (CherokeeLessons.com#43's out-of-scope item) and any other wiki page beyond this new one and the one index line it gains on `Runbooks` (R-3).
 
 ## Approach
 
-Author the page in the CherokeeLessons wiki (wiki-operations discipline: checkout, sync before edit, verify-before-push, publish). The operational content restates the Cloudflare Email Service facts verified live 2026-11-12 (the Route emails, Email routing rules and addresses, and Domain configuration pages — the docs' own last-updated dates carry: Jun 9, 2026 / Oct 15, 2026 / Oct 30, 2026). The zone pre-state facts cite the devops workspace's DNS record (linked, not copied). The runbook joins the operator-runbook set indexed by CherokeeLessons.com#44 (`Runbooks`).
+Author the page in the CherokeeLessons wiki (wiki-operations discipline: checkout, sync before edit, verify-before-push, publish). The operational content restates the Cloudflare Email Service facts verified live 2026-11-12 (the Route emails, Email routing rules and addresses, and Domain configuration pages — the docs' own last-updated dates carry: Jun 9, 2026 / Oct 15, 2026 / Oct 30, 2026). The zone pre-state facts cite the devops workspace's DNS record (linked, not copied). The runbook joins the operator-runbook set indexed by CherokeeLessons.com#44's `Runbooks` page — the index line for this runbook is owned by R-3.
 
 ## Impact
 
 - Consumers: operators performing the archive-email setup; the future IA archive account (the address is its identity surface); the operator-runbook set (indexed page).
 - Risk: the runbook documents future zone mutation — executed only under separate authorization; the automatic-DNS path is the failure-resistant default (records land Locked and managed). The Worker is minimal (forward-only); its deployment details are plan-stage work.
-- Blast radius: one new wiki page; no repo-tree file changes; zone changes happen only when the documented procedure is executed under later authorization.
+- Blast radius: one new wiki page plus one index line on `Runbooks` (R-3); no repo-tree file changes; zone changes happen only when the documented procedure is executed under later authorization.
 
 ## Provenance
 
