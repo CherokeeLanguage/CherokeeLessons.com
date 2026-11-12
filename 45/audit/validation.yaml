@@ -17,5 +17,17 @@ rounds:
     reviewer: fresh-context subagent dispatch (session ses_e2eb395bbffeqFX3fOjECnjI1F)
     verdict: PASS
     findings: []
-    terminal: true
-    note: reviewer verified round-1 remediations landed (SC-1 gollum-capable wildcard; R-3/SC-7 owning the index listing), fetched all three Cloudflare pages live with matching dates, and confirmed the Worker fan-out design against the live Workers API page; containment both prongs contained
+    note: terminal for the artifact as filed then (round-1 remediations verified landed — SC-1 gollum-capable wildcard; R-3/SC-7 owning the index listing); reopened by the address-of-record revision of 2026-11-12 (developer chat — ia@cherokeedictionary.net), applied in place (Problem supersession note, R-1.4 pattern, R-1.5 test target, SC-4 instrument, provenance supersession bullet; the directive quote preserved verbatim) and re-entered validation as round 3
+  - round: 3
+    date: 2026-11-12
+    reviewer: fresh-context subagent dispatch (session ses_e2ea03b92ffejfMguKka0iICBK)
+    verdict: FAIL
+    findings:
+      - class: incapable instrument (four instrument instances — subset-enumeration reads)
+        ground: SC-2, SC-3, SC-4, SC-5 each enumerated a subset of the element set the criterion text owns (SC-2 missing the dashboard path and the propagation note; SC-3 missing the Destination Addresses placement; SC-4 missing the single-destination fan-out justification and the Routing Rules placement; SC-5 missing the routing-activity observability element), so a page omitting the un-enumerated elements would pass while violating the requirement
+        remediation: all four instruments completed to enumerate the full element sets of their criteria (instruments only — requirements unchanged)
+    note: containment both prongs hold; all grounding verified live by the reviewer (three Cloudflare pages with matching dates, DNS pre-state rows, sibling contracts, wiki state)
+  - round: 4
+    date: 2026-11-12
+    reviewer: pending — fresh-context re-validation of the round-3-revised spec
+    verdict: pending
