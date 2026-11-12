@@ -1,1 +1,9 @@
-comments: []
+comments:
+- type: internal
+  body: 'Operator progress (2026-11-12, chat): ''emails already verified'' — both
+    destination addresses added and verified by the operator. Off-box dig capture
+    archived (research/email-routing-dig-2026-11-12.md): Email Routing records LIVE
+    on the zone (MX route1/2/3.mx.cloudflare.net; SPF exact; DKIM at cf2024-1._domainkey)
+    — SC-1''s off-box half satisfied; remaining: Settings Locked view, Worker deploy,
+    ia@ rule, end-to-end receipt evidence.'
+  timestamp: '2026-11-12T20:42:33+00:00'
