@@ -21,5 +21,6 @@ evidence:
     check: "off-box dig outputs showing the Cloudflare Email Routing records live on the zone (executed 2026-11-12)"
 notes:
   - "wrangler.jsonc name 'ia-forwarder' — must match the deployed Worker's name for later reconciliation; flagged for PR review (the operator's deployed name is unknown to the agent)"
+  - "verify: PASS (2026-11-12, fresh-context dispatch ses_e2e395438ffeWfBXEPVZvHnFJd — identity check byte-identical; config facts verified; honest SC mapping confirmed; commit scope clean; secret scan clean; Python form spot-checked live; off-box dig reproduced; cleared for PR creation with the ia-forwarder name confirmation riding PR review)"
   - "no build/lint ran: the build-tooling exclusivity rule binds (parent repo has no build framework; the new directory sits outside the Zola build inputs; the repo has no test suite per its AGENTS.md)"
   - "work record: the CherokeeLessons git dir work-record.md (full path, scope statement, provenance)"
