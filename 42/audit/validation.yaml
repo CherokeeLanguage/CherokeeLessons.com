@@ -1,0 +1,17 @@
+# Spec validation loop (2026-11-12, artifact spec.md)
+rounds:
+  - round: 1
+    date: 2026-11-12
+    reviewer: fresh-context subagent dispatch (session ses_e2ef7cfedffeKcAOErgQVmCeSD)
+    verdict: FAIL
+    findings:
+      - class: broken cross-reference
+        ground: footer artifacts pointer cited issue 70 instead of 42 (typo in both surfaces)
+    remediation: corrected to 42 in the local spec and the remote body
+  - round: 2
+    date: 2026-11-12
+    reviewer: fresh-context subagent dispatch (session ses_e2ef598b0ffeV1k9S9F1ZhEpo9)
+    verdict: PASS
+    findings: []
+    terminal: true
+    note: remediation verified (no stale number survives; footer URL valid via the rename redirect)
