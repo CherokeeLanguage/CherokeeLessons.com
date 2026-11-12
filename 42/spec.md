@@ -28,8 +28,8 @@ The README's stand-up documentation (the ops-depth record #31 delivered) is most
 
 Developer statements (2026-11-12, chat): the complaint quoted above; "no fucking R2. end of discussion"; the README-in-repo home (the devops-runbook alternative was proposed and not taken). Account-side specifics the agent cannot verify from outside (zone state, App grants, dashboard build configuration) are written as per-step "verify at the dashboard" checks, never invented facts.
 
-> Full spec and plan artifacts: https://github.com/CherokeeLanguage/CherokeeLessons/tree/issues-data/70/
+> Full spec and plan artifacts: https://github.com/CherokeeLanguage/CherokeeLessons/tree/issues-data/42/
 >
-> Agent-facing artifacts pointer: `repos/CherokeeLessons.com/.issues/70/` (devops workspace-relative)
+> Agent-facing artifacts pointer: `repos/CherokeeLessons.com/.issues/42/` (devops workspace-relative)
 
 🤖 Co-authored with AI: OpenCode (huggingface/zai-org/GLM-5.3-Flash)
