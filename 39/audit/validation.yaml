@@ -71,3 +71,8 @@ structural-reevaluation:
     finding: R-1's branch (b) — the run-wise UTF-8 half — was exercised by no committed criterion; a guard implementing only the sed malformed-escape check satisfied SC-1/SC-2 unchanged, and the only branch-(b) check was the Approach's ephemeral unattached sensitivity note (the F-1 exposure recurred at the instrument level).
     remediation: The sensitivity battery became SC-1's branch-coverage leg — seeded cases covering every R-1 branch (valid, malformed, invalid-UTF-8, dangling lead, split runs, above-U+10FFFF, boundary-valid, collation) with verdicts equal to a decodeURIComponent oracle, executed output recorded as evidence (no longer ephemeral).
   preferences-adjudicated: []
+- round: 7
+  date: '2026-11-12T06:46:49Z'
+  verdict: PASS
+  findings: []
+  notes: fresh-context dispatch on the round-6-revised spec; reviewer re-executed the decode sweep (exactly 3 throwers), re-ran the 42-case sim plus 16 independent cases (zero divergence), demonstrated the locale hazard and the pin's remedy, verified the wrangler/asset-worker source claims at the pinned tag, confirmed the manifest is files-only (directories skipped upstream — R-1's files-and-directories quantifier has no unobserved corner), and judged SC-1's three legs capable of observing presence, wiring, both R-1 branches, and exit semantics; the branch-coverage leg is not a manufactured-RED (seeded cases are the only possible observation of guard behavior no real tree state exercises); traceability, causal sufficiency, problem fit, containment (both prongs) clean.
