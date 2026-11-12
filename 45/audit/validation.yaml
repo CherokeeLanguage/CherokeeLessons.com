@@ -29,5 +29,8 @@ rounds:
     note: containment both prongs hold; all grounding verified live by the reviewer (three Cloudflare pages with matching dates, DNS pre-state rows, sibling contracts, wiki state)
   - round: 4
     date: 2026-11-12
-    reviewer: pending — fresh-context re-validation of the round-3-revised spec
-    verdict: pending
+    reviewer: fresh-context subagent dispatch (session ses_e2e9cc749ffe5fDTdL36PQfwUS)
+    verdict: PASS
+    findings: []
+    terminal: true
+    note: round-3 remediation verified element-by-element (SC-2..SC-6 instruments now cover every owned element — no subset remains); all Cloudflare/DNS/wiki grounds verified live; containment both prongs hold
