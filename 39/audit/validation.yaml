@@ -58,3 +58,16 @@ structural-reevaluation:
   outcome: Sound
   grounds: |
     Repo boundaries: single repo throughout (build.sh, one content asset, one front-matter line; filed in this repo's store) — no split. Separation of concerns: one concern (the deploy unit's URI-decodability); SC-1/SC-2/SC-3 separate detection, content state, and runtime effect without entanglement. Atomic work units: three atomic, binary-verifiable criteria. Fatness: the artifact is small; the loop's churn concentrated on one criterion's mechanism precision (the guard == decodeURIComponent equivalence), where each round surfaced a genuinely new adjacent divergence class (invalid-UTF-8 coverage, then adjacency, then >U+10FFFF, then locale collation) and each remediation fixed exactly the named finding — convergence under adversarial verification, not an artifact-shape defect; the round-5 reviewer's independent 2,362-case battery confirms the corrected mechanism reaches zero divergence under LC_ALL=C. Intent wording/reachability: stable and reachable. The artifact's structure stands; the loop resumes on the unchanged artifact.
+- round: 6
+  date: '2026-11-12T06:39:26Z'
+  verdict: FAIL
+  findings:
+  - id: F-8
+    classes: gap-analysis, incapable-instrument
+    finding: No instrument observed the guard's activation inside build.sh — a defined-but-never-invoked guard (or one scanning the wrong directory, or with its exit swallowed) passed every SC; the base leg ran the detection pipeline extracted, and the fixed-tree leg's exit-0 is compatible with a dead guard.
+    remediation: SC-1's instrument gains the integration-RED leg — the fixed ./build.sh run against the pre-fix base tree (base content, fixed build.sh only) must exit non-zero naming exactly the 3 paths — which subsumes detection, naming, wiring, and exit semantics in one observation; the extraction-based base leg retired.
+  - id: F-9
+    classes: incapable-instrument
+    finding: R-1's branch (b) — the run-wise UTF-8 half — was exercised by no committed criterion; a guard implementing only the sed malformed-escape check satisfied SC-1/SC-2 unchanged, and the only branch-(b) check was the Approach's ephemeral unattached sensitivity note (the F-1 exposure recurred at the instrument level).
+    remediation: The sensitivity battery became SC-1's branch-coverage leg — seeded cases covering every R-1 branch (valid, malformed, invalid-UTF-8, dangling lead, split runs, above-U+10FFFF, boundary-valid, collation) with verdicts equal to a decodeURIComponent oracle, executed output recorded as evidence (no longer ephemeral).
+  preferences-adjudicated: []
