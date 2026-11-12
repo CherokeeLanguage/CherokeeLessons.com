@@ -164,3 +164,48 @@ revision-2-itch-only:
   verdict: PASS
   findings: []
   notes: fresh-context dispatch on the round-1-revised spec; reviewer byte-verified the NumbersMaze path, re-derived all counts against the artifacts (13 probe links, 11 dead / 2 live), positive-controlled the instruments against the live tree (SC-1/SC-3/SC-11/SC-14 detect failure), verified the R-5 build-safety precondition and SC-10 arithmetic, containment both prongs with the cross-repo references correctly dependency-only.
+revision-3-standup-first:
+- round: 0
+  date: '2026-11-12T03:55:00Z'
+  note: developer directive supersedes the sequencing of record — "we need to add an SC to the appropriate spec on the actual stand up to remove these from tracking so they don't trip up cloudflare deploy. we need to focus on getting the site up, even with internal broken links." CherokeeLessons#31 executes first and deletes the two tracked jars itself (its R-9); this spec's jar surfaces restated to link-removal-only (R-1, scope row), SC-10's over-limit count = 0, and the floating ebook directive given its recorded home (new R-7/SC-15; Lulu paperback links + app-ads.txt reseller entries recorded as open developer decisions in Out of scope). Validation restarts below.
+- round: 1
+  date: '2026-11-12T03:55:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: self-containment-violation, internal-contradiction
+    finding: The sequencing flip was applied to the narrative (Problem/Interdependencies/Impact) but not to the binding surfaces — R-1 and the scope row still assigned the jar deletion to this spec while the revised narrative assigns it to #31's R-9; SC-2's criterion and trace hung on the retained clause.
+    remediation: R-1 and the scope row restated to link-removal-only with deletion attributed to CherokeeLessons#31 R-9; SC-2 restated as the end-state check with trace R-1,R-3.
+  - id: F-3
+    classes: gap-analysis, scope-narrowness
+    finding: The recorded ebook directive floated — the spec censused the surface (26 smashwords/amazon link lines across 15 book pages; Lulu; app-ads.txt) but no requirement, criterion, or destination resolved the disposition.
+    remediation: New R-7 + SC-15 trace the unambiguous clause (ebook-store links removed from content/books; site free-PDF downloads the only ebook channel); Lulu and app-ads.txt recorded as explicit open developer decisions in Out of scope.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30 (the F-2 finding of the same dispatch belongs to #31's artifact and is recorded there)
+- round: 2
+  date: '2026-11-12T04:15:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: internal-contradiction, blast-radius
+    finding: The Impact's books clause still read "unchanged — the PDFs stay on-site" (pre-R-7 survival), and R-7 was absent from the Scope table and the Approach decisions enumeration — the plan-of-record surfaces described the spec without the ebook work.
+    remediation: Impact books clause restated (R-7 link removals; PDFs off the served tree via #31 R-8, links to R2 delivery); scope row added for content/books pages + new-page.sh; Approach decisions enumeration extended with site-only ebook distribution.
+  - id: F-2
+    classes: internal-contradiction, blast-radius
+    finding: SC-15's empty grep over content/books sweeps the scaffold new-page.sh's 2 template store-link lines, but R-7 enumerated only the 15 pages (26 lines) — an implementer satisfying R-7 as written fails SC-15, and the scaffold re-creates store links on every new book page.
+    remediation: R-7 extended to the scaffold (template lines removed); Provenance census extended to the scaffold; SC-15's parenthetical states the 26 + 2 census.
+  - id: F-3
+    classes: cross-reference-sufficiency
+    finding: SC-10's trace still read R-1 although the rewritten criterion guards the tracking additions (R-4/R-5/R-6) against introducing over-limit files.
+    remediation: Trace corrected to R-4, R-5, R-6.
+  - id: F-4
+    classes: cross-reference-sufficiency
+    finding: The Provenance gate bullet cited a nonexistent work-record section for the counts (same class as #31's round-14 F-3).
+    remediation: Citation re-pointed to the reproducible gate instruments + the 2026-11-12 re-execution; log path qualified to .issues/31/research/.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/30
+- round: 3
+  date: '2026-11-12T04:40:00Z'
+  verdict: PASS
+  findings: []
+  notes: fresh-context dispatch on the round-2-revised spec; reviewer verified the book census (15 pages/26 lines + scaffold 2, grep total 28), the R-7/SC-15 surface scoping, SC-2/SC-10 end-state coherence under the #31-first order, and the cross-spec division of labor end-to-end; containment pass both prongs.

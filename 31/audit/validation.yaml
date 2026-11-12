@@ -184,3 +184,46 @@ spec:
   verdict: PASS
   findings: []
   notes: fresh-context dispatch on the round-11-revised spec; reviewer verified all repo-state claims, gate evidence, sibling facts (including michael-conrad.com's same-day Workers migration), live DNS/HTTP probes, platform docs, and probed the one evidence gap (Zola 0.22.1 --base-url / behavior) from source — resolves in the spec's favor; boundary matrix SC-12–15 examined; containment pass both prongs.
+- round: 13
+  date: '2026-11-12T03:55:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: self-containment-violation, internal-contradiction
+    artifact: CherokeeLessons#30 (revised in this cycle)
+    finding: The sequencing flip was applied to #30's narrative (Problem/Interdependencies/Impact) but not to its binding surfaces — R-1 and the scope row still assign the jar deletion to this spec while the revised narrative assigns it to #31's R-9; SC-2's criterion and trace hang on the retained clause.
+    remediation: R-1 and the scope row restated to link-removal-only with the deletion attributed to CherokeeLessons#31 R-9; SC-2 restated as the end-state check (jars by #31 R-9, vestigial .gitignore by R-3) with trace R-1,R-3.
+  - id: F-2
+    classes: cross-reference-sufficiency
+    finding: R-9's "#30's R-1 later replaces them with the itch.io targets" holds for the Syllabary link only — the CLL-1 page's jar link is removed outright in #30's window, its itch link arriving via CherokeeLessons#32 after the cll1-gdx publish.
+    remediation: R-9's clause corrected — both links removed by #30, Syllabary gains its itch target there, CLL-1 carries no distribution links until #32.
+  - id: F-3
+    classes: gap-analysis, scope-narrowness
+    artifact: CherokeeLessons#30
+    finding: The recorded ebook directive ("the ebook is now only available via cherokeelessons.org") floats — the spec censuses the surface (26 smashwords/amazon link lines across 15 book pages; Lulu; app-ads.txt) but no requirement, criterion, or destination resolves the disposition.
+    remediation: New R-7 (remove external ebook-store links from the book pages; the site's free-PDF downloads become the only ebook channel) + SC-15 (grep empty over content/books) trace the unambiguous clause; Lulu paperback links and app-ads.txt reseller entries recorded as explicit open developer decisions in Out of scope.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31; the consequential #30 revisions sit in their own home store .issues/30
+- round: 14
+  date: '2026-11-12T04:15:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: blast-radius
+    finding: R-6 deletes publish.sh and de-stales README, but the tracked AGENTS.md (trunk 2cda34b) also documents the publish.sh/vhost path — a passing deliverable ships agent-facing ops documentation pointing at a deleted script.
+    remediation: R-6 extended to AGENTS.md (stale paragraph removed or replaced with the Workers deploy path per README); scope row now names both files; SC-6 gains the AGENTS.md absence check; Impact's era-end clause names both docs.
+  - id: F-2
+    classes: fabricated-claims, gap-analysis, internal-contradiction
+    finding: R-5's CSP enumeration (giscus/YouTube/self) presented itself as the site's complete real third-party usage — the built tree refutes it: superhero.css @imports fonts.googleapis.com (serving fonts.gstatic.com files) and six visitor-selectable Zulma variants import fonts too; a CSP built to the enumerated set breaks sitewide theme typography, and SC-5 could not detect it.
+    remediation: R-5's derived set extended with the theme-font origins (fonts.googleapis.com + fonts.gstatic.com, evidenced in the built stylesheet and config); SC-5 gains both font-origin presence checks on the CSP line.
+  - id: F-3
+    classes: cross-reference-sufficiency
+    finding: The Problem cited a "work-record gate section" as the counts' evidence source — no work record exists for this repo at any reachable path (same defect class as #30's round-2 F-5).
+    remediation: Citation re-pointed to the reproducible gate instruments with the 2026-11-12 re-execution (identical results) recorded in place.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/31
+- round: 15
+  date: '2026-11-12T04:40:00Z'
+  verdict: PASS
+  findings: []
+  notes: fresh-context dispatch on the round-14-revised spec (+#30's revision-3 state); reviewer re-executed the gate, verified the jar census and jar-page link surfaces, AGENTS.md's publish.sh documentation at trunk 2cda34b, the seven font-importing theme CSS files (gstatic mechanism confirmed live), the Cloudflare docs premises live, and the cross-spec division of labor end-to-end (no stale sequencing claim, no superseded text); containment pass both prongs; no deliverable on trunk, no reconciliation duty.
