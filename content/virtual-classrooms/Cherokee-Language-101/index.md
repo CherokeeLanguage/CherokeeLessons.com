@@ -11,7 +11,7 @@ tags = []
 
 [extra]
 
-featured_image = "virtual-classrooms/Cherokee-Language-101/ebook-cover-25%.png"
+featured_image = "virtual-classrooms/Cherokee-Language-101/ebook-cover-25-pct.png"
 
 +++
 
