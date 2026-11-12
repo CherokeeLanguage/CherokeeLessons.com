@@ -16,3 +16,12 @@ spec:
     finding: Impact claimed a "featured/og image" surface; no og:image mechanism exists in this site (grep over the built tree = 0; the theme's featured_image consumers are the page template's 450x450 in-article image and post_macros' 150x150 listing thumbnails).
     remediation: Impact restated to the verified consumers, the og claim deleted.
   preferences-adjudicated: []
+- round: 2
+  date: '2026-11-12T05:34:42Z'
+  verdict: FAIL
+  findings:
+  - id: F-4
+    classes: fabricated-claims
+    finding: The Diagnosis census figure "463 built file paths contain Cherokee syllabary/Osage script" does not reproduce under the round-2 reviewer's script-specific instruments (their count 410 files / 54 syllabary dirs). The figure originated from a non-ASCII byte-class grep whose predicate the sentence never stated; a third instrument (writer's Node full-path Unicode walk) returned 463 files / 89 dirs all-syllabary — a cross-instrument discrepancy the spec cannot carry as a precise claim.
+    remediation: The illustrative script-class figures removed; the sentence restated to the sweep-based claim verified independently in both rounds and re-executed by the writer post-review (1,876 entries swept, 1,873 decode OK, exactly 3 throws = the enumerated paths). The decode-cleanliness conclusion never depended on the census figure.
+  preferences-adjudicated: []
