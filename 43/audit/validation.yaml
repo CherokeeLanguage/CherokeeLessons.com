@@ -35,5 +35,8 @@ rounds:
     note: reviewer verified every other section clean, all factual claims accurate against live evidence; containment both prongs CONTAINED
   - round: 3
     date: 2026-11-12
-    reviewer: pending — fresh-context re-validation of the round-2-revised spec
-    verdict: pending
+    reviewer: fresh-context subagent dispatch (session ses_e2eb395bcffeLu81aMY3KB97UU)
+    verdict: PASS
+    findings: []
+    terminal: true
+    note: reviewer re-verified all load-bearing claims live at the current CLI-doc home; traceability complete (R-1.1→SC-2 … R-1.5→SC-8, R-2→SC-7, R-3→SC-6); SC-8's instrument maps all five verification-set elements; containment both prongs PASS
