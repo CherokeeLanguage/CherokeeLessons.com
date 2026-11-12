@@ -1,0 +1,4 @@
+# Legacy CherokeeLemmatizerGwt paths → the analyzer's current home at
+# cherokeedictionary.net (fragment target preserved; the docs' own unquoted
+# fragment example). This is the only redirect entry (SC-4).
+/CherokeeLemmatizerGwt* https://cherokeedictionary.net/CherokeeAnalyzer/#!Analyzer 302

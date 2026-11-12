@@ -12,10 +12,11 @@ this file holds repo operational facts only.
   system zola — the pin was chosen for vendored-Zulma compatibility (README).
 - There is no test suite and no CI. A clean `./build.sh` (exit 0) is the
   verification gate for content and config changes.
-- `./publish.sh` is the legacy Apache-era publish path: hostname-gated to
-  `omen-desktop` and rsyncs to `vhost.cherokeelessons.com`. Do not run it off
-  its host; deployment migration is handled through the issue store, not this
-  script.
+- Deployment is Cloudflare Workers Static Assets: a merge to `master` triggers
+  a Workers Builds build and `npx wrangler deploy` automatically; PR branches
+  get preview builds. The one-time dashboard setup (GitHub App connection,
+  Worker name, build command, production branch, custom domains, R2 bucket)
+  is documented in README's Deployment section.
 
 ## Content facts
 
