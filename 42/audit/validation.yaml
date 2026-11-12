@@ -15,3 +15,20 @@ rounds:
     findings: []
     terminal: true
     note: remediation verified (no stale number survives; footer URL valid via the rename redirect)
+
+# Plan validation loop (2026-11-12, artifact plan.md)
+plan_rounds:
+  - round: 1
+    date: 2026-11-12
+    reviewer: fresh-context subagent dispatch (session ses_e2ecd0086ffexNLN07eQ3q4urW)
+    verdict: FAIL
+    findings:
+      - class: internal inconsistency (derivation guard misstates the spec mapping)
+        ground: guard attributed SC-4(dns)/"SC-3 partially" mappings with no spec ground
+    remediation: guard restated as the correct item→SC table
+  - round: 2
+    date: 2026-11-12
+    reviewer: fresh-context subagent dispatch (session ses_e2ecaf97dffeZJ6IAy5w9kAPxc)
+    verdict: PASS
+    findings: []
+    terminal: true
