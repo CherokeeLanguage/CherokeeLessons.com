@@ -1,0 +1,27 @@
+spec:
+[]
+spec:
+- round: 1
+  date: '2026-11-12T02:00:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: cross-reference-sufficiency
+    finding: The supersession bullet cited "#30/#31/#32's out-of-scope lists" — #32's out-of-scope list contains no Hangman mention at all (recursive grep over .issues/32/ = zero matches); the third stale mention actually lives in CherokeeLanguage/cll1-gdx#5's out-of-scope list.
+    remediation: Citation corrected to #30/#31 + cll1-gdx#5, with the #32 absence verified and noted.
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/33; R-2's declared gated-future-work character judged honest and structurally sound
+- round: 2
+  date: '2026-11-12T02:45:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: fabricated-claims
+    finding: "The only local remainder / last local compiled copy" claims were false — a second byte-identical copy exists at public/HTML-Games/Hangman1/ (zola's gitignored output dir, 7.9 MB / 489 files, diff -rq clean); the filing-time survey never scanned public/.
+    remediation: Survey addendum appended (dated); Problem/Provenance/Scope/Impact enumerate both copies.
+  - id: F-2
+    classes: incapable-instrument, gap-analysis
+    finding: SC-1 observed only static/ — the public/ copy survives a green SC-1; the second copy's removal rode an unstated side effect (zola's build-time public/ cleaning).
+    remediation: R-1 requires direct deletion of both copies (no reliance on zola's cleaning); SC-1 extended (test -d on public/ copy fails; find over static+public empty).
+  preferences-adjudicated: []
+  repo-boundary-containment: pass — single repo, home store .issues/33

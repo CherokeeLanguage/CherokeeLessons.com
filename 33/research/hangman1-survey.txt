@@ -1,0 +1,39 @@
+# Hangman1 survey — executed live 2026-11-12T01:27:05Z, #33 filing evidence
+# Developer decision recorded in #33: the app is considered LOST (source unresolved;
+# sole lead = the self-hosted git server on the dead VPS) and MARKED FOR REMOVAL.
+# No itch.io project exists for it (channel hosts 4 projects, none hangman — verified 2026-11-11).
+
+== tracked-tree references: 0 (expected 0)
+== content/templates/config references: 0 (grep -rni hangman — empty)
+== the only remainder: the UNTRACKED compiled web build =
+7.9M	static/HTML-Games/Hangman1
+489
+== file inventory (top level):
+animals.txt
+com.cherokeelessons.gwt.Hangman1.Main
+fonts
+hm1.gif
+hm2.gif
+hm3.gif
+hm4.gif
+hm5.gif
+hm6.gif
+hm7.gif
+images
+index.html
+movies.txt
+results.txt
+sync.sh
+== zip copy (session scratch, ephemeral): /var/tmp/opencode/hangman1-removal/Hangman1-web-build.zip
+zip size: 6158935 bytes
+zip sha256: 541d2396ae7923ddff9511cb01ca27b54a2ab1bd0c94a3065591cc3f7c2ebb1f  /var/tmp/opencode/hangman1-removal/Hangman1-web-build.zip
+== deep inventory (all files, relative):
+
+== ADDENDUM (2026-11-12, round-2 validation) ==
+The original scan covered the tracked tree, content/templates/config, and static/ — it did not scan public/.
+A second copy of the same compiled web build exists: public/HTML-Games/Hangman1/ (zola's gitignored
+output directory — .gitignore line 3 "/public/"): 7.9 MB, 489 files, verified BYTE-IDENTICAL to the
+static copy (diff -rq clean, identical index.html sha256, mtimes 2022-01-24). Exhaustive working-tree
+scan for "*hangman*" (excluding .git): exactly two copies — static/HTML-Games/Hangman1/ and
+public/HTML-Games/Hangman1/ — plus this survey file. The zip + sha256 above cover the content class
+(the copies are byte-identical).
