@@ -1,0 +1,16 @@
+# python runtime state
+python_modules/
+.venv/
+.venv-workers/
+__pycache__/
+
+# wrangler local state
+.wrangler/
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*

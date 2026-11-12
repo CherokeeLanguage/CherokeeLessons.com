@@ -1,0 +1,9 @@
+{
+	"name": "ia-forwarder",
+	"main": "worker.py",
+	"compatibility_date": "2026-11-12",
+	"compatibility_flags": ["python_workers"],
+	"observability": {
+		"enabled": true,
+	},
+}
