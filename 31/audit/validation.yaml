@@ -227,3 +227,22 @@ spec:
   verdict: PASS
   findings: []
   notes: fresh-context dispatch on the round-14-revised spec (+#30's revision-3 state); reviewer re-executed the gate, verified the jar census and jar-page link surfaces, AGENTS.md's publish.sh documentation at trunk 2cda34b, the seven font-importing theme CSS files (gstatic mechanism confirmed live), the Cloudflare docs premises live, and the cross-spec division of labor end-to-end (no stale sequencing claim, no superseded text); containment pass both prongs; no deliverable on trunk, no reconciliation duty.
+plan:
+- round: 1
+  date: '2026-11-12T05:00:00Z'
+  verdict: FAIL
+  findings:
+  - id: F-1
+    classes: incomplete-derivation, internal-inconsistency
+    finding: The CSP derivation was an origins-only census that missed the 81 zola-generated alias stubs' inline-script requirement (binary-embedded template, not overridable) — the draft CSP would have blocked all 81 legacy-URL redirects — and the reconciliation decision (unsafe-inline / hashes / path-scoped rules) was left unmade.
+    remediation: Plan-time record extended with the stub discovery, the non-overridability evidence (tera.extend ordering in zola 0.22.1), and the owned decision — 'unsafe-inline' in script-src, with the hash and path-scoped alternatives rejected for their silent-drift maintenance traps; the draft CSP carries it.
+  - id: F-2
+    classes: internal-inconsistency, incomplete-derivation
+    finding: Item 7 deferred the CSP final form to item 10, but item 10's body defined no such step — the promised re-derivation had no owner.
+    remediation: Item 10 gains explicit case (f) owning the re-derivation (resource-load origins + inline-execution requirement) and the reconciliation; item 7 points at it.
+  preferences-adjudicated: []
+- round: 2
+  date: '2026-11-12T05:15:00Z'
+  verdict: PASS
+  findings: []
+  notes: fresh-context dispatch on the round-1-revised plan; reviewer verified coverage both directions (16/16 SCs), every RED false-able at trunk, the 81-stub census and inline-script form, the builtin-template non-overridability verbatim against zola v0.22.1 source, the owned CSP decision with both alternatives' rejection grounds, item 10 case (f)'s ownership of the final CSP form, the full built-tree origin census (all .com resource loads ride 'self' via get_url), and the early-run contingency's invariants; no escape hatches, no scope enlargement, surface coverage exact.
