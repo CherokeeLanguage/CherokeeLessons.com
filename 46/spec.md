@@ -1,6 +1,6 @@
 ## Problem
 
-The archive email runbook (CherokeeLessons.com#45, validated) documents the Cloudflare Email Routing setup; the setup itself has not been executed. The developer's directive of record (2026-11-12, chat): "email routing setup." The Worker source of record (2026-11-12, chat, carried verbatim in Approach) and the ia@ address of record make every execution input concrete. This spec carries the execution.
+The archive email runbook (CherokeeLessons.com#45; its validation record shows the destination-revised text carrying a round-5 validation PASS as of this revision) documents the Cloudflare Email Routing setup; the setup itself has not been executed. The developer's directive of record (2026-11-12, chat): "email routing setup." The Worker source of record (2026-11-12, chat, carried verbatim in Approach) and the ia@ address of record make every execution input concrete. This spec carries the execution.
 
 ## Scope
 
@@ -64,7 +64,7 @@ Developer statements (2026-11-12, chat, this session):
 
 Sources verified 2026-11-12:
 
-- CherokeeLessons.com#45 (validated — PASS on record) — the documented procedure this execution follows; its platform-fact sources govern (Cloudflare Email Service pages, fetched live; zone pre-state: docs/infrastructure/dns-cherokeedictionary-net.md export 2026-11-02T18:58:37Z — no MX, no SPF/DKIM rows).
+- CherokeeLessons.com#45 — the documented procedure this execution follows; its validation record (repos/CherokeeLessons.com/.issues/45/audit/validation.yaml) shows the destination-revised text carrying the round-5 validation PASS as of this revision (session ses_e2e95fdddffeEnCIA6n611OpJS); its platform-fact sources govern (Cloudflare Email Service pages, fetched live; zone pre-state: docs/infrastructure/dns-cherokeedictionary-net.md export 2026-11-02T18:58:37Z — no MX, no SPF/DKIM rows).
 - Cloudflare Python Workers, fetched live: developers.cloudflare.com/workers/languages/python/ — `python_workers` compatibility flag required; `pywrangler` (workers-py) init/dev/deploy via uv; last-updated Sep 17, 2026.
 - Cloudflare Workers API — the Python `WorkerEntrypoint` email-handler form and `forward()` verified (last-updated Oct 30, 2026).
 - CherokeeLessons AGENTS.md — the developer-decision SoP; the R2 ruling of record (excluded paths).
