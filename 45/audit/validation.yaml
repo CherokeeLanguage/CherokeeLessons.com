@@ -33,4 +33,8 @@ rounds:
     verdict: PASS
     findings: []
     terminal: true
-    note: round-3 remediation verified element-by-element (SC-2..SC-6 instruments now cover every owned element — no subset remains); all Cloudflare/DNS/wiki grounds verified live; containment both prongs hold
+    note: terminal for the artifact as revised then (round-3 remediation verified element-by-element — SC-2..SC-6 instruments fully enumerating); reopened by the destination-of-record revision of 2026-11-12 (developer chat — the Python Worker source naming the +ia-tagged destinations of record), applied in place (R-1.3 strings, provenance supersession bullet; the ia@ address and all other content unchanged) and re-entered validation as round 5
+  - round: 5
+    date: 2026-11-12
+    reviewer: pending — fresh-context re-validation of the destination-revised spec
+    verdict: pending
