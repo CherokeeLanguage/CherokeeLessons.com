@@ -1,1 +1,7 @@
-comments: []
+comments:
+- type: internal
+  body: 'Delivered 2026-11-12: wiki page published to CherokeeLanguage/CherokeeLessons.wiki
+    @ ebedeef (Archive-email-runbook.md covering R-1.1-.5 and R-2; SC-1 instrument
+    run PASS). SC-7 deferred to composed state — Runbooks index does not exist yet;
+    per R-3 second route the listing rides CherokeeLessons#44''s R-2.'
+  timestamp: '2026-11-12T23:52:59+00:00'
