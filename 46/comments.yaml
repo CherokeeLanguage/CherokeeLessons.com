@@ -7,3 +7,12 @@ comments:
     — SC-1''s off-box half satisfied; remaining: Settings Locked view, Worker deploy,
     ia@ rule, end-to-end receipt evidence.'
   timestamp: '2026-11-12T20:42:33+00:00'
+- type: internal
+  body: 'Executed state at closure (2026-11-12): PR #47 merged (merge commit 3b3634ea).
+    Delivered: the tracked source of record (email-forwarder/, commit 0d69001, tagged
+    cherokeelanguage-devops/46-repos/repos/CherokeeLessons.com). Operator-attested:
+    Email Routing onboarded (dig capture archived), destinations verified, Worker
+    deployed. Remaining operator-side observables for the run record: the ia@ routing
+    rule''s Settings state (SC-4), the end-to-end test receipts to both +ia destinations
+    (SC-5). Wrangler name check (ia-forwarder vs deployed) rides with the next reconciliation.'
+  timestamp: '2026-11-12T23:45:02+00:00'
