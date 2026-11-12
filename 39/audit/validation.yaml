@@ -43,3 +43,18 @@ spec:
     finding: glibc iconv accepts escape runs encoding code points above U+10FFFF (leads F5/F6/F7, and F4 followed by a byte >= 0x90) while decodeURIComponent throws on them — the run-wise mechanism's UTF-8 half had that one-directional blind spot (false negatives only; the reviewer's systematic lead-byte sweep found no other divergence), so the equivalence claim was still false on the target toolchain.
     remediation: The guard mechanism gains the explicit range rejection — normalize each run's hex to upper case, fail on any F5/F6/F7 byte or F4 followed by a byte >= 90 — and the scratch sensitivity check's case list gains the above-U+10FFFF cases. The writer re-simulated: guard v2 vs decodeURIComponent oracle, 30 cases (the prior 22 plus F5/F6/F7 leads, F4-90+, and the boundary-valid F4-8F-BF-BF = U+10FFFF and F4-80-80-80 = U+100000), zero verdict divergence.
   preferences-adjudicated: []
+- round: 5
+  date: '2026-11-12T06:22:25Z'
+  verdict: FAIL
+  findings:
+  - id: F-7
+    classes: incapable-instrument
+    finding: The guard's bracket ranges are locale-collation-sensitive — under en_US.UTF-8, glibc collation places e-acute/cedilla/ae inside [a-f] and E-acute inside [A-F], so sed strips %-hex-non-ASCII fragments as valid escapes and the guard passes paths decodeURIComponent throws on (8/8 demonstrated false negatives); the equivalence claim was false on the ambient locale. Under LC_ALL=C the reviewer's independent 2,362-case battery showed zero divergence — the algorithm is sound; the defect is the unpinned locale.
+    remediation: LC_ALL=C pinned for the guard's tools with the collation rationale recorded in the Approach; the sensitivity list gains a %2é-shaped case. The writer re-simulated guard v3 vs the oracle across 42 cases (prior 30 + the collation class + mixed pathological shapes) — zero divergence.
+  preferences-adjudicated: []
+structural-reevaluation:
+- date: '2026-11-12T06:22:25Z'
+  trigger: count (five revisions needed to address findings F-1 through F-7)
+  outcome: Sound
+  grounds: |
+    Repo boundaries: single repo throughout (build.sh, one content asset, one front-matter line; filed in this repo's store) — no split. Separation of concerns: one concern (the deploy unit's URI-decodability); SC-1/SC-2/SC-3 separate detection, content state, and runtime effect without entanglement. Atomic work units: three atomic, binary-verifiable criteria. Fatness: the artifact is small; the loop's churn concentrated on one criterion's mechanism precision (the guard == decodeURIComponent equivalence), where each round surfaced a genuinely new adjacent divergence class (invalid-UTF-8 coverage, then adjacency, then >U+10FFFF, then locale collation) and each remediation fixed exactly the named finding — convergence under adversarial verification, not an artifact-shape defect; the round-5 reviewer's independent 2,362-case battery confirms the corrected mechanism reaches zero divergence under LC_ALL=C. Intent wording/reachability: stable and reachable. The artifact's structure stands; the loop resumes on the unchanged artifact.
