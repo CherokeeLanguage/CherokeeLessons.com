@@ -1,0 +1,15 @@
+# Spec validation loop (2026-11-12, artifact spec.md)
+rounds:
+  - round: 1
+    date: 2026-11-12
+    reviewer: fresh-context subagent dispatch (session ses_e2e95fddcffeW1TALxZqOKU9ER)
+    verdict: FAIL
+    findings:
+      - class: fabricated claims / cross-reference sufficiency (current-state assertion unsupported by the record at write time)
+        ground: the spec asserted CherokeeLessons.com#45 "validated — PASS on record" while #45's round-5 re-validation was still pending at filing time (a parallel-dispatch race — the destination-revised #45 text held no standing PASS when this spec was written)
+        remediation: both mentions revised to the record-true statement — #45's round-5 PASS completed before this revision and is cited with its session identifier; the procedure-of-record phrasing now states the validation-record truth
+    note: containment both prongs PASS; every load-bearing platform claim verified live by the reviewer (python_workers flag, pywrangler deploy, Onboard Domain, Locked records, SPF/DKIM values, dig checks, error 2008, duplicate-pattern behavior, the Python WorkerEntrypoint form, the +ia supersession chain); the tracked-source home weighed with grounds and the destination-verification actor boundaries disclosed
+  - round: 2
+    date: 2026-11-12
+    reviewer: pending — fresh-context re-validation of the round-1-revised spec
+    verdict: pending
