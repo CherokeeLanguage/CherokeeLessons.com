@@ -25,3 +25,12 @@ spec:
     finding: The Diagnosis census figure "463 built file paths contain Cherokee syllabary/Osage script" does not reproduce under the round-2 reviewer's script-specific instruments (their count 410 files / 54 syllabary dirs). The figure originated from a non-ASCII byte-class grep whose predicate the sentence never stated; a third instrument (writer's Node full-path Unicode walk) returned 463 files / 89 dirs all-syllabary — a cross-instrument discrepancy the spec cannot carry as a precise claim.
     remediation: The illustrative script-class figures removed; the sentence restated to the sweep-based claim verified independently in both rounds and re-executed by the writer post-review (1,876 entries swept, 1,873 decode OK, exactly 3 throws = the enumerated paths). The decode-cleanliness conclusion never depended on the census figure.
   preferences-adjudicated: []
+- round: 3
+  date: '2026-11-12T05:44:51Z'
+  verdict: FAIL
+  findings:
+  - id: F-5
+    classes: incapable-instrument
+    finding: The round-1 remediation's UTF-8 branch was still weaker than the stated predicate — grep -oE '%XX' extracts escape tokens and discards the literals between them, so a dangling lead split by a literal (x%C3x%A9) passed the described guard while decodeURIComponent throws (a multi-byte lead's continuation must immediately follow); the "exactly decodeURIComponent's throw surface" equivalence claim remained false in that corner.
+    remediation: The guard mechanism corrected to run-wise validation — maximal consecutive escape runs via grep -oE '(%[0-9A-Fa-f]{2})+', each run's bytes printf-emitted and iconv-validated independently, which reproduces the decoder's adjacency requirement; R-1 states the run semantics; the writer simulation-verified guard ≡ decodeURIComponent across 22 cases (valid, malformed, invalid-UTF-8, overlong, surrogate, split-run, %25, lowercase) with zero verdict divergence before this round's dispatch.
+  preferences-adjudicated: []
