@@ -34,3 +34,12 @@ spec:
     finding: The round-1 remediation's UTF-8 branch was still weaker than the stated predicate — grep -oE '%XX' extracts escape tokens and discards the literals between them, so a dangling lead split by a literal (x%C3x%A9) passed the described guard while decodeURIComponent throws (a multi-byte lead's continuation must immediately follow); the "exactly decodeURIComponent's throw surface" equivalence claim remained false in that corner.
     remediation: The guard mechanism corrected to run-wise validation — maximal consecutive escape runs via grep -oE '(%[0-9A-Fa-f]{2})+', each run's bytes printf-emitted and iconv-validated independently, which reproduces the decoder's adjacency requirement; R-1 states the run semantics; the writer simulation-verified guard ≡ decodeURIComponent across 22 cases (valid, malformed, invalid-UTF-8, overlong, surrogate, split-run, %25, lowercase) with zero verdict divergence before this round's dispatch.
   preferences-adjudicated: []
+- round: 4
+  date: '2026-11-12T05:58:49Z'
+  verdict: FAIL
+  findings:
+  - id: F-6
+    classes: incapable-instrument
+    finding: glibc iconv accepts escape runs encoding code points above U+10FFFF (leads F5/F6/F7, and F4 followed by a byte >= 0x90) while decodeURIComponent throws on them — the run-wise mechanism's UTF-8 half had that one-directional blind spot (false negatives only; the reviewer's systematic lead-byte sweep found no other divergence), so the equivalence claim was still false on the target toolchain.
+    remediation: The guard mechanism gains the explicit range rejection — normalize each run's hex to upper case, fail on any F5/F6/F7 byte or F4 followed by a byte >= 90 — and the scratch sensitivity check's case list gains the above-U+10FFFF cases. The writer re-simulated: guard v2 vs decodeURIComponent oracle, 30 cases (the prior 22 plus F5/F6/F7 leads, F4-90+, and the boundary-valid F4-8F-BF-BF = U+10FFFF and F4-80-80-80 = U+100000), zero verdict divergence.
+  preferences-adjudicated: []
