@@ -1,0 +1,27 @@
+# Implementation evidence — CherokeeLessons#42 (2026-11-12)
+# Branch feature/42-standup-procedure (base master 61c2221).
+items:
+  - item: P-1 (SC-1)
+    red: "no Prerequisites section (grep 0)"
+    green: commit (single rewrite commit on README.md)
+    instruments: structured read — account/zone presumption + dashboard verify check; GitHub App + repository-scope verify check; access rights stated; no invented account-side values
+  - item: P-2 (SC-2, SC-3)
+    red: "no per-step verification in the six old steps"
+    green: same commit
+    instruments: >-
+      6 ordered steps, each with Depends-on + Do + *Verify:* (awk count 6);
+      failure-modes subsection carries the three modes with symptoms + fixes
+      (name mismatch, unset build command, wrong production branch); local
+      verification carries ./build.sh branch/base-url behavior + wrangler
+      preview; DNS expectations dated (apex serves;
+      www.cherokeelessons.org NXDOMAIN on 2026-11-12, may change)
+  - item: P-3 (SC-4)
+    red: "R2 + files.cherokeelessons.org present (README step 6)"
+    green: same commit — step deleted
+    instruments: "grep 'R2|files.cherokeelessons.org' README.md -> 0 (one draft-pass self-hit in the Prerequisites text was caught and removed before commit)"
+  - item: P-4 (SC-5, read-only gate)
+    instruments: >-
+      devops properties record line 59 ("deploy path and full ops sequence
+      — authoritative record at ops depth") still accurately describes the
+      rewritten README; no devops edit needed
+composition: single-file rewrite; items are content sections of one deliverable per the plan's stated composition
