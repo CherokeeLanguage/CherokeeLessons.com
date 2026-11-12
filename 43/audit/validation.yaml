@@ -1,0 +1,30 @@
+# Spec validation loop (2026-11-12, artifact spec.md)
+rounds:
+  - round: 1
+    date: 2026-11-12
+    reviewer: fresh-context subagent dispatch (session ses_e2ebfb36bffeipSVbTnzuNptrH)
+    verdict: FAIL
+    findings:
+      - class: feasibility
+        ground: the mandated upload command form `ia upload <ident> <pdf> --metadata=<file>` does not exist — `--metadata` takes repeatable KEY:VALUE pairs and errors on a colon-less path; file-based paths are spreadsheet/JSONL (CLI docs + source, live 2026-11-12)
+        remediation: R-1.2/SC-3 rewritten around the verified forms — repeatable `--metadata='KEY:VALUE'` pairs at upload (mediatype-must-set warning carried), bulk via `ia metadata --spreadsheet=<csv>`; tracked item-definition files remain the metadata source of record
+      - class: cross-reference sufficiency (dead source)
+        ground: internetarchive.readthedocs.io cited as the CLI-docs home is a tombstone; subpaths 404
+        remediation: doc home replaced with the current archive.org/services/docs/api/internetarchive/ (Developer Portal, release v5.12.2.dev1) throughout Approach/Provenance; tombstone noted
+      - class: cross-reference sufficiency (factual defect — stale path)
+        ground: custody element mandated `~/.config/ia.ini`; current behavior writes `$XDG_CONFIG_HOME/internetarchive/ia.ini` (default `$HOME/.config/internetarchive/ia.ini`), legacy locations only checked
+        remediation: R-1.1/SC-2 corrected to the verified paths and the IA_ACCESS_KEY_ID/IA_SECRET_ACCESS_KEY environment-variable alternative added
+      - class: cross-reference sufficiency (claim not carried by cited source)
+        ground: "public collections incl. Community Texts have no admin rights" attributed to collections-tips — the page carries no such statement
+        remediation: attribute dropped; R-1.4/SC-5 restated around carried facts only (item admin = uploader; collection multiple-admins; 50-item custom-collection minimum; Community-Texts default from the CLI reference)
+      - class: cross-reference sufficiency + ambiguous criterion (unverified platform claim labeled verified)
+        ground: "the direct-download file serves once upload completes — verified by the verification set, not assumed" — no cited source supports download immediacy; "the verification set" undefined (R-1.3 defines verification lines)
+        remediation: R-3 rewritten — availability is settled by the R-1.5 verification lines (download-URL 200 + byte-length/`ia download` byte comparison, `ia tasks` observability); failing checks re-verify after the documented derive intervals and escalate to IA rather than being assumed
+      - class: cross-reference sufficiency / fabricated claims (uncited sub-claims)
+        ground: (a) "identifier is permanent in the URL" carried by no source; (b) "no per-item member grants on free accounts" — unsourced negation; (c) Vault described as "paid" — not stated by the cited item page
+        remediation: (a) permanence claim deleted; (b) negation replaced by the carried positives (item administration belongs to the uploader; admin-granting is collection-level); (c) Vault restated with only the carried description (digital repository/preservation service with its own account administration surface)
+    note: containment both prongs HOLDS (scope and home) per the reviewer; all other load-bearing claims verified (PDFs/sizes/links/README/commits/spec texts/DNS/wiki/50-item threshold/Community-Webs quotes/derive timing/identifier rules/XML hazard)
+  - round: 2
+    date: 2026-11-12
+    reviewer: pending — fresh-context re-validation of the revised spec
+    verdict: pending
