@@ -11,6 +11,7 @@ The developer further directs a **wordle-style replacement** app — to be desig
 ## Provenance
 
 - **Developer directives (2026-11-12, chat):** "the hangman app will need to be considered as lost and marked for removal"; "we should file a new spec for a 'wordle' style replacement to be designed and implemented"; "go ahead and create a spec as a placeholder for a new app page to be added to cherokeelessons after the new replacement app is created. the spec is a placeholder so the not-spec'ed yet app is not forgotton (roadmap style entry)".
+- **Removal rationale (developer, 2026-11-12):** "the hangman apps is to be removed, no source, means we can't update it, and it is ancient GWT code" — confirming the lost-app disposition with the maintenance rationale: no source means no updates or fixes, and the codebase is legacy GWT (the build is a GWT permutation tree: `com.cherokeelessons.gwt.Hangman1.Main` nocache.js + permutation caches, 2022-era outputs — survey artifact).
 - **Survey (executed 2026-11-12, `research/hangman1-survey.txt`):** `static/HTML-Games/Hangman1/` = 7.9 MB, 489 files (GWT web build: `com.cherokeelessons.gwt.Hangman1.Main/` permutation caches, `index.html`, hangman stage gifs `hm1–7.gif`, data files `animals.txt`/`movies.txt`/`results.txt`, `sync.sh`); tracked-tree references = 0; content/templates/config references = 0; no itch.io project exists for it; zip copy (6,158,935 bytes) sha256 `541d2396ae7923ddff9511cb01ca27b54a2ab1bd0c94a3065591cc3f7c2ebb1f` recorded.
 - **Survey addendum (2026-11-12, round-2 validation):** a second byte-identical copy was found at `public/HTML-Games/Hangman1/` (zola's gitignored output dir, .gitignore `/public/`) — 7.9 MB, 489 files, `diff -rq` clean; the filing-time scan had not covered `public/`. An exhaustive working-tree scan for `*hangman*` finds exactly these two copies plus the survey file itself.
 - **Work record (asset-review arc):** Hangman1 source NOT found in local repos; the recorded lead is the self-hosted git server on `www.cherokeelessons.com` — the VPS is gone (established by the developer), so the lead is unreachable; prior disposition entry was "UNDECIDED (itch vs remove; source unresolved)" — superseded by this decision.
@@ -18,7 +19,7 @@ The developer further directs a **wordle-style replacement** app — to be desig
 
 ## Decision of record
 
-- Hangman1: **lost** (source unresolved; the sole lead is unreachable) → **marked for removal** (developer, 2026-11-12). This decision supersedes the stale Hangman1 out-of-scope mentions in CherokeeLessons#30 and #31 and CherokeeLanguage/cll1-gdx#5 (verified 2026-11-12: #32 carries no Hangman mention).
+- Hangman1: **lost** (source unresolved; the sole lead is unreachable) → **marked for removal** (developer, 2026-11-12; rationale: no source means the app cannot be updated or fixed, and the code is ancient GWT). This decision supersedes the stale Hangman1 out-of-scope mentions in CherokeeLessons#30 and #31 and CherokeeLanguage/cll1-gdx#5 (verified 2026-11-12: #32 carries no Hangman mention).
 - Replacement: a **wordle-style** Cherokee-language word game, to be designed and implemented as future work; distribution via the itch-only channel (recorded platform decision); its site page follows after the app exists.
 
 ## Interdependencies
@@ -55,6 +56,6 @@ Consumers: none today — the app was never referenced by any page (zero site ex
 
 ## Approach
 
-Record-then-delete for a lost app's last local artifact; the roadmap entry rides in the same filing so the replacement is discoverable from the store rather than session memory. Alternatives weighed: publishing the compiled web build to itch as-is — rejected (developer decision: removal, not itch; a lost-source app cannot be maintained or fixed); keeping the unreferenced build in place — rejected (unmaintainable, outside the tracked tree, dead weight in the working tree); deleting without a record — rejected (a lost app's last artifact deserves an inventory + checksum before destruction).
+Record-then-delete for a lost app's last local artifact; the roadmap entry rides in the same filing so the replacement is discoverable from the store rather than session memory. Alternatives weighed: publishing the compiled web build to itch as-is — rejected (developer decision: removal, not itch; a lost-source app cannot be maintained or fixed, and the code is ancient GWT — the developer's stated rationale); keeping the unreferenced build in place — rejected (unmaintainable, outside the tracked tree, dead weight in the working tree); deleting without a record — rejected (a lost app's last artifact deserves an inventory + checksum before destruction).
 
 🤖 Co-authored with AI: OpenCode (huggingface/zai-org/GLM-5.3-Flash)

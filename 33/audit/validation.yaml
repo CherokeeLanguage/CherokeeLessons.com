@@ -25,3 +25,13 @@ spec:
     remediation: R-1 requires direct deletion of both copies (no reliance on zola's cleaning); SC-1 extended (test -d on public/ copy fails; find over static+public empty).
   preferences-adjudicated: []
   repo-boundary-containment: pass — single repo, home store .issues/33
+- round: 3
+  date: '2026-11-12T02:45:00Z'
+  verdict: PASS
+  findings: []
+  notes: fresh-context dispatch after the round-2 remediation (both copies enumerated; R-1/SC-1 extended to public/); reviewer re-verified both copies live, the survey addendum, sha256, zero-references, cross-references, and the R-2 placeholder character.
+- round: 4
+  date: '2026-11-12T03:15:00Z'
+  verdict: PASS
+  findings: []
+  notes: rationale revision (developer's confirmation quoted verbatim — "no source, means we can't update it, and it is ancient GWT code") folded into Provenance/Decision/Approach on both surfaces; fresh-context round re-verified all claims incl. the GWT-permutation and 2022-era-output facts; zero findings; still at the approval gate.
