@@ -1,9 +1,11 @@
 title: 'Workers deploy fails (10304): asset filenames must percent-decode — rename
   the malformed-escape asset + build guard'
-status: open
+status: closed
 labels:
 - needs-approval
 body: ''
 created_at: '2026-11-12T05:15:33+00:00'
-updated_at: '2026-11-12T05:16:24+00:00'
+updated_at: '2026-11-12T14:45:23+00:00'
 github_url: https://github.com/CherokeeLanguage/CherokeeLessons/issues/39
+closed_at: '2026-11-12T14:45:23+00:00'
+close_reason: completed
