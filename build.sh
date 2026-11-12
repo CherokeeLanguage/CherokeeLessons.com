@@ -23,4 +23,24 @@ if [ ! -x "$ZOLA" ] || ! "$ZOLA" --version 2>/dev/null | grep -q "$PIN"; then
 fi
 
 "$ZOLA" --version
-"$ZOLA" build
+
+# Branch-aware base URL (Cloudflare Workers Builds):
+#   - SITE_BASE_URL wins in every mode when set.
+#   - The branch of record (master) builds with the base_url of record
+#     (https://cherokeelessons.org/); any other branch builds domain-neutral
+#     (--base-url /) so a preview hostname serves correctly.
+#   - WORKERS_CI_BRANCH (set by Workers Builds) takes precedence over the git
+#     fallback; a detached HEAD (no symbolic ref) resolves production-safe.
+BRANCH="${WORKERS_CI_BRANCH:-}"
+if [ -z "$BRANCH" ]; then
+    BRANCH="$(git symbolic-ref --short HEAD 2>/dev/null || echo master)"
+fi
+if [ -n "${SITE_BASE_URL:-}" ]; then
+    BASE_URL_ARGS=(--base-url "$SITE_BASE_URL")
+elif [ "$BRANCH" = "master" ]; then
+    BASE_URL_ARGS=(--base-url "https://cherokeelessons.org/")
+else
+    BASE_URL_ARGS=(--base-url "/")
+fi
+
+"$ZOLA" build "${BASE_URL_ARGS[@]}"
