@@ -15,10 +15,10 @@ rounds:
         ground: custody element mandated `~/.config/ia.ini`; current behavior writes `$XDG_CONFIG_HOME/internetarchive/ia.ini` (default `$HOME/.config/internetarchive/ia.ini`), legacy locations only checked
         remediation: R-1.1/SC-2 corrected to the verified paths and the IA_ACCESS_KEY_ID/IA_SECRET_ACCESS_KEY environment-variable alternative added
       - class: cross-reference sufficiency (claim not carried by cited source)
-        ground: "public collections incl. Community Texts have no admin rights" attributed to collections-tips — the page carries no such statement
+        ground: the cited page (collections-tips) carries no statement that public collections incl. Community Texts lack admin rights — the attributed claim is uncarried by its source
         remediation: attribute dropped; R-1.4/SC-5 restated around carried facts only (item admin = uploader; collection multiple-admins; 50-item custom-collection minimum; Community-Texts default from the CLI reference)
       - class: cross-reference sufficiency + ambiguous criterion (unverified platform claim labeled verified)
-        ground: "the direct-download file serves once upload completes — verified by the verification set, not assumed" — no cited source supports download immediacy; "the verification set" undefined (R-1.3 defines verification lines)
+        ground: the claim that the direct-download file serves once upload completes, labeled verified-by-the-verification-set, is backed by no cited source (both derive-timing citations describe derivative generation, not download immediacy); the verification-set term is undefined (R-1.3 defines verification lines)
         remediation: R-3 rewritten — availability is settled by the R-1.5 verification lines (download-URL 200 + byte-length/`ia download` byte comparison, `ia tasks` observability); failing checks re-verify after the documented derive intervals and escalate to IA rather than being assumed
       - class: cross-reference sufficiency / fabricated claims (uncited sub-claims)
         ground: (a) "identifier is permanent in the URL" carried by no source; (b) "no per-item member grants on free accounts" — unsourced negation; (c) Vault described as "paid" — not stated by the cited item page
