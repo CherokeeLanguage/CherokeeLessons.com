@@ -43,6 +43,22 @@ this file holds repo operational facts only.
   `cherokee-lessons` conda env; `environment.yml` is that env's export
   (refreshed by `export-env.sh`).
 
+## SoP — content and distribution decisions are the developer's
+
+- Distribution and content-disposition decisions (where downloadable
+  artifacts live, which channel hosts what, whether a download link
+  exists) are the developer's product decisions. The agent surfaces the
+  choice points for discussion BEFORE any spec carries the disposition;
+  an agent-derived disposition entered into a spec without prior
+  developer discussion is invalid work and is rejected on discovery —
+  regardless of how thoroughly the spec was validated after the fact.
+- Ruling of record (2026-11-12): the R2 delivery plan for the oversized
+  book PDFs (spec #31 R-8) was never discussed with the developer and is
+  rejected — R2 is not a valid delivery path for this repo's work and
+  must not be re-proposed. Platform constraints (the Workers 25 MiB/file
+  asset limit) narrow the option space; they never license a silent
+  default.
+
 ## Workspace artifacts — never commit
 
 - `.opencode/` is a gitignored, read-only deck checkout.
